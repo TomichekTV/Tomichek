@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:0,TV Sinamo HD
+#EXTGRP:Таджикистан TV
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/2231/index.m3u8
+#EXTINF:0,Safina HD
+#EXTGRP:Таджикистан TV
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/2233/index.m3u8
+#EXTINF:0,Tojikistan HD
+#EXTGRP:Таджикистан TV
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/2232/index.m3u8
+#EXTINF:0,Bakhoristan HD
+#EXTGRP:Таджикистан TV
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/2234/index.m3u8
+#EXTINF:0,Jahonnamo HD
+#EXTGRP:Таджикистан TV
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/2235/index.m3u8

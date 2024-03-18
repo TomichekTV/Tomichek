@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/669acdba-6ca4-4e87-a6b9-ad22683e9b28/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/4457f305-1077-4bc2-9a2f-519b76032553/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:0 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/a5e809ff-a17c-4cef-abd0-f62c96080874/" group-title="ТЕЛЕКАНАЛЫ HD-FHD" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24
+#EXTGRP:ТЕЛЕКАНАЛЫ HD-FHD
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9448ef3c-4022-4f03-aec7-ff2731e8b31a/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Россия К (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/46576758-c8f7-45a8-b18e-f60f7f8f49fd/" group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-id="ntv-pl7",НТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/634dc907-1125-40f4-8cc3-119d1df725e9/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/u3otn612aio1gjlexxrb7/patnica.jpg?rlkey=1e9429cbcg4xldffiejchvb06" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Пятница! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://dl.dropbox.com/s/2ya32mp7970l4ts/Che.png" group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-id="che-pl7",Че! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/275c3513-c6dd-42c2-bdd8-97b27aa5ecdb/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Пятый канал (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/7b9095ae-18b1-4fc3-85f5-6aeabc68bba8/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/b45652eb-3b95-43a1-a54e-57a7086e12ff/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",СТС (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/b84af9ed-b2d0-4d08-a3bb-70cae6f886f7/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Домашний (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/51fea04e-8a1e-4272-9f00-8013298a3f30/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",ТВ 3 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="karusel-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/8ad41813-c3e1-4753-928f-92e42d999f31/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Карусель (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="zvezda-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c7296025-2120-45db-b6c3-0f6aae8e0a88/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Звезда (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://img.smotreshka.tv:80/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcmhkLnBuZw==" group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-id="mir-pl7",Мир (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="super-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/cjoazqjy0n4dqewk4dez4/subbota.jpg?rlkey=znm7vcjjd6of1s6gs0h7962qe" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Суббота (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tvcentr-pl7" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9568d5e0-58fe-43b6-afad-cfcc51d308f7/" group-title="ТЕЛЕКАНАЛЫ HD-FHD",ТВ Центр (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Ю (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:0 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/de1ef7b2-71f2-4e7e-a85d-9adb075e5967/" group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-id="muztv-pl7",Муз ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:0 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/oekuqnzxp5bpw9j78t77c/2024-02-12_152524.jpg?rlkey=otqvyz84t0git1m42b7l3n1f0",Губерния (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,TW HD
-#EXTGRP:Иран TV
+#EXTGRP:Иран TV_2024
 https://cdn-azd204f.telewebion.com/tv4/live/576p/index.m3u8
 #EXTINF:0,Payvand TV HD
 #EXTGRP:Иран TV

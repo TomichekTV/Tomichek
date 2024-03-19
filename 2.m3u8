@@ -6,9 +6,7 @@ http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/e0se9pmng2x9m2d/Radio_Record_HD.png" group-title="TV-PREMIUM",Radio Record Music
 https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/v7cq605tg7f67dt/ntv_HD_2022.png" group-title="TV-PREMIUM",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" group-title="TV-PREMIUM",СоюзМультфильм HD
-
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://rt-static.rt.ru/sites/default/files/img/wink/4k_4.png" group-title="TV-PREMIUM",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
@@ -32,8 +30,6 @@ http://91.142.158.107:8092/play/29/index.m3u8
 http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/9148/index.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/jqvddfyam8t7z35/ru-tv-2.png" group-title="TV-PREMIUM",RU.TV HD
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-#EXTINF: -1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/all-channels-logo/cartoon%20network%20hd+.jpg" group-title="TV-PREMIUM",Cartoon Network HD
-http://89.254.128.5:22280/cartoon_network/video.m3u8
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBX_p6tjNQdVKtQLpkEzIEfkQ4l7c-gIM80dHtkGC4cXMnMdqisNWjJUED7h5O9V3jCfISnH5gHjyRNbtyVJ9qzFhfY8TIDlRcmzMT9HlMP4EeRwPWJl6ccuRtUIVzjjB9GoRQlPoTkACn7pF9Buw4siOBzO2asCiQAWLBaB7VyVPdSrkmZAjpHZOdmZE" group-title="TV-PREMIUM",Nat Geo WILD HD
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/scl/fi/32acx46fvs5ksxfj20iio/eurosport_1.jpg?rlkey=gopak3jfni5wvnn9q1ar94owi" group-title="TV-PREMIUM",Eurosport 1 HD

@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+#EXTINF:0 tvg-logo="https://i122.fastpic.org/big/2024/0121/40/738994f4991c3764dc1b846abaa60440.jpg",UFC 297 - Стрикленд vs. Дю Плесси (высокий битрейт)
+#EXTGRP:UFC FHD
+http://5.8.223.97:8090/stream/Main%20Card.mkv?link=a056f548fc5869e4a7dcf89e630c2f0b001d4228&index=1&play
+#EXTINF:0 tvg-logo="https://i122.fastpic.org/big/2023/1203/f5/f57c773a19cb4a5b70ff75e430d16cf5.jpg",UFC on ESPN 52 - Дариуш vs. Царукян (высокий битрейт)
+#EXTGRP:UFC FHD
+http://5.8.223.97:8090/stream/Main%20Card.mkv?link=7fd11a4cb14f14d845b1454ab69b3b021927c053&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3m4nr9q9jzydrxs9e2thu/2432.jpg?rlkey=m5dt1dajfcxdy8dmg37zg29is",UFC 294 - Махачев VS Волкановски FHD
+#EXTGRP:UFC FHD
+https://bl.video.matchtv.ru/quote/playlist/free_3b7cb4678a7bd0f41307ee0ce6606bde/q135178/1080/6db882ae4b586aa465c76d352173fa94/4855478037.m3u8
+#EXTINF:0 tvg-logo="https://i122.fastpic.org/big/2023/1112/d3/71024b4ad95a1322675523546727bcd3.jpg",UFC 295 - Прохазка VS Перейра FHD (высокий битрейт)
+#EXTGRP:UFC FHD
+http://5.8.223.97:8090/stream/UFC_295_Main%20Card.ts?link=a5ee5845ce4eb7660f13133ebbd3b85d4c63018e&index=3&play
+#EXTINF:0 tvg-logo="https://fighttime.ru/images/events/2023/ufc_%D0%BB%D1%8C%D1%8E%D0%B8%D1%81_%D0%B0%D0%BB%D0%BC%D0%B5%D0%B9%D0%B4%D0%B0.jpg?",UFC 231 -  Алмейда VS Льюис FHD (высокий битрейт)
+#EXTGRP:UFC FHD
+http://5.8.223.97:8090/stream/Main%20Card.ts?link=e27f505faeadba826f65971e5c215e4f9a9fc48d&index=1&play
+#EXTINF:0 tvg-logo="https://i122.fastpic.org/big/2023/1217/3e/0ff236b68bea82b03a1179f668f74a3e.jpg",UFC 296: Эдвардс vs Ковингтон Full Event (высокий битрейт)
+#EXTGRP:UFC FHD
+http://5.8.223.97:8090/stream/UFC_296_Main%20Card.ts?link=680f5579276e0bbe4e48bcf9fad97ff1961effbd&index=2&play

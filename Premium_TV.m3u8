@@ -1,0 +1,329 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+
+
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="http://img.smotreshka.tv:80/image/aHR0cHM6Ly9pbWcuYjYxMi50aWdodHZpZGVvLmNvbS9jaGFubmVscy9hbWVkaWFfcHJlbWl1bV9uZXcucG5n" ,Amedia Premium HD
+#EXTVLCOPT:http-user-agent=WORLD-SOCHI
+http://194.26.229.86/hhh/georgia_tv.php?id=amediapremium&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whv20o8k1lwk9km2mn9uk/TOMNetFLX.png?rlkey=9yjiirf15oqr05f33wlz5edkc" group-title="TV-PREMIUM",TOMICHEK NETFLIX FHD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/19427/index.m3u8
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-name="viju TV1000" tvg-logo="https://dl.dropbox.com/scl/fi/cra7i9mbrtgkz3c7333p8/kino_9.png?rlkey=m5r2nhs5t2zfzi5rs99z0hi4f" group-title="TV-PREMIUM",TV1000 HD
+#EXTVLCOPT:http-user-agent=WORLD-SOCHI
+http://list.onlinetv-sochi.ru/live/live24.php?id=488&login=Oleg21526&password=WORLD-SOCHI&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 catchup-days="7" timeshift="7" tvg-name="viju TV1000 Action" tvg-logo="https://dl.dropbox.com/scl/fi/dghwqkf3huoqz9wwznm3e/TV1000-action.png?rlkey=7qhwqvvpecizh1ph8okidpbzx" group-title="TV-PREMIUM",TV1000 Action HD
+#EXTVLCOPT:http-user-agent=WORLD-SOCHI
+http://list.onlinetv-sochi.ru/live/live24.php?id=487&login=Oleg21526&password=WORLD-SOCHI&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://images.iptv.rt.ru/sdp/sib/nclogo1534762474558.png",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=WORLD-SOCHI
+http://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8#&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=WHBVeW9XQjBJNDV2QmJBdlYvNlR2QjY4dEpWUHlkdmJjeHllNHBqd1hnOD06OmArcr9dNOmYAv9p2YK+NkI=
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/77bmbasemfpvvbdi4vtoe/mir.png?rlkey=5ftsiqgwjwrh7gzw6uda70pim" group-title="TV-PREMIUM",Мир HD
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/2746.png" group-title="TV-PREMIUM",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630314.png" group-title="TV-PREMIUM",МАТЧ! БОЕЦ HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/150/index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=618404d0fd727d27ef2bc4b3&type=logo",МАТЧ! СТРАНА
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=618404d0fd727d27ef2bc4b3&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="TV-PREMIUM",НСТ HD
+http://91.142.158.107:8092/play/29/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png" group-title="TV-PREMIUM",НСТ HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/9148/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jqvddfyam8t7z35/ru-tv-2.png" group-title="TV-PREMIUM",RU.TV HD
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/fazet2pe9wybl1p/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE.png" group-title="TV-PREMIUM",Новое радио HD
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/e0se9pmng2x9m2d/Radio_Record_HD.png" group-title="TV-PREMIUM",Radio Record Music
+https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/skod4itltngawb2/ultra%20HD_cinema_2021.png" group-title="TV-PREMIUM",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xifn63be1647tbx/ULTRA-REX.png" group-title="TV-PREMIUM",Russian Extreme
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/unjq3fhugxw19fj/1425.png" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/6392/index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM",Nat Geo WILD HD
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/32acx46fvs5ksxfj20iio/eurosport_1.jpg?rlkey=gopak3jfni5wvnn9q1ar94owi" group-title="TV-PREMIUM",Eurosport 1 HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/32acx46fvs5ksxfj20iio/eurosport_1.jpg?rlkey=gopak3jfni5wvnn9q1ar94owi" group-title="TV-PREMIUM",Eurosport 1 HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/228/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jegcyju9rvqc50dt71vd3/eurospot_2.jpg?rlkey=zoj1qddyh93zw6g3lkbyzsjsi" group-title="TV-PREMIUM",Eurosport 2 HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jegcyju9rvqc50dt71vd3/eurospot_2.jpg?rlkey=zoj1qddyh93zw6g3lkbyzsjsi" group-title="TV-PREMIUM",Eurosport 2 HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/234/index.m3u8
+#EXTINF:-1  group-title="TV-PREMIUM" tvg-logo="http://smarty.bisv.tv/media/upload/epg_icons/322/MDAwMDAwMjAzLnBuZw.png",Мультиландия HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/5055/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ff7yxsdibx09ziv5qhf19/mult.png?rlkey=hoz8sm2rwr45yjjoo45fyraio" group-title="TV-PREMIUM",Мульт HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/921/index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/fdcb18f9-1360-4f4b-859c-321281f5ca94/",Дом Кино HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/154/index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10143/logo_256_1655452209.png",Известия HD
+http://1mir-iptv.ru/hhh/medio7.php?id=izvestia&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=WHBVeW9XQjBJNDV2QmJBdlYvNlR2QjY4dEpWUHlkdmJjeHllNHBqd1hnOD06OmArcr9dNOmYAv9p2YK+NkI=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2Cqx73/SGN-04-24-2022-1650746943539.png" group-title="TV-PREMIUM",BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nj7Bdbs/SGN-04-24-2022-1650746279377.png" group-title="TV-PREMIUM",BACKUS TV Dark HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/29598100-5357-44ee-bd6e-d4bc08589d2e/",Первый Космический HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/obkedtxreufgt4m/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82-1.png" group-title="TV-PREMIUM",КИНОХИТ HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4lnfdk4esn3qpv3/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F-1.png" group-title="TV-PREMIUM",КИНОСЕМЬЯ HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/iera36agwd4hb04/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81.png" group-title="TV-PREMIUM",КИНОМИКС HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sofzutn3jd44cc6/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F.png" group-title="TV-PREMIUM",КИНОКОМЕДИЯ HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ijs254nfwmxn3c8/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png" group-title="TV-PREMIUM",КИНОСВИДАНИЕ HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/194ykckxshoylqr/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F-1.png" group-title="TV-PREMIUM",КИНОСЕРИЯ HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ah3cs1bsyih5f8j/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE-1.png" group-title="TV-PREMIUM",ИНДИЙСКОЕ КИНО HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/giffptsus2ji45o/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE-1.png" group-title="TV-PREMIUM",НАШЕ НОВОЕ КИНО HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/41kd8sufk5gyr2tz6d4tj/MMA-TV.jpg?rlkey=2izek32dmqqr2n781ezwcif9r" group-title="TV-PREMIUM",M-1 Global HD
+http://list.onlinetv-sochi.ru/live/view4mod.php?id=1032&login=Oleg21526&password=WORLD-SOCHI&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781c6&type=logo",Первый HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781c6&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a9d3947a96415003c055402&type=logo",Россия HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a9d3947a96415003c055402&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5f64eca7ab91810f0c8b457f&type=logo",Матч ТВ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5f64eca7ab91810f0c8b457f&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a949f&type=logo",НТВ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a949f&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781c9&type=logo",Пятый канал HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781c9&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781c8&type=logo",Россия К HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781c8&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214d5556e000103781ce&type=logo",Россия 24 HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214d5556e000103781ce&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a58cf8e4b1bfe00856c9012&type=logo",ОТР HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a58cf8e4b1bfe00856c9012&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781c3&type=logo",РЕН ТВ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781c3&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781c7&type=logo",СПАС HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781c7&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781c5&type=logo",СТС HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781c5&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781cb&type=logo",Домашний HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781cb&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214d5556e000103781cd&type=logo",ТВ‑3 HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214d5556e000103781cd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=51b6e904fe79ac6970000003&type=logo",Пятница HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=51b6e904fe79ac6970000003&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a5f214c5556e000103781c2&type=logo",Звезда HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a5f214c5556e000103781c2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5c0a4d39b3661d00513b51b2&type=logo",Мир HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5c0a4d39b3661d00513b51b2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006dd5f5028edcd7b000223&type=logo",ТНТ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006dd5f5028edcd7b000223&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94c2&type=logo",МУЗ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94c2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5f64eca7ab91810f0c8b457f&type=logo",Матч! HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006df67d122fa3f0d000000&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=563780579d4b85e8058b475c&type=logo",МАТЧ! АРЕНА HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=563780579d4b85e8058b475c&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006dc0b9d4b85110900000d&type=logo",МАТЧ! ИГРА HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006dc0b9d4b85110900000d&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006d4375028edc979000160&type=logo",МАТЧ! БОЕЦ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006d4375028edc979000160&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006d88cd122fa3e0d000000&type=logo",KHL Prime HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006d88cd122fa3e0d000000&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5527bbad9d4b85137b8b4587&type=logo",KHL HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5527bbad9d4b85137b8b4587&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5cbdd5cda6054d003d4327a2&type=logo",Мир Баскетбола HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5cbdd5cda6054d003d4327a2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006db20fe79ac7505000012&type=logo",Конный мир HD 
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006db20fe79ac7505000012&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5df25371d6295a2c795eddf2&type=logo",СТАРТ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5df25371d6295a2c795eddf2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5f4e663ded1c3d2d030529f2&type=logo",Моторспорт ТВ
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5f4e663ded1c3d2d030529f2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5f5b537416b934564f5f0fd2&type=logo",Танцуй! HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5f5b537416b934564f5f0fd2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=51768bc5fe79acc815000032&type=logo",БОКС ТВ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=51768bc5fe79acc815000032&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=64faf90829df7b1a9b05e172&type=logo",Кино без границ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=64faf90829df7b1a9b05e172&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=620a4f42647cfd7e83154752&type=logo",START Air HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=620a4f42647cfd7e83154752&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=620a4f44647cfd7e83154753&type=logo",START World HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=620a4f44647cfd7e83154753&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5ac7916a6fe76d001d3951c2&type=logo",КИНО ТВ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5ac7916a6fe76d001d3951c2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94ca&type=logo",Hollywood HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94ca&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e5c548d6002d4a9473&type=logo",Hollywood HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e5c548d6002d4a9473&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5ee0ee010558772b18429713&type=logo",КИНЕКО HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5ee0ee010558772b18429713&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=591ee6e0f3a4d2002f4e7b23&type=logo",САПФИР  HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=591ee6e0f3a4d2002f4e7b23&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=51768c3e9d4b8549090000c0&type=logo",КИНОКОМЕДИЯ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=51768c3e9d4b8549090000c0&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5975c68a40a31f002e70ba92&type=logo",НАШЕ НОВОЕ КИНО HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5975c68a40a31f002e70ba92&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=59baab01eb12b20012441f02&type=logo",РОДНОЕ КИНО HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=59baab01eb12b20012441f02&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=59baab02eb12b20012441f03&type=logo",Киносерия HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=59baab02eb12b20012441f03&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94c9&type=logo",A1 HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94c9&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94b2&type=logo",A2 HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94b2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94d1&type=logo",Русский роман
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94d1&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94ce&type=logo",Русский бестселлер
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94ce&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a9496&type=logo",Любимое кино
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a9496&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e5c548d6002d4a9475&type=logo",Мир сериала
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e5c548d6002d4a9475&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e5c548d6002d4a9471&type=logo",.black
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e5c548d6002d4a9471&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a9486&type=logo",Bollywood HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a9486&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5e1c6c51d94adf001552c3f2&type=logo",КИНОУЖАС HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5e1c6c51d94adf001552c3f2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5e1c6c8dd94adf001552c3f3&type=logo",FlixSnip HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5e1c6c8dd94adf001552c3f3&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5e57d2c4098d9464db219fe3&type=logo",Русский детектив HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5e57d2c4098d9464db219fe3&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5e7db63c8d048a4e8e580cb2&type=logo",Телеканал FAN
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5e7db63c8d048a4e8e580cb2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5fca171d19febc30fa4c6e92&type=logo",Мосфильм. Золотая коллекция HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5fca171d19febc30fa4c6e92&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=6009586c796df222fb1f8512&type=logo",КИНОМИКС HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=6009586c796df222fb1f8512&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=6009586d796df222fb1f8515&type=logo",ИНДИЙСКОЕ КИНО HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=6009586d796df222fb1f8515&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=6009586d796df222fb1f8516&type=logo",НТВ‑ХИТ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=6009586d796df222fb1f8516&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5e8c63dbfaba384a3a765b62&type=logo",Суббота! HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5e8c63dbfaba384a3a765b62&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58f4a171e1a1c5002e6f8464&type=logo",.red HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58f4a171e1a1c5002e6f8464&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5ee0ee000558772b18429712&type=logo",TERRA HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5ee0ee000558772b18429712&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=593ab1bd8c5eea2c0b548fa2&type=logo",HDL HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=593ab1bd8c5eea2c0b548fa2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e5c548d6002d4a9474&type=logo",RTG HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e5c548d6002d4a9474&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=59d213fd125e1000131b17d2&type=logo",Travel+Adventure
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=59d213fd125e1000131b17d2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a7d8a65231ef100124434c5&type=logo",Диалоги о рыбалке HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a7d8a65231ef100124434c5&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94d3&type=logo",Охота и рыбалка HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94d3&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a7d8a64231ef100124434c4&type=logo",Дикий HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a7d8a64231ef100124434c4&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e5c548d6002d4a947e&type=logo",Моя стихия HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e5c548d6002d4a947e&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5956594d63cd80003157fe42&type=logo",Доктор HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5956594d63cd80003157fe42&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58f5f771b2c845002d7c6cb2&type=logo",Продвижение HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58f5f771b2c845002d7c6cb2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=593ab1be8c5eea2c0b548fa3&type=logo",ЖИВИ! HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=593ab1be8c5eea2c0b548fa3&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a9491&type=logo",BRIDGE  DELUXE
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a9491&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94ae&type=logo",ТНТ MUSIC HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94ae&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006ec5cd122fa0e3c000009&type=logo",RU.TV HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006ec5cd122fa0e3c000009&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006d355fe79acd405000015&type=logo",РБК‑ТВ HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006d355fe79acd405000015&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a949a&type=logo",Москва 24 HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a949a&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a9498&type=logo",МИР 24 HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a9498&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a7d8a64231ef100124434c3&type=logo",Известия HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a7d8a64231ef100124434c3&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94cf&type=logo",RT (английский)
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94cf&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=61b9f06a248ee128fc3db132&type=logo",RT DE
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=61b9f06a248ee128fc3db132&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=516554ff9d4b85f876000913&type=logo",Кухня ТВ
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=516554ff9d4b85f876000913&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006b74afe79ac797100000f&type=logo",WORLD FASHION CHANNEL
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006b74afe79ac797100000f&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a9488&type=logo",Мама
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a9488&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94d2&type=logo",АВТО 24
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94d2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5a7d8a64231ef100124434c2&type=logo",Усадьба‑ТВ
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5a7d8a64231ef100124434c2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5c811d1680f06200215f1542&type=logo",Ю
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5c811d1680f06200215f1542&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94a5&type=logo",Телеканал 360
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94a5&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e5c548d6002d4a947c&type=logo",Shopping Live
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e5c548d6002d4a947c&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94bd&type=logo",LEOMAX24
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94bd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94a6&type=logo",Shop&Show
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94a6&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a948b&type=logo",Ювелирочка
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a948b&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a9484&type=logo",8 канал
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a9484&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e5c548d6002d4a9467&type=logo",Санкт‑Петербург
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e5c548d6002d4a9467&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a94aa&type=logo",ТНВ‑Планета
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a94aa&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58edf8e6c548d6002d4a9490&type=logo",БелРос
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58edf8e6c548d6002d4a9490&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=63160cf1ffdbb1cf54004fb5&type=logo",Big Planet HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=63160cf1ffdbb1cf54004fb5&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=63160ceeffdbb1cf54004fb2&type=logo",Women’s Magazine HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=63160ceeffdbb1cf54004fb2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5e8c63dbfaba384a3a765b63&type=logo",ТНТ4
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5e8c63dbfaba384a3a765b63&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=6037db4718cd4942ce2be042&type=logo",ЗВЕЗДА Плюс
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=6037db4718cd4942ce2be042&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5ac7916b6fe76d001d3951c6&type=logo",КВН ТВ
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5ac7916b6fe76d001d3951c6&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006c9bd5028edc8790001d1&type=logo",365 дней ТВ
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006c9bd5028edc8790001d1&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006d9105028edc679000190&type=logo",Авто Плюс
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006d9105028edc679000190&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://fast.ntvplus.tv/logos/channels/logo/65c71828bec0d9abe707ab92/image.png",Киномульт
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=65c71828bec0d9abe707ab92&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://fast.ntvplus.tv/logos/channels/logo/65c7182bbec0d9abe707ab93/image.png",Cartoon classics
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=65c7182bbec0d9abe707ab93&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=614b4c39e283d0554c678152&type=logo",Ducktv
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=614b4c39e283d0554c678152&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="http://troya.one/images/chIcons/42.png",TiJi
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006ec119d4b85ae3a00012a&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58da3cce9d4b85505c8b498e&type=logo",Мульт
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58da3cce9d4b85505c8b498e&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5ac7916b6fe76d001d3951c4&type=logo",Мультимузыка 
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5ac7916b6fe76d001d3951c4&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58da1ea99d4b85445c8b5e3b&type=logo",Ani
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58da1ea99d4b85445c8b5e3b&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58da1e479d4b85ad5c8b48e7&type=logo",В гостях у сказки
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58da1e479d4b85ad5c8b48e7&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58da3d239d4b853a5c8b48e9&type=logo",Уникум
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58da3d239d4b853a5c8b48e9&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=59a96829d2d38d002f746bd2&type=logo",Мультиландия
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=59a96829d2d38d002f746bd2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58da32679d4b85425c8b48c8&type=logo",Радость моя
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58da32679d4b85425c8b48c8&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5c091feab3661d0030070f22&type=logo",Солнце 
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5c091feab3661d0030070f22&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5006eb9a5028edc7790001e8&type=logo",Gulli Girl
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5006eb9a5028edc7790001e8&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=5c582d38e139c30022184b52&type=logo",СТС Kids HD
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=5c582d38e139c30022184b52&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=6065baa03bbc9d64af2fbfd2&type=logo",СуперГерои
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=6065baa03bbc9d64af2fbfd2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=58da3dbc9d4b85855c8b57ed&type=logo",Детский мир
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=58da3dbc9d4b85855c8b57ed&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=641d5f5a9b509bec3c03a393&type=logo",Kids TV
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=641d5f5a9b509bec3c03a393&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=6328a4efbfcd76def10b4c82&type=logo",Лёва HD 
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=6328a4efbfcd76def10b4c82&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://apps.ntvplus.tv/v3/service/channel-logo?id=6345564b08ed2dde650fd762&type=logo",Baby Time
+http://list.onlinetv-sochi.ru/hhh/ntvplus.php?id=6345564b08ed2dde650fd762&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&hash=T2Z6UmRxYkhOdGt0T1ZxcHcyajRwYWcvbzJVYS9QcWp2OVUwS2hyNy96Zz06OnOq6sfTj79xP2z1/Kg0v2w=

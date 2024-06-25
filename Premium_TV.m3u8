@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/7d071527-0e6d-4fb1-a6f4-88c8aa363931/" group-title="TV-PREMIUM",БОЕЦ HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/150/index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://images.iptv.rt.ru/sdp/sib/nclogo1534762474558.png",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+http://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8#&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SjJmMVhXNmJuZHNlb1E5MXREY3pBdjVSSVZKMmIzcWppaWt0QUYranFTMD06OlTSR1vfgsRmW0VlaRZBiLY%3D
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whwww64vepbnmchklf8zp/marvel.png?rlkey=ka3pni36robdrjfctbwtr8n76" group-title="TV-PREMIUM",Marvel HD
+http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/15025/index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/nnfaj5vn2byhrn4l9pxfh/futbl.png?rlkey=eqtf19irxdg5cio2o2p6rzkz0",Матч! Футбол 1 HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=7nvenc/NTVplusfut1HD/71/fhd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZmMvT3hqM1B3eE1tTDhYWGNzbzgzS2hCclluODZudHpzZzlzNEFjb0dqMD06OsiDZ7l8cQSw5LmZV0LrhwQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/nnfaj5vn2byhrn4l9pxfh/futbl.png?rlkey=eqtf19irxdg5cio2o2p6rzkz0",Матч! Футбол 1
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/hd1/NTVplusfut1HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cmdxUW5DZEp2YXhOYmpSbHpRNW8yd1RwZVFZaXE1Y1FicjBtTnJRTU1TRT06OucsuvHLj7PSOpqKeap5DN0%3D
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/nnfaj5vn2byhrn4l9pxfh/futbl.png?rlkey=eqtf19irxdg5cio2o2p6rzkz0",Матч! Футбол 2 HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=7nvenc/NTVplusfut2HD/71/fhd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SG1INTYvcGU4bVVwMjFadGwrVEtvVWVXQ2IyemZQKzRqMTNaRjlKVXpIcz06Oo9zUQGWrVNFu%2BCM6dSJKsw%3D
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/nnfaj5vn2byhrn4l9pxfh/futbl.png?rlkey=eqtf19irxdg5cio2o2p6rzkz0",Матч! Футбол 2
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut2HD/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UUwvTi9hZzY4dGFwenI2dzIra2lUbWFRWk1BcFVpejhpWmpXMU00ajNIQT06OgAo4ZXd9fWVPqrrsneK3yU%3D
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/nnfaj5vn2byhrn4l9pxfh/futbl.png?rlkey=eqtf19irxdg5cio2o2p6rzkz0",Матч! Футбол 3 HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NTVplusfut3HD/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MS9qQlpRR24rOVZCYlhmeWF0UHNmdjd3ano1Zkk5bVZ2WmJTVnI4UVAvND06Oj1csAwsXJhXPlW2JEFGnnI%3D
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/nnfaj5vn2byhrn4l9pxfh/futbl.png?rlkey=eqtf19irxdg5cio2o2p6rzkz0",Матч! Футбол 3
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/mobile1/NTVplusfut3HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YUk2ZEFqM1k1aVFPWm82dFRna21vQUI4ZUlDUGNVS2sxS3VFU0EyK0NUcz06OsytT3C9u5r60QPIf5rbcMQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/nnfaj5vn2byhrn4l9pxfh/futbl.png?rlkey=eqtf19irxdg5cio2o2p6rzkz0",МАТЧ! БОЕЦ HD
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+http://list.onlinetv-sochi.ru:8080/live/ntvplus.php?id=5006d4375028edc979000160&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SjJmMVhXNmJuZHNlb1E5MXREY3pBdjVSSVZKMmIzcWppaWt0QUYranFTMD06OlTSR1vfgsRmW0VlaRZBiLY%3D

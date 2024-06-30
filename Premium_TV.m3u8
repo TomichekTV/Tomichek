@@ -1,0 +1,598 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/sdp/sib/nclogo1534762474558.png" group-title="TV-PREMIUM",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
+http://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8#&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SjJmMVhXNmJuZHNlb1E5MXREY3pBdjVSSVZKMmIzcWppaWt0QUYranFTMD06OlTSR1vfgsRmW0VlaRZBiLY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843682.png" group-title="TV-PREMIUM",Первый HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=1kanal_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cFlvdzZLK1I1cXU0Z2FLc1kvb1Q4aHh3ZEgySHRtMWxFb0l6WE1KVHErRT06OieK1LznSB8i8FHFu50ktqs%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843823.png" group-title="TV-PREMIUM",Россия HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=russiahd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cW9QOWdEZVhuNjVoU0N0QjAvOGR0ektoOUx2aWFmQnBkNVlsT29HOWZ6ND06Oh340wEVy0J2KnN2GLFVI5U%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2016/05/30/70554/70554232.png" group-title="TV-PREMIUM",НТВ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ntv_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VVYrMEdSaUNHQ2xYSW1TRUJrTjVGV1llcml4QUVxODBVTTVsM3B2aDFtcz06OpyGpeG94d0mvAjMRViiVMY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2016/05/30/70554/70554232.png" group-title="TV-PREMIUM",НТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ntv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=TGY1V28wKzZQUllvYjVUQjhLclZib0VzTzg0TU5scUEzak1IWmVwaWF0RT06Ol24IUcz8kjjysCyk5MR%2FS4%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/06/20/98245/98245674.png" group-title="TV-PREMIUM",ТНТ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tnt_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=azNmUVNQQTJTbUZxZjRJd1kzcjhCMms0VFhMNVBUNHkyMldXUU4rS1hnOD06Oi7Ie9TQP8tUXHswBviVWlk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/06/20/98245/98245674.png" group-title="TV-PREMIUM",ТНТ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tnt&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VEpEcGFTMWY0R2wzUXZ2MHQwek1Zd2ZON3FCa2k4RkdTS3FwUkNIbXJ6bz06Op73B5azvJYlnHmZGq1YUxk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/02/07/151601/151601443.png" group-title="TV-PREMIUM",МУЛЬТ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=mult&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=MnArR2NEenRURmpRcGpINCtWZHl6LzJDRHBMWW1oUHBHS3U3QmJreVZRYz06OuKH0ubd1OUi4tyH0vOsjTs%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141591.png" group-title="TV-PREMIUM",8 канал
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=8_kanal&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ZzBHVmp2Ym93d1dSb1hSNVJKd1B1R2tjWk9ZV3BpSWJJNTlveW9lM0l5ST06OraCIzPhBzRFGRZQqzKwIlU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25842/25842280.png" group-title="TV-PREMIUM",Мир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=mir&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=OVk0NVl5MnpuZHhZWnJ4QjJZVDJwUTcrSTdEVVJ6aC9DTXplNGM1a0NJVT06Oj4%2Fg9CfZrgFbSCpKp36xkg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198504/198504724.png" group-title="TV-PREMIUM",ОТР
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=otvrus&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ZjlsNFpxSHBRV252cTF2ak5IYTkyUWJodGpXaHp5SWFSTkRPdDJMcEZTTT06OlHGQt2ZUEln1FfQyc6tZ24%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078544.png" group-title="TV-PREMIUM",ТВЦ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=tvc&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cUtSaHQ1ZDBVVzB5ZlhlOXFSV01zb0hrUTlOQzl0aitqVDNlNTgrZGVXWT06OrOeKxy6PZ11Kdw%2Bu3MIsn0%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/27/148476/148476015.png" group-title="TV-PREMIUM",A1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=amedia1&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=YnRkTzlHWFV0NS95NW5ZVkJzNHBLRjBZN1RvR1ZwbHBha2c2VU54cXBacz06OgpqiEPmexhM8nXeE9WSkiE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/27/148476/148476028.png" group-title="TV-PREMIUM",A2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=amedia_2&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=MWFlYU02RWhOOFFoYmlkS3BvK0ZmYUVVS0dLb0ZpeXI5OE9FYTRUamlTQT06OuI1RPbGPsK2ujUmr91hyhw%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184671.png" group-title="TV-PREMIUM",Amedia Premium HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=amediapremium_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=dWx5aWdOYW1IRElkbjA5eWZnSThML01KTnhKK3l3aEsxODNWaUtnem9hRT06OkO%2F%2F5dyGErn5IbAHJIcXTU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/19/106678/106678896.png" group-title="TV-PREMIUM",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ipark&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NWxIYlFJWS9reUp6bUdWdmVKMTF1TzR4Rm5GMVNCL05tQmNabFFwTGhyQT06OtNP92jOvba7FFPeF05zv0I%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/03/28/156750/156750505.png" group-title="TV-PREMIUM",Fan HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=fan_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=SFVYQmpJVlRjVDZtak5Fcmtpenp1cFU3RHBxR01xUHpOc1hMTUxuSkJmTT06OvYw%2BHMRUqdPanIqriDAVA0%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184802.png" group-title="TV-PREMIUM",FILMBOX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=filmbox&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=bUxMY0VIdkdjbGQwTjdtMWpta0ZyLzE3clRLZ2gwN1dsbnJwN1g5U3NTbz06OtfABtrohumSx91M49sDMkg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184813.png" group-title="TV-PREMIUM",Filmbox Arthouse
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=filmbox_arthouse&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VzlNR0x1NzdrMUsxNDJaODZRNEtKT2M3WEplWmhTdG12bWszQ0dyWXBSYz06OkFB42iijpNvu1l6XfhqJKg%3D
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/Sony_Channel_HD.png" group-title="TV-PREMIUM",Sony Sci-Fi HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sonyscifi&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ZndxZG1Wc0srSm85eWFpSWV0Q2VKRXJwalJOVXhCZlJRSEk4L0dhWHplaz06Ovms7hUOmUzzhVk0ingSkVg%3D
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/Sony_Turbo.png" group-title="TV-PREMIUM",Sony Turbo HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sony_turbo&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NlJYQ3pFTnhvaWE1N1NxSmwwSGVIbS8yTTlES004YlVTQkF5WmRReVZHRT06OgwS92%2BmZsgmDsOmHVH9ODk%3D
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/Sony_Sci-Fi.png" group-title="TV-PREMIUM",SONY ТВ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=set&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=dTQwYWdLcWJHb2hUM09LWkpXUVR6di9VeTJNcWdpeDZrdzFFdUgrbXN4UT06Ogy1Xh%2B0Mvm1%2BsrltIONaXg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703598.png" group-title="TV-PREMIUM",TV1000 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=aGI5ZXhVa01BWGlndjEvUHNvUlA3Q1dTVGtYODBhN2h3NmZkaWs3YWx5cz06Og3BudzoSZr2tCE7EuB4u1Q%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/22/104808/104808304.png" group-title="TV-PREMIUM",TV1000 Action HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_action&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RDVTQno1Vk8wLzJTTkZ6NEdIaDBNa3haZzRjb3FnNk1jd040R3R2Y0crUT06OvBzqYWtNHOnqH%2F0jL5QwgU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703661.png" group-title="TV-PREMIUM",TV1000 Русское кино HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv_1000_rus_kino&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=WGs1WDF3bWN2WllaM0FkbE1BODhxVGJadi9BY2VwQ25ETlBPNXE3ZXJiMD06Oq0X1jmnE1iFZNR6z%2FSWY%2Bs%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078514.png" group-title="TV-PREMIUM",TVXXI HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv21&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=QWJteXhZV0kzT0N2cTZEQUIzejlmSVdwNjdkekhoRnBLMUJaQU5kZEhFcz06OqXFiArOQIWdFdRLDqcmKRg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556428.png" group-title="TV-PREMIUM",ViP Comedy HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_comedy_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=UklKK0FaVVFDSDBDQ0lhRExRczMyNGlTK1RyN21EbzQrU1VFV1NNWVJ3VT06Oh5cDKzbICBT9BSUxTULkXE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556441.png" group-title="TV-PREMIUM",ViP Megahit HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_megahit_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=d2ltMmpZVjd2TGVrcXJneHFXNnVpMUJPT3o4UHdsYUFObzk3TEg3VjVwVT06OiL8yWp%2BnFCe%2B7Bb%2BTcbQyk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556454.png" group-title="TV-PREMIUM",ViP Premiere HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv1000_premium_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=bUhteCs5M2VxYzlmamwvWVFPK2ZteEYxMnpBVXluVmdpMDhZeGQvTFBPaz06Op1TRoOLMKbJZyCOMLKrbcc%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/07/18/165556/165556467.png" group-title="TV-PREMIUM",VIP Serial HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_golf_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=N1pLMnBCS05pTlNtcnJXYUFSTFA2Rzc2dG9DcGdEMjRBdjlhb3QrMzhQWT06OgxM21gDGQuhR8UDDYmnFEE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/27/107313/107313237.png" group-title="TV-PREMIUM",Zee TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=zee-tv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ZHowUUlYU2NKWi8rbHVJQzU1d2dFMis1SmZWT2tRbWpJSWd3cjVKZk5NVT06OpoIkssTDLzy0TJxOfVExgg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785583.png" group-title="TV-PREMIUM",Дом кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=dom_kino&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=T055QkxpR3dJMXVoSWNib3ZLNXdBY3RwRnpyZlJEUk5YUWwrN2xVVnJjQT06OoBovtZ90%2BWdAA1T%2BJGtH5o%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2016/09/12/77517/77517124.png" group-title="TV-PREMIUM",Дом кино Премиум
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=dom_kino_premium&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=OWJ2ZzM0ZE9VRStFdldOdVBZQzc4Z2NQU3h4cThqSFZub2V6WTlybUpjMD06OvR0GUXXbFQMF%2Bv0df4afZk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/10/114204/114204527.png" group-title="TV-PREMIUM",Дорама
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=dorama&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=c29iekIzeitlK2Q2NHBiSzc2QTRxMWZWeXV3UC9sUjhFeEkyQkRJZ2JlVT06OqnLgJlheQ6Hh5eWrLjkVFM%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/04/14/93551/93551064.png" group-title="TV-PREMIUM",Еврокино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=eurokino&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RTVZOUVLQTIyWVBrb0NRSFFicGkzb296Z2lURVB0RVdlcnZuK1VTbi9HZz06Olbsgt2y4eLxdS6g0vBWa3w%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/30/103163/103163491.png" group-title="TV-PREMIUM",Иллюзион+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=illyuzion&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NGZvcTVVdGwxTk85SGx3R1BDWTdqY3pEUDNZNHFaWFhWWVUzVkdOVS9wdz06Om8Cq1LVqQYBU3vhpFHs9%2Fc%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/06/103672/103672832.png" group-title="TV-PREMIUM",Индийское кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=indiatv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Y1BQVDNDdG5LRWt5bU1HMTZkMjdLS1JGc3Zwbk9pMnEzVXRMYlR4NDRGYz06OnfshQp38mRoIl8KDFCblcA%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/03/30/122197/122197192.png" group-title="TV-PREMIUM",Кино 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=kino24&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cTFUNHo1TEk5bkhpSStjcldOSGV5dXhoeEJpaFBpdUJVOTViY0NPYVU3RT06Ondn4uyqyRS3QVPTtKnWUIk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703587.png" group-title="TV-PREMIUM",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kino_tv_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=azBvTnZJTmxEbHZDaHFDM0s3MVVUa1NXODhpUlpPbWs0NmN6Z0wvekZ3QT06OgX%2FSvjfj%2B7kHrk1jaJP64Y%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184830.png" group-title="TV-PREMIUM",Кинокомедия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=comedytv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=aFFlOWxoQ3lMYkZucDNwc3Y2Nk9hdUJ1NDJXeFpic1l3Zy9hOWMxdURsYz06Oh2v%2FA6pQ2efXPm6lje1Vvg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184847.png" group-title="TV-PREMIUM",Киномикс
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ntv_kino_plyus&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Y0xYLy9EZkNMQTFzUFhlOVQyN1VxdWdqNGpnVG13bTAyc2VCZGY4Nm9mTT06Ovde3YvBjcL7wJlDGPFySWw%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3207s.png" group-title="TV-PREMIUM",Кинопремьера HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=premera&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=WnFJajY5UmFLUDVlcGRiQXV0bzlMa3d3TlhTTHFMbi9NbStRNkdUYlQ1dz06OoG8rIYcT%2F6HTmq51o1PeqY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184908.png" group-title="TV-PREMIUM",Киносвидание
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinoklub&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=aFMvUTU5ZXZxcWpFNGVYQmE4a2dQMnMxdm9Pazd2aDNrbXYrb0poTFBqND06OuVi3yoqTeHnRSUr6kBgJvA%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184925.png" group-title="TV-PREMIUM",Киносемья
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=hd_kino&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=TkYvR1NxRG4waGY1Y0xieG8rL3NGd3pZeENlV0QvendHanNsc2NXeEE3UT06OkdEzar1Dw33TO6kag2yOs8%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184959.png" group-title="TV-PREMIUM",КиноХит
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kinohit&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=TGsvTGJmcmFvdXV3L2ZxcEE4enpaS2RTZWZ4a0ZYYkk4c013bWRyR09aVT06OvYL6EtmrpU2FJIjl0bgzWE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/03/146929/146929159.png" group-title="TV-PREMIUM",Классика Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=klassikakino&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VmtoZW1lRnpZSTZsZUI3RUNyZmd3K0F2T3FaSWlLRmN5SFpMSXNETkpDWT06OqVjATRLjDDxtCU7iG72%2FAo%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/11/101829/101829273.png" group-title="TV-PREMIUM",Любимое кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=favmovie&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=TnY5UC94SkZVNzQ1M1ZidStsdFRGS0NpTVkza0pVaVpXMlBtdzMwZzN3cz06OhzOeprfVYUnMS0Fn5C8QRU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/11/101829/101829284.png" group-title="TV-PREMIUM",Мир сериала
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=mir_seriala&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RjNwbnVKYkFESjRsdFFMQTFTK3hIMFVOOHJiS0VVbkRMTUFuaXc4MFd6TT06OsAOb0CWflP2RF81InWRqQs%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106791/106791146.png" group-title="TV-PREMIUM",Настоящее страшное ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=nstv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cEVPUVZZMmduVWRxU3hKMU5JU1hTQU9MdkloKytuK2N5emlRUXU2UEFwVT06OsstCFGO0JiZmmDa4lT%2ByIc%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184982.png" group-title="TV-PREMIUM",Наше новое кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=nashe_novoe_kino&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=UUtOdGpYTk4zZ2FRNHZkZWtoQWtQS0FJdEtsa2k1Ync5UGl6dDZ5SGpZRT06Oh%2BGz1YDSvuPIwyjXT8Quao%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3616s.png" group-title="TV-PREMIUM",Победа HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=pobeda&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=QXJsOVZCOTdmMFpXNHRsL3VFdTdTdTBmeG0zTEU4aTkvak5WSGNSM1B0ST06Ott50ndzMxE8w%2Fjoz%2FgN8iY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703505.png" group-title="TV-PREMIUM",Русский бестселлер
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=russia_best&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=V0FMSUVLNTRFc3JkYWo0azhRN2ROSy9BRjUzQ1hUcWRTRThUSG54Ym5Zcz06OqC3n4sf9WPOM7HqCmTZdFI%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/21/104703/104703522.png" group-title="TV-PREMIUM",Русский детектив
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=russkiy_detektiv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=M3RIcktMSXdUT0pXWktsZWg5cXllVTVwV0VNNTZJbUZmTnovaHpTUG1nMD06OnPCZDkFANnfB%2BIyFOUTHK8%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078319.png" group-title="TV-PREMIUM",Русский иллюзион
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=russian_illusion&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=R2hLK3ViMXZvM1doclB6ODJhVnRKVXgvNEtjL09mZzFWaFVwOEI3bG9LYz06OhcFc74S8DfMLpj3P%2B9Z4VE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/05/15/160802/160802314.png" group-title="TV-PREMIUM",Русский роман
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=russian_roman&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NUtEWWh5WW5VSGZDTUQ0N2pQdkViZXJEL09rdytzWW5nWTBXbmNHMFNGaz06OvvzVCXJkRGOeAk8sxRQ%2BGc%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/12/03/146929/146929191.png" group-title="TV-PREMIUM",Советское кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sovetskoekino&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Ti9HZStnL1V6V0dKYVlQTHlyNDJ1SWxWYStyMnhzMVoxV09ncmhUd0g0Zz06OoDKCnJg%2BlzDkYebDBw2oK4%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630237.png" group-title="TV-PREMIUM",Калейдоскоп ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kaleydoskop&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RzNPR1JqWnZ5cEMwNFlPd2hKOS9FdUluT1hVa0k1RENGYnlid1RpWUN1UT06Os0PQa3gp4%2BbHYQapBPWlss%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078243.png" group-title="TV-PREMIUM",Пятница
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=friday&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=WjdQQVhRVWpCMkNlVi9QWWhoYXpSR1VESzFqVjZZOXpRWWsrZlUzOUNIcz06OsUuib%2BUC3zDjCULXUJBifA%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1087s.png" group-title="TV-PREMIUM",Русский Экстрим 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=ru_extrem&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ejM5T3M0bjJxNDJVV2xLcDdDTjJpRHRaeHNFRWtNODZHOTFsaEI0MldIdz06OrjkUQyc8j0sKRP4EiqJTMg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/10/24/176143/176143320.png" group-title="TV-PREMIUM",Сарафан
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sarafan&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=OE5wSExPaGNJVnJidExLVUl5cVptQy9KQVZKa1FBRVRPYjVwZ0Z5bUgyRT06OqtQ%2BsLYNtONJQZ2mSVWjYQ%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3443s.png" group-title="TV-PREMIUM",Супер | Суббота HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=super&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=WWpsbjJpLzY4S2IyWEx6RGpJK3UyQnIxQjk5Tk5OM2lGMTE2dWp5QXFaUT06OpN0D%2BqHci7eEyk%2FwcfUFMU%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6862s.png" group-title="TV-PREMIUM",ТВ-3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tv3&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VFhMYTRMQStjVytQOEd6MXZaTjJZdHhwYjNLeEYwcUp0bWRYQ29hZ2cvOD06Ol5l30PiW56C8eQG50mk%2BdE%3D
+#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/sdp/sib/nclogo1534762474558.png" group-title="TV-PREMIUM",ТНТ4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tnt4&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=SWQ0S3hoc1hhMXBsbktscnU0R3RHbitCcFBmYUc2ek14amM5Wi9neEtGWT06OsXqv214MBVUyXa%2BOJJAvkU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141622.png" group-title="TV-PREMIUM",365 Дней
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=365_days&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=YVl0Qlc1K2pXKzkwS1h2bnQyL2dFcWxOcUFzU21CUFU0V1o2bGp5VWZvbz06OuRP0gL%2FpnTNVlxSDrF%2FoLo%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/12/116949/116949697.png" group-title="TV-PREMIUM",Da Vinci
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=da_vinci&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VE9sSkRMNk4wTE82dGhsaWhybzlJMmtwUFlBeDJKUGJQUlJHN0xYY1pDaz06Ory%2FYHxvj7EkXzYujNaOc48%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/11/13/108639/108639570.png" group-title="TV-PREMIUM",Russian Travel Guide
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=rustravel&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Q21zUU5xemxVU2RQWGFrSmhTbEZJN2luYStpN1Jjcy95R1Q1QnFVR25Daz06OtIq87Rd4t1q8Ggr8PEpDpc%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101323/101323942.png" group-title="TV-PREMIUM",Travel Adventure
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=travad&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=bnIvT080djA2SGkrSHhQOXVrQkRmRjdkNzVJM08vb0RKTHUwd0h2MzQyUT06Og%2BWb4oq00UnVqnkq3s6MSg%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25843/25843964.png" group-title="TV-PREMIUM",Travel Adventure HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=travel_adventure_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RGVFT0JQajBYRW5sVnZ5S3NSNERxTldPdzFLRzBmNTBKNFh0SVhxL204RT06OkYLr%2FeWZisVHUWbMEd16mk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324019.png" group-title="TV-PREMIUM",Viasat Explore
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_explorer&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VUUyS2NRekxVaEZLZkU2NHIxMDc1ZlUxSjIzS2RiK0VVV1pZYVRiY1FDST06OnifDCDXkwr%2BjE%2BW0WBk0TE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324025.png" group-title="TV-PREMIUM",Viasat History
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_history&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Rm5RUVZ3UVUwK3VrbnNPWTVHYnZQdy9aQUlZem50VytRaXNjY0cxTnRxWT06OommWxu4qQ3e4pRDU1QB7lU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324032.png" group-title="TV-PREMIUM",Viasat Nature
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=viasat_nature&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RzJUTEdHdzV4RzVwUmJjTVFldjVoa3h5VlNqMlFaYnZtQTNzSG1ndDJFYz06OraIIN7GAlcBbRhVJHppLIs%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/11/101829/101829311.png" group-title="TV-PREMIUM",Zooпарк
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=zoopark&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=R1R6Rk9ZVnJlWUx3Z1MxSUZTTEhtU3kyZkpqZEk1Y0Q2T2ovYVlHYUFMcz06OnRnGlLMHVN5ssKiFaI3wQY%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1174s.png" group-title="TV-PREMIUM",ВРЕМЯ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=time&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=eHNYRmdRQTlYbFBFT3RFSUFYbThlbW9IeWtVWi9lU1ZYYnZNWEpORWlKVT06OllPyFBR8DjquMXx2kFYX8E%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2003s.png" group-title="TV-PREMIUM",ЕГЭ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ege&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=M2JFZC93N0FQTUFscjhMQnNnS1RyOHZSWHV0aHZTTWl4VExGcFBTRDlnWT06Ou3%2FdNc8fyYXpo7HDZT92JU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785594.png" group-title="TV-PREMIUM",Живая планета
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=zhivaya_planeta&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Y3I5T2JUYzBGWHVRSnV1Ri84WVdPa3ljcWU2SW00R0JrYllVTENIYVFNOD06Op%2F2eefrORK%2FUHvBb7lgnKQ%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1254s.png" group-title="TV-PREMIUM",Загородная жизнь
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=zagorod_zh&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=UEpWUUVvT2JlclNXNmRIeFc1T2EzZk1zU3c2YlJyNFI1QnFjeFF1MHpORT06Or%2FfdBlIghB4N4w94UQRM5U%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583268.png" group-title="TV-PREMIUM",Зоо ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=zoo_tv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ekZpS2diSUx2UGdtdm1MK3dod3pzVW5GWWJSMDZlMDZQYnBpaHNGaUcrOD06Oj%2F4r28S%2B5nqdHSMjIbHe1s%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630458.png" group-title="TV-PREMIUM",Моя планета
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=my_planet&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VG1VNlBPR3FubWxISk9BRWhkZklqZG1UOG1UcldpMUMzUlpRbmYrS0tDQT06Ogp%2FkvalDtciDUJJJgZ5bGw%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694435.png" group-title="TV-PREMIUM",Наука 2.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=nauka_20&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=dDhMY0xwQ2toQkQ2QkFSR1JQMmdXZUpGdmZpVXJCZnI4RGZyU3NwR0RJZz06Oqb5C8ViLCfqA0zFeeCidbY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/11/06/25844/25844246.png" group-title="TV-PREMIUM",Ностальгия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=nostalgy&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=SUVvR1czeEc1ekhmbjViaS9YeEhmeFpucmZXZUduL2N5MXM5R3lGcFhkdz06Op9SuzNjbNCYj%2B2KS6nqVpg%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1242s.png" group-title="TV-PREMIUM",Приключения HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=teleputeshestvija_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=eUpDVGd0U3VFWTFrNHg3dEFJSjJTOVArdHBMdGpWb3RxbzZkek5EWW04MD06OjuikVjCs45rm9QauZmwAzQ%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/11/182649/182649972.png" group-title="TV-PREMIUM",Психология
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=psych_21&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=TndUa2Iya1h5NmdQbjF6NlplVjFRTEhwN3JrUlozVU5sRGpVUjNxYUk5QT06OsVS4WLdQR8VLyCPtCaJeUU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/01/198300/198300803.png" group-title="TV-PREMIUM",Россия К
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kultura&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RVFBc3YxRFpkbGlSUDNpam04U0tlazdLRlJ3N3FmNERmaEJ0cVdyc3RDaz06Otb%2B17Y8OStr7%2B95%2BpXJQsw%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/07/191156/191156341.png" group-title="TV-PREMIUM",Т24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=24techno&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=K0dWUWhKYnpHUytncXg0ZXBXSDUvL2JaUzNuQlBLZjduOFI1KzF2OFJjdz06OqyoBfOCiQL3OGSuTVLAWDQ%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/12/116949/116949730.png" group-title="TV-PREMIUM",Телекафе
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=telekafe&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ZVNJTEtKRC9oYU1LNG9mMGZnejk5YnJWRm4zN1FqOHY5clc5aThLVlgzND06Om%2FMe%2BErp2AGcRzNVaOMZu4%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/10/11/142765/142765617.png" group-title="TV-PREMIUM",Телепутешествия
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=teleputeshestviya&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=YnFtamZRNE9uaUc4UFU1c2xkSFhTMVBudDdwdHhtY1QzdmJzOHl1WUNlOD06OgPzX%2BAeTrnrPTa5v0XKTmA%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/08/09/167583/167583299.png" group-title="TV-PREMIUM",Усадьба
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=usadba&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ZjVhTDBHS3Zsa0xxQnExOHdmV3pKaHZiUjg5b3BtTE05dDNudDVWYnNlMD06OoDcp9tI4lu5sp0TqWSqA3M%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/02/21/89525/89525628.png" group-title="TV-PREMIUM",Центральное телевидение
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=tvc_ctv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=SUp1WHpydElTUHdscGdIVHlVSUI4azVaQWtCRG1WdkUxNXByVGFKM1V3ND06OhnqESUxbSxImVCMAogqMYE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/04/14/93551/93551134.png" group-title="TV-PREMIUM",Авто 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=avto_24&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NWM0NU95L2lVR3VhOUhxVDhYVmV2U05hMFpNa01qTlVpMTc5UHJaQzZSdz06OsNEQDIT%2FGCkEQRU6C9gWLA%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101324/101324076.png" group-title="TV-PREMIUM",Авто плюс
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=auto_plus&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Wkl0MUpGcmM0bWpCKzIzOE1xY05DNmxHQktpN2tnNjRmV1JQc3R2L3dxUT06Ok1TGGfxBuIG82rWoU0x1hE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/11/162732/162732471.png" group-title="TV-PREMIUM",Наша Тема HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=nasha_tema&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=STAxNVRJWGUvYU9DcU5jTjdWSC8wU09OcU54RVVOR3g4Ymo0OCtaWWUyZz06Ol4CpSvLMv0mRFOqch7RC3Y%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1041s.png" group-title="TV-PREMIUM",Че!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=perec&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VTVqRTFPb0dRVnhYSkVDUFZUV0kvU0ZNVnVyOHZrQ1BhZWdSa1NOTmREWT06OobNEQHBmK71JnzAP0lubK8%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331400.png" group-title="TV-PREMIUM",Живи
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=jv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=V0MrVEYwYUZ6M0w5SmdldWNjTkpsMkRML3FRUi8wVWZxYjEyYlQrSlViZz06OsHNhWcwLJv0i%2FKLiyqzMDc%3D
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/khl_hd.png" group-title="TV-PREMIUM",КХЛ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=khl&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Z2pqYVlRWml2OVZqaGxXeG1zSWJjYnpQWXNRUUlvSWpMandPRXEyMkVYWT06OnziHLgIr4hGCoKOSAAoqUk%3D
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/khl_hd.png" group-title="TV-PREMIUM",КХЛ HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kxl_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=KzFmVGdHd3BEVjI0OGVwUXVsZjFFekRsUW4yVnpRdVRHdFcvV2FjU2VnUT06OgxFvAZ%2FdkBb%2FUpNtDXB5Gw%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630314.png" group-title="TV-PREMIUM",Матч! Боец
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=boets&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=RHptcWpUM2d2NTB5RE9qYi9vN2Z1WlNnb3A4T1JRdnVXTzh0Z1JSZjZEVT06Ovy0545GGp4746AWXFznJ3Y%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/25/197391/197391255.png" group-title="TV-PREMIUM",Футбол HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=futbol_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=SXROdVY3OGJTamhGYk9BZDBBYTlDaXV4Q3JkMktqaEhYWUMxbDg1UzZMMD06Ooz6o10Oi258uQp1NPg%2BDCY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/25/197391/197391255.png" group-title="TV-PREMIUM",Футбол
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=futbol&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=MDRzdlJzcjQvcWp5S3dIRUVWSlJUMC9zVjE1WjZSSi9mWkxicmFRYUxscz06OhPePiQ2qWYlsXss7pXfCdM%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/04/03/198503/198503442.png" group-title="TV-PREMIUM",Kazakh TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kazakh_tv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ZkN3UjB6R2pQM2RVSGhvZUNhREkzRUljR1V3L3o0QXhza0FqSzFKeDJrUT06OrRe0umGZDKrz3ilkSpysFA%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/12/10/26568/26568709.png" group-title="TV-PREMIUM",Russia Today 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=russiatoday&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=OU1Xa2NDRnk4ZDlRSkpqOHU1dHZFU1ZhNDUrOFlHalBEUnNkWmZmS2hJTT06Oo0IG2o%2FYfe2NgsKqKowGPk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2013/12/10/26568/26568709.png" group-title="TV-PREMIUM",Russia Today HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=russia_today_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NkFRcldhQ1hpd2xWQXl0YWRodHZ0RmxvQmM4bnVUdXNFZlpoS01LVFVObz06Omsuk2JBO9jDsXkNSBHL1s0%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078580.png" group-title="TV-PREMIUM",ТНВ-Планета
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=tnv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=MDhzdTJHSUhvallwZ1lIa0xmYVFHRk9PY0p2NWxMNzhlVHI2cEZSRW02TT06OgHrfPx0dljG41ASBc4FEAA%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1782s.png" group-title="TV-PREMIUM",1HD Music Television 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=firstmuz&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=VEdZWjNzcUpJQWc4Zks3YjhSMnROb3FJT3lJNkxyTFlwVXNRSE55L2E5VT06Ov%2Bd26VOnAjHNPG0KGrwPgo%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/09/28/105184/105184711.png" group-title="TV-PREMIUM",RU.TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=rutv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=SjZXK2ZBNk4vVGV1LytDOVRnMmJxeXRxcllTeU9Ua0FzRnFIRlQxN3U4Zz06OjZjTwENNS5CGv%2BhXNDrGKw%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1150s.png" group-title="TV-PREMIUM",Ля-минор
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=la_minor&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Zi9WSFpTa1U0bndzUmUzend1TE1wWWJoZjdRZm5uSVFMa3ZyVGZFdkFWND06OuhusOVmLocerSNjGw2YXsY%3D
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/muz_tv.png" group-title="TV-PREMIUM",Муз ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=muz_tvnew&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=L05ZdWtGZ285UW9YK0VIUlgydUxJa0F4dHZpYW1NdVE2Q1RQNFd2NFFubz06OrtDVzC5Uu9timTtfYtRExY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/04/105653/105653229.png" group-title="TV-PREMIUM",ТНТ Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tnt_music&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=bVhEb24xYU1LdU5BK3RNWXRSTUdDMGhxcitLSENya1EvbWZTUW1SQXNabz06OkStNmQHJXFnEbTiAZXYpWY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078687.png" group-title="TV-PREMIUM",Шансон ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=shanson&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=aTh6UnRuaVl3VWlSdkVDRXp5L1VNVzkrb1lBN1Z2bzVBYVJ0QUlicFd5cz06OvFB6Quh12tFd9QrT4CZvn0%3D
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/TiJi.png" group-title="TV-PREMIUM",TiJi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tiji&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cUpVeW1nNDhTTXRrV3NLSktsUkZUYmhZelU5N1IwcmtJL2IyaWVNeE4yST06OsmWhFHlm%2FPlRjYk9ZOHqhM%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106785/106785512.png" group-title="TV-PREMIUM",В гостях у сказки
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=v_gostyah_u_skazki&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=S3p4NWEzV0IzL0lTaklzSUFoVGY3Nmo4WWV4c0dESXdKdWJiOWJ2aUdudz06OpN05FkqNZ0vG4DaKWoKmEo%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/11/13/108639/108639592.png" group-title="TV-PREMIUM",Детский мир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=detskij_mir&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=QlVtUkIzc1dtRkFEVFlVT1VDNUYzM0ZabEZoYVNsM0JaRkRFOUU0a25abz06Ot9H4%2BCb624thczLPVKER2s%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/06/06/162309/162309593.png" group-title="TV-PREMIUM",Капитан Фантастика
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ginger_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=UjFwOCtKOTBuZ2o1Q0ZJdWgvcDBMbHBxVklmNk5NVXdDVE9BbVg3SXhKbz06Ooqhet8LNEwQSawOVAKQKY8%3D
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2587s.png" group-title="TV-PREMIUM",Карусель 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=karusel&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Ri9NMWFDbjhzay92TVYzUDRhQXJMZFQrdUdyL0w0WFFJTFk3dUJlL1hoVT06OlbAdCbRMlHE8M39xRXy%2BYA%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/20/183789/183789159.png" group-title="TV-PREMIUM",Мультимания
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=multimania&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=d3RzZTFVTitoWUl1TUpNbkZ3OHFPZEZKSzJvcW55ZUYvQjZvZXF0SkcvQT06OpTE5KevYMdTV%2FCe3%2BAYT0g%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/10/114204/114204538.png" group-title="TV-PREMIUM",Мульти
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=multmusic&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Yk5BVWo5WHNPWEI0ZmtMTGsxVzc1WXJsNDYyeU9ISE5XbW1GUVd2dm9Wdz06Ov9zDDFQb0oi0Pn8OH51XL8%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/17/192558/192558552.png" group-title="TV-PREMIUM",Радость моя
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=radost_moj&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=MStXd0xnczdUUmpvT1pxU2tQTnhlbnlObXFSQVFkNHJQMS95d2RCVlBBQT06Ok%2FEO%2BjeuxcTo32Q7KWc3Wk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078331.png" group-title="TV-PREMIUM",Рыжий
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=red&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=dlc2bUx2dEh4cUNIK3h3K2ZlREN5czRvOVg1MU42YjRtVWNzRVMxeHYybz06OtOFc4bN6Rrv2%2FRJrwbWnP0%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/28/180764/180764548.png" group-title="TV-PREMIUM",Советские мультфильмы
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=sovetskiemult&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=OTAralphWDh1amhLSlkrWmp5cElFTmx1Q1FjbFFHL1dsM3RjYnY4S2tKcz06OnaHWJ%2F1tltqeeUKn3JpEK4%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/01/30/189903/189903012.png" group-title="TV-PREMIUM",Уникум
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=forkids&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=c0poUUROTVQ1dFA5d0lIaXRBT3dnUG9BZmxteGxHdE5JS20yVG1QRGlzOD06OiJvjiSvYSm%2FlI1IHE%2BRhnk%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2016/05/31/70617/70617628.png" group-title="TV-PREMIUM",Союз
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=soyuz&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=SEwvYU9FUnI2K0J5YUlWd0RlQU1YUzc4MWV4OGpRdU5FdXAvRFNLcUpuVT06Om27U1lbN1qbwoWgQcOFX9g%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/03/03/194538/194538978.png" group-title="TV-PREMIUM",СПАС
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=spas&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Wk94cDZSZ3hqbGNINitOenFrZ3JRbXY1aXcrcWRQK1RDdzA1WS9CYy9LST06OkpY70tiexr7pffeFBPHrgw%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141610.png" group-title="TV-PREMIUM",49 КАНАЛ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=49kanal&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=LzVYaVdGdUVrT0VVS3dkSDIrczV0ck1YN1kxYUt2c09KS3ZqcklyVTJvVT06OktmaPGbWqTOJoJr2ulnuyw%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/01/101141/101141591.png" group-title="TV-PREMIUM",8 канал Красноярский край 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ya1pm&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=WVFFRWNnQzFTUzVnUi92akhGbk5GYlBQbGFkcW94SGVrN1JBWFRnMXVlWT06OrHOVyTJGNhVNwAhtESOsHQ%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/07/31/138060/138060849.png" group-title="TV-PREMIUM",Башкортостан 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=bashkortostan_24&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=TjFmTEc5MlNTOGlvdkdPWm0yL3RpaS9NODNMendvWmpsYnhQLzdYZVBQUT06Omx3tI7JAh%2BR4JFGb27SXF8%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/04/190812/190812111.png" group-title="TV-PREMIUM",ГТРК Кузбасс
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=gtrk_kuzbass&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=c1l3UWRYa05hYk9vSHZLemM0TjBPY3VzS1JZRVczSlpIemoyUWNadzFpND06OiwmK4VWhJCjfT3uDTK4I6I%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/04/17/158758/158758019.png" group-title="TV-PREMIUM",ДОН 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=don_24&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=dGh5Tkp4TUpQY1J3WUJUYUlTME0yRGZ2VnprRm5SeThvRWNqbFZLNjNuWT06OlkAGB15PWe8txCvFJceNTY%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/04/101331/101331388.png" group-title="TV-PREMIUM",Евпатория ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=evpatorija&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NFRTdktZNmVxS21DSGpaaER1M2FBRUFibHYycWgrdEg4UGFiY1NTdXIyaz06OqhgupRXwEfj3BIUvEfcRXo%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/20/192826/192826466.png" group-title="TV-PREMIUM",Канал 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=kanal_12&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=ajQ3UTQvSmsyRTdNdEt3TkRkNVJjRGc5andnQlZ4OUxrOHFFaGpoMDVsQT06OoVVzP5j8aLY94xB3qiyT3o%3D
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/835784890721107969/888566269379477524/Kuban24.jpg" group-title="TV-PREMIUM",Кубань 24 ОРБИТА
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=kuban24&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=Q1ZKQnRhMFFQVThQUEI3OVdUbWtybDY5SkNTczhWRWxXVjVTOTk1WlkxZz06Ok1XKJ5R68AVApxk%2FXwPaXQ%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694784.png" group-title="TV-PREMIUM",ННТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=nntv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=M2lCZ2hLQUlvOUF5dE41RkhqT29wcXJDeWxhbTJDWnpwaVpYdjhLbjZXYz06Oga0r3KQC6fZIGZkz3ZQvCA%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/06/15/131331/131331721.png" group-title="TV-PREMIUM",НТС
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=nts&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=bHJlTVVabjlRWG4wbTNYR293cU43QmladG91Vk1PMkxTWktQUE9zRzMzQT06OljVq1zDvehAHNEuJ6tHbxE%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/11/178769/178769979.png" group-title="TV-PREMIUM",ОРТРК02 КАНАЛ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ortrk12&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=UUZ6b3pFVGRBRmVYWWZoL0dVbmN4anliRnRMZDdncjM5TEtJdkU1ZkZ2ND06OmRPMu9jzDCiU0%2BHkTXkBXs%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/01/26/115379/115379376.png" group-title="TV-PREMIUM",ОТС HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ots&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=U1kwVXpLSW5INXlqVkkxT1I2a0NscGpySFdaL3c3L21HWXJ3TThBU2dRYz06OtVMCPjtnjC6cKSQ6rNjoIM%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2020/02/20/192827/192827284.png" group-title="TV-PREMIUM",Ростов-ПАПА
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=rostov_papa&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=MXV3T2F3OTlqdWR5MlJHRm1acTlRQVRSdmdYdXFRWkYxSVlWdGo0VHptVT06OgSYPDtZ4dPPi8i6Yh0o7Hw%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/12/12/182700/182700288.png" group-title="TV-PREMIUM",Салям
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=salyam&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=NmthWlBVTm84VWhlL3pTcEtOZWQ4cXltMXZsTXdsdGRCV2dmN2NJYnA3ND06OpHMd0WsgZh7nCvccbndlrQ%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/15/179004/179004102.png" group-title="TV-PREMIUM",Самотлор
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=samotlor&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cytWT1g5aDh2UjlVdFZ0b2VGUW5EaEdJYlR2ekdlUXVOYlJuQ1A3TDlNVT06OpiM3yUq4d91VqEjxdY%2BkRU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/11/21/179843/179843642.png" group-title="TV-PREMIUM",ТВК
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tvk_6&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=bmtncTA4Ti9UNGZacGlzamIxV3FtRGVzRDQrZ1FpNko0NEtSazVoUHNLUT06OqR4hZtIXDCc%2FmipHbz9nH4%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/14/102078/102078574.png" group-title="TV-PREMIUM",ТИВИКОМ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=tivikom&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=TVVVdFdnUDF3TnR0MVIxK2NwVDB5VTVNSWdsK25rd3RsdUozdlRZRnlvOD06Ooo5Nc%2BKGVbMV0XyVOIpmtM%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/09/101694/101694394.png" group-title="TV-PREMIUM",Еда Премиум
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=eda_hd&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=U1hDOFhRZm4wVGFWakwvQWpFRjkybU1sVTBoNWs5L0dSeXpNK0tsRURlWT06OhvJMpJlnLoDdoqmTdBTrv0%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/08/08/138528/138528225.png" group-title="TV-PREMIUM",Кухня ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=kitchentv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=eXVOVUFwTnpWY25ERklxckJ5UG85MEluK284MUlNM2dqTjJ6OVVZVHRKUT06OhVcPl01P3OJNLPffFF1WSU%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/10/20/106791/106791173.png" group-title="TV-PREMIUM",Первый вегетарианский
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=pervyy_vegetarianskiy&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=MVNSSHBJdnRZU1B1TFBYNE41RDlxQzdlRUpVRGxxbzhHUldnTzZNUERlMD06OlV%2BroC60PS%2FeFZqY2c9QKs%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630255.png" group-title="TV-PREMIUM",КРИК-ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=krik_tv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=cTl5MVA0TXYza3FiaXlzZ05ab2RaMEV6c1I4TDkxUHNkM25iSllpYkh3ST06OjOGXrSHZZViaYmHUr7JY4o%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630289.png" group-title="TV-PREMIUM",ЛДПР.ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=ldpr_tv&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=a3pHdldtQnhmT1RQOFRjK09IQXlpR2s1ZVUyb0ZwMjhRSjc1QUpsS1kxWT06Oi1cN5jR5Yw0FRPyrNjlLt8%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2018/02/16/117332/117332522.png" group-title="TV-PREMIUM",Мир 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx.php?id=mir24&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=N0JFOTROZ1BFc1U1OFpCRkxvUjgxRS9rOEc5a005T3g0dUt1bXBIb2xNMD06OoOMLVqPxamFX1YKa6poTow%3D
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2019/09/20/171654/171654801.png" group-title="TV-PREMIUM",Москва-24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 8.0.1;)
+http://list.onlinetv-sochi.ru:8080/live/arx2.php?id=moskva_24&login=Oleg21526&password=WORLD-SOCHI&OnlineTV=R3VkN2ZrS2dla0wvanliK3oyaEdLOTNnVFkzaE9xNmVIRDVHVlNKMStUbz06OtF7BDpSq12nRbmfV4v9ZI4%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч Премьер HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr01/hd1/NashFutHD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=R0xmSDMveS9wQk1ZS25LcENqVDI3WGovZUJCdytUeFhPYTlrK2F0WG1Ndz06OqsUNHSz%2Fkn7jEABDtAW46U%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Премьер
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/NashFutHD/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Y2FtcHFGTUdwM2kwTzAwVnpWNnIwb0g5WWsvZnJXeUhFR09MZVRGM1Z6Yz06OvYl%2BVcY%2BFS5bUCBhm3loPQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Футбол 1 HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=7nvenc/NTVplusfut1HD/71/fhd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZmMvT3hqM1B3eE1tTDhYWGNzbzgzS2hCclluODZudHpzZzlzNEFjb0dqMD06OsiDZ7l8cQSw5LmZV0LrhwQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Футбол 1
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/hd1/NTVplusfut1HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cmdxUW5DZEp2YXhOYmpSbHpRNW8yd1RwZVFZaXE1Y1FicjBtTnJRTU1TRT06OucsuvHLj7PSOpqKeap5DN0%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Футбол 3 HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/mobile1/NTVplusfut3HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YUk2ZEFqM1k1aVFPWm82dFRna21vQUI4ZUlDUGNVS2sxS3VFU0EyK0NUcz06OsytT3C9u5r60QPIf5rbcMQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Игра HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=7nvenc/sport2HD/71/fhd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WmRMbmVWTmpoelJlYk93b0Y3U1hQQkZYdVV1Y3RERTFKbjBWU3A4d3pPOD06OtIQ7TnJ%2BLxm00tCRemwoMQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Боец HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=4nvenc/boets&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RXNLOEZJSHJtek5lNlMyVjFPMHMzVUNkN0RXRlpSc2lucDlUclF5eXRJQT06Ola%2B52sLbYN59Y4Miv5ji4Y%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Арена HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/hd1/sport1HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MDBqdEIxUlZ1a1RyQTh0cUVYUEN0Q3V0a0RzcWFLSEVBeUh3UWtLbjg2cz06OhgMdWxoGSgyIb8f225Pyv0%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч! Страна HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=4nvenc/ntvsport&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=b3J1TERONmpKUG9iTXpGblhERVlieDhxZ3laaHp4NDI4YThONDZNWXF3dz06OtrJiqlLIe3KuUTbc2tznaw%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Viasat Sport
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=viasat_sport/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=R3BnWEMrVVNVYXpIS0IrOU1Ca2Jzcmx5WTdLeENtSlZZTUdPUDBXNjl4VT06Oooev7ZaZGcEUKC8jPCLjsk%3D
+#EXTINF:-1 group-title="TV-PREMIUM",MMA-TV.COM HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/sethd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aCs3ejRTYWFMSkp5eDhpVmpIQmlwRE15d2JXR2xiQ1NUWWlkdlBiekx3RT06OqB3CN0PntYYI96%2FbQhE6s0%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Россия К
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/kultura/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bE16NWxXOFVRUjYyaVNheWR2Rk5jY2plZzRDQTM5T3p6RjJTc2xYTGpTVT06Oj1DopTuxd%2FNJcc4fIDT6kA%3D
+#EXTINF:-1 group-title="TV-PREMIUM",ТНТ4
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=dvr02/mobile2/comedytv&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=R2dRbEVBSkVsazdOTnNuU3NiRzAyWWVjTGV6UnlYSEV5bzFQZy9leUZIZz06OupgWZokQr7bevceDogz6Io%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Viasat Explore
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=viasat_explorer/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SHFvbktCbFg2SkJlVG1ROFVzMWVQbWtiYTFSb0dFT2UzUGZ4dldFUEdHND06OtOHIRRHKw7xfKZxtnU%2FEjU%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Viasat History
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=viasat_history/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SHRkOUFFVGZsTEFJUnl4YzR6TlNvcUVCY05MdVk1ZFBnY2x0RUVqMGRhMD06OiubDUdknG0YDXUx7P0yjvY%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Моя планета HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/IQHD/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VGl1VjVmL1l2bCtsL3RzVHRKVWlJQjk5N3QyYWorV3grbjdJbG5QSWJkTT06OofXRnKdkqlZ18FVokXzKIg%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Первый космический
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/hd_eureka/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OUo2Wmd6ZjlGWElXQzZhMUIrc0xlT2k0emM2eHViWTNwb1Z5STFYOTNIaz06OgzmkGBF1VUFz6%2B1WLaOcMY%3D
+#EXTINF:-1 group-title="TV-PREMIUM",HD Life
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/hdlife/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OUZtMU1IOVl6U2MrMEU1VkF0elVTZlNQRi9FSnBDOXdzVjgzbzBvNXczMD06OkPjRErk%2BdzJyWY4gjIzNkc%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Большая азия
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr3/bigasia/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Mmtqalh4eTh3KzNCMXVqSXVQbVoyOWpIWG16RFlNQkc2dG5KaFZYWDJHbz06OjQHVI8Qo5MEFF6bXWL2uw8%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Ocean TV
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr3/ocean/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YnQvNGh0U05EZzFZWVNyY0JiNUpuTHgzOW04eEhKUHdCSm9HRmtYT1ltOD06OtM%2FnWROHXAY3t4X8RwoC3o%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Terra HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/natgeo_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Qzd4ZU5NTjNQUXlPVUlZQWdGWXh2eTh6SnVnL1NsY0Yrelpna2ZiV0RtND06OodAAhXdRxYMvtm2sXgHLPg%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Terra
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr4/natgeo/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=d1lCbzNxOVppbGtOZHJrYnAraUNnUW1BRDRNLzBaNDRGcGY1MnBSd0hOWT06Ok3bQwAuV%2B7Ud2TAS4pKgMA%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Наша Сибирь HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=nashasibirHD/71/hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VlplMGduZTNYeUJPZndpVGpEWjBoMXBZdGdWYUtrd0VLMUlzVXViWkF4Zz06OhH33u5%2FDKu%2FJbeP1FWhjXg%3D
+#EXTINF:-1 group-title="TV-PREMIUM",.Sci-fi
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=axnscifi/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bjR2bDE0dC9mTlhKRHRpWEhRYm5wb21PR0RjUVFacUpwQTUzSWVPQ0lBOD06OiF5e4xz5VasVQwlu2FJ%2FRo%3D
+#EXTINF:-1 group-title="TV-PREMIUM",.Red
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=set/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NjNJR3RCTmRiS2VUek5RZ3ArMEVYTDN0RVVsYyszWlJWanUxcnlrcWV0VT06OkBhf8WAfel4bQVQ2ZBMZJY%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Русский Роман
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=rus_roman/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=THJDZ2E0eEhhRGJkREg5WnZOMDNEZUZMaWhjT0U0QXNRTkZaRHpHTnl1ND06Okgp%2FlzK%2FnSrIltg2dIQU90%3D
+#EXTINF:-1 group-title="TV-PREMIUM",TV XXI
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=streaming/tv21/71/mobile2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=V0J6OWFWdVVJeTJqdUtVYWRINEo1MHNmaTlhMmIzODI1MUdkRENvaEpSUT06Ok30yMq47hWdHUvvKYLdJhk%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Феникс+кино
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=fenixkino/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Z2RmZ0hUYm5TYUdFMUErS1p2eml3T2orYUp6N3VPMTlpeWZaOXBWRi9lcz06OtJr7uAKWAbDaqcKsBtPtYk%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr4/mosfilm/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eGkyRmcvTENjTTNBUXBRbDZ0YmpkeGVGTjFsRW1mUU5sbkQ4M2dIbE5kcz06Ov5sVXcFssEgv%2B6EJYNSpPc%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Fan HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr3/fan_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WWE0RkdkZ0NwSVJpQmZWUDRHOFRUbzRxeWVIUDdFZFUwNnlVMnBCNVdsST06OrLBgI0gEYOl%2BKilwdxU1KE%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Победа
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/pobeda/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MExOaTZkVmtkaDJiYlM5QUNpb1hGRmxjWWVXVElwOEdOc1o0OTkwM0Q4MD06OkmguRvItUBd2Yx6BIDK5GA%3D
+#EXTINF:-1 group-title="TV-PREMIUM",TV1000
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=tv1000/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Q0hBSlNGakh0NkdjTlBqRnBaczkwdFlwWFVjSmtIdGQvWkd1R2dreVZSdz06OgMyeneQudOVhmgx9V1aHvg%3D
+#EXTINF:-1 group-title="TV-PREMIUM",VIP Premiere HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/tv1000_premium_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YWZDZ2xYNkZjSG1IMnlCZ3pra05zVUFpa0pNN21tWXhkL0RPUGdzZ1E2TT06OiaM2RYl3SJgXtbQxovVC2s%3D
+#EXTINF:-1 group-title="TV-PREMIUM",VIP Comedy HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/tv_1000_comedy_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MHRXRXc5emwxdW5NaTdvVUJWZkE3THNybnRkdVgzNDYvUGk1NGZNTEVZOD06Op9t90mRWfmTkVmllrOx16Q%3D
+#EXTINF:-1 group-title="TV-PREMIUM",VIP Megahit HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/tv_1000_megahit_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NjU2T3VlcDBLWWhCeHhCcDNOVm42WFIrajJhYndmRGJQeGNYY3o3QmxDWT06OsIjkEKYfcgLdlDeQA8STwQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",НСТ
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=nstv/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VHNoUFd0eHBKMjdYU2c1Z0VNWU9hR0NxWm1maUZnRG8ydjZRZk1iUjZuYz06Ovuf%2BxNGQ%2FeCzzVDWFfR4Hc%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Дом кино
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/domkino/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OXpEY0k5eG9QTEdkd2VWTWY2bHJFWHFIdE5GUUs2TlhoRkVFOE5yZmdyUT06Ordxee3tmYhH2TvxH7rBosQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Капитан фантастика HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/GingerHD/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bkgvdDNlSFlTT042S1NBZTV0OWFEWjQvbTd6VlNhb0drekR5NHAxTWpxcz06OmF6HVYxUfIxJEvauBLppaI%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Сделано в Кузбасе
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=sdelanovsibiri/71/hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=TVU5YW5kem1SRHd0Y1RDTXp5MlRtUE93QW1MSVFJOExjRlFIcCtudnY0QT06Oo9ifCsjvbB5YdGpvEwiwbk%3D
+#EXTINF:-1 group-title="TV-PREMIUM",RT
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/rtdhden/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UW5wMVBWaGNJZFd6WG1wZElIejJ4TERkUkV3cWdoMjVtWXBtTHc0RGtjWT06Ovp7%2FLUeN4JD0fXBvRXY%2FLM%3D
+#EXTINF:-1 group-title="TV-PREMIUM",RT Д HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/rtdhdru/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dkE5UkpMNTdpTzRrRzVOdU5IeTlSUnhBR28wMmw4SU5zUlIyVm55RXppOD06OuQLFGqyFm1H8mY5MMG6JwQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",8 Канал
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/8kanal/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WHI4ZEgvQzlqdTYzcjU3M1lPdlZHTXBmY1Z4cjZtb3pzeTZRKzMzT2xMWT06OmBSiSrctmbPCM9hj%2FK%2BIZE%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Суббота
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/super_sd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NERXMFB0ZUdhSFVxVVFJRzNXKy9LZTIzbHhOZVZoTFE3ODFsVWNrV0tpaz06OkEh9NMyHxQqtnTlZEVf%2FCI%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Авто плюс
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/auto_plus/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Y0JUdW9qVXFWOVhGRmxTOFE0WDIyQkc2cEhid0lVWXVhNnlwak5TU2hxcz06OhZCmxQjoM1h%2BUZOwmQOF70%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Спас
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/spas/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZFMrRVVTalRSNVR4VUNDdWJ0Q2dENVBNYVkzQW1DaVJQUWxWeDZBM1NLWT06OoWuv2byjtayRRzVAZW8D70%3D
+#EXTINF:-1 group-title="TV-PREMIUM",СТС Love
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/sts_love/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MG5SNXE5bHliZzdNUjZmWjV2dk9BaWxMSlBhcS9MVmdSRnNxb05UbjU1TT06OjZv1YMin9KU4mVnLmaDqY4%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Тонус ТВ
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/tonustv/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SytrRWhKSGgwQWZUT2pGRU5BcTlIK1A1b3BpZkY4MlI5bERoQW5UTSt1RT06OsVpNrqRujV6cEDzm2MZyUE%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Время
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/vremya/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZkxJWWZNQlBxTXhFVTVqY0QzZkZZN3Bkejk4dmhRazlYNFpqNzJuL1VQbz06Ov1fZx9LG0tg%2FcBASgRLcnM%3D
+#EXTINF:-1 group-title="TV-PREMIUM",360 HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=podmoscowe360/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=a3N6b1JsZ3NuTC9qQXB5ZVJlRGJjY3U2eDNkQmw5dnpJcHVYcWk3R3dYMD06OmXl7F1pEBEZXhDuIJrgo38%3D
+#EXTINF:-1 group-title="TV-PREMIUM",360
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/podmoskove360/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UXIvQmlwMDI4NkdVMDJNVmdCUzhaMUhKamprdlVTSU45QjU4K05TQ2RTWT06Ou2OF9hs8584Wqjn2CvM%2F1o%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Еда HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/edahd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RHpNdXRPNjZiMGJMK0tOaTlQVW9hNlRtQkpZb2diVWNKaWs4SmVKTVJNcz06OpRjOHnWzgz5Ii73KeBmsqs%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Поехали!
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/poehali/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eGVVTk9wcW45cGZTV2ZQYWVZWmxqOVM0cGVnWnhyK09mNFVmRE91cXdIZz06OsEk04pHUVDcABYRhol358Y%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Дорама
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr4/dorama/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Mnh2ZjN5cFIwSnNYL2RmdFlueVZmbEtyU2p3ZnFhZXRPckhLK3ppeXRHRT06OpzYs7h%2FauZ8lbFrquLvCL0%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Анекдот ТВ
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr3/anekdot/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dFdNM2xwenRSR1NwMit0N3ZWTENkd2hURElEZnNhdW05cnFvWXJMWUdwND06OmDVmGbnmZTyWwmvqcrRRLE%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Fashion TV
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr3/fashion/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OWJ6NnVPZTJrRVZPbzlSNnpZV1AwR1l0NXU3Z2ZkL2QxbzQvM0lPWmQ3Yz06Omj%2F2d%2BR5xfcm1%2BKcLPpV1Y%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Вместе-РФ
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=streaming/rzd/71/mobile2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NzB4Z05pNUp0d0NqTGM4S3UzcytOTXVDL0grY2kzSmFvdGFnOG50bFl6dz06Oo7xlJ49PTGP5TQMINDXRAE%3D
+#EXTINF:-1 group-title="TV-PREMIUM",5 канал
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=5kanal/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M2YydEs2M3AvUUluUWZXUEphdmpkTmtIa0NBYmFEYXlDOVNydUdFZkVBVT06On%2FLS07cOXBoiqDgsT8pY5Q%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Пятница
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=friday/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NHBmU1BOMlM1VTUvQVRRT28reTFxT0V0cDdIQ2tyVVlid3B2U2p3RWRFUT06Ok%2FbgTpkXt6bahDpmOvyRqk%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Живи
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=jv/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Y2ZmQWhwQXliSDVxWXRkVWdWVnBPc3JtdU9DZUg0WE56UFlUUWsrRGo4WT06OjEdRobACHosSY7zfWNZaN8%3D
+#EXTINF:-1 group-title="TV-PREMIUM",ОТР
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=otr/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZmdMd0h0UE1iL0k3VmhESXB0QTMwcmdsSHl4ZUp2VnVhNUNhdjRkbzFrVT06Opnof%2Bu96umFkuAyxloLPaA%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Телекафе
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=telekafe/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=R1RaV0xCMU5xMkM4dURzTlJTalFYWVQ2aVBSU2VzNTlxMmFWQjkxTmdJTT06Otn%2F2LIbKWffVZmL417QRpk%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Bridge TV
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=brigge/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WjFDbHNKUU5DWWFPQjNmaU9XZHgzQWIyOWtFSzNDUDcwNEl3TVUySUF6ST06OsuX8qSjmrx8TEy6lEKaBJY%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Bridge TV Русский Хит
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=rusong_tv/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aTBOREVid2pOWlE4ZHJYUHE3UDdiT0U5L00yOXlnRGxDcFVERFBsUGFmND06OsWtRn%2BNd6a8qt997KOeXgs%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Bridge TV Classic
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr3/bridge_classic/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cGNmMWNDTTd1M2lKc1VzNFUvTG42QnRPSWNiVmdCTkE2UlU3eDVqTWQzST06OvQ%2Bje1ZF2TN7G0y%2BMETCWQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Bridge TV Rock
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr3/bridge_fresh/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RGdlcWtBNDM0a0hjeHU0SmRFaUVqRW4ra3JiSERRMDNQQThPbjVNK0FPOD06OiV5wKb%2BlP2n8Cwb7eS4OQE%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Russian MusicBox
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=mboxru/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bjIrRHNDUElHVnRUNHBkYXpNYmk5eUgydVVmS2dOaXk2N3hlVkVlb3pHdz06Oi7m72VzdAwAEwa1BIJTfYM%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Европа плюс ТВ
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=europaplus/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SGl1eUk5VHk1aDIzWEhxeUtVeGhqSFk1ZGdwTmNjQitET3Foa2ZuK2FLST06OlW1Jx4ogUMX%2F76ltV6tupQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",ТНТ Music
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=aone/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=S3pEQnVPQlB0dHJBZS9Gd0E4ck1GQ1F5anJRYkVzZjlPUml0bHlTeVV0Zz06Oq1Jv%2F1MPXCLfbzMgKLoZcI%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Music HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/CMusicHD/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aXJEem1qVHhQVDZEbENMQ1RsUThFK2hjNStIY0N3SDFRSk5vemk3aXAyND06OiFtVouRdpMBRgAIt3Kc9H0%3D
+#EXTINF:-1 group-title="TV-PREMIUM",МузТВ
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=muztv/71/tvrec&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=N1BIRHVTck1TOEJ5eHF4bWhBOVlIbFVmWEg3QmJNekZUSktUd1ZxdTZGND06OoUnqpmxiz2e%2BaOmmv3Jr2w%3D
+#EXTINF:-1 group-title="TV-PREMIUM",360
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=streaming/podmoskove360/71/mobile1&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=S3hvSHhIK0VhUkZMcGk2dTRvMWRQdzVFcDUzeExIcmEzczdxVkJGZEdoYz06OitzpQXZusWbtBVrFNGivQw%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Бобёр
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/bober/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=K2crTTdTcHM4dzNqNXdoeDdTWlFXb3RjNVFLY1l0MXJmMmhyemxYZS9mMD06Oj%2FhKgXDtJ4AewO%2BKqAsY1I%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Мульт HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/tlum_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NnkzKzFFYmU1YjFKSDcrb0RLQ2ZZQzNzeGJjaDM5WWIyRWtrbGVqUWljcz06Otf7S%2BtpC69SYDT2jG4Y51g%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Мульт
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr4/mult/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eXVaZjlvQkhjbWRZMDBYNDk2TTlUUEYvZ1loTUY5enZMU3RqMWpubzh3TT06Op%2BkJZ82Uk0e42YDpnDn0qY%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Карусель
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/karusel/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aFpJVmFBUU9GWUkyZXZPNkJhV21ieDhIYXBSc3VJa0JjaU9PUXoyOXduND06OiIE78cQ4xRaRzXGXAN8Luk%3D
+#EXTINF:-1 group-title="TV-PREMIUM",СОЛНЦЕ
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/disney/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dmtDNElnOTNCR1lVMitKYWZMY2xWVTQwVXJkRWJQSFEyM0hvT3NTY1hYTT06OiDZ3DaSJ309Oik1SnHSd0E%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Уникум HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=detckiyHD/71/hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=L2RQSEFUSlR3Z0hhQmp6dld3d0hYbHFwSE54MENoT215T1NPMDhVSXBnTT06OqZZnIGMDWAVGX%2FLCBotcWI%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Матч ТВ HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/match_tv_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=b1BibVgyeTRnd01BZTlNeVlhWTgzaHROVjJJd282VGgwbUhVc3F1cDZWaz06OovnZkHdG51lyF46fhQA4iQ%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Телеканал Футбол
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr1/futbol/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RTQ4TFF5Q2VmV0RzV2ZkWFN6bDVLd3Q3cjducnNqRVhzc3lSbmIzRWxKaz06OuQYwl2QZpdVEmYawwbmS9Q%3D
+#EXTINF:-1 group-title="TV-PREMIUM",Viasat Sport HD
+http://list.onlinetv-sochi.ru:8080/live/bol_tv.php?id=abr2/viasat_sport_hd/71/copy&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=QnNkQXEzWUVVajVKQjgyMFUraGI5VUltWkQ1Wk80bUZqaTZTbU8wVjVtMD06OiQybJBJRaH2Xv%2BlJP7Fa%2BM%3D

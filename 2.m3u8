@@ -89,40 +89,12 @@ http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=M1_Global&t
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=M1_Global&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dlM1T1YySlRPbXpRT2hKOWZuZFdYUTZZWG1iczZkL2JpY0dIdzFtU1BZYz06OlPuH25rwtTWAwERlstnboY%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/2d7c9dd4-751a-4b28-819c-5de088ab7ff5/" group-title="TV-PREMIUM",MMA-TV.com
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=M1_Global&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=N2pDSFhVOTFCM0dZVmxzNnlvbW9jdkJBWjFjWWNlVnkyVHJWTzNESkFHQT06OqPL5FPrjGGvGFY8GLamxbU%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/12b0fc30-080d-4899-9200-305332f312f4/" group-title="TV-PREMIUM",Лапки Live HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=2498&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Z1NDVTZqTnBBbWl2UHhId1huQ2E4Ulp0bzZuaktQOVI4bnFPTHpPbFpkST06Ol%2B1sn%2BQxkCCg6PWTxce%2BKw%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/d493d544-2e7b-451c-92de-141ed00fe014/" group-title="TV-PREMIUM",Глухарь HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=2488&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MWljQWNpdXJLNDJxNjVxcW02cDB3UWc3Mll4L3FHcFZFZ1B5clJhOVpDQT06OjNU6qp%2FDN0E3iOQAfUNI8s%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/35c6869b-d2d1-48ea-8a52-277e28f4f903/" group-title="TV-PREMIUM",Советская киноклассика HD
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1414&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SnBWZ0R1M2U3Mm5ITEZQWkhjK2p6T0hIOUw0Wk01b3lKL1BTN0dTcDhtcz06OuAiWkqm8YFSAQ5CA1JjS0Y%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/f719b557-2204-4f60-bff5-9a4721905ef1/" group-title="TV-PREMIUM",Русский роман HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=89&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UWFXdk1tSGpJRTlENnUzaUd6UWxIWGhpejg5SjUzWVdzN2F2UmFiU3RPVT06Ohs%2Bjqm2wWg9K8YHqbpOPzo%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c712f20d-8401-40eb-8d4e-c3ff4179c2b3/" group-title="TV-PREMIUM",Премиальное HD
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=286&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YXI4VERLSmcrRWE0YTdYN0dNelpYQ2JuUlN2TVMrS2ZtQy8wNVdLVFlDMD06OmVcOpNw5kdoLnn%2BXnlDQho%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/94cca601-31d8-4ca0-b440-1579c8183c88/" group-title="TV-PREMIUM",Шокирующее HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=298&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MDBPbkpLb2pMdVdrQkg4WitwRElxQnk0cFJLbEZJcXIrVGpkZTBtdDV0ST06OkjktGv9Vb5JWrQ6zKcXBzw%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/2bbe2760-9460-487c-bf9d-ae8882a060f3/" group-title="TV-PREMIUM",Остросюжетное HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=292&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SGlaZUpJMXBvYTJPMDRWMWdOenhrY0VQQm9NUldibHZHejJmNGNoVElMYz06OuNdxm23YgwYBZ2SbH8YYTA%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/befcb715-4d18-4b7a-b1e6-0dd423da03d7/" group-title="TV-PREMIUM",Комедийное HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=297&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=TVR3bmtzMkhaTmN5VWhucENxWC9ZZE4wYVhMNWNxMkpobEVLb0IvMWxzOD06Oj9joX4b8v14ya3Y27ICIRY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/72f7684b-c698-44cd-a7b3-3d14915a8270/" group-title="TV-PREMIUM",Любимое HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=299&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Qys4cVhZNE1PZXpiRkVISlNYZGdvSjVqU3lROStqdVY4RWEzSU1tbCtrbz06OvGiAWjzwN1y0l33mjILyEQ%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/f65e382f-6c49-4b4f-82d6-e844626abff9/" group-title="TV-PREMIUM",Душевное HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=331&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RmtqMWU5QXUwdjBSS1ZUekI2TnVJSklDbzNJZ0lyNmJiMnpuSEFTQkFsQT06Op38riXMRL3oZsoKaKnxKSI%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/2565aa82-ad7b-4c52-be14-83b263d67807/" group-title="TV-PREMIUM",Наше HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=333&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Z2M5bHBDK2tvckRPRGJxOVVwKzJtWGNYc3VUOHVMdzdUa1JTZmtIM0pxTT06OmOZszyBG3HVEv%2Fwqe1pNEs%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/cff8ff69-2409-4940-ab45-b940f8413657/" group-title="TV-PREMIUM",Криминальное HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=2148&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RllkOVpyd3IyTCtvS1ZXU1VIZVZ0ZUM1NmFwVUM0MGp2TktteTZ6UnFTST06OouPuTDw0fiM85ctmyTY2jc%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/23e597d6-c25d-48a7-a4b3-ae482422bc31/" group-title="TV-PREMIUM",Романтичное HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=935&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UmQxcUtrRUhoajlwNUNYMCttQ3hBSzZOdUYzaUhmOUtmcTgrbXZSbHM2dz06On99RA%2FxdqLc7ePi54zpoF8%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/0c96dbe9-8771-410a-b0ff-d33ecf9c50ce/" group-title="TV-PREMIUM",День Победы HD
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1501&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MVNIeHhTNktLdm9tODJpR2RkRm8vYjhWVFdKaE1ralhIZUk1Z084RDhTbz06OsNWqQBx97%2FVcIl4McdKMTY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/075d1ce6-13e3-493d-b280-802195b160d0/" group-title="TV-PREMIUM",Арсенал HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1335&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NWV6TDhpTkdSaTJtYnRMODdLRnk2NFNsejBJWW11a3plYzYwSDVXbVkzdz06OmtiliIYFXU5LuRHfT4XJLo%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9717faf2-97cd-488c-82b8-30601223c659/" group-title="TV-PREMIUM",Наше Мужское HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1405&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OVJ6VTdNbmdiUUFsMXh5MWVoY2xOZ0g4T3ZnMkJoYUN0aktmcHhUc1kxWT06OouFMBMsej1Op0At49lsgBw%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/4eaf1fee-f921-484c-9b26-110fcfb35faa/" group-title="TV-PREMIUM",Хит HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1406&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UXpGblM4WlAzVTA2L2ZpN05RMkw4WXl5MVZqbU9YN0ZOa0ZDb1VsN1EyVT06OujEbAv%2FXFSVkfBo08JUnFM%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/e728c437-9444-48e7-885a-ea25529a6b30/" group-title="TV-PREMIUM",Блокбастер HD
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1407&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ekxzbDZ6TlJldW1ZVTZuRTQraWduZkZ1cjlSczZaSktxL0NVc1l2b3JrMD06Og3iHiMS7egGgwyVYKTS3f0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/b7e0b762-dbed-4126-8116-74771eb69353/" group-title="TV-PREMIUM",Камеди HD
@@ -139,20 +111,6 @@ http://server-1.onlinetv-sochi.ru/live/server-2.php?id=247&token=T2xlZzIxNTI2Old
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=301&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Z204alF3SnI1cEtiSmVNSWlzY3czc1NrNUs5c2Nzb2NHd3NNaXdtREorRT06OsmZNU%2FU0y8rOWPtPsYizN0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9ce4e216-d719-4af8-849c-51c212a0ef99/" group-title="TV-PREMIUM",Русский бестселлер HD
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=350&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M1lHbkMxNjAwZXlWeGY4TWdkRGg3TURWMHpwdEZQOHlTMW9Vc2x2YnIwOD06OiiCHfx7JnNaiTj4jFV37jA%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/875b1fa3-6209-471a-b757-3fa8c729f3d6/" group-title="TV-PREMIUM",Комедия HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=825&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=TEhmTHdOYXNiSlZGbW9pODc2cHNyUHc3bWdYa2pjRGtPVDQ4QlNZL0JhUT06Oor0WiH8CAP7mbiS4%2FijFDY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/81c82306-024d-4d58-b27d-40acfe8699c6/" group-title="TV-PREMIUM",Следствие вели HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=838&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SklQS3hDM0dLNTZ3ZlVPQklGZWFYR3NtaWxid2V2NU80MTlIWEhPdExjMD06Otvspp0S%2FTEuI5QPqs%2BCn%2Bk%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9fda8a2f-348f-4732-ab58-4a5834b334ae/" group-title="TV-PREMIUM",Scream HD
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=2179&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Yk1vem5ISEUyL2hrZlByd2NlcjR4L29SbklPT01qZTFBa2dkRENhRGFlOD06OusvrqcoGEJ9JDNX7%2BPQtmc%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/08c2811c-8f57-4061-86a6-4c6ae4821360/" group-title="TV-PREMIUM",Kinojam 1
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=2071&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dUU2bnAxWG41d0tCNUNrRDZhWlhKSDZaVnZWZUtFMC9jczFGazVYdEdRST06OnXXRzIBVrDUxQY0BoDv8ps%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/8c5ee196-8358-43de-8679-86f4e17d663d/" group-title="TV-PREMIUM",Kinojam 2
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=2070&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=L0V3dTRTbHgyd1FHS29sQTFLbGprMUUwQzJ2cXNmdk04YW1zdTBBSW5OYz06OqdDa1JQAnXVY0%2BA5%2Fhk1m4%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/5281f9e0-27e8-45fc-8083-5b41a4929e2d/" group-title="TV-PREMIUM",Дорама
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=881&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WjJMT3Bvc2R3YkVVYWROeEtSVlZIeDUrRHh0dWx6bERmZFVJTmZmZFRnMD06OrOgyKFux2DPup%2BK7Ttk4Jc%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/ec9c8ddc-4afb-4d9a-8fa8-16746d179204/" group-title="TV-PREMIUM",Cinema
-http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1000&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WVlKVEI4Ulg5Y2c1ejByZXJzWEJsWGNEclk2RE9IakwvZXJmcEJ5dkVZYz06Og8LO2uewJHnXJDaZWhEwS8%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/f056e675-39e6-404b-9492-4668bb5491cd/" group-title="TV-PREMIUM",ПОБЕДА HD
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=Pobeda&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=c2EraitROXZZTGJiRXJHSzI4bnprYjdOVE1uRndNY2FOZXR3UVVneFZiQT06Oi%2FXzfGuCNq8L%2FHOGBscsCA%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/f056e675-39e6-404b-9492-4668bb5491cd/" group-title="TV-PREMIUM",ПОБЕДА FHD

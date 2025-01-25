@@ -14,7 +14,72 @@ https://dl.dropbox.com/scl/fi/pb3b93829fzxkggshq2fb/PAY.mp4?rlkey=wcnf8zgla3pfv4
 
 
 
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
+http://list.onlinetv-sochi.ru:8080/live/movix1.php?id=6882501&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aG5QbU5ZQ0lWd2xKeGoxK21QMnpYUXdKV3AxVnd6RURMRXlVZEpvcFlBVT06OrbAM6ynVWKvkyKsLQ4hHVU%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="TV-PREMIUM",Россия 1 HD
+http://list.onlinetv-sochi.ru:8080/live/movix1.php?id=6882528&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YUN1U1lEdHZtOEN6ZVlaQk56Q1M0ajFvamNIVFREa3FUaUY3RE40TG5nYz06OvxDbfmztk%2FPBzSqZn%2FRWxc%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpyGMwb4Gle19kPLKn.png" group-title="TV-PREMIUM",МАТЧ! ПРЕМЬЕР HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=МАТЧ!_ПРЕМЬЕР&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M3BEWjlYZHdJWUpab2s4SWN4cWtCR0lCc041bHVhbzBsdDZjbWh1Qm9xTT06OrQ932iBmXoXA5Tl5HAf%2Bus%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX6BZzy8dek2wvP5gW.png" group-title="TV-PREMIUM",Матч! Футбол 1 HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_1_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZDJ4VXhRS3ByL0RHSDF5R05NWEtTTUJONGZZckVpdUJ3eWNXSXk0d0xGZz06Oqu1HTAXc9MRihYgRZ7tq9E%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYerxVkQXvADRObGP7.png" group-title="TV-PREMIUM",Матч! Футбол 2 HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_2_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=akNFSzUvY04wcXB1NU5WZk1WMzFQajc5dzFYZ0FEZEM3bEg3bFJ4dHgyZz06OqoZ6C3Gv%2F7xu9yQYiWVvE0%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxBvAx0PGQ4d98RpY2O.png" group-title="TV-PREMIUM",Матч! Футбол 3 HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_3_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aUxRYnFPVFdQTE9mdS95RGVwdkg2QW9rb3Q1dUFOV2MxbnVFbktSbm5pOD06Onf2ewSes328AI92wm2%2Bt%2FU%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPayMDE1bQl3R4Gyan.png" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Мосфильм._Золотая_коллекция_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=TFRXQTh4YXBhSDhTanNya3FMRUZDeUdkbGZjemx2cmg1UmdzYk5kdFZjMD06OlBJcruZyc3X7WUhXnMsiMk%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4XJ1xw1B4J20a7VGdn.png" group-title="TV-PREMIUM",Start Air HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Start_Air&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RS80MGduZXZ0Vmx5ZnVTK2t2WEh3bm1nZGpDcEJuY212TVdGOE9TQ1NxVT06OkNlT%2Fi1nYUmlw%2FjegVx2wQ%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXW0ozy8dek2wvP5gW.png" group-title="TV-PREMIUM",Кинокомедия HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Кинокомедия_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eXhrSm9lbG1ERmVyZnN0WTRDVnMzZkFSNTNIRVpnMTBYUVBOMzAxL0h2az06Oo2Fu0MvUbPFd4KtcWWmRu0%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1aaZ68y35DwQnGrjA.png" group-title="TV-PREMIUM",Наше новое кино HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Наше_новое_кино_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=QnMvY1VvM2VlN0NxL3lPNlZqMDAzL2hmWUl0KzBoOFEvYm15VGZJZCtpST06OgkpR03u8jj09GZocnGqcNA%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdEGorv4jR21qgEADK.png" group-title="TV-PREMIUM",Кинопремьера HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Кинопремьера_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=a3VYdzBvNm5pWE4yVnpsOElzeXByMDJwcWQrdzJMVlIxeUsyUzlPL0lwTT06OgpqahTTp3U5DTjBWSuScU4%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrKaZQ3EDLAN4b5ryw.png" group-title="TV-PREMIUM",Индийское Кино HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Индийское_Кино&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cGtYNm5TZ1BZckMwNkxlQ3g3T284WkFzNE53bEdaY2I5WktFSVhtaWhzYz06Ol0XbZmAGbNgbqIZZj4PRgA%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWwJZDl0bAWz7dvkJR.png" group-title="TV-PREMIUM",Amedia 2 HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Amedia_2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OFY2RS9mOWlPYU03eXBHZUNtZXhMZU1yRjM0VmI2emsvSFNCTDkvaGpNOD06Ohef5hTDHzba9sIPh7f146E%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNyDoYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Amedia 1 HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Amedia_1&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OUptOSs3UU4rdEhuVElEdnpHY0hzcUZXS0o5Ym0xNitFV0NBazJ1WTB2bz06Ojg1Xq37Emim2NuKYRmny3Q%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEQYZOpLmdwRrqXgvP.png" group-title="TV-PREMIUM",НСТ HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=НСТ&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Rm5jU00zem53bXAyNk5TdzlEVHkvNWZZZzRxdkdheUFmbFBJalVsTTN6TT06OjdbDCeBE7yLPmfyNDqsmWQ%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRRzLxn5k71JNgAKrml.png" group-title="TV-PREMIUM",Romance HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Romance&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M0pOMUxjTEwxZmtUbjI0Mzk5WXduRnhVaUFWalhnVXJpNEtEajc5WkhGdz06OvacUjdfHo2BVV6zXZ0W3CY%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeJkroVW8J7GyvOXld6.png" group-title="TV-PREMIUM",VHS-ка HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=VHS-ка&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WFgzb2NEdHdVWGtBNmRQODhIWU9pZW83UTZCU2R3RzdDWXRxM3hibWg4UT06Opjsl5ssw2Eekw6QXlnWOIo%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQY7MBOnNdRr06XV32.png" group-title="TV-PREMIUM",E HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=E_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VkJwZy9RNjhZdlpXVTVOZGtkVlVrcnRsTnFjdWlaUFZwM04waDVnQythMD06OkUQSAkM%2BLrSbu49rxL0dfI%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGyzmxV6AOrqyjw9z1W.png" group-title="TV-PREMIUM",MyZen TV HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=myZen.tv_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UHhpNHBPb3lVU1o1endkMlA0Q29UNmNoU254SWpsWmwvT1FlNEJCN2g5dz06Olq7Qm40FG%2B3sYagDEvXb2Y%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/61almfgoyqat07dqm30ze/1HD_music.png?rlkey=ixbf6p8vk0win1a3jtsahwdw3" group-title="TV-PREMIUM",1HD Music Television HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=1HD_Music_Television&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RVFyZEErWDlTS2c2YldOS294QUZCRENCclIrTlJGY0Y4ZTcraWg4RkZFHDz06OsM7Gh%2BxXFzzqvNKGIvp7wM%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6PgxNEqAYzmrVWyjg.png" group-title="TV-PREMIUM",Телекафе HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Телекафе&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NEU1SkVWQ3VlTndyb1hFHDU91L0dsdFN1aTRQejZQY21mMXQzY3drcnV3az06OjILY%2FAUF7EadSnudY%2FbTec%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBY0lo0PGQ4d98RpY2O.png" group-title="TV-PREMIUM",Кухня HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Кухня&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=TnVNSjMwSWZlYkVBdk9BWU9HQUd2TjZuWFd4TGRRbitBYWJuU3g0L3FMTT06Oo5dAjrHwsZPEyU6bApdQv8%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZE55ZOpLmdwRrqXgvP.png" group-title="TV-PREMIUM",НТВ Стиль HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=НТВ_Стиль_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WjVRc1dWWDNDVHhqOVJDM0ZUOWhZSWFpN3JlY0JDbnIvU1dMY2VLbFJ0az06Ok3brCmP41FsY6Ze08LJ%2FbQ%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolOKZWLRnbqy328jAv.png" group-title="TV-PREMIUM",Живи HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Живи&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eU9oQU4vRWc0d0FmYmNvSm1YS1BHc281WHJMb0xsOVlTbm90SEVZbkh4ND06Ok1tbMVjOyg454MlBdNvb%2FY%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx8yzpM1ELBXGWRzPQ0A.png" group-title="TV-PREMIUM",360 HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=360&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=czB5NSttUmtYbFRxVjdpQXdoUUNtRDZBQWx2RURNazZ4WlBwdnAwSlA0OD06Oqg3OTeLJt8H1cjGR047QEk%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgjVNxYN1Lr2PjakdQv.png" group-title="TV-PREMIUM",Лапки LIVE HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Лапки_LIVE&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Y2JLVTJQOU9lVjcvZG1nQmJBTlZSWkdNamozakY4MENHVFFPRFRNejYybz06OvshjVsRMb8yw%2F12CinTQFk%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/a2dV6vG79n1geMrzQbMQ3EDLAN4b5ryw.png" group-title="TV-PREMIUM",Еда HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Еда_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RVhmZVBNMU4vejFjemtVSVJwbGZkMnpuY0c4Znk5YnZQMXUxdHhRRnhhRT06OnppZgTrDxlYvAOdzcjI7ps%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5JY8oe8pm3LXjzgkQ2.png" group-title="TV-PREMIUM",Аппетитный HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Аппетитный&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cUcyREUxY21QdFV2dUxLRmxpa0I0Z3lZS2duOWFEY0xlemcyRVVWNHBNRT06OiFPbS1%2FCC87J9WI5ISc%2Bas%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089Zq4jBM2yrY7KNbnjLzG.png" group-title="TV-PREMIUM",EPIC HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=EPIC&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VDV1azhrdDRmTHJXUi9Fc1RxWitNdU81TmFlaUNTdklZaWJpLzNPNGF2bz06OnbdaVTXDMS%2BekzjGdKWpsQ%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB82Z0PGQ4d98RpY2O.png" group-title="TV-PREMIUM",Киноужас HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Киноужас_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RWFnbks3aHFJSEpyakdOcU9rdjVhL0tuYjhwMitESDVjVEJkMXNjSTFXUT06OnVD6sM%2F7CG%2BsbsouM14wXM%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xjWEM0eNRPLK49Odlv.png" group-title="TV-PREMIUM",Дом кино HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Дом_кино&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=N3hpbDMrZVFaL3RFMTc5cDNUSXRHbCsyOHVnWWNUSUtQN1ZTc3YzaEJzQT06OjJFmkrVgSXtpVnVdtm6q1I%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/124fdace-9d4f-4192-9597-01ab6d4fb0f9/" group-title="TV-PREMIUM",Дом Кино Премиум HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Дом_кино_Premium_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UmQ5b05zZURHNktkVmFiL2hlb3pZK2VtVFJ1UkpzbllsRHpZQlhDanFsUT06Ov%2Fa6YMNixdxmXPinO%2FnTY4%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWOQdZDl0bAWz7dvkJR.png" group-title="TV-PREMIUM",САПФИР
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=САПФИР&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=L3B0RmkrQWtjNlVqWFlQZm1NZE5FaldVcy96cC9tZWM1RlphU1gzWS94bz06OgbB6KrjoJg11an4Mah7yfk%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovGBxy1vm7j4wQWYnR.png" group-title="TV-PREMIUM",Диалоги о рыбалке HD
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Диалоги_о_рыбалке&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UlY0akdOb1lZQTZBbDREU1dySjNIQXBBNDhSYWtCZEFDejdpMVhSbUdNUT06OiFkUk15JyONAj5F2qaDYYw%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4E8OMw1B4J20a7VGdn.png" group-title="TV-PREMIUM",English Class HD
@@ -131,73 +196,6 @@ http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=M1_Global&t
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=1414&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SnBWZ0R1M2U3Mm5ITEZQWkhjK2p6T0hIOUw0Wk01b3lKL1BTN0dTcDhtcz06OuAiWkqm8YFSAQ5CA1JjS0Y%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c712f20d-8401-40eb-8d4e-c3ff4179c2b3/" group-title="TV-PREMIUM",Премиальное HD
 http://server-1.onlinetv-sochi.ru/live/server-2.php?id=286&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YXI4VERLSmcrRWE0YTdYN0dNelpYQ2JuUlN2TVMrS2ZtQy8wNVdLVFlDMD06OmVcOpNw5kdoLnn%2BXnlDQho%3D|User-Agent=1/.index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
-http://list.onlinetv-sochi.ru:8080/live/movix1.php?id=6882501&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aG5QbU5ZQ0lWd2xKeGoxK21QMnpYUXdKV3AxVnd6RURMRXlVZEpvcFlBVT06OrbAM6ynVWKvkyKsLQ4hHVU%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="TV-PREMIUM",Россия 1 HD
-http://list.onlinetv-sochi.ru:8080/live/movix1.php?id=6882528&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YUN1U1lEdHZtOEN6ZVlaQk56Q1M0ajFvamNIVFREa3FUaUY3RE40TG5nYz06OvxDbfmztk%2FPBzSqZn%2FRWxc%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpyGMwb4Gle19kPLKn.png" group-title="TV-PREMIUM",МАТЧ! ПРЕМЬЕР HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=МАТЧ!_ПРЕМЬЕР&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M3BEWjlYZHdJWUpab2s4SWN4cWtCR0lCc041bHVhbzBsdDZjbWh1Qm9xTT06OrQ932iBmXoXA5Tl5HAf%2Bus%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX6BZzy8dek2wvP5gW.png" group-title="TV-PREMIUM",Матч! Футбол 1 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_1_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZDJ4VXhRS3ByL0RHSDF5R05NWEtTTUJONGZZckVpdUJ3eWNXSXk0d0xGZz06Oqu1HTAXc9MRihYgRZ7tq9E%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYerxVkQXvADRObGP7.png" group-title="TV-PREMIUM",Матч! Футбол 2 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_2_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=akNFSzUvY04wcXB1NU5WZk1WMzFQajc5dzFYZ0FEZEM3bEg3bFJ4dHgyZz06OqoZ6C3Gv%2F7xu9yQYiWVvE0%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxBvAx0PGQ4d98RpY2O.png" group-title="TV-PREMIUM",Матч! Футбол 3 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_3_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aUxRYnFPVFdQTE9mdS95RGVwdkg2QW9rb3Q1dUFOV2MxbnVFbktSbm5pOD06Onf2ewSes328AI92wm2%2Bt%2FU%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPayMDE1bQl3R4Gyan.png" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Мосфильм._Золотая_коллекция_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=TFRXQTh4YXBhSDhTanNya3FMRUZDeUdkbGZjemx2cmg1UmdzYk5kdFZjMD06OlBJcruZyc3X7WUhXnMsiMk%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB82Z0PGQ4d98RpY2O.png" group-title="TV-PREMIUM",Киноужас HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Киноужас_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RWFnbks3aHFJSEpyakdOcU9rdjVhL0tuYjhwMitESDVjVEJkMXNjSTFXUT06OnVD6sM%2F7CG%2BsbsouM14wXM%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xjWEM0eNRPLK49Odlv.png" group-title="TV-PREMIUM",Дом кино HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Дом_кино&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=N3hpbDMrZVFaL3RFMTc5cDNUSXRHbCsyOHVnWWNUSUtQN1ZTc3YzaEJzQT06OjJFmkrVgSXtpVnVdtm6q1I%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/124fdace-9d4f-4192-9597-01ab6d4fb0f9/" group-title="TV-PREMIUM",Дом Кино Премиум HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Дом_кино_Premium_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UmQ5b05zZURHNktkVmFiL2hlb3pZK2VtVFJ1UkpzbllsRHpZQlhDanFsUT06Ov%2Fa6YMNixdxmXPinO%2FnTY4%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWOQdZDl0bAWz7dvkJR.png" group-title="TV-PREMIUM",САПФИР
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=САПФИР&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=L3B0RmkrQWtjNlVqWFlQZm1NZE5FaldVcy96cC9tZWM1RlphU1gzWS94bz06OgbB6KrjoJg11an4Mah7yfk%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXW0ozy8dek2wvP5gW.png" group-title="TV-PREMIUM",Кинокомедия HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Кинокомедия_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eXhrSm9lbG1ERmVyZnN0WTRDVnMzZkFSNTNIRVpnMTBYUVBOMzAxL0h2az06Oo2Fu0MvUbPFd4KtcWWmRu0%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4XJ1xw1B4J20a7VGdn.png" group-title="TV-PREMIUM",Start Air HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Start_Air&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RS80MGduZXZ0Vmx5ZnVTK2t2WEh3bm1nZGpDcEJuY212TVdGOE9TQ1NxVT06OkNlT%2Fi1nYUmlw%2FjegVx2wQ%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1aaZ68y35DwQnGrjA.png" group-title="TV-PREMIUM",Наше новое кино HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Наше_новое_кино_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=QnMvY1VvM2VlN0NxL3lPNlZqMDAzL2hmWUl0KzBoOFEvYm15VGZJZCtpST06OgkpR03u8jj09GZocnGqcNA%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWwJZDl0bAWz7dvkJR.png" group-title="TV-PREMIUM",Amedia 2 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Amedia_2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OFY2RS9mOWlPYU03eXBHZUNtZXhMZU1yRjM0VmI2emsvSFNCTDkvaGpNOD06Ohef5hTDHzba9sIPh7f146E%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNyDoYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Amedia 1 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Amedia_1&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OUptOSs3UU4rdEhuVElEdnpHY0hzcUZXS0o5Ym0xNitFV0NBazJ1WTB2bz06Ojg1Xq37Emim2NuKYRmny3Q%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdEGorv4jR21qgEADK.png" group-title="TV-PREMIUM",Кинопремьера HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Кинопремьера_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=a3VYdzBvNm5pWE4yVnpsOElzeXByMDJwcWQrdzJMVlIxeUsyUzlPL0lwTT06OgpqahTTp3U5DTjBWSuScU4%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEQYZOpLmdwRrqXgvP.png" group-title="TV-PREMIUM",НСТ HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=НСТ&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Rm5jU00zem53bXAyNk5TdzlEVHkvNWZZZzRxdkdheUFmbFBJalVsTTN6TT06OjdbDCeBE7yLPmfyNDqsmWQ%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRRzLxn5k71JNgAKrml.png" group-title="TV-PREMIUM",Romance HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Romance&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M0pOMUxjTEwxZmtUbjI0Mzk5WXduRnhVaUFWalhnVXJpNEtEajc5WkhGdz06OvacUjdfHo2BVV6zXZ0W3CY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrKaZQ3EDLAN4b5ryw.png" group-title="TV-PREMIUM",Индийское Кино HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Индийское_Кино&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cGtYNm5TZ1BZckMwNkxlQ3g3T284WkFzNE53bEdaY2I5WktFSVhtaWhzYz06Ol0XbZmAGbNgbqIZZj4PRgA%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeJkroVW8J7GyvOXld6.png" group-title="TV-PREMIUM",VHS-ка HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=VHS-ка&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WFgzb2NEdHdVWGtBNmRQODhIWU9pZW83UTZCU2R3RzdDWXRxM3hibWg4UT06Opjsl5ssw2Eekw6QXlnWOIo%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQY7MBOnNdRr06XV32.png" group-title="TV-PREMIUM",E HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=E_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VkJwZy9RNjhZdlpXVTVOZGtkVlVrcnRsTnFjdWlaUFZwM04waDVnQythMD06OkUQSAkM%2BLrSbu49rxL0dfI%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGyzmxV6AOrqyjw9z1W.png" group-title="TV-PREMIUM",myZen.tv HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=myZen.tv_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=UHhpNHBPb3lVU1o1endkMlA0Q29UNmNoU254SWpsWmwvT1FlNEJCN2g5dz06Olq7Qm40FG%2B3sYagDEvXb2Y%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/61almfgoyqat07dqm30ze/1HD_music.png?rlkey=ixbf6p8vk0win1a3jtsahwdw3" group-title="TV-PREMIUM",1HD Music Television HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=1HD_Music_Television&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RVFyZEErWDlTS2c2YldOS294QUZCRENCclIrTlJGY0Y4ZTcraWg4RkZFHDz06OsM7Gh%2BxXFzzqvNKGIvp7wM%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6PgxNEqAYzmrVWyjg.png" group-title="TV-PREMIUM",Телекафе HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Телекафе&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NEU1SkVWQ3VlTndyb1hFHDU91L0dsdFN1aTRQejZQY21mMXQzY3drcnV3az06OjILY%2FAUF7EadSnudY%2FbTec%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBY0lo0PGQ4d98RpY2O.png" group-title="TV-PREMIUM",Кухня HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Кухня&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=TnVNSjMwSWZlYkVBdk9BWU9HQUd2TjZuWFd4TGRRbitBYWJuU3g0L3FMTT06Oo5dAjrHwsZPEyU6bApdQv8%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZE55ZOpLmdwRrqXgvP.png" group-title="TV-PREMIUM",НТВ Стиль HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=НТВ_Стиль_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WjVRc1dWWDNDVHhqOVJDM0ZUOWhZSWFpN3JlY0JDbnIvU1dMY2VLbFJ0az06Ok3brCmP41FsY6Ze08LJ%2FbQ%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolOKZWLRnbqy328jAv.png" group-title="TV-PREMIUM",Живи HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Живи&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eU9oQU4vRWc0d0FmYmNvSm1YS1BHc281WHJMb0xsOVlTbm90SEVZbkh4ND06Ok1tbMVjOyg454MlBdNvb%2FY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx8yzpM1ELBXGWRzPQ0A.png" group-title="TV-PREMIUM",360 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=360&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=czB5NSttUmtYbFRxVjdpQXdoUUNtRDZBQWx2RURNazZ4WlBwdnAwSlA0OD06Oqg3OTeLJt8H1cjGR047QEk%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgjVNxYN1Lr2PjakdQv.png" group-title="TV-PREMIUM",Лапки LIVE HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Лапки_LIVE&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Y2JLVTJQOU9lVjcvZG1nQmJBTlZSWkdNamozakY4MENHVFFPRFRNejYybz06OvshjVsRMb8yw%2F12CinTQFk%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/a2dV6vG79n1geMrzQbMQ3EDLAN4b5ryw.png" group-title="TV-PREMIUM",Еда HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Еда_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=RVhmZVBNMU4vejFjemtVSVJwbGZkMnpuY0c4Znk5YnZQMXUxdHhRRnhhRT06OnppZgTrDxlYvAOdzcjI7ps%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5JY8oe8pm3LXjzgkQ2.png" group-title="TV-PREMIUM",Аппетитный HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Аппетитный&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cUcyREUxY21QdFV2dUxLRmxpa0I0Z3lZS2duOWFEY0xlemcyRVVWNHBNRT06OiFPbS1%2FCC87J9WI5ISc%2Bas%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089Zq4jBM2yrY7KNbnjLzG.png" group-title="TV-PREMIUM",EPIC HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=EPIC&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VDV1azhrdDRmTHJXUi9Fc1RxWitNdU81TmFlaUNTdklZaWJpLzNPNGF2bz06OnbdaVTXDMS%2BekzjGdKWpsQ%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVWOyxNr4jQPOGd7KJb.png" group-title="TV-PREMIUM",Big Planet HD
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Big_Planet&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SXk2eEdSWWtwZWtDYytFZ0VIRDk2eG9sNkhnWFJnOFcvb211Yi9Iajk3bz06Oi%2BREtuFftuEgtzXtj3dje0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/WnrJEQpk2Dbj6xj3WOM0eNRPLK49Odlv.png" group-title="TV-PREMIUM",Da Vinci Learning HD

@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj" group-title="TV-PREMIUM",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tb4ltopubmpvpzbaq77gi/logo_tomich.png?rlkey=qqmxylk4m82dba70ggbkqcgvc" group-title="TV-PREMIUM",УСТАНОВИТЬ TOMICHEK-TV на другой Android ТВ (смартфон/планшет)
-https://cutt.ly/setup_androidtv_2025
+https://dl.dropbox.com/scl/fi/nbfxrz5t1sr7art4stl8l/setup_manual_2025.mp4?rlkey=sxbgw6o59r0o25j85c1cuwlcu
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ix3lhrnwv4lr16saev6bc/logo_tv.png?rlkey=4ambqgzcdu1w76eaw0ddf3v3l" group-title="TV-PREMIUM",ПОЛУЧИТЬ КОД АКТИВАЦИИ ДЛЯ TOMICHEK-TV
 https://dl.dropbox.com/scl/fi/pb3b93829fzxkggshq2fb/PAY.mp4?rlkey=wcnf8zgla3pfv45kkp6bwpi62
 
@@ -251,8 +251,8 @@ http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Cartoon_Classic&token=T2
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=GULLI_Girl&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MGlTQ0MwNmQvenVqaE41ZGZmUUdyaGRuc2tmNnFLUDhPVXFEZ05kbTZnWT06OufpH7NHXebRSk49XRnYVdE%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV-PREMIUM",O!
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=O!&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VXExamg3OVdvT1VBd0lDRG9vSXgxMWs5b1A5YnFYVi84RVUvN2Zha0ZGaz06OqxqMbSG7ArjrumgoJZ1nLY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpLjyxwb4Gle19kPLKn.png" group-title="TV-PREMIUM",Лёва HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Лёва_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Tzh3Q0YrNVdGN2JkLzNkbnVoOCs5VHhneVlsMEY0ckJLbkoxY1pSN282QT06Om2YsQqVKVvTtLSorA9oiZs%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpLjyxwb4Gle19kPLKn.png" group-title="TV-PREMIUM",Лева HD
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Лева_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Tzh3Q0YrNVdGN2JkLzNkbnVoOCs5VHhneVlsMEY0ckJLbkoxY1pSN282QT06Om2YsQqVKVvTtLSorA9oiZs%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goaNWxXVmPjYb7BWK4E.png" group-title="TV-PREMIUM",СТС Kids
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=СТС_Kids&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Q2xzTnBLdzVKeDU1UXNaeWI2b1FXL3ArZDJlK2JnMjE0YmJuOW9OWCtRdz06OjQlnIFLEQwG2ggww3itE04%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9EmexREnk3GBgNLKQX.png" group-title="TV-PREMIUM",Киномульт

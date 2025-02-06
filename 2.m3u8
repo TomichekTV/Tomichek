@@ -4,15 +4,15 @@
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj" group-title="TV-PREMIUM",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tb4ltopubmpvpzbaq77gi/logo_tomich.png?rlkey=qqmxylk4m82dba70ggbkqcgvc" group-title="TV-PREMIUM",УСТАНОВИТЬ TOMICHEK-TV на другой Android ТВ (смартфон/планшет)
-https://dl.dropbox.com/scl/fi/nbfxrz5t1sr7art4stl8l/setup_manual_2025.mp4?rlkey=sxbgw6o59r0o25j85c1cuwlcu
+https://cutt.ly/setup_2025
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ix3lhrnwv4lr16saev6bc/logo_tv.png?rlkey=4ambqgzcdu1w76eaw0ddf3v3l" group-title="TV-PREMIUM",ПОЛУЧИТЬ КОД АКТИВАЦИИ ДЛЯ TOMICHEK-TV
 https://dl.dropbox.com/scl/fi/pb3b93829fzxkggshq2fb/PAY.mp4?rlkey=wcnf8zgla3pfv45kkp6bwpi62
 
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1.png" group-title="TV-PREMIUM",Первый канал
+http://server-1.onlinetv-sochi.ru/live/22222.php?id=1&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eDM0QnpBRDFRQTJoakFveEM4ZWtHTFdOOVVKNWxHcUtoWkY5M01ESGsxUT06OkV3puHdxLlQcMZrqwImL4c%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpyGMwb4Gle19kPLKn.png" group-title="TV-PREMIUM",МАТЧ! ПРЕМЬЕР HD
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=МАТЧ!_ПРЕМЬЕР&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M3BEWjlYZHdJWUpab2s4SWN4cWtCR0lCc041bHVhbzBsdDZjbWh1Qm9xTT06OrQ932iBmXoXA5Tl5HAf%2Bus%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX6BZzy8dek2wvP5gW.png" group-title="TV-PREMIUM",Матч! Футбол 1 HD

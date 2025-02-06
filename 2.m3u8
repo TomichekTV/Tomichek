@@ -11,14 +11,15 @@ https://dl.dropbox.com/scl/fi/pb3b93829fzxkggshq2fb/PAY.mp4?rlkey=wcnf8zgla3pfv4
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/897.png" group-title="TV-PREMIUM",Маша и Медведь
+http://server-1.onlinetv-sochi.ru/live/22222.php?id=897&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YWpWNXRuQVZnZGZEcG94QlNJQmlSc3FpUzBhVEs4Y1BEdkdsd0tpVzk4Yz06Okrarw4UmOOTAZfJe2raqx4%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=1&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eDM0QnpBRDFRQTJoakFveEM4ZWtHTFdOOVVKNWxHcUtoWkY5M01ESGsxUT06OkV3puHdxLlQcMZrqwImL4c%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/409.png" group-title="TV-PREMIUM",Viju TV1000 Action HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=409&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZTY2MkE2RE1zV3VkSW1lcmFjUERESkJ5MURsdU1ha2ZuaFNibEJ3a1p5VT06OsGzMOfl%2BDllZ0FiX4Knsic%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/410.png" group-title="TV-PREMIUM",Viju TV1000 HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=410&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OTYyRFpLYWs2OTM4ejVhcCtIZEJ5U3VFMFNDclpjVXhabzdUWjVJSFFRcz06OufKe8bvXJIF9MZil7bejhk%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/411.png" group-title="TV-PREMIUM",Viju TV1000 Русское HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=411&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=V1RiOXNWSjJJNlJrSnZKYnFraGVFUjhrVzJnTit3NDg2R0tQNEYvaFBERT06OutTOc8%2BjeTpXGMPj3S9VU8%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/2.png" group-title="TV-PREMIUM",Россия 1
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Uzd6MG4vQzY2My9LV2hDcDhaNmJFVEtrVDFjY3BWRU5jTXM4NXpjVlNSaz06Oi8YhBaJdzV6Ez1kBI%2B0LLo%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/3.png" group-title="TV-PREMIUM",Матч! ТВ
@@ -73,6 +74,12 @@ http://server-1.onlinetv-sochi.ru/live/22222.php?id=388&token=T2xlZzIxNTI2OldPUk
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=390&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZlBBalp4bEVJODQ0eWlad0JHdE5xalpQd1NKdlZRZitWcTBrOUpXN2ZOUT06OhPtJfBfXtoI%2BazOhVUSD2s%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/35.png" group-title="TV-PREMIUM",Пятница! HD
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=35&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Zi9jQ0ExRE1DNDlwMlQvSHJKWDFjWHJiV2NOcjZlZS9XUCtpUUlIU1pXYz06OoXs83LcNIU9lgLYLnFKyAI%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/409.png" group-title="TV-PREMIUM",Viju TV1000 Action HD
+http://server-1.onlinetv-sochi.ru/live/22222.php?id=409&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZTY2MkE2RE1zV3VkSW1lcmFjUERESkJ5MURsdU1ha2ZuaFNibEJ3a1p5VT06OsGzMOfl%2BDllZ0FiX4Knsic%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/410.png" group-title="TV-PREMIUM",Viju TV1000 HD
+http://server-1.onlinetv-sochi.ru/live/22222.php?id=410&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OTYyRFpLYWs2OTM4ejVhcCtIZEJ5U3VFMFNDclpjVXhabzdUWjVJSFFRcz06OufKe8bvXJIF9MZil7bejhk%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/411.png" group-title="TV-PREMIUM",Viju TV1000 Русское HD
+http://server-1.onlinetv-sochi.ru/live/22222.php?id=411&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=V1RiOXNWSjJJNlJrSnZKYnFraGVFUjhrVzJnTit3NDg2R0tQNEYvaFBERT06OutTOc8%2BjeTpXGMPj3S9VU8%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/37.png" group-title="TV-PREMIUM",Eurosport 1
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=37&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Y2VEU1BBaE9adFdmL2puSmphR09YNnRtWVNhK1hYVjlYLytQYWRYVDFFND06OgQlCtSrZIIOwi9yoasP8No%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/38.png" group-title="TV-PREMIUM",Eurosport 1 HD
@@ -963,54 +970,6 @@ http://server-1.onlinetv-sochi.ru/live/22222.php?id=715&token=T2xlZzIxNTI2OldPUk
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=717&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dkVhK05aNERZK3ViV3lmUktuWE00Q2MvblJsemlydS9JNWVCalVDazNwVT06Om3i93P24NEwpNrGdcJZpOQ%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/718.png" group-title="TV-PREMIUM",СТС Прима (Красноярск)
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=718&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eFF5YzQxQmdmWGZpQVZEai9tK0xnVzlGTVpDTHJrS0FRbTNOS2pyNStkdz06OgL%2Fjh%2BseFSLd8wyjMF1r%2BY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/722.png" group-title="TV-PREMIUM",Univer TV
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=722&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=cG9qQVZJQkJ0eUh3b0k3Z3F6WlltRkxNRVM3S2ZuU0ZHRnZPQzdHMVFPOD06On8ha%2FxmTfMJN%2BsCpvl8B20%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/723.png" group-title="TV-PREMIUM",Babes TV
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=723&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bWZsTU5CL1Noc2JsR3JzOGR1S1YwY3RhcjVxL0VNOHBuTTR5aTQ3S3hBZz06Ohy8wX0hrOoHflzYJ8LxNco%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/726.png" group-title="TV-PREMIUM",Русская ночь
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=726&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=a0k1Z1JJbG9mY3JsSDBleU1yeGNwTG4zUDdRODZFNXVqcXNDRmlaSzgvaz06OqcqazMnSoLnz9uLyIN03r4%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/730.png" group-title="TV-PREMIUM",Anal
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=730&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Y2YvTGNpaWtBaFBWY0MydlkvbU9zNXREYnBOQVRtYllBK0wrTy80cWM1QT06Oi0n0P1K0w1KXDN1GoZRMPk%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/731.png" group-title="TV-PREMIUM",Big Ass
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=731&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=K0RHd2J4WDduTjlCRUE2WmtYV1REYVhxYlZMU0ZSZGhrUmZ2R0dCZy9OMD06OuWEH6h%2FyxaIMgVcy3oB%2F9U%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/732.png" group-title="TV-PREMIUM",Big Dick
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=732&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eFNtRmd3UTZLaGhOVDROZzZ1QkRVa3VLS3VTd3pUR2JDUXlURjI3UWNjVT06Om2s2VT32hR0WWI8jtt69W8%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/733.png" group-title="TV-PREMIUM",Big Tits
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=733&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WjJyK2pqTmJZbWoyTVR0ajlaMVY4QjBZZEJhZTk5MWJPZTRsTVlTK29aWT06OrKeHRDYYr5wux%2BZXY0nkC4%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/734.png" group-title="TV-PREMIUM",Cuckold HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=734&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=R3dpdERYVDViQTA0ajZNZGhPbDZZQytuYUNDemdSekpCcEw4c2NhRHl4QT06OjnEK3j8eLkboqlnnL3rCK0%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/735.png" group-title="TV-PREMIUM",Fetish HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=735&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZG1CeDhvOGdrT1dISW1JR1VPaXZ0VCtiM0NtTkRDdDFUUEk5eXBaMmYxWT06Ou%2FjeyamUn9JBVD0E9L2I6Q%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/736.png" group-title="TV-PREMIUM",Interracial HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=736&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NVRXWkZwcUhPR2Q5bjBuWWFSUUdUdktjUVNZcnV6a0xacWVHa0dNUXlRWT06Ol8pgYoGYBzBuqIiekFEUR4%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/737.png" group-title="TV-PREMIUM",Latina HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=737&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZlV1T3lYNVU2OURzM216TVdBUTdWRU8yWG9kdm5ZL2x4YnRtYXIyV2RDND06OiGkReaWi%2BYKt6vDpPVeYyY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/738.png" group-title="TV-PREMIUM",Milf HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=738&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZmRncDk4cndlVjVTcnFuOUh6bU9ZbEExMkVvTWdwSU8rRk1uemY3Z2Y3WT06OtOwpnqZLrKUtjxlFEHL8ic%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/739.png" group-title="TV-PREMIUM",POV HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=739&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OEJxWm5Bc2pHT2FqQ0RjWEJXejVjVFRSRkJJNmM0QXY4aTVaMmdhTVd4az06Ok0S5WC%2BKx96ZNF929UdXjA%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/740.png" group-title="TV-PREMIUM",Pornstar HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=740&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bFpKTExMd0ZVV1hRaVJucG9ES29aVFhaV0ROMkJnYlA1eHc4UXI4RXJHcz06OvrHd4kCaePvSTtQLJuFCq8%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/741.png" group-title="TV-PREMIUM",Russian HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=741&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aUFkOXR0OE5xNVVMWko3N1dORHRSa1JGRHNYZktWMDVmMzlMZm9ab3REWT06Os5mKr38fy%2FMxzDObt5%2BazY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/742.png" group-title="TV-PREMIUM",Visit-X TV
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=742&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WFQ4NWsvWVFPVVU2SWVxckZYSmVRaGI1aEI4MXpXczlyQisvVG9KREEyaz06OuT3RARhMTZUVlxZ38QKHj0%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/744.png" group-title="TV-PREMIUM",ЕКО-ТВ
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=744&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NHNnd2t4QzJvekM5dy9sajBkZnBKR2lLcTY0UDIvbmp5TC8ybEZSQkxHZz06Oj1L6AfQtW0D8ll5379JDK8%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/748.png" group-title="TV-PREMIUM",24 канал
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=748&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dEFVdlpRdmNVWFVRcGRhN2hCTUd3U2VZODJHVEtjeEUvQkZNUFBmcTJlVT06OgKtsn87InZD5IlPQ0rNZoM%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/755.png" group-title="TV-PREMIUM",Рада
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=755&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dWFWdG9nWUtveU5QSVdsb0RWTGdTREN5TFFJTzAzYmQ0Vzh2Qy9LSUxaWT06OpGTXpVjCS7yjixMwrliPWI%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/758.png" group-title="TV-PREMIUM",Бигуди
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=758&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=VlJmTUlHV1RmTmVidkVsWFdHaUZObUU2NDdxYnRxZ3FhTXRoU3RBNHduaz06OhSLBrjHkliWqtgM0TBuTMY%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/759.png" group-title="TV-PREMIUM",ПЕРШИЙ
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=759&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=OEk0ZDhlUE1PVG5SMVprLzFNNERzOSt2ZWdRT1o3MWpEcmRYU3FqaXIyMD06OuluLpsKHoVJOFv7oX0uFQg%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/761.png" group-title="TV-PREMIUM",KVARTAL TV
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=761&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZEJpWHNrUGlHQ1dXK25MZWI4T3lsUmtHR2xzbDdLd2dxSXZJZmxLUnNmTT06OveZ5IcAlEWbnpS0eHwWMRQ%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/762.png" group-title="TV-PREMIUM",Дача HD
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=762&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dmNTUzFqZ3gvVjR1MkttWDFmek8xY0ZwSGEvWFpTclBzK0Y4clNJZy9uWT06Otumip0ypnk5JNqRFGklLF4%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/768.png" group-title="TV-PREMIUM",Fashion TV HD Ukraine
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=768&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=SkpiM2krbEprZzZjUmV0SFhlQmNCUVM3TkkxM3h2aThJVjdWSWQ5NHlaYz06OphnMe7WQB1ANvyst89f7X0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/770.png" group-title="TV-PREMIUM",Беларусь 1
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=770&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WWJQVkhJUHVwRVE2UUptcDRoTFllRVIzazB2QlpJNUpxQWg1YWFIakxocz06OscdiusVaU68jvY1svGTALY%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/771.png" group-title="TV-PREMIUM",Беларусь 2
@@ -1031,16 +990,6 @@ http://server-1.onlinetv-sochi.ru/live/22222.php?id=785&token=T2xlZzIxNTI2OldPUk
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=789&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aXZvelV4YlZVWUZMMUwraFZzdlpnbXRMdFdpMmJKeTlHejNCcjhPWWFmUT06Okh752yFKBDOksUMvl7KvmQ%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/793.png" group-title="TV-PREMIUM",УНІАН HD
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=793&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Q3ZJMFkrOGtFTStncEJrbGZyY1FYbzUvYkFrYzRVYW53WitMbXZSUHR6QT06OnclPBTTjbCqvDUOpCBhv8A%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/799.png" group-title="TV-PREMIUM",Zoom
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=799&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Ny96bFFySXRac011NFFrSW9VK2FHWENGbXhUaDcrYTVFeUg1cWJJQXUrZz06Onr01KudlsJGPp1Ih7FQr18%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/800.png" group-title="TV-PREMIUM",Сварожичи
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=800&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Z0hqU2ZkR3NUVTFZV0kwdEw4ZG1GQ3FKaElTeXlHRDZFSHdjaWNFbjc5VT06OhIlg8mtjmJzXvENaGGP%2F9A%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/801.png" group-title="TV-PREMIUM",8 Канал
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=801&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aDZwdnQvUDhGR2l2U3YyakxWK0R6dW5BYUZiVmhQYW1mdnJiZUtKYXV5UT06OkRD1Y1ual9E9CEIpRyD%2B9I%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/810.png" group-title="TV-PREMIUM",Суспільне Дніпро
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=810&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Z3M0VlJ6eDFoM3o1UTdSbUhxWmpzZnBQT21kR0lZSGxxbzhWenF3MnEwQT06OuQM40XHQIQNkWCBDLOOY70%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/811.png" group-title="TV-PREMIUM",Суспільне Запоріжжя
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=811&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Q1NNRjdBUnFwZDhBeFRobEQ4NXRqelRia2NoYzVibXR0VjJISE4vUTJhWT06Oh%2FHYxrZ0oWbqhl%2B%2FIj1F1E%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/819.png" group-title="TV-PREMIUM",Eu Music HD
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=819&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WVAwMTBUOVlvSXR3NWsxQXZTOGt1SVZaRDQxVWVxcEN2RG14SVZEL285ST06OrSiJFjr%2FV7WOFfapGcfLfg%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/829.png" group-title="TV-PREMIUM",XSPORT
@@ -1117,8 +1066,6 @@ http://server-1.onlinetv-sochi.ru/live/22222.php?id=894&token=T2xlZzIxNTI2OldPUk
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=895&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WldYdWJmc1VRMm5GWjBzNzVDNzhpZ1diS09aais4R3F1WmpxUVhtODArOD06Oh%2BvrcaTWVcf6AQZ0AjHZm0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/896.png" group-title="TV-PREMIUM",Ужастик
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=896&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=eFcxRTAwQWJkRlZxOWdUMmxhOGkyU3VLZ2VMQTVGOHVhN1VMMmtPWU5rST06OnwTq1GcMXD%2Fj8P5O4pvNvg%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/897.png" group-title="TV-PREMIUM",Маша и Медведь
-http://server-1.onlinetv-sochi.ru/live/22222.php?id=897&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YWpWNXRuQVZnZGZEcG94QlNJQmlSc3FpUzBhVEs4Y1BEdkdsd0tpVzk4Yz06Okrarw4UmOOTAZfJe2raqx4%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/898.png" group-title="TV-PREMIUM",Фантастика
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=898&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZWVjdHJhdDM0ckhlSGM3Qk9DdjJpMG1HdjdRWFlFdUpLTkMrYzk2OHd1bz06OorYlRaH1PNF%2B4%2FIDeOnbm0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/900.png" group-title="TV-PREMIUM",Наше крутое HD

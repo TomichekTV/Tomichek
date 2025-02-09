@@ -42,6 +42,8 @@ http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avta.php?name_id=1TV_hd&toke
 http://list.onlinetv-sochi.ru:8080/live/movix1.php?id=6882501&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=c2ttNS9NUEhZNk50dE85d09HbzRhSVBjQUZwSWVPWkFLVDJhNDhBdkxGQT06Ou9vxvoixYEzgbxnxlTFuoU%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avta.php?name_id=Rossia_1_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NCtqSnVMNm5selRybkVDVkdrYXZBWThMbSttcVZiTjUvZXRSeWdWa0hVbz06OktxmEP%2BDrZ75FeAAA9IWd8%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1516.png" group-title="TV-PREMIUM",Fight HD
 http://server-1.onlinetv-sochi.ru/live/22222.php?id=1516&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Rmc3aDJib3JjVHVrR0YwbW5DN1piWDhtRyszZkEvR2ZvYy9VNjZnelI3UT06OnHtiiIatbR1vr285bwzVO8%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="TV-PREMIUM",Россия 1 FHD

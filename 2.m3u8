@@ -41,6 +41,8 @@ http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avta.php?name_id=1TV_hd&toke
 http://list.onlinetv-sochi.ru:8080/live/movix1.php?id=6882501&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=c2ttNS9NUEhZNk50dE85d09HbzRhSVBjQUZwSWVPWkFLVDJhNDhBdkxGQT06Ou9vxvoixYEzgbxnxlTFuoU%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avta.php?name_id=Rossia_1_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=NCtqSnVMNm5selRybkVDVkdrYXZBWThMbSttcVZiTjUvZXRSeWdWa0hVbz06OktxmEP%2BDrZ75FeAAA9IWd8%3D|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1516.png" group-title="TV-PREMIUM",Fight HD
+http://server-1.onlinetv-sochi.ru/live/22222.php?id=1516&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Rmc3aDJib3JjVHVrR0YwbW5DN1piWDhtRyszZkEvR2ZvYy9VNjZnelI3UT06OnHtiiIatbR1vr285bwzVO8%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="TV-PREMIUM",Россия 1 FHD
 http://list.onlinetv-sochi.ru:8080/live/movix1.php?id=6882528&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YUN1U1lEdHZtOEN6ZVlaQk56Q1M0ajFvamNIVFREa3FUaUY3RE40TG5nYz06OvxDbfmztk%2FPBzSqZn%2FRWxc%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8V9Z1ELBXGWRzPQ0A.png" group-title="TV-PREMIUM",Россия 1 FHD_2
@@ -837,8 +839,6 @@ http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Авто_24_HD&token=T2x
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Арена_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=YmJzcmQrWVdnR3JHczRpQmRYR3VZcXJWb2Q1YTRJS2RnczBpa05pckMzND06Ov1DLgyBYHVsxM64qwvWA5w%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpLKxwb4Gle19kPLKn.png" group-title="TV-PREMIUM",Матч! Игра HD
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Игра_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=WWdQa1dOL1k0ajkzSGgwd2NvZ3M1TjNFeFhjUlpCSXF0NXZZSUQ2SzJjQT06Ongf8I4wWg4vwfG2SEW3V7o%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxO6Gwo7Yav3GnwkqmBz.png" group-title="TV-PREMIUM",MMA-TV.COM HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=MMA-TV.COM&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZDd5N2ZkM2IxcU13eFdBMjJFeUJiM2tmbDBBaFZ5eC9pbC84dFVabDBHOD06OoKpPP1o3wY8eT0C81poSPk%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/7cc13e8c-df31-409c-a527-74505966d471/" group-title="TV-PREMIUM",KHL HD
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=KHL_TV_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MEJZMHowdlliV0tCMVFSTVBWR1JWb09sQmRvbVdDaUR5OE54WE1VNUFTRT06OvGfMp9cJ0G9agW%2F6i97gd0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDPYoAXpwKq5mPJvV9.png" group-title="TV-PREMIUM",Бокс ТВ HD

@@ -40,19 +40,19 @@ http://dmi3y-tv.ru/hls/film/FORSAZH9.m3u8
 https://cdn4531.entouaedon.com/stream2/cdn-400/fb8ab39c053c6ca6bb2e6bee1ded0938/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbJFjTEFkeNpnQqp1VZNjTEl1dOR0a04ERZhXW6ZFaZpWW51kenBTWUtWP:1801234000:925.088.211.265:205c7bb3881f3249e4348225c3ae2e007f49fc88dace3961eb9504ba9aad02be/720/index.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBjMTQwYTctMWMzYi00OTcxLTlmMDEtYzFhY2U4Zjc3MzRiXkEyXkFqcGdeQXVyMTY0OTEyMjM5._V1_FMjpg_UY2250_.jpg",Форсаж 10 2023 - FHD в кодеке AV1
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://46.38.17.135:8090/stream/10%20-%20%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6%2010%20%282023%29%20%28AV1%29.mkv?link=1bdad4c0c1e90fec8e7424af38511b71e3dcb80a&index=1&play
+http://46.38.18.35:8090/stream/10%20-%20%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6%2010%20%282023%29%20%28AV1%29.mkv?link=1bdad4c0c1e90fec8e7424af38511b71e3dcb80a&index=1&play
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBjMTQwYTctMWMzYi00OTcxLTlmMDEtYzFhY2U4Zjc3MzRiXkEyXkFqcGdeQXVyMTY0OTEyMjM5._V1_FMjpg_UY2250_.jpg",Форсаж 10 2023 - FHD (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://46.38.17.135:8090/stream/Fast%20X%20(2023)%20WEB-DLRip.mkv?link=316f4aa7ad70458bbc126ffa0e92474e55cc9ca7&index=1&play
+http://46.38.18.35:8090/stream/Fast%20X%20(2023)%20WEB-DLRip.mkv?link=316f4aa7ad70458bbc126ffa0e92474e55cc9ca7&index=1&play
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBjMTQwYTctMWMzYi00OTcxLTlmMDEtYzFhY2U4Zjc3MzRiXkEyXkFqcGdeQXVyMTY0OTEyMjM5._V1_FMjpg_UY2250_.jpg",Форсаж 10 2023 - FHD
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
 https://cdn4574.entouaedon.com/stream2/b-401/c20392c9d0208204ba51de044d9e3ac4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RRhnWURWbO1WR0oFRjFTTHVUeaREZo5kaot2TXZFaZp2aw4ERRlnTUFUP:1801234000:925.088.211.265:8714419e80e867d4a085be7fa7bfe392207b4caf13a15e453dee8d2a96a6b3de/720/index.m3u8
 #EXTINF:0 tvg-logo="https://i3.imageban.ru/out/2023/07/01/fb19789827710607efcc6aaa42fbf183.jpg",Форсаж 10 в [4K, HDR10, Dolby Vision Profile 8, 10-bit]
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://46.38.17.135:8090/stream/Fast%20X%20(2023)%204K.HDR.DV.WEB-DL.2160p.mkv?link=46947b4318bd4e22fd8df4b604bc4046e310431c&index=1&play
+http://46.38.18.35:8090/stream/Fast%20X%20(2023)%204K.HDR.DV.WEB-DL.2160p.mkv?link=46947b4318bd4e22fd8df4b604bc4046e310431c&index=1&play
 #EXTINF:0 tvg-logo="https://i124.fastpic.org/big/2024/1213/85/317b43d4aef257c0865083460f699085.jpg",Форсаж. Полный вперед! 2024-FHD (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://46.38.17.135:8090/stream/Forsazh.Polnyj.vperyod.2024.AMZN.WEB-DLRip.AVC.mkv?link=1c2e2be685a6619d0144738e48b87766cf609fd3&index=1&play
+http://46.38.18.35:8090/stream/Forsazh.Polnyj.vperyod.2024.AMZN.WEB-DLRip.AVC.mkv?link=1c2e2be685a6619d0144738e48b87766cf609fd3&index=1&play
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE0MjkwYzAtMjkwNC00MGE5LWI3ZGUtN2NhYjUxMTY5ZDM0XkEyXkFqcGdeQXVyMzA1MjMyNTY@._V1_FMjpg_UY2731_.jpg",Форсаж - Диабло 2019 - FHD
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
 https://cdn4531.entouaedon.com/stream2/cdn-400/ef328063582c7e749604e6e1468e3e5e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RNpnTyUlMadkRpllMSpmWqtGNZp2Z040ROpWTtZEbOpWW6lFVGh2THVVP:1801234000:925.088.211.265:f1327d123d68cd920debc429770e9b1912ce61df7b7e43a6b20f4efde60ff78f/index.m3u8

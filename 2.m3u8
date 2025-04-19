@@ -13,7 +13,9 @@ https://cutt.ly/pay-code
 
 
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/smjvh9xr4ubk3votn84yw/masha_2.png?rlkey=8emcb6ugnpwngg6do9ghm5kf4" group-title="TV-PREMIUM",Маша и медведь FHD (все 7 сезонов)
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19O0p5Bl2NL-6plvL7eHHcRLsJPFfF6evpaQJRtSx_siq77erNm71XL9LPtxxeUs_YTgNPwDOEnuY_KW-jg4a-I8ZH9FGIb_nV9rfAi6gUYEZyr8TlQoibR8SkbwX2XbgmCPk6Jw3jzt0SBBHKgPWc4d5L9V1zN_A6M_FltaBIptqdCNtnM7JvJZ5yeF9ULPOcvJ6v4BAhIumVhsOD2CixA0h-FllcGr_13ar2OWemR65BGYm0HVAzmja1AEA6qxwqfroRQYtambWT9OoRO6AlZWQ5XEX9S9u8HnGHuucdABCwO1LXYPpFoH-C-UMu2U9MTaMDN171nn6hn21yTFdVDI9_fdRcBYOU/633218d64f4c8/9445c4432015e444eb715a3a87a54a185bafd69812097f8762d093dae2b15f3d/720p/playlist.m3u8
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18H4CvxD_61qkVKtJgRB6-ifFe3fYMXgpIDgJwAKaNCKXFziZC88QwaVP-uaDO2YSn2DpdtB_4sM9-eymhhAUCZmuB7wCbSs6DWqG3ySUk0n4bevLjLcu2WyWZwGkgk5GO3B1mhKuBF0zC9JTzv32KO-ncJCWGILyp9E0MOf8aBaeoil0jwgvI9TzfRNke7Ap84u87jJyDxNejvXKWeQp5AFY8W_euwhArUhNBNdJH20uGD2jjVRwTeptSyFzLKBQuNF2PSfB1PsXkpHvZurTgeyMC2NeDZ0P9ttltJlpJx4InhShOFSeERiLUJ899aLsPpVd5jxBGmW_Otlua6xiEnrrCvtMyUReU/6333703cd54b0/d795de6f5469203444f7eff74ea84c6cc9c85a9ba35273ad70e40ef256027707/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/msyk45lu9enof3a0qdu9x/multiland.png?rlkey=61hd3y250610u0de3o3uyk0lu" group-title="TV-PREMIUM",Мультиландия HD
+http://server-2.onlinetv-sochi.ru:8080/live/testx.php?channel_id=51&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Q1MzdlRuVzN5a0tUc08zOHhGeC85d3hZVlpBYnJrNEdTK3FnNXM0QWNRQT06OhsFIybRGCbSgILhFY%2B%2B52I%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Мульт HD_1
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Мульт HD_2
@@ -24,16 +26,6 @@ http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Мульт&token=T2xlZzI
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Киномульт&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bVNNNVIxMFp1eXN1ZE1RT09aVU93aVFVUk1KbHUxZHYxRm9ZWXMxUm1vZz06OrfAqyCz8arUd%2BPDVCFOFJI%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/j6xm59y2uyjn9ba1dey6n/multimuz.jpg?rlkey=tqr84rh2ftf9hwbgxoxk2vsqv" group-title="TV-PREMIUM",Мультимузыка HD
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/msyk45lu9enof3a0qdu9x/multiland.png?rlkey=61hd3y250610u0de3o3uyk0lu" group-title="TV-PREMIUM",Мультиландия HD
-http://server-2.onlinetv-sochi.ru:8080/live/testx.php?channel_id=51&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Q1MzdlRuVzN5a0tUc08zOHhGeC85d3hZVlpBYnJrNEdTK3FnNXM0QWNRQT06OhsFIybRGCbSgILhFY%2B%2B52I%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpyGMwb4Gle19kPLKn.png" group-title="TV-PREMIUM",МАТЧ! ПРЕМЬЕР HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=МАТЧ!_ПРЕМЬЕР&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=M3BEWjlYZHdJWUpab2s4SWN4cWtCR0lCc041bHVhbzBsdDZjbWh1Qm9xTT06OrQ932iBmXoXA5Tl5HAf%2Bus%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX6BZzy8dek2wvP5gW.png" group-title="TV-PREMIUM",Матч! Футбол 1 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_1_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=ZDJ4VXhRS3ByL0RHSDF5R05NWEtTTUJONGZZckVpdUJ3eWNXSXk0d0xGZz06Oqu1HTAXc9MRihYgRZ7tq9E%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYerxVkQXvADRObGP7.png" group-title="TV-PREMIUM",Матч! Футбол 2 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_2_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=akNFSzUvY04wcXB1NU5WZk1WMzFQajc5dzFYZ0FEZEM3bEg3bFJ4dHgyZz06OqoZ6C3Gv%2F7xu9yQYiWVvE0%3D|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxBvAx0PGQ4d98RpY2O.png" group-title="TV-PREMIUM",Матч! Футбол 3 HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Футбол_3_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=aUxRYnFPVFdQTE9mdS95RGVwdkg2QW9rb3Q1dUFOV2MxbnVFbktSbm5pOD06Onf2ewSes328AI92wm2%2Bt%2FU%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPayMDE1bQl3R4Gyan.png" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD

@@ -13,7 +13,7 @@ https://cutt.ly/pay-code
 
 
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/smjvh9xr4ubk3votn84yw/masha_2.png?rlkey=8emcb6ugnpwngg6do9ghm5kf4" group-title="TV-PREMIUM",Маша и медведь FHD (все 7 сезонов)
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_nv5EY9NDiI9ZzzJaRzGSC4tuema0adp7Ne6n90rgKfM53Jca5EF8amsN17_tzhjiW85fQFv_rflFvPJ9ArcFsoWcJuv_gXjGNrP4-qzQLxscGQiNhPnYgiF6Sanbh0PGF6F6NG9evTt7DbeVAluxgtpFaEtErTd4OrAFKbt-37KgW5YNRe9Otoh-2OWKillQt6wY99kZzmtPs1b8lHgRBquDUwYvtvGVDu4Kfi8eBB0sUcR4JlCdnglOZoOUBvzjfIM8v1jdXdUq1CaPI7JPqGo9YWL4coKeqaMRP6p2NE_O0SUtFlnTh-37PvpZ9EYoXoUX0XIlaO_3vLp-Q4VWlkxU7mAntnFg/6343cbe8af1f8/23b1091459820b30461a080f248ad6f74b106b1a7ecd9eeae77797da5a101449/720p/playlist.m3u8
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_tH-CmI4B5cdfQPIus4TBhGXMlOgnudySJX95IKWCZoXAoi-syJFTlr95frdGNujcz3GERfkSpo6i24P5RcjSWObo5Xwz4eT1stN0wgpRPBhLhVXDpnzP1Mn_FgOjnqHeDwT9VXjZaxsPFfnNwMLfy0MllX6gtMFSl3xOSIl3mRT59nzzEXVZ0yudppr6Rb94B6RoyfjjEFrDLpY2Ee0bGPw3UZ2tx1IeZdr2pI09BIbRmAKO77mEIdKLreS3pwY5RluUXYHGNArq23oRVxcC56vObNGGCCGvtwMfy-aGDxia7VtgaoRm7oFu5FDIopOLExDATiH5de1y00hl41c8Vr8L19QvoeQY/634506ce0f0c8/8a1a4439b45bb226b573a6c7e4e9c5ce6a838e3b65cc4ed44eb04cf2d77a7730/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/msyk45lu9enof3a0qdu9x/multiland.png?rlkey=61hd3y250610u0de3o3uyk0lu" group-title="TV-PREMIUM",Мультиландия HD
 http://server-2.onlinetv-sochi.ru:8080/live/testx.php?channel_id=51&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=Q1MzdlRuVzN5a0tUc08zOHhGeC85d3hZVlpBYnJrNEdTK3FnNXM0QWNRQT06OhsFIybRGCbSgILhFY%2B%2B52I%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Мульт HD_1
@@ -837,7 +837,7 @@ http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Игра_HD&to
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/7cc13e8c-df31-409c-a527-74505966d471/" group-title="TV-PREMIUM",KHL HD
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=KHL_TV_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MEJZMHowdlliV0tCMVFSTVBWR1JWb09sQmRvbVdDaUR5OE54WE1VNUFTRT06OvGfMp9cJ0G9agW%2F6i97gd0%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDPYoAXpwKq5mPJvV9.png" group-title="TV-PREMIUM",Бокс ТВ HD
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Бокс_ТВ&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=THFHd2JrdVRrcGpBRU5xZUsvbXhzUUdiWXM4cVZHS3QrbzJMbkxaU1BNTT06OthmAPfuoitrZ%2BlDUCv169Q%3D|User-Agent=1/.index.m3u8
+http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Бокс_ТВ&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=THFHD2JrdVRrcGpBRU5xZUsvbXhzUUdiWXM4cVZHS3QrbzJMbkxaU1BNTT06OthmAPfuoitrZ%2BlDUCv169Q%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgy2oYN1Lr2PjakdQv.png" group-title="TV-PREMIUM",Матч! Страна HD
 http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Матч!_Страна_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=dGk3L2lFSmFUcFQrSlQxT0xmY2FidkZicFNydSsyaGFTVlIwUHN2djhjYz06OmYr8P4pvWGP9pssm%2FX2how%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/37a1200a-dad4-46bc-a44f-ef65cb86c905/" group-title="TV-PREMIUM",Russian Extreme HD

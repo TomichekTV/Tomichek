@@ -20,8 +20,6 @@ http://server-2.onlinetv-sochi.ru:8080/live/testx.php?channel_id=51&token=T2xlZz
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Мульт HD_2
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9EmexREnk3GBgNLKQX.png" group-title="TV-PREMIUM",Киномульт
-http://list.onlinetv-sochi.ru:8080/live/movix_tv.php?id=Киномульт&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=bVNNNVIxMFp1eXN1ZE1RT09aVU93aVFVUk1KbHUxZHYxRm9ZWXMxUm1vZz06OrfAqyCz8arUd%2BPDVCFOFJI%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/j6xm59y2uyjn9ba1dey6n/multimuz.jpg?rlkey=tqr84rh2ftf9hwbgxoxk2vsqv" group-title="TV-PREMIUM",Мультимузыка HD
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPayMDE1bQl3R4Gyan.png" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD

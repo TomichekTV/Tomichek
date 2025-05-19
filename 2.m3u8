@@ -23,7 +23,9 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/j6xm59y2uyjn9ba1dey6n/multimuz.jpg?rlkey=tqr84rh2ftf9hwbgxoxk2vsqv" group-title="TV-PREMIUM",Мультимузыка HD
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPayMDE1bQl3R4Gyan.png" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
-
+http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Mosfilm_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:0 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/124fdace-9d4f-4192-9597-01ab6d4fb0f9/" group-title="TV-PREMIUM",Дом Кино Премиум HD
+http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=HD_Dom_Kino_premium&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avta.php?name_id=1TV_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MWMxR3oycnhhUk9iMDBZMVM1MXoxcHlKclF2QzVsbjFDdjhQaEVIbTRUUT06Opq2BTDuV0HzUNGeGkRNvik%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD
@@ -64,8 +66,7 @@ http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=Kino_TV_HD&
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=M1_Global&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=V1lybFRrZDlYVUhMOFFWR2tIR0xFMnF5VHRuNDJQT1dkUVhEQitydVR6ND06OgxQJU0mCWja9pbkdRCPsVI%3D|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/af5447d1-b347-4c5b-8693-c2433467a157/" group-title="TV-PREMIUM",KIONХИТ HD
 http://list.onlinetv-sochi.ru:8080/live/tricolor_tv-avto.php?name_id=KIONHIT&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&OnlineTV=MzRVcEY4Z0Z4K1FDdWhmdUNXNGxiWEZoVmVnanJ3Sno5bThwdGNMUS84WT06Op2JUToxaxefbDLf8gEUryU%3D|User-Agent=1/.index.m3u8
-#EXTINF:0 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/124fdace-9d4f-4192-9597-01ab6d4fb0f9/" group-title="TV-PREMIUM",Дом Кино Премиум HD
-http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=HD_Dom_Kino_premium&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+
 
 
 

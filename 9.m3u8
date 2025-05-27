@@ -1,801 +1,798 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/35898511-1658457.jpeg",Шафт 4K
+#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/35898511-1658457.jpeg",Шафт 4K (высокий битрейт)
 #EXTGRP:4K
 https://cdn4531.entouaedon.com/stream2/cdn-400/7c0abb35118a7bfccfe44bc9a53e10a9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25keJFTTHl1MNR0Zy80RJNTTtlFeNREZt10VFVTWUVFMOpWW4p1VNp3TEVVP:1801234000:925.088.211.265:ae7f647cdc6e9fe73b032d2041d9bc73a4b481a4c89d22475224136b092dcf1a/2160/index.m3u8
-#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/3444727-1023785.jpg",Красный воробей 4K
+#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/3444727-1023785.jpg",Красный воробей 4K (высокий битрейт)
 #EXTGRP:4K
 https://cdn4531.entouaedon.com/stream2/cdn-400/0a90a76024d2c536cd959749b501bdf9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RNVTW6xmaORkTp1ERSxWW6N2MORlRq1keohmWEFFNNRUUzkVbaxWWXlVP:1801234000:925.088.211.265:b81f9312c56af1c8de78b24e5a8fe4b91c5d5130c6c8b43238fa6cb75e4bded2/2160/index.m3u8
-#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/7798667-1430056.jpg",Аннигиляция 4K
+#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/7798667-1430056.jpg",Аннигиляция 4K (высокий битрейт)
 #EXTGRP:4K
 https://cdn4531.entouaedon.com/stream2/cdn-400/0a90a76024d2c536cd959749b501bdf9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VSxWTykleZpXVz4kejJTTXZkaPRUU690RKxmWXlEeadlTslVbOtWWXlVP:1801234000:925.088.211.265:4f692e9c0015476d6a3147f3e6375b45864e41617b80348e55be3affef7168b6/2160/index.m3u8
-#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/movies/posters/49500889-1585837.jpg",Золушка 4K
+#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/movies/posters/49500889-1585837.jpg",Золушка 4K (высокий битрейт)
 #EXTGRP:4K
 https://cdn4531.entouaedon.com/stream2/cdn-400/0a90a76024d2c536cd959749b501bdf9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVBVTTtVFeNRVU45kaVNjWEl1dOpXU6llMWtWTqtGMOdVUz4EVkpmTHVUP:1801234000:925.088.211.265:f38032907cd48fbc6bfa4ff525cb180b3756cbc300d6513a23cd65ba99e8ab0f/2160/index.m3u8
-#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/1630407-1671804.jpg",007: Координаты «Скайфолл» в 4K
+#EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/1630407-1671804.jpg",007: Координаты «Скайфолл» 4K (высокий битрейт)
 #EXTGRP:4K
 https://cdn4531.entouaedon.com/stream2/cdn-400/0a90a76024d2c536cd959749b501bdf9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kes12TE10dNREapllarpnWEVFNOpXR140VOlmWHVlMNRkRp5kaW12THFVP:1801234000:925.088.211.265:d2d42acc70c0f4909dd9ec56158f382ed4eee4cf8935931cb0b7004c21c2d66c/2160/index.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Соник 3 в кино (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Соник 3 в кино (2024) (высокий битрейт)
 #EXTGRP:4K
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSTL36h5XVp0Yu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Операция Ы и другие приключения Шурика (1965)
-#EXTGRP:4K
-https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKSNbnp8UWm2ysu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Стрелок (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Стрелок (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS6hsjPmoQrrCU/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Носферату (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Носферату (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSeYmXY2TjKG7Z/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Нипал (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Нипал (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS9AMp8ir-Za_Q/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тогда. Сейчас. Потом (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тогда. Сейчас. Потом (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSSY81e9hPiM4j/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Присяжный номер два (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Присяжный номер два (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSogS94qpbf8aW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сто лет тому вперед (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сто лет тому вперед (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS-urjqZAN8udr/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Годзилла и Конг: Новая империя (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Годзилла и Конг: Новая империя (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSsjcGBp67FWoQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Высокое напряжение (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Высокое напряжение (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSJ2IgrKrplzCd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",На расстоянии удара (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",На расстоянии удара (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSXDixoY5G7bza/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Конклав (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Конклав (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/5jktNnXsnLFpaeDlhmV/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хищные земли (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хищные земли (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/5jktNnXxYYslVGzUk2d/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Федерико. Великий футболист (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Федерико. Великий футболист (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSTTldnti7Qf3t/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Союз (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Союз (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/zE2SWKSzVBe5IRoxlJ5/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Моя жена – киллер (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Моя жена – киллер (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnXi-c0IppAH0KM/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Головоломка 2 (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Головоломка 2 (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnXE33ZucThLBQE/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Спящие псы (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Спящие псы (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/5jktNnXH_8DhXDvws1x/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Смотрители (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Смотрители (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnX9PIW4ivJABpA/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дева и дракон (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дева и дракон (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSUs9l9kXJ-1jC/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Каскадеры (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Каскадеры (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnX9JhqbJEBFdz2/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Карающая длань (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Карающая длань (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSLcTbbe8r5ctz/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Псы войны (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Псы войны (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnX16Za2ro5Sj0i/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Жребий (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Жребий (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXFQAH4tQB-Yhu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Битлджус Битлджус (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Битлджус Битлджус (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnX-UvrlRYr6ljL/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Каменщик (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Каменщик (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXlaT3R2oFByhu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Последнее путешествие Деметра (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Последнее путешествие Деметра (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSqoTGZXOoq-lr/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Улыбка 2 (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Улыбка 2 (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSKGQgTRzOd2mt/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Уоллес и Громит: Самая дикая месть (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Уоллес и Громит: Самая дикая месть (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS4GwHpQoJEZoa/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Министерство неджентльменских дел (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Министерство неджентльменских дел (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/5jktNnXUzHUjveSkb9N/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Профессионал (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Профессионал (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/5jktNnXAyNEUDXd8i7Q/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарфилд в кино (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарфилд в кино (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSrZ3iaIT2EZ9Q/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Переговорщик (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Переговорщик (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS2cDsF_NNcFNM/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Роб Пис (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Роб Пис (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSloTBFxThuWPT/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пришествие демона (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пришествие демона (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXPQBYKZdYBQC-/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Новички (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Новички (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSFypbpmqWD60z/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Избавление (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Избавление (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSISrvOB1vDapf/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мой пингвин (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мой пингвин (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS9gfHcWjvkFQp/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Озеро Каддо (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Озеро Каддо (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSiUNxNZtbxreS/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Безмолвное братство (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Безмолвное братство (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/FP7MRNSs8Z4TvoR3bYJ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Другой мир: Год волка (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Другой мир: Год волка (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSEbMHOPkI9CxM/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Панда (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Панда (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKStnNrQegSXxP_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аквамен (2018)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аквамен (2018) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSQoOCOuHKnPEi/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аквамен и потерянное царство (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аквамен и потерянное царство (2023) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSl1-RzTDvUd2E/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мегалополис (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мегалополис (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSj2d7OEv6bLBe/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ночная сучка (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ночная сучка (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSscWxzIi4pSGj/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мятежная Луна:Часть 1 - Дитя огня (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мятежная Луна:Часть 1 - Дитя огня (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKS_iMjZ8VCFUGU/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мятежная Луна:Часть 2 - Оставляющая шрамы (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мятежная Луна:Часть 2 - Оставляющая шрамы (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXz9SL-Pf7udo5/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ускорение (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ускорение (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXTbjSX4xrcD_q/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Росомаха и Дэдпул (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Росомаха и Дэдпул (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnXDk3rRcggVxrW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ковбои страны АбраКадабра (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ковбои страны АбраКадабра (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3Ntq7px6n_O_lF1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Платформа 2 (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Платформа 2 (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXJ0qwywJJdl7L/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Очень Холодно (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Очень Холодно (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSiQMFDGzQDpfd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Планета обезьян: Новое царство (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Планета обезьян: Новое царство (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS7CrWRL68KXFf/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Досье «Черная канарейка» (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Досье «Черная канарейка» (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSeOy4rIAMEzJF/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зять (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зять (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSuZSJv9_mPPj6/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Скорость (1994)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Скорость (1994) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS4Ory7A6w3u06/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Небритая рука 4К (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Небритая рука 4К (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSZ4wpuU3BVyKP/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Граф Монте-Кристо (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Граф Монте-Кристо (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSeCa0D7wNVzU2/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миссия: Красный (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миссия: Красный (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKS1wLeDJxVMnxS/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Война рохирримов (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Война рохирримов (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKShe1GPwGGalGs/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Одинокие волки (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Одинокие волки (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3NtJ2UqZYWdxV0t/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ускорение (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ускорение (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXtV5QhOmDvVbM/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гладиатор 2 (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гладиатор 2 (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSboYPDiH40SG_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ручная кладь (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ручная кладь (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSelCfQR8rozwW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миллениум (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миллениум (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKS8507zA9gG2ap/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Атлас (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Атлас (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS04F4psVU6KeE/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Неуязвимый (2000)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Неуязвимый (2000) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSz7Xj6CU9RPM7/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Снайпер (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Снайпер (2014) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSQWL2mWUXs2Ed/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зверь (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зверь (2022) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSq3aee9TuSanb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",1+1 (2011)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",1+1 (2011) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSikOuFunSVHj3/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хулиганы зеленой улицы (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хулиганы зеленой улицы (2005) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSlHCJoFxJpIVI/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",На гребне волны (1991)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",На гребне волны (1991) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSOETRlkKMSxLE/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Адвокат дьявола (1997)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Адвокат дьявола (1997) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSHZFieZd4XciX/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",За пригоршню долларов (1964)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",За пригоршню долларов (1964) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSGmNib-8VvFmB/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кукловоды (1994)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кукловоды (1994) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSiHI6nsalcAYY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Красное солнце (1971)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Красное солнце (1971) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/5jktNnXFgw-NCX91eIa/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Враг мой (1985)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Враг мой (1985) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKStb5FbLmUiBhL/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миллион лет до нашей эры (1966)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миллион лет до нашей эры (1966) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS_2jeex_2PHnH/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Выстрел в пустоту (2017)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Выстрел в пустоту (2017) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS7V4tUEhtCPP1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рейд (2011)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рейд (2011) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSlmeC0kSUWFJi/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",65 (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",65 (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/YI8o3Ntob7QmDyV4DSj/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Шерлок Холмс (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Шерлок Холмс (2009) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSLO04wtmlx8DD/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Луна 2112 (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Луна 2112 (2009) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSS0ek9idmG7I9/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Социальная сеть (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Социальная сеть (2010) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSRvIWiyOfqzx3/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Небесный капитан и мир будущего (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Небесный капитан и мир будущего (2004) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKS6nZ0aw_6ZPQN/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бруклин (2015)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бруклин (2015) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSTcEmtJ5JjKjY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Битва за Землю (2019)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Битва за Землю (2019) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSlFDFUN8FYeKA/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Луна (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Луна (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSklZYQubNALIh/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Эпидемия: Вирус-32 (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Эпидемия: Вирус-32 (2022) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSo1xac1S8NSCs/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крупный улов (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крупный улов (2023) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSZfPXQElykw3m/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Восстание зловещих мертвецов (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Восстание зловещих мертвецов (2023) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKS-NXDq5MwU__H/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Последняя фантазия: Духи внутри (2001)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Последняя фантазия: Духи внутри (2001) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/zE2SWKSUBHwHuTh4BY0/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Одержимость (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Одержимость (2014) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnXX9D5OwG9CflW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Константин: Повелитель тьмы 60 FPS (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Константин: Повелитель тьмы 60 FPS (2005) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSbbt_iOoMTlsY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Париж: Город мертвых (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Париж: Город мертвых (2014) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnXesxcSKisWxuM/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Призрачный патруль (2013)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Призрачный патруль (2013) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSR7tJjLdDk517/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Особняк с привидениями (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Особняк с привидениями (2023) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/YI8o3NtR6SaXrPOE0QA/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вонка (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вонка (2023) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSRX-3pNX7WFxQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Братья Супер Марио в кино (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Братья Супер Марио в кино (2023) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/FP7MRNSpZ78c90rz95U/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Райское озеро (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Райское озеро (2008) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSHBEKezyTZG3N/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Идиократия (2006)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Идиократия (2006) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSKJUs4-7VylDq/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Забирая жизни (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Забирая жизни (2004) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSGTnfJSLFjxFa/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Знакомьтесь Джо Блэк (1998)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Знакомьтесь Джо Блэк (1998) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSyNH0ayNPt0zQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Игра (1997)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Игра (1997) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSYhhWV6watVka/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Отряд самоубийц (2016)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Отряд самоубийц (2016) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKSDmFUT4b79iFz/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Темная башня (2017)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Темная башня (2017) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSJVFd9LZgpn01/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Армия воров (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Армия воров (2021) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKS4D2pjdoAlnJQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Машина времени (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Машина времени (2002) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSmxsFjO6Tw1HD/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форма воды (2017)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форма воды (2017) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS7dMu_f0hQQlt/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пятая власть (2013)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пятая власть (2013) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSqA399z5Koxej/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",13-й район (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",13-й район (2004) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSn5IF-JXJrJiX/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Затащи меня в ад (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Затащи меня в ад (2009) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSJJUHc8Mit0xt/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Лучшие в Аду (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Лучшие в Аду (2022) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKShBkm4dWR2uPw/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ярость (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ярость (2014) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSZ8TllbS52MPw/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Красная планета (2000)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Красная планета (2000) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXtmGX4kQ2DUtd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чарли и Шоколадная Фабрика (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чарли и Шоколадная Фабрика (2005) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKS8_iejIDLad_p/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Забытое (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Забытое (2004) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXwEbIGHg9n_tW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Большой и добрый великан (2016)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Большой и добрый великан (2016) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSpw-YIYjGw1Ip/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Большой баг (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Большой баг (2022) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS9tq02eRmn-Gj/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",G. I. Joe. Бросок кобры : Снейк Айз (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",G. I. Joe. Бросок кобры : Снейк Айз (2021) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSWIqP9bkN8R27/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Молодой Кесьлевский (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Молодой Кесьлевский (2014) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS7QIJdzp_tQDn/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Космическая одиссея 2001 (1968)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Космическая одиссея 2001 (1968) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSxFTFgJjywddp/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хищник (2018)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хищник (2018) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKS55C1NoCpNdzY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Расплата (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Расплата (2010) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS8FQg8O3LZV_2/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Легенда жемчуга Наги (2017)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Легенда жемчуга Наги (2017) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSBvJGxRNCyGYp/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Варкрафт (2016)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Варкрафт (2016) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS2GS22U81_IJB/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",6-ой день (2000)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",6-ой день (2000) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSot7KI-M1XMin/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мистер и миссис Смит (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мистер и миссис Смит (2005) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSZKj3mGX1p4Xd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Возмещение ущерба (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Возмещение ущерба (2002) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS_38wP_nKXsTD/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бегущая в лабиринте (2020)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бегущая в лабиринте (2020) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSuqlooHlX2IX_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Финч (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Финч (2021) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXJSCbgYkHprJl/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Барби (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Барби (2023) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSs8U7Oec2eLPl/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дюнкерк (2017)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дюнкерк (2017) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS5xCTVwmgcEAd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",К звездам (2019)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",К звездам (2019) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/5jktNnXo-d3oftdQZv9/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Митчеллы против машин (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Митчеллы против машин (2021) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXFTNCYehRdmo_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джейсон Борн (2016)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джейсон Борн (2016) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS9h1DUe4PRr8R/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вавилон Н.Э (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вавилон Н.Э (2008) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSiLlAlg_BFtJ8/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Aпгрейд (2018)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Aпгрейд (2018) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/FP7MRNSkuI82HP1hOHn/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тетрадь смерти (2017)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тетрадь смерти (2017) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSMIXxMMeoQ7NQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зов волка (2019)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зов волка (2019) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSHCebauKycu5l/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сфера (1998)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сфера (1998) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSIqcGlWA8kLCU/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Великий уравнитель (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Великий уравнитель (2014) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSpcq-3w6JpOs3/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ван Хельсинг (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ван Хельсинг (2004) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSKI_VNrukjTDZ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Радиоволна (2000)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Радиоволна (2000) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSfyUfydbL2rQv/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Aквамен и потерянное цaрство (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Aквамен и потерянное цaрство (2023) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS5nG2WSS86wl9/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Глaвный герoй (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Глaвный герoй (2021) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/FP7MRNSh8VojdQHHps_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Санктум (2011)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Санктум (2011) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS7nb0kkShRLKv/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Новая земля (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Новая земля (2008) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXkDmny-tb_Fib/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Роковое число 23 (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Роковое число 23 (2007) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXSVzMkuHyiFwY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Алиса в стране чудес (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Алиса в стране чудес (2010) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXryxHJU0FD7Gu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ледниковый период (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ледниковый период (2002) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXhNtXkGPxHMth/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Грейхаунд (2020)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Грейхаунд (2020) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXbUXwz7elC9fi/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Планета сокровищ (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Планета сокровищ (2002) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSIyfmSnw6_i_S/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Валли (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Валли (2008) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/FP7MRNSjR50pVDHFBdB/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гран Туризмо (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гран Туризмо (2023) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSCClH_WBleY4z/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Битва за планету Терра (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Битва за планету Терра (2007) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXOSVv_6wHu7YX/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Восемь ног (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Восемь ног (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSjrXsNKQk1BtZ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Город Эмбер: Побег (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Город Эмбер: Побег (2008) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnX-2nBiGDH2ZEY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ренфилд (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ренфилд (2023) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXKqRxUb7n_VxN/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Музей восковых фигур 2: Затерянные во времени (1992)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Музей восковых фигур 2: Затерянные во времени (1992) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSBBCtnHJ6-dpl/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пекло (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пекло (2007) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSciJxLTnFM34B/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джокер (2019)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джокер (2019) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXk4XM1shOsmAL/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джокер: Безумие на двоих (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джокер: Безумие на двоих (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/5jktNnXBzcTeg8Fj_Tu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Люси (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Люси (2014) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSSlAmsiNeQS9k/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пассажиры (2016)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пассажиры (2016) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSLQnPWf1lXzgH/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Грань будущего (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Грань будущего (2014) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSB3I9FwmYydWj/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джон Картер (2012)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джон Картер (2012) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKS9neAz0E0RWlg/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тихое место: День первый (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тихое место: День первый (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS78Rx1NeoNfhe/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Интерстеллар (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Интерстеллар (2014) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKS1bOOmsSEcxUC/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тор: Любовь и гром (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тор: Любовь и гром (2022) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSXFjOCOcC61cK/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Колдунья и волшебный шкаф (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Колдунья и волшебный шкаф (2005) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSR0IC15XYKNJV/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хроники Нарнии: Принц Каспиан (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хроники Нарнии: Принц Каспиан (2008) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKS5kz3c84m6GIA/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хеллбой: Герой из пекла (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хеллбой: Герой из пекла (2004) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSxSCoyd24EBIC/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хеллбой 2: Золотая армия (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хеллбой 2: Золотая армия (2008) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSTMcMUF6fuHNP/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Блэйд (1998)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Блэйд (1998) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSZHUSxcbgtKH9/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Блэйд 3: Троица (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Блэйд 3: Троица (2004) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSCGksXvwjhJcQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сокровище нации (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сокровище нации (2004) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSmSShWCM6U-zk/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сокровище нации: Книга Тайн (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сокровище нации: Книга Тайн (2007) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXN-LfJJfJxnUG/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пацан против всех (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пацан против всех (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSXqpV2falylUJ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Затура: Космическое приключение (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Затура: Космическое приключение (2005) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSxJVqImuRz1fU/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",От заката до рассвета (1996)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",От заката до рассвета (1996) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSc9vQgJqLJGmb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",От заката до рассвета 2: Кровавые деньги из Техаса (1999)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",От заката до рассвета 2: Кровавые деньги из Техаса (1999) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSWVZCVXTX5HDi/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тихоокеанский рубеж (2013)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тихоокеанский рубеж (2013) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSIf6hn7ZcQ4wi/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Доктор Стрэндж: В мультивселенной безумия (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Доктор Стрэндж: В мультивселенной безумия (2022) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS68zWXHE5pzko/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Капитан Марвел 2 (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Капитан Марвел 2 (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXksw3sfJX1eoF/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Столкновение с бездной (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Столкновение с бездной (1988) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/zE2SWKSWmW05xmJosG5/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Я – легенда (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Я – легенда (2007) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSoKn4cN-S9jVT/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Клоуны-убийцы из космоса (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Клоуны-убийцы из космоса (1988) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKS9YcIND0omYGf/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хроники Риддика (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хроники Риддика (2004) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSvtOk22l9Fwyw/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Прометей (2012)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Прометей (2012) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKS-Qs2gNTo3rco/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чужой против Хищника (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чужой против Хищника (2004) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSl5Nhi2qiDYjs/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чужой: Завет (2017)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чужой: Завет (2017) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSDSW_8kYHCei-/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чужой: Ромул (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чужой: Ромул (2024) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSqg0946T0rLL1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Темный город (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Темный город (1988) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/5jktNnX_pGMU7wzkRjb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Война миров (1953)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Война миров (1953) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSN5omlC8M7bP9/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Война миров (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Война миров (2005) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS1zDdUzoPJq7I/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ворон (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ворон (2024) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/YI8o3NtvSCoud1XMcEB/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Война миров (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Война миров (2005) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKS-l_Ml2puAPms/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Петля времени (2012)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Петля времени (2012) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/5jktNnXDPJC-iuRZV_x/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хоттабыч (2006)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хоттабыч (2006) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSNp2cAi6bvR5G/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Меню (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Меню (2022) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/5jktNnXaGRp02LvsEZ-/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Послезавтра (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Послезавтра (2004) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKS6Z04FrFibihI/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полночь с дьяволом (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полночь с дьяволом (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSLOec1CuhmZQ8/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Подай знак (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Подай знак (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSL6TwHEOL-EIM/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зло: Проклятая комната (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зло: Проклятая комната (2022) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/5jktNnX7U_yhaotJL9r/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Земля будущего (2015)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Земля будущего (2015) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSJnkO8R1w9Jvw/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вечно молодой (1992)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вечно молодой (1992) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSTy8Nq_3Sgr0x/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Куда приводят мечты (1998)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Куда приводят мечты (1998) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/5jktNnXjz2nOhUiKpjC/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гретель и Гензель (2020)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гретель и Гензель (2020) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSPxDWjpvv8uWx/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",На Западном фронте без перемен (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",На Западном фронте без перемен (2022) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/YI8o3Nth7xthlXWygKx/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Проект Адам (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Проект Адам (2022) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/5jktNnXT3uog0fmU6Pc/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Живая сталь (2011)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Живая сталь (2011) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSZlxujw047Q9c/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Время (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Время (2021) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSZfLBx3jCK7Bn/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Исчезнувшая (2014)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Исчезнувшая (2014) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSjRwHIusxYvoi/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хардкор (2015)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Хардкор (2015) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSgTYziXfYLZkO/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ночь Живых Мертвецов (1990)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ночь Живых Мертвецов (1990) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSWTIrirkNntLJ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Под водой (2020)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Под водой (2020) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKS708Cv8od5hOP/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Начало (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Начало (2010) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSaX1tL8iIM3HJ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Троя (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Троя (2004) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSZfX1fMVKLph_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Шестое чувство (1999)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Шестое чувство (1999) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSxt6C7jv21bKl/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бесславные ублюдки (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бесславные ублюдки (2009) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSEW5uXY2jLo3v/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крепкий орешек 4.0 (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крепкий орешек 4.0 (2007) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKS9cDLru3RHRvd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Виллоу (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Виллоу (1988) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSDohPI15mRnKu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Путеводитель: Автостопом по галактике (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Путеводитель: Автостопом по галактике (2005) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSbezIK6a3ek_k/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Оз: Великий и Ужасный (2013)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Оз: Великий и Ужасный (2013) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSR4qBafyKyWKf/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дюна: Часть 1 (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дюна: Часть 1 (2021) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSgoQqxoCt0MA_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дюна: Часть 2 (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дюна: Часть 2 (2024) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnXxmSZtGqI5BLk/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бэтмен и Робин (1997)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бэтмен и Робин (1997) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSDxFyNHtTXifb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бэтмен: Начало (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бэтмен: Начало (2005) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSA5tv0T503q1s/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джонни Мнемоник (1995)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джонни Мнемоник (1995) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSPNgbbD7vbpnA/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Левиафан (1989)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Левиафан (1989) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSYs8jrligxj-R/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мир Юрского периода: Господство (2022)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мир Юрского периода: Господство (2022) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSf--w0lCdbLzm/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Последние дни на Марсе (2013)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Последние дни на Марсе (2013) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqHKDJ-u9Jz0-/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Слизняк (2006)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Слизняк (2006) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/zE2SWKSLUKye7_91I68/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси (1998)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси (1998) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSHw0z6WMgWK1c/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси 2 (2000)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси 2 (2000) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSGaMXkeJU_NPb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси 3 (2003)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси 3 (2003) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKScUxMveDTTzuK/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси 4 (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Такси 4 (2007) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSjZnAtUL4Y5JT/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Эквилибриум (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Эквилибриум (2002) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/5jktNnXbC6amqqYpaki/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Омерзительная восьмерка (2015)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Омерзительная восьмерка (2015) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSdR0zEUaAWh87/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Элементарно (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Элементарно (2023) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSviNPXI_i6ZI7/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тайлер Рейк: Операция по спасению 2 (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Тайлер Рейк: Операция по спасению 2 (2023) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSMS9bVZfHYtGX/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Черный телефон (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Черный телефон (2021) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSGTBe0IZwMR-w/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Квартира 7А (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Квартира 7А (2023) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSDpqYbDndsYQL/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Криминальное чтиво (1994)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Криминальное чтиво (1994) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKSpWacyXtvoCku/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зеленая миля (1999)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зеленая миля (1999) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKSjKHsxpX0guiY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рембо: Первая кровь (1982)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рембо: Первая кровь (1982) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS2Uzj1uUoCv3q/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рэмбо: Первая кровь 2 (1985)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рэмбо: Первая кровь 2 (1985) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/5jktNnXmo7VwXS42yvb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рембо 3 (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Рембо 3 (1988) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/YI8o3NtarMgcqBJBQia/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Марс Атакует! (1996)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Марс Атакует! (1996) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXukTjJs237_6K/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бешеные псы (1992)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Бешеные псы (1992) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSlLW9nEMG4mt-/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Американская история X (1998)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Американская история X (1998) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSVuQW70xk7Otj/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Законопослушный Гражданин (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Законопослушный Гражданин (2009) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS5A1uUsGnUJfw/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Четыре комнаты (1995)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Четыре комнаты (1995) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/FP7MRNSHlWl5RL79L4j/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Батальон 6888 (2024)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Батальон 6888 (2024) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSyQWqkCvMo_TF/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Безумный Макс: Дорога ярости (2015)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Безумный Макс: Дорога ярости (2015) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/zE2SWKS18Eo70e5EcvL/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Веном (2018)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Веном (2018) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/FP7MRNSagl5fCPUTtQU/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Не пойман — не вор (2006)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Не пойман — не вор (2006) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSgjCWnaCZ1J4B/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",День независимости (1996)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",День независимости (1996) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSyR1F_4dwSBMd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",День независимости: Возрождение (2016)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",День независимости: Возрождение (2016) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSA2-0g_K9HN58/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гравитация (2013)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гравитация (2013) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXj9dV3DWG5RT1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Коралина в стране кошмаров (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Коралина в стране кошмаров (2009) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnX_sy0kqpSnnQt/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аэроплан (1980)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аэроплан (1980) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXZRm2ukLcseFd/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аэроплан 2 (1982)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Аэроплан 2 (1982) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKS6ibiMgVhBjEh/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сексмиссия (1984)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сексмиссия (1984) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSwH8RwaNUuh07/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Электрошок (1989)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Электрошок (1989) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSba5ED9kO9RY4/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зловещие мертвецы (1981)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зловещие мертвецы (1981) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSnsFKR5JpaLNr/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ва Банк (1981)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ва Банк (1981) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/YI8o3NtR7dHWmyGtoTW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крикуны (1995)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крикуны (1995) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSltFY47_Kc5sH/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Немыслимое (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Немыслимое (2010) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSJ3kF51j8vNRG/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Паспорт (1990)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Паспорт (1990) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSgwj6w0QR33g1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Классик (1998)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Классик (1998) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSCBHr79jzec36/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",День сурка (1993)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",День сурка (1993) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSjqBJiZStadjz/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джуманджи (1995)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джуманджи (1995) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnX-QO4NBTYvDQH/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Универсальный солдат (1992)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Универсальный солдат (1992) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/YI8o3NtX0dEU5BUeoOm/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кровавый спорт (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кровавый спорт (1988) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSMCrAeBcz8Uw1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Демоны (1986)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Демоны (1986) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKStAcaN65gKjZQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Телемертвецы (1987)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Телемертвецы (1987) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS_VB8fnB2xAzu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кошмар на улице Вязов (1984)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кошмар на улице Вязов (1984) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/YI8o3NtkoP9-tu3n_28/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кто подставил кролика Роджера (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кто подставил кролика Роджера (1988) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3Nt-91QC2tRMhG-/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Не отступать и не сдаваться (1985)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Не отступать и не сдаваться (1985) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3Nt_zTAbqbWwrkX/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Схватка (1995)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Схватка (1995) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/zE2SWKSrpB_zlaYerV2/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зверобой 2 серии (1990)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зверобой 2 серии (1990) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSthTGE8COKqRW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Земные девушки легко доступны (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Земные девушки легко доступны (1988) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/YI8o3NtpvA81lTHTgg7/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Особенности национальной охоты (1995)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Особенности национальной охоты (1995) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSb_UvTgXelNtH/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Щен из созвездия Гончих псов (1991)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Щен из созвездия Гончих псов (1991) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKS5Ou33CTNuZbn/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полосатый рейс (1961)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полосатый рейс (1961) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSPgYH_sXDmg0C/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Самогонщики (1961)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Самогонщики (1961) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSWZyE9YwtS6_l/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мимино (1977)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Мимино (1977) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/YI8o3NtuFrwnq_NYe4u/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миколка-паровоз (1956)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Миколка-паровоз (1956) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKSdFEgvheaqF0m/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Баллада о солдате (1959)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Баллада о солдате (1959) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSmQgNZ7YXTxQY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пес Барбос и необычный кросс (1961)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Пес Барбос и необычный кросс (1961) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKS7dIClLbe8gJm/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Человек с бульвара Капуцинов (1987)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Человек с бульвара Капуцинов (1987) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXMYrFJUPHGFiw/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Илья Муромец (1956)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Илья Муромец (1956) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/5jktNnXLO_dMbwy4kHb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",В бой идут одни «старики» (1973)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",В бой идут одни «старики» (1973) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSZhdZXd1zZmjo/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Закадычные друзья (1954)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Закадычные друзья (1954) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSWJMLGvX1PwI_/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Морозко (1964)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Морозко (1964) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSWv0tMNq2hqq8/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Женитьба Бальзаминова (1964)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Женитьба Бальзаминова (1964) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKS91T4rjWe-VJ6/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",За спичками (1979)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",За спичками (1979) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/CZjqmtgIIH/5jktNnXltSMR0hh4M7H/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сорок первый (1956)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сорок первый (1956) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/zE2SWKS_rGzNsb_Rbu7/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Собачье сердце (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Собачье сердце (1988) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSflzYkqPfG6j4/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чернокнижник (1989)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Чернокнижник (1989) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3Ntzi0HWRkNXsgZ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Белое солнце пустыни (1970)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Белое солнце пустыни (1970) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKS86hKXzkWewFs/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Не может быть! (1975)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Не может быть! (1975) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKS01-AeJGUdfjF/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Карнавальная ночь (1956)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Карнавальная ночь (1956) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSOUEg-apeAcXA/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вий (1967)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Вий (1967) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/zE2SWKSIX1BbfDu3JC1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Алые паруса (1961)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Алые паруса (1961) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXBrJfcBss2usi/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Начальник Чукотки (1966)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Начальник Чукотки (1966) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnXNvuDFDpo2EFm/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дядя Вася (1970)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Дядя Вася (1970) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKS3UwYsZmPS_4P/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Cамая обаятельная и привлекательная (1985)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Cамая обаятельная и привлекательная (1985) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/YI8o3NtXHV0CSviB0eQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Любовь и голуби (1984)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Любовь и голуби (1984) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSFLYkE1fJA54R/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Игла (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Игла (1988) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKSdoBQWQvjY36N/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Старик Хоттабыч (1956)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Старик Хоттабыч (1956) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSCVZ9-Pjbj_o7/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Руслан и Людмила 2 серии (1972)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Руслан и Людмила 2 серии (1972) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSffzNzkzgx494/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Солярис (1972)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Солярис (1972) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKS33ZuUMZ5h_zP/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Три тополя на Плющихе (1967)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Три тополя на Плющихе (1967) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnX-nSXaJzImbIu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Старик Хоттабыч (1956)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Старик Хоттабыч (1956) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKSqblImLV6ciqy/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ирония судьбы или С легким паром (1975)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Ирония судьбы или С легким паром (1975) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSxldZz4DE8l9o/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Иван Васильевич меняет профессию (1973)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Иван Васильевич меняет профессию (1973) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSqlC9rnLzaFve/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джентльмены удачи (1971)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Джентльмены удачи (1971) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSZe_XcMMhQL51/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Нафаня (1975)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Нафаня (1975) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSZGWji_2oLSdu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Отцы и деды (1982)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Отцы и деды (1982) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKS-0i-xH-rh0J0/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Три орешка для Золушки (1973)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Три орешка для Золушки (1973) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSQwQpYIJxEocq/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Д'Артаньян и три мушкетера 1-серия (1979)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Д'Артаньян и три мушкетера 1-серия (1979) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSvx14wvS1Pr6J/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Д'Артаньян и три мушкетера 2-серия (1979)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Д'Артаньян и три мушкетера 2-серия (1979) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSznl1UHnM6PDE/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Д'Артаньян и три мушкетера 3-серия (1979)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Д'Артаньян и три мушкетера 3-серия (1979) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSjmX16r35J8XK/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кин-дза-дза! 1-серия (1986)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кин-дза-дза! 1-серия (1986) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSavweT78bbBNH/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кин-дза-дза! 2-серия (1986)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Кин-дза-дза! 2-серия (1986) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKSQ10lGogXI6Ss/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Золотой теленок 1-серия (1968)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Золотой теленок 1-серия (1968) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSlrwyXCLE4feQ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Золотой теленок 2-серия (1968)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Золотой теленок 2-серия (1968) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/zE2SWKSmb2_d0rdAy2Q/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зимний вечер в Гаграх (1985)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зимний вечер в Гаграх (1985) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS0dqOCbyeHEWZ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сталкер (1979)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Сталкер (1979) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/zE2SWKSuqOxa7561NUW/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Человек–амфибия (1961)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Человек–амфибия (1961) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSuPIP-I_oL0hk/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Я шагаю по Москве (1963)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Я шагаю по Москве (1963) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXphbWMnRP-e89/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Морозко (1964)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Морозко (1964) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/kfSkUj-sWy/zE2SWKSJ07vnQdHwgIq/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Осенний марафон (1979)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Осенний марафон (1979) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSvujccWkCDn30/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Терминатор (1984)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Терминатор (1984) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/zE2SWKS8icpv5rp--qK/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Терминатор: Да придет спаситель (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Терминатор: Да придет спаситель (2009) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSwV8bOrHd810S/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Скала (1996)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Скала (1996) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/YI8o3NtELQL6-NIuajP/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Эльвира: Повелительница тьмы (1988)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Эльвира: Повелительница тьмы (1988) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/YI8o3NtHSwPt9n_MdIY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Воздушная тюрьма (1997)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Воздушная тюрьма (1997) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/YI8o3NtmFOQR4HK--Fv/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Киборг (1989)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Киборг (1989) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/YI8o3NtozWx7xjrnitv/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форсаж (2001)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форсаж (2001) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/zE2SWKS4YZUhfTLByke/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форсаж 5 (2011)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форсаж 5 (2011) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/zaA4EcW22E/zE2SWKSZHyVO_EzZfca/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форсаж 10 (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Форсаж 10 (2023) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/YI8o3NtJuym_3R6fDDh/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Беглец (1993)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Беглец (1993) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/YI8o3NttjFXvJfd6eIx/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Маска (1994)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Маска (1994) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/CZjqmtgIIH/zE2SWKSRJdaPntQOUSX/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Один дома (1990)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Один дома (1990) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSNzJREV9d2HV7/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Один Дома 2: Затерянный В Нью-Йорке (1992)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Один Дома 2: Затерянный В Нью-Йорке (1992) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKScjRc2EFhHPlw/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зубастики (1986)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Зубастики (1986) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSvz3roZTuIXYl/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крестный отец 1 (1972)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крестный отец 1 (1972) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/kfSkUj-sWy/zE2SWKS49K_h508_7al/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крестный отец 2 (1974)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крестный отец 2 (1974) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/kfSkUj-sWy/zE2SWKSfCp5mQTfuUrX/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крестный отец 3 (1990)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Крестный отец 3 (1990) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/kfSkUj-sWy/zE2SWKSExGaWMGn7dyl/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Братство кольца (2001)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Братство кольца (2001) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSTY6cqmnX9WVb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Две крепости (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Две крепости (2002) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/zE2SWKSSC0TPFF3_697/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Возвращение короля (2003)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Властелин колец: Возвращение короля (2003) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/zE2SWKS8qqHzuWKc8R5/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Назад в будущее 1 (1985)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Назад в будущее 1 (1985) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/YI8o3NtdnnoA5eOf7k4/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Назад в будущее 2 (1989)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Назад в будущее 2 (1989) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/YI8o3Nt9K-ktpkftuLC/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Назад в будущее 3 (1990)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Назад в будущее 3 (1990) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/ZQ01hGw4gFnO4gb55_o/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полицейский из Беверли Хиллз 1 (1984)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полицейский из Беверли Хиллз 1 (1984) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/YI8o3NtRk2uSBhW2pmT/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полицейский из Беверли-Хиллз 2 (1987)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полицейский из Беверли-Хиллз 2 (1987) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/FP7MRNSW7dVXf-ebDaB/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полицейский из Беверли-Хиллз 3 (1994)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Полицейский из Беверли-Хиллз 3 (1994) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/aItZ6wk4TbtlBJBJDNl/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Железный человек 1 (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Железный человек 1 (2008) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/zaA4EcW22E/YI8o3NtGYSH-n7wg_D1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Железный человек 2 (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Железный человек 2 (2010) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/zaA4EcW22E/YI8o3NtoMIQ1tuZ1KYU/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Железный человек 3 (2013)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Железный человек 3 (2013) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/zaA4EcW22E/YI8o3Nt6I_wOYtOY7kT/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 1 (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 1 (2002) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/5jktNnXhv9CGKnzAZmk/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 2: Апокалипсис (2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 2: Апокалипсис (2004) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/0GRdptsjAb/5jktNnXL32yJpGzJCOs/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 3 (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 3 (2007) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXIz7zmgrYZV6j/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 4: Жизнь после смерти (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла 4: Жизнь после смерти (2010) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/0GRdptsjAb/zE2SWKSl1Ia6NicTYfG/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла: Возмездие (2012)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла: Возмездие (2012) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXJOU6V1T3yBDs/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла: Последняя глава (2016)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла: Последняя глава (2016) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnX4vvAtJbUfqFY/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла: Раккун-Сити (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Обитель зла: Раккун-Сити (2021) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/5jktNnXw_nMG40euPla/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и философский камень (2001)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и философский камень (2001) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXRoYDkDF9uZBy/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Тайная комната (2002)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Тайная комната (2002) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/5jktNnXjLVnxYwoyy4a/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и узник Азкабана(2004)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и узник Азкабана(2004) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/YI8o3NtTbYuJipTKQg1/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Кубок огня (2005)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Кубок огня (2005) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSJtdJvI21kfsu/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Орден Феникса (2007)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Орден Феникса (2007) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKS6DKuu2jKvlvf/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Принц-полукровка (2009)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Принц-полукровка (2009) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/aItZ6wkYz3Lx1wJzqFE/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Дары Смерти: Часть 1 (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Дары Смерти: Часть 1 (2010) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/5jktNnXQW1t4vHKD1KR/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Дары Смерти: Часть 2 (2010)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Гарри Поттер и Дары Смерти: Часть 2 (2010) (высокий битрейт)
 https://vod.plvideo.ru/GMPb65uk/oUYaYhn1uR/5jktNnXwmE7Tjryww_b/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица (1999)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица (1999) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXeF1D-Mz3ft_e/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица: Перезагрузка (2003)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица: Перезагрузка (2003) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/CZjqmtgIIH/zE2SWKS9rfYWarrdGbz/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица: Революция (2003)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица: Революция (2003) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/CZjqmtgIIH/5jktNnXoUDvedOxZblB/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица: Воскрешение (2021)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Матрица: Воскрешение (2021) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/5jktNnXbS1RsZpnHGmj/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс: В поисках утраченного ковчега (1981)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс: В поисках утраченного ковчега (1981) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSnBTu9cfLTEHJ/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и Храм судьбы (1984)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и Храм судьбы (1984) (высокий битрейт)
 https://vod.plvideo.ru/JLxVTeJD/oUYaYhn1uR/zE2SWKSTR9PwlMSgwCs/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и последний крестовый поход (1989)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и последний крестовый поход (1989) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSg7ARgZXu9gWO/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и Королевство хрустального черепа (2008)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и Королевство хрустального черепа (2008) (высокий битрейт)
 https://vod.plvideo.ru/xdhKhqAx/oUYaYhn1uR/zE2SWKSxouzsIoGXekb/ZX.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и Колесо судьбы (2023)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/180hawyac5oae1za5npg1/4K.png?rlkey=h4w6q1rms463fv3eyk8x4o8fv",Индиана Джонс и Колесо судьбы (2023) (высокий битрейт)
 https://vod.plvideo.ru/FbZEopwh/oUYaYhn1uR/5jktNnXDUCGkZpEubis/ZX.m3u8
 #EXTINF:0 tvg-logo="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/7051436-2099706.jpeg",Защитник в 4K
 #EXTGRP:4K

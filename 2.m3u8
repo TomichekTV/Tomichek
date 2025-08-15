@@ -373,7 +373,7 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Bridge_rock_hd&token=T
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whwww64vepbnmchklf8zp/marvel.png?rlkey=ka3pni36robdrjfctbwtr8n76" group-title="TV-PREMIUM",Marvel HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/15025/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/e0se9pmng2x9m2d/Radio_Record_HD.png" group-title="TV-PREMIUM",Radio Record Music
 https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630314.png" group-title="TV-PREMIUM",Матч! Боец HD

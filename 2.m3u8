@@ -372,28 +372,27 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Bridge_rock_hd&token=T
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whwww64vepbnmchklf8zp/marvel.png?rlkey=ka3pni36robdrjfctbwtr8n76" group-title="TV-PREMIUM",Marvel HD
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/e0se9pmng2x9m2d/Radio_Record_HD.png" group-title="TV-PREMIUM",Radio Record Music
 https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630314.png" group-title="TV-PREMIUM",Матч! Боец HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/150/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.smotreshka.tv:80/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcmhkLnBuZw==" group-title="TV-PREMIUM",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://peers.tv/data/illustrations/ills/2017/08/08/101630/101630314.png" group-title="TV-PREMIUM",Матч! Боец HD
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/32acx46fvs5ksxfj20iio/eurosport_1.jpg?rlkey=gopak3jfni5wvnn9q1ar94owi" group-title="TV-PREMIUM",Eurosport 1 HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/228/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jegcyju9rvqc50dt71vd3/eurospot_2.jpg?rlkey=zoj1qddyh93zw6g3lkbyzsjsi" group-title="TV-PREMIUM",Eurosport 2 HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/234/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/db3457d7-61d1-426e-a2c1-7cc1bd5b2a3a/" group-title="TV-PREMIUM",Ю HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/534/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/unjq3fhugxw19fj/1425.png" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/6392/index.m3u8
+
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/fdcb18f9-1360-4f4b-859c-321281f5ca94/",Дом Кино HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/154/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/msyk45lu9enof3a0qdu9x/multiland.png?rlkey=61hd3y250610u0de3o3uyk0lu" group-title="TV-PREMIUM",Мультиландия HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/5055/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ff7yxsdibx09ziv5qhf19/mult.png?rlkey=hoz8sm2rwr45yjjoo45fyraio" group-title="TV-PREMIUM",Мульт HD
-http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/921/index.m3u8
+
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/gujv173muj280xi7pjk38/TeRRA_HD.jpg?rlkey=hk86wpk7ykbwiwsa45fizo7gg",Terra HD
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/79szpdvzogr6upqn3gbtn/ultra_cinema_hd.png?rlkey=ftehl1fxwu9hb1sq0o7971ck5" group-title="TV-PREMIUM",Ultra HD Cinema
@@ -405,3 +404,5 @@ http://tomichek.otttv.pw/iptv/N49A662FDTYQ8X/921/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jqvddfyam8t7z35/ru-tv-2.png" group-title="TV-PREMIUM",RU.TV HD
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgBX_p6tjNQdVKtQLpkEzIEfkQ4l7c-gIM80dHtkGC4cXMnMdqisNWjJUED7h5O9V3jCfISnH5gHjyRNbtyVJ9qzFhfY8TIDlRcmzMT9HlMP4EeRwPWJl6ccuRtUIVzjjB9GoRQlPoTkACn7pF9Buw4siOBzO2asCiQAWLBaB7VyVPdSrkmZAjpHZOdmZE" group-title="TV-PREMIUM",Nat Geo WILD HD
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whwww64vepbnmchklf8zp/marvel.png?rlkey=ka3pni36robdrjfctbwtr8n76" group-title="TV-PREMIUM",Marvel HD

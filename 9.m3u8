@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/7/5/8371577/488677100937.jpg",Формула 1 2025 4K в AV1 = НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/F1.The.Movie.2025.3xRus.Eng.4K.AV1_ely.mkv?link=3039b6153b328adca4c57e1b992bf67ab0e62a16&index=1&play
@@ -24,7 +26,7 @@ http://185.117.152.190:8090/stream/Superman.2025.2160p.WEB-DL.DV-TheEqualizer.mp
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/3/2/8381239/105473264979.jpg",Хищные твари 2025 4K, Dolby Vision, 10-bit - 15 ГБ - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Dangerous.Animals.2025.2160p.DV.WEB-DL-TheEqualizer.mp4?link=aa2b3b8c0290f319b9c57d11b98b87edef0c3b49&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/7/5/8371577/488677100937.jpg",Формула 1 2025-FHD 4K, Dolby Vision,10-bit - 29 ГБ - НЕ для старых ТВ!
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/7/5/8371577/488677100937.jpg",Формула 1 2025 4K, Dolby Vision,10-bit - 29 ГБ - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/F1.The.Movie.2025.2160p.WEB-DL.DV-TheEqualizer.mp4?link=2bb7e39f0483855243c95f2aa4a8f0f4327b14fa&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/7/8/8355879/831777055907.jpg",Миссия невыполнима: Финальная расплата 2025 4K, Dolby Vision, 10-bit - 31 ГБ - НЕ для старых ТВ!
@@ -42,6 +44,3 @@ http://185.117.152.190:8090/stream/%D0%92%D0%B0%D1%80%D0%BA%D1%80%D0%B0%D1%84%D1
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/kwb22upyngtsgdl6hsdyx/80821425612.jpg?rlkey=c5imb8uybtoiea9mda8bnlewm",Как приручить дракона 2025 в 4K (цвет Dolby Vision) = НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/How.to.Train.Your.Dragon.2025.4K_HDR_DV_RHS__%5Bscarfilm%5D.mkv?link=0cde96942eecc401b73dd90ab8d32139833b07b6&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/8/4/5483/07d8ddbd33ecbc25829a9a00e17f4b4c.jpg",28 дней спустя 2002 4K в AV1 = НЕ для старых ТВ!
-#EXTGRP:4K
-http://185.117.152.190:8090/stream/28%20Days%20Later%20(2002).mkv?link=0db79db1bbb4ddfbfda9e9f11177e6ac0567aeaf&index=1&play

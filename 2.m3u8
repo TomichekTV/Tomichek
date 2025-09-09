@@ -5,10 +5,8 @@
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tb4ltopubmpvpzbaq77gi/logo_tomich.png?rlkey=qqmxylk4m82dba70ggbkqcgvc" group-title="TV-PREMIUM",УСТАНОВИТЬ TOMICHEK-TV НА ДРУГОЕ УСТРОЙСТВО (ТЕЛЕВИЗОР/ПЛАНШЕТ/СМАРТФОН)
 https://cutt.ly/setup_2025
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ke4u7fls0me1pe7kzuayg/pay.png?rlkey=revvnytihx2j3lbdc31ve3knl" group-title="TV-PREMIUM",ОПЛАТИТЬ КОД ДЛЯ АКТИВАЦИИ ДРУГОГО УСТРОЙСТВА
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ke4u7fls0me1pe7kzuayg/pay.png?rlkey=revvnytihx2j3lbdc31ve3knl" group-title="TV-PREMIUM",ОПЛАТИТЬ ПОДКЛЮЧЕНИЕ ДРУГОГО УСТРОЙСТВА
 https://cutt.ly/pay-code
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whwww64vepbnmchklf8zp/marvel.png?rlkey=ka3pni36robdrjfctbwtr8n76" group-title="TV-PREMIUM",Marvel HD
-http://185.221.213.254/live/itvonline.tv3333.php?id=cineman-marvel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2p3bjpajod2sq5dozleyc/National-Geographic.jpg?rlkey=x82oahq0h2r0fsgznf6k23bp9" group-title="TV-PREMIUM",National Geographic HD
 http://185.221.213.254/live/itvonline.tv4444.php?id=national-geographic&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 
@@ -372,7 +370,8 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Bridge_rock_hd&token=T
 
 
 
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whwww64vepbnmchklf8zp/marvel.png?rlkey=ka3pni36robdrjfctbwtr8n76" group-title="TV-PREMIUM",Marvel HD
+http://185.221.213.254/live/itvonline.tv3333.php?id=cineman-marvel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/e0se9pmng2x9m2d/Radio_Record_HD.png" group-title="TV-PREMIUM",Radio Record Music
 https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.smotreshka.tv:80/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcmhkLnBuZw==" group-title="TV-PREMIUM",Мир HD

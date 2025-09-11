@@ -4,9 +4,7 @@
 
 
 
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/0z17qng70inado7asjuz2/808214256823.jpg?rlkey=1xxvqdl487te39jxetbhp9cih",Оппенгеймер 2023
-#EXTGRP:4K
-http://185.117.152.190:8090/stream/Oppenheimer.2023.IMAX.2160p.UHD.HDR.BluRay.VVenC.H266.VVC.RU-Opus.AAC.5.1-RAV1NE.mp4?link=b9876a51d6f284de95b602e9fdf98b2b4093e150&index=1&play
+
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5ilmp5u2q3kgwh3u4wt0a/808214256804.jpg?rlkey=9ikwi93b06feciebbsaheh7on",Капитан Америка: Новый мир 2025 4K (IMAX), Dolby Vision, 10-bit - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Captain.America.Brave.New.World.2025.IMAX.2160p.WEB-DL-TheEqualizer.mp4?link=6e8af10b298dde0fa61e4cf8ae28c2e3da11c1df&index=1&play

@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/6/3/8159364/b24534ac38e0879a5998b40ec83dbd09.jpg",Джон Уик 2014-FHD (ВЫСОКИЙ битрейт)
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/John%20Wick%20(2014)%20BDRemux.mkv?link=598686d75ef6791a06c8c51659bb86592805a24d&index=2&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5ilmp5u2q3kgwh3u4wt0a/808214256804.jpg?rlkey=9ikwi93b06feciebbsaheh7on",Капитан Америка: Новый мир 2025 4K (IMAX), Dolby Vision, 10-bit - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Captain.America.Brave.New.World.2025.IMAX.2160p.WEB-DL-TheEqualizer.mp4?link=6e8af10b298dde0fa61e4cf8ae28c2e3da11c1df&index=1&play

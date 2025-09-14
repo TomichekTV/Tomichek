@@ -13,7 +13,7 @@ http://185.221.213.254/live/itvonline.tv4444.php?id=national-geographic&token=T2
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/smjvh9xr4ubk3votn84yw/masha_2.png?rlkey=8emcb6ugnpwngg6do9ghm5kf4" group-title="TV-PREMIUM",Маша и медведь FHD (все 7 сезонов|средний битрейт)
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_ehspQ5Q1My0P8s6HDLBxU2cVjJzMOHBA463oIEtxcVInoij5HpHZ7eiqmjjveFv27nJvKUdip4NV3y2c3LBiKYdcFNCb2WbsT1WGdIOsCpTZuw1qLOpMn_r2OBBUVU8qGbZF2BcasJasZeJSkDGuIMAfw3w5DEJxUoXvCJif5DvIWEI59T5K9iypVE0ONP7ObCBNa_xDBj3dEot3BvEkbvl_eJPInfYgPjzp7lSYf3t3oCqIAUoJb0g1rWEkRR7TdrVs3cJKeM7MRK0MpYkbztYokP_HtDpX8ayBEqGBzqPQlRARY80MNjr0h9udnq6Nj5SMT1YFwe4ndJTp7ETHiK5pYsTEFrAo/63ec2a1a91fe8/4947c8ea7732265ce8bda95bcdd3be5996d6c2fd8e0b10c39e5e8813690c3e28/720p/playlist.m3u8
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18MeB3MPG4rGTdOHzjw-3q98bRsVLxeR4r1P7Tch20ebWsCgezNKxG2C6wnDe3P22cHPZsXfKuRgZR4Q7OGrks4zjAow9d27qSyBf0JgoiItznqkG8x0G_KRswwpYEN3BJO2ySZH1vdru7HJ_1Mn6HxjV3oYQ2cPjh2sh5uI-oc5PwfgnHGxMftatVEmFaj6bVwOrSIsIuleG8L2bGzX3TzwkphGJImKCByhlZRpZQDJUJzOV4phhw9EyEVpeLuSyzYrpLcLjZNJNLb2hEX4cT9AlKnzLQkFxeAil6WFDXztPe3ugee3r5Oi6Io_vBiLMIhImasiuLHQ7CTgNR507G8zakp8Q4QeRE/63eda08d28940/dbcfec8f47825996a7dd5ed3868701693868d12bbddb6880c60b47ca6c641a31/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/msyk45lu9enof3a0qdu9x/multiland.png?rlkey=61hd3y250610u0de3o3uyk0lu" group-title="TV-PREMIUM",Мультиландия HD
@@ -194,7 +194,7 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Nano_HD&token=T2xlZzIx
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Prodvizhenie&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c757c375-eba7-4321-a1db-4e0bf91bfa17/",В мире животных HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=HD_Anim_Fam&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/96053419-4b47-47d9-ab52-5536fd10c3db/",Бобёр HD
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/96053419-4b47-47d9-ab52-5536fd10c3db/",Бобер HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Bober&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/545e02b1-6fb5-4b7c-8317-51572dd373c7/",История HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Istoriya&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8

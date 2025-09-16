@@ -1,6 +1,8 @@
 #EXTM3U
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6ciyltsnkuljrr6hs9guc/808214256859.jpg?rlkey=6fi5tam5bdoplpv1xx2b89mqt",Формула 1 2025 4K в AV1 - НЕ для старых ТВ!
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/F1.The.Movie.2025.3xRus.Eng.4K.AV1_ely.mkv?link=3039b6153b328adca4c57e1b992bf67ab0e62a16&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rxi83w46f73dy85nm4zot/808214256878.jpg?rlkey=ne7gaiusipjafvvavdt263l0l",Голый пистолет 2025 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/The.Naked.Gun.2025.2160p.WEB-DL.DV-TheEqualizer.mp4?link=dcec47078ca98fe229cd2469605a0fadd4ad73ac&index=1&play
@@ -28,9 +30,6 @@ http://185.117.152.190:8090/stream/%D0%A3%D1%89%D0%B5%D0%BB%D1%8C%D0%B5_10bit.mk
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5sis32ib9muy6wwzqomwj/808214256800.jpg?rlkey=oi7y1sefs7nxp45f6q8zhfxhy",Во имя короля: История осады подземелья 2007 4K в AV1 - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/In%20the%20Name%20of%20the%20King%20A%20Dungeon%20Siege%20Tale%20(2007).mkv?link=d66d430339ecc0d41cabe4c68c7999bb5222d22e&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6ciyltsnkuljrr6hs9guc/808214256859.jpg?rlkey=6fi5tam5bdoplpv1xx2b89mqt",Формула 1 2025 4K в AV1 - НЕ для старых ТВ!
-#EXTGRP:4K
-http://185.117.152.190:8090/stream/F1.The.Movie.2025.3xRus.Eng.4K.AV1_ely.mkv?link=3039b6153b328adca4c57e1b992bf67ab0e62a16&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u7xet5emus8zyyd8pe3q4/808214256797.jpg?rlkey=x9skxtf7g3y380ip4gugpdgbj",Мир Юрского периода: Возрождение 2025 в 4K, Dolby Vision, 10-bit 25 ГБ - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Jurassic.World.Rebirth.2025.2160p.WEB-DL.DV-TheEqualizer.mp4?link=7e4654ba4eb489f66429e534547320aaca2d795b&index=1&play

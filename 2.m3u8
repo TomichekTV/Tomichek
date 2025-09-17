@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/smjvh9xr4ubk3votn84yw/masha_2.png?rlkey=8emcb6ugnpwngg6do9ghm5kf4" group-title="TV-PREMIUM",Маша и медведь FHD (все 7 сезонов|средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19xnzZ0S-9TGa5yyC-c9IL8_V_Gl9eLSVOy1F39t08nPop3Q3bhDvdDs16QM-q577ygaMXoLq5gUNCzKVT2DhxvAoQhdWlg5mpIOrFSDG70a5PHvK8CDb0q-HGx4oYR5tpwKvBeV7kW3I4BkeI4uPIzJY2z_QkVyn5lwLvKneMn5WxMHI00tVJQvCUiYrUwXPyqU-HlCNzE-seu4vsOUkadJIL6S00VBrsvoyRNdz_Jq6_APA8tC0hiGvbGW4kChbvp7YTs72Cm_Ogei2sv-zHqoKeB_DCGDoHGDB6QpnYunluW9dvkZX9kZpEm200AXCZ5abt5e-aCLHGvh-DXll9GIOQd4gZUeW0/63f16190b8a28/b033e366661d1e123005846d81f0321021a6b1b071252722c888b67ed25db3d1/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj" group-title="TV-PREMIUM",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/19uzwwotoxjpelc4hl937/logo_2025.png?rlkey=f2i422kmypqu54ruihcrpnbfs" group-title="TV-PREMIUM",УСТАНОВИТЬ TOMICHEK-TV НА ДРУГОЕ УСТРОЙСТВО (ТЕЛЕВИЗОР/ПЛАНШЕТ/СМАРТФОН)
@@ -12,8 +12,7 @@ http://185.221.213.254/live/itvonline.tv4444.php?id=national-geographic&token=T2
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/smjvh9xr4ubk3votn84yw/masha_2.png?rlkey=8emcb6ugnpwngg6do9ghm5kf4" group-title="TV-PREMIUM",Маша и медведь FHD (все 7 сезонов|средний битрейт)
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-uBTH45OpS_GfpmvLbEb9AaN7UaIeSSCLfNEStJqtFK4NgwhHxoCwvX78mrOHYbSP-39RwUccDeORPvKPg4vtkVpc2LFjOySzpskMHHVUI1O9It6iRPqsrRyXHfX5Tp0bjFm8G5fQ8v97Lq5b0puj5btS23AFn9GJuRrMggI8FUUZ-PUt5VaVKCUSt9eSwxbRigb2NPqZ-nnOADlt0lqkg8sDNmT2d8gkcFZPD7-HsoSkLy5NyUj40B07KNCcucMS0mQ5P-bvtXuvmy3T0IRExQYyuFPpbR2hFZULUwwSrZ-i_AZ9ybl1od83jDjxtzr4h7Twu_ZgT2RTRySmMKlYKiIK9fr1YQV8/63f03db0aba08/66d6e27ef6125cab4e845210817b7d3455742dee35e97e8aef0dd7f13d6e8a99/720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/msyk45lu9enof3a0qdu9x/multiland.png?rlkey=61hd3y250610u0de3o3uyk0lu" group-title="TV-PREMIUM",Мультиландия HD

@@ -13,7 +13,12 @@ https://cutt.ly/pay-code
 
 
 
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ejrn920ms9l4x5xb06u23/8082142568102.jpg?rlkey=x0a9zgb0106g1at4pzw78tw1g",Микки 17 2025 4K в 4K, Dolby Vision, 10-bit 26 ГБ - НЕ для старых ТВ!
+
+
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ejrn920ms9l4x5xb06u23/8082142568102.jpg?rlkey=x0a9zgb0106g1at4pzw78tw1g",Тайлер Рейк: Операция по спасению 2 2023 в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/Extraction.2.2023.2160p.WEB-DL.DV-TheEqualizer.mp4?link=a467e4b70c97e0cc4f980290ef9aa22766010162&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ejrn920ms9l4x5xb06u23/8082142568102.jpg?rlkey=x0a9zgb0106g1at4pzw78tw1g",Микки 17 2025 в 4K, Dolby Vision, 10-bit 26 ГБ - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Mickey.17.2025.2160p.WEB-DL.DV-TheEqualizer.mp4?link=20575c525a069e64eb612ee0de8048be5ea339d8&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6iw9kk9xs2exhc7qkawlu/808214256897.jpg?rlkey=xrpbso62pfz2q4tv9imov22o6",Виселица 2017 4K в AV1 - НЕ для старых ТВ!

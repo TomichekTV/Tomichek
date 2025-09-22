@@ -25,8 +25,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 
 
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c712f20d-8401-40eb-8d4e-c3ff4179c2b3/",Премиальное HD
-https://stream-msk-12.ott.tricolor.tv:443/dtv/id603_MSKSG-PVR-1--Premialnoe_HD_4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwOTU1MjkzOSIsImV4cCI6MTc1OTEwODAyMywiaHdpZCI6IjZmYWNjNjRhYzEyMWUzODU0YWJkYWIzYTRmMWJjZTQ0OWU2YzQ4YWUzMTU4OWJmNDM4NjEwOGNkZmVjNmU3ZTUiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTAzMjIzLCJzZXNzaW9uX2lkIjoiYWZhMzRkZDljYjY2NWI2MTcwMmI0MTQwMDYwNDYwNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qg02Ze9II7tvXQqIZK3f1wGQA60u3wSvHL-MwX2VuAE&amp;index=1&amp;play/plst.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://cs1.ott.tricolor.tv/media/v2/0437ca06-3c6d-4360-ba70-bd2dfba08a40/",НСТ HD
+https://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwOTU1MjkzOSIsImV4cCI6MTc1OTEyMDYyMCwiaHdpZCI6IjZmYWNjNjRhYzEyMWUzODU0YWJkYWIzYTRmMWJjZTQ0OWU2YzQ4YWUzMTU4OWJmNDM4NjEwOGNkZmVjNmU3ZTUiLCJsYXN0X3JlcV9kYXRlIjoxNzU4NTE1ODIwLCJzZXNzaW9uX2lkIjoiMGFlYzVjMjg5ODA2MjJlZWNkZWI1NmVlMjZkZGFlMGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.z2lptZdDC-ep4BDzdWc543QOq8UHaFNAx5Pz7SoyLR8&amp;index=1&amp;play/plst.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
 https://live-1-201.uma.media/stream/1247/HLS/ntvplus/FDxkn6CbpwxquptfmaGu-Q/1758514950/eyJzZXNzaW9uSWQiOiJZM1UzVEZwcFEyTnFTVm8wV0ZjMVNWUnBha3BvV1hCaVVYRjRhVGhUVkdONGNYa3hkM2wyVlU1bWMxZExWVXRWWlVFMmRsSnVXV05rSzFsaFpGTndPRmc1TDJSWVVVVkxSVEp1U0ZoalFrRXhOWEJoUkdjOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1247-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD

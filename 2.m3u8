@@ -1,17 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/smjvh9xr4ubk3votn84yw/masha_2.png?rlkey=8emcb6ugnpwngg6do9ghm5kf4" group-title="TV-PREMIUM",Маша и медведь FHD (все 7 сезонов|средний битрейт)
-https://streaming.disk.yandex.net/hls/U2FsdGVkX18ItHD-xxYmP3UiOaynlSJRwOvekDmmPlb8AWCnhc_DHM3uP5l7cTAleDoirSDflL9KtXyk0i94o6lXjR19KikOD9-SMN_gqgVGzibfjgP_bF5LjuZbbIuK59YKlMRWeDetN_d7JRlPWU_zO3FWhYLrW8P-G0m1Gax2j5upr4mVy4uwgbvfnwQuTx9sp00194Th5eK8Z4XiCHAim_tym_Bpjnszh94GNiEyGxiaMFtN4bdgpyesm-Kzfa9c7T4148gvtYzrGStaHE4sKm5g3UAFOzw-e4sMQzf6S5BOqwfHZEVce8EO91yXMLuxYjcLumPn8f3b2Jy1iYZZsMzV6aHlvhFQ8wxvDJ4/63ff1f0b69e00/d748d146724e4539a4936ea0b4981db4e5db63f1b243e32a1e499a6bedf99882/720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj" group-title="TV-PREMIUM",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/19uzwwotoxjpelc4hl937/logo_2025.png?rlkey=f2i422kmypqu54ruihcrpnbfs" group-title="TV-PREMIUM",УСТАНОВИТЬ TOMICHEK-TV НА ДРУГОЕ УСТРОЙСТВО (ТЕЛЕВИЗОР/ПЛАНШЕТ/СМАРТФОН)
-https://cutt.ly/setup_2025
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ke4u7fls0me1pe7kzuayg/pay.png?rlkey=revvnytihx2j3lbdc31ve3knl" group-title="TV-PREMIUM",ОПЛАТИТЬ ПОДКЛЮЧЕНИЕ ДРУГОГО УСТРОЙСТВА
-https://cutt.ly/pay-code
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2p3bjpajod2sq5dozleyc/National-Geographic.jpg?rlkey=x82oahq0h2r0fsgznf6k23bp9" group-title="TV-PREMIUM",National Geographic HD
 http://185.221.213.254/live/itvonline.tv4444.php?id=national-geographic&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://img.smotreshka.tv:80/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcmhkLnBuZw==" group-title="TV-PREMIUM",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD

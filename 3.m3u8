@@ -83,6 +83,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18tJITa5Poo5HPGY1tx1Hjpu4mxx4lkXG
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/6/3/8381360/909849930022.jpg",Моя мама — волшебница 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-PYinsxwll7gvkfeRFLtAVcDtogAnCwZRpgu2bsSP2Uz__sfZU-FQ5bp9Mrknw0FmoH6iMSyihJIJd5DA7Qu_JcUxBq8YdKzKVvQMbiGa6UwY6eYvNA3zBgZ43eZvIqLSc9sqo1viID25CE0aXcCTWTYl3AohgIHnDNGs3A8o8WaRHxutntzgCgJeTVwtMHbBcVQU5FEXHhbrEb6gOO-phjQOvQXQ3trhBLd4Yz93aYEW5koMjaVAftEvO2S7Yw_N41WhYQAPgDH_LXUzk5iUq-MVrre5ab1llh_6tEIWretTcfU64-mzNcrME9OacH0ZD7I-STwxgvTohkeUvE5wnJA8Fafq_SvJKMw_RUKvzd9jmT4gH_2HJ/643dce068f180/70ff5f39c90b9abddd8c2ee5bb3b2dd6f14b59b2ab6045dbfbab83f950c8f82f/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/e6lpz2fzk2p972smgzlcw/808214256818580.jpg?rlkey=flusc2eac6pjy547zy061ilk1",Рестарт 2025-FHD (средний битрейт + русские сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Qaitadan.2025.WEB-DL.1080p.mkv?link=0ed08d18c078b4b9e3143f44ad80a177cc40e218&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/8/0/8368088/495192770297.jpg",Жанна Дюбарри 2023-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Jeanne.du.Barry.2023.BDRip.720p.seleZen.mkv?link=57f5f2a8974f8277cd45563543c048b99c8f72a8&index=1&play

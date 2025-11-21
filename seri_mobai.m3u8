@@ -475,6 +475,9 @@ http://185.117.152.190:8090/stream/Kak.priruchit.lisu.S01.E06.2025.WEB-DL.ExKino
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/4/8/9842/197414796393.jpg",Сезон 1 - 7 серия - Как приручить лису 2025-FHD
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/07%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%9A%D0%B0%D0%BA%20%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C%20%D0%BB%D0%B8%D1%81%D1%83_rip%20by_Aleksan55.mkv?link=ef22cf8565bddbe36ce75838d957ea185b1d3f35&index=7&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/4/8/9842/197414796393.jpg",Сезон 1 - 8 серия - Как приручить лису 2025-FHD (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Kak.priruchit.lisu.S01.E08.2025.WEB-DL.ExKinoRay.mkv?link=bf5a2749d55e7c4e3826faa252b13f4bc83475bd&index=8&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5omof78ulusboo0bby3wv/80821425681817.jpg?rlkey=1rgcmvymmykorm3ldnwv847vd",Сезон 1 - 1 серия - Мегрэ 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Maigret.S01E01.MVO.WEB-DLRip-AVC.seleZen.mkv?link=7729d94df5e2e2467a4ec06ada4f532cccb1db38&index=1&play
@@ -1057,6 +1060,9 @@ http://185.117.152.190:8090/stream/Vampiri.srednej.polosy.S03.E02.2025.WEB-DL.10
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/669226565894.jpg",Сезон 3 - 3 серия - Вампиры средней полосы 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Vampiry%20srednej%20polosy.S03E03.2025.WEB-DL.720p.mkv?link=105c4aae24490154fac1fdd0122a6397be56bd9c&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/669226565894.jpg",Сезон 3 - 4 серия - Вампиры средней полосы 2025 FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Vampiry%20srednej%20polosy.S03E04.2025.WEB-DL.720p.mkv?link=2365c3beab26af282b28b4a90503a3ea51a93ac7&index=4&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/c7oywaxmx0a947ituij15/80821425681846.jpg?rlkey=5e761v2uvhfzq017kd6qk6g56",Сезон 1 - 1 серия - Морские дьяволы. Полярный конвой 2024 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/ecbc113e67f80af83e7b8aa8cea313c9/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbSpmWqNGeOpWV4lles1WTUpFbNp3Yw80VVpnWXFVNadUR10kanFTWtlUP:1801234000:925.088.211.265.*:537c15934950f4bda41852c1985ef9ba802248d5d7b8e6038bd16e04c39c3639/720/index.m3u8
@@ -1692,52 +1698,52 @@ https://cdn4561.entouaedon.com/stream2/b-401/9bc57578b267e749d8ec9f2b6fc73888/MJ
 https://cdn4561.entouaedon.com/stream2/b-401/8cdef59b4116379ed263e47cd48f562b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbRBTWy4EbaRkSt1ERnVTWXpVbNR0Z350RJhnWEtGeNp2Y6pFRZJTTXFVP:1801234000:925.088.211.265:ed345cdbc3db11dd4c616f7e65ff4111b5257d3ac17e7ee395914446c2efd679/720/index.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 1 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=1&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 2 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E02.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=2&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E02.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=2&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 3 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E03.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=3&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E03.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=3&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 4 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E04.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=4&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E04.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=4&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 5 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E05.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=5&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E05.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=5&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 6 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E06.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=6&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E06.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=6&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 7 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E07.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=7&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E07.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=7&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 8 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E08.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=8&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E08.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=8&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 9 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E09.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=9&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E09.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=9&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 10 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E10.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=10&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E10.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=10&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 11 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=1&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 12 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E12.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=12&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E12.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=12&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 13 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E13.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=13&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E13.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=13&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 14 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E14.2025.WEB-DL.720p.ExKinoRay.mkv?link=97787bb898d71a97b020c12abecf6e710261f5cf&index=14&play
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E14.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=14&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 15 серия - Хроники русской революции 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E15.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=15&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6hz08hmf4vqnwiorsdr18/8082142568147.jpg?rlkey=nr90z9sy1i7236zt6ufg8yrg5",Сезон 1 - 16 серия - Хроники русской революции 2025-FHD (средний битрейт) (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
-
+http://185.117.152.190:8090/stream/Hroniki.russkoj.revolyucii.S01.E16.2025.WEB-DL.720p.ExKinoRay.mkv?link=63b48e015fde33403c79a47913959c68ecf64b97&index=16&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/61fq6zp4w715zjeao6hh8/808214256817.jpg?rlkey=s0ds4oetda6kaquemomrukidq",Сезон 1 - 1 серия - Лихие 2024 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/01.%20%D0%9B%D0%B8%D1%85%D0%B8%D0%B5.2024.WEB-DL%20720p.Files-x.mkv?link=c63f5c25ab64e0261047326ed0fec589810bea08&index=1&play

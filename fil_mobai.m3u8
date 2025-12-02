@@ -7,6 +7,15 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/1/1/2/8382211/570857921751292865.jpg",Тролль 2 2025-FHD
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Troll.2.2025.WEB-DLRip.x264.seleZen.mkv?link=37bd760713ff51b2d6ef409ee417d79f07fb1c97&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/0/3/2/3741230/d3d4132e9b1db280a218f209f8e62de2.jpg",Мишень 2011-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%9C%D0%B8%D1%88%D0%B5%D0%BD%D1%8C.2011.BDRip%20720p%20msltel.mkv?link=96f76bdfbab95447e31b540eb70410bdde06b3e1&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u7xet5emus8zyyd8pe3q4/808214256797.jpg?rlkey=x9skxtf7g3y380ip4gugpdgbj",Мир Юрского периода: Возрождение 2025-FHD в AV1 = НЕ для старых ТВ!
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/04%20-%20%D0%9C%D0%B8%D1%80%20%D0%AE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B0.%20%D0%92%D0%BE%D0%B7%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20(2025)%20(AV1).mkv?link=068af0820b0d652d4e66cfafcf2c8777dc5ddbca&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/lou34w5tujc1qwoh87gkz/808214256818612.jpg?rlkey=ec3kzzz0rfxiyhgs82b1pv8ch",Дневной дозор 2005-FHD в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%B7%D0%BE%D1%80%20(2005)%20(AV1).mkv?link=e433083be270d0e794a1c5edcb4ccd958c2cc729&index=1&play
@@ -1558,9 +1567,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_UzRCt--ektnZ0h29y3A340uO1DiUrZC
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/4/9/8175949/ee89ae7cb1cc102e2067c96f5067fcf4.jpg",Анчартед: на картах не значится 2022-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18i2sdtSsmn3xAZDJeFMpl7VxgaJQBufAon-WkLES8sLJoK3Kl8d3c7vlxvo7S7C-bloK6ojdJYZrVGHiR2QGC9M8amJCziHF7Y4YYsWRTAJu7U2hgeXIQCfGHIqS4GZ-mX0_9hI2-cYwqa49Dr_gmnp2iPppR3KQm5Yvmrd5LRBr8V_H2pLpZXiLwsNj9rT5a1rGJViRyVHP0RMz3dft_TmI-mW4HT8v2oop2lVV-owpJCt20E3Ua0qpG_CvxTUxiqyDjgTwwIiThZgiHuo77zlFmt64zW6gf-khauKxDnUvLs8qUo-91jeSw3VIGyJCTbHDp_67a_2oWOJWIeEhnmuRPW9eXw56s/6450ac6721a20/b36a006613ee84579d3708922055fbd07a88e8e4915058919bb85fa84bd77044/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u7xet5emus8zyyd8pe3q4/808214256797.jpg?rlkey=x9skxtf7g3y380ip4gugpdgbj",Мир Юрского периода: Возрождение 2025-FHD (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1--Q2aKBg6d4RhgQ29D55Stz7IU0J4BxTHt4rUAyMF8uWFKZ7aDQxk2dgQVLfolLEhBh0_dgIaN_jRK0TLnZh-O-YQJFxLbX6FyWii6_euLDKNP-27fdHPt2lHSfnOxRkCOdfUg4Lg1ireRyiP10hhmVo04hMI4d8vOb678hQY1URfVPoIV1jnpqIadpUI1b5MIPISz5xiQ27N-2TMGBK80jtDmhRd8AjlmWKlJyV8I29O9QMJlnE7ZbdPT4PJLAPJn7fi6jPzkM9oLN1s4EWhVNxged2BPA-0rYPLEsySx6Wh6aU0lrK3rzboGM95oXXr-8nZjOdP6Q5fU311w3iH28by-Om41T00/6450ac6801ff8/67178484e8cbe739afa919218fe629af5bc1ccddc99f53ad28f1248aee2fad14/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/vepr6wj3kn1aqnio6yfnu/80821425665.jpg?rlkey=mz2wtz04pqnll1ao33ziq6ae7",Вторжение 2021-FHD (1 сезон - все серии | средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19rF2unD4WhAaAD41z1i0ootT2Y2roo_jsxgwKz2UhTRG59IE-MIbJfO_PvE5tQK-PB-DrRhCHJnY4nQ4rAWsy5NGBZV0X35-bCNdc2RQjRpcZyR4fA12Q6FjPbO2hPP8mUwyaMNVHWXplMEzoLFZnQXNlY0MzKT9g0TZesvRIpeQ-zt3ATDYspPoYmXat1T6L17NY2gu0RLa-OKq1BQ1M29KSimcEzbyGez8Iy4QtY-9PEEplAPiP194Ufs6wdu4RQOkPkskCyncGHRmHcJ91SRLoDjlJy6f9L4KuzrhCVRwaSwyrEFNVrVnxNRy5GjjvT5HkwrIsN2Ct40aD72sY3Flxd1GcZJDckpA8oVozVqjTMYZ7D7-ob/6450ac68f75c0/4c16fd2342771fb406776256d9961b531ca37636616936aa8aa9f99b5185fafb/720p/playlist.m3u8

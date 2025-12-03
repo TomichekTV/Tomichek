@@ -7,7 +7,12 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/lwfm297nnwdgb16zwfu2r/808214256818614.jpg?rlkey=hla303u96upnw3han9povlgd4",Сезон 1 - 1 серия - Тоннель 2025 FHD (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tonnel'.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=e937ac5a86069e6f72bc0d1a9b49e40f285c035d&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/lwfm297nnwdgb16zwfu2r/808214256818614.jpg?rlkey=hla303u96upnw3han9povlgd4",Сезон 1 - 2 серия - Тоннель 2025 FHD (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tonnel'.S01.E02.2025.WEB-DL.720p.ExKinoRay.mkv?link=e937ac5a86069e6f72bc0d1a9b49e40f285c035d&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/820025288753.jpg",Сезон 1 - 1 серия - Нам покер 2025 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Nam.poker.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=011d7dd7031c0cc7ff6c7ef3febb35a961be5503&index=1&play

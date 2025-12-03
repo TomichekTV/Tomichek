@@ -43,6 +43,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-gPzG3-UZ8r1sJ9BsdxL7CmxXvTSO0Q8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/1/1/2/8382211/570857921751292865.jpg",Тролль 2 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Troll.2.2025.WEB-DLRip.x264.seleZen.mkv?link=37bd760713ff51b2d6ef409ee417d79f07fb1c97&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/1/1/2/8382211/570857921751292865.jpg",Тролль 2 2025-FHD (средне-высокий битрейт) + выбор озвучки
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Troll.2.2025.1080p.NF.WEB-DL.mkv?link=b97d439480ee563a060d879eee1dea6ed75cbc56&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/0/3/2/3741230/d3d4132e9b1db280a218f209f8e62de2.jpg",Мишень 2011-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%9C%D0%B8%D1%88%D0%B5%D0%BD%D1%8C.2011.BDRip%20720p%20msltel.mkv?link=96f76bdfbab95447e31b540eb70410bdde06b3e1&index=1&play

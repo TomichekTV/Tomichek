@@ -7,7 +7,9 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6afholigd17t81jimuk2z/808214256818603.jpg?rlkey=yovj8n9cbt5yar75yswv5wxvk",Бугония 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Bugonia.2025.720p.AMZN.WEB-DL.H264.mkv?link=03cd16abd7239ed886bb7962617932e96f582faa&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/27ba482wejuhzyx0m1vi4/808214256818632.jpg?rlkey=webbzwpslbzv5v6qw2qbysd2h",Хэллоуин 86 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-SPk6MPVQOW2BSexG_mC8PiN1U5JzODoLT_EscVOzpX4qwdXg7TPz_J4buTOHpZXRlvGo0nnYzgH--hfkSSg1Fxy94MpsMbxp9wHfVImtjs_r-ZTG-0MkN4_4OrdIYnrdss7OcD9savNkECWVWpoizxkfB06WuZt6UpzmSlayl_1UQxJLoPVLCEGyhHhHsQnjwA0JzvFi0xPJ0o5T8iyZXZhKLJJOActrgmv7_fC0FFKJStQ3KuA4hRkt8PosF11JRaYxXPy3a3MGrScn8ygGNEOg2yS6_p4TqQeZ2dGJeT0POD2rFiZSpsn78lRGe6lWTFn1bJZ-EJRaBfThROXW3DZ4MZ84qyTfU21E68k4prZqELuq5NrC9/64588d35f9770/a2935b5d1844806b3b92d5c59b6536f86640993b12bb0a7713dd22e5fa38b2de/720p/playlist.m3u8
@@ -182,9 +184,6 @@ http://185.117.152.190:8090/stream/%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B4
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/2/3/8374327/485877168552.jpg",Хищник: Планета смерти 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%A5%D0%B8%D1%89%D0%BD%D0%B8%D0%BA.%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8.2025.WEBRip.%5B1080p%5D.NNMClub.mkv?link=1fe52b0a6767351f539429db9d51142c6fd24c79&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6afholigd17t81jimuk2z/808214256818603.jpg?rlkey=yovj8n9cbt5yar75yswv5wxvk",Бугония 2025-FHD (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Bugonia.2025.720p.AMZN.WEB-DL.H264.mkv?link=03cd16abd7239ed886bb7962617932e96f582faa&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/0/8/8379808/226095298680.jpg",Лермонтов 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2.2025.WEBRip.%5B1080p%5D.NNMClub.mkv?link=51caf069755f32668abda4852c0c629a04de9b68&index=1&play

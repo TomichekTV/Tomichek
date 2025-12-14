@@ -7,6 +7,9 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bmzhzyah5qqj52vaqynmt/808214256818641.jpg?rlkey=ojmmv42d8a08uyl2n6zzc0bl6",Дом в огне 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Casa.en.flames.2024.WEB-DL.1080p.mkv?link=1dea4b1540bad49b15ae629b41e67f58df0e3ff4&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/1jmvfio5529lwvyqizrld/808214256818639.jpg?rlkey=5z54hw5w3sbdtng2zrr9ln001",Бегущий человек 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Running.Man.2025.WEB-DLRip.x264.seleZen.mkv?link=baf96be539ef573504a3f6ea3fcae97451282c21&index=1&play
@@ -40,9 +43,12 @@ http://185.117.152.190:8090/stream/No.Other.Choice.2025.MVO.WEB-DLRip.x264.seleZ
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/9/2/2/8373229/336079894343.jpg",Семейное счастье 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Semejnoe.schast'e.2025.WEBRip.x264.mkv?link=e9b52ead8d83da260765d3b6913e100112caf184&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nlfpqbbae74l2kpxu04cv/808214256818635.jpg?rlkey=kpmus8dsi0umcj8gkb6nm91eo&st=l12s9qsr",Первый на Олимпе 2025-FHD (средний битрейт)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nlfpqbbae74l2kpxu04cv/808214256818635.jpg?rlkey=kpmus8dsi0umcj8gkb6nm91eo&st=l12s9qsr",Первый на Олимпе 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_vLLNl20exXiRzkbLpjpbyVFeWgD0sJOi9-FD7RUtTUeCkG685K2afAd27v5lppHhScgSG3p8D_SjZrde35rpjr9Whoq10Bp2O_zkEL2WZ-mLqm5lWcc8fr38J8Ii2vAjp1f3BOHVSavYaX7A1pwAEgaLnjOGyEz2zFGpEqUgiWnbXHkQJVkxMvwILdWXS0uqYgyNgLpw8xtDUbhmaY9STr2brI71DRwr47t5xYR_9Jofy76esHlm9NgvyqDeXuB9DzYdduVEWiDHxz6ITzE1NS4ymPfetDS2nedxuyECUa5z0t3aFUaHgjSGrxWcyuWuNTKcRLeUJLu1VabMleVmL4VlglRW0-3I/645fc602e7748/0d9394431ce7fb01c63e67e44bfaa7f7c125dc349854d312b7a41044329d0182/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nlfpqbbae74l2kpxu04cv/808214256818635.jpg?rlkey=kpmus8dsi0umcj8gkb6nm91eo&st=l12s9qsr",Первый на Олимпе 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_vLLNl20exXiRzkbLpjpbyVFeWgD0sJOi9-FD7RUtTUeCkG685K2afAd27v5lppHhScgSG3p8D_SjZrde35rpjr9Whoq10Bp2O_zkEL2WZ-mLqm5lWcc8fr38J8Ii2vAjp1f3BOHVSavYaX7A1pwAEgaLnjOGyEz2zFGpEqUgiWnbXHkQJVkxMvwILdWXS0uqYgyNgLpw8xtDUbhmaY9STr2brI71DRwr47t5xYR_9Jofy76esHlm9NgvyqDeXuB9DzYdduVEWiDHxz6ITzE1NS4ymPfetDS2nedxuyECUa5z0t3aFUaHgjSGrxWcyuWuNTKcRLeUJLu1VabMleVmL4VlglRW0-3I/645fc602e7748/0d9394431ce7fb01c63e67e44bfaa7f7c125dc349854d312b7a41044329d0182/1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/3/3/8382335/297873092630.jpg",Крипер 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19QNOt__XJXo_keD-3h4pvU9UF3KB5Ubv5EvGHzoOdpsFKfpVKkf4ZA3p0b_RiUBJDWvZIzmPt8moNibd8YXiB85FoWsXNI6VBJVas4DNVrorMlIRLx0Kh8ufh1HHXlbv_tLIKrvf6dfQj86v0eERuKWeVjlGnB5BM2MFPf0iLXKRX5Acb156Q-zvcI9TMQBPwbiClFP3JoBV6LvzxxzFB692GtCxbuPzmB-E0ITFd6vF0aijtAmCXuBsvgRe3jZz_XI0XlFH6AwvCvtzhdZ2XaKIN7b4BT2zkDncXU6P9kM1rMNZVmP5vvmy35MoX5OrnFHEDF51LeLsBKJeCJpxuZeGk32no7Isc/645fc603cdae0/a03a2fd573a2ac0769cfa0ffee580e44764e32e94af0587b9f7d34d3c3e961c3/720p/playlist.m3u8

@@ -7,15 +7,21 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/3/0/8384036/928499315393.jpg",Стервятники 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rapaces.2025.1080p.WEB-DL.H264.mkv?link=a215364b3d2668bcf119162ea7f3f1dc8afc0252&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/lezded69zrjzczeuxthm2/808214256818647.jpg?rlkey=fxxupdlakfx805oc2sl721p4i",Мать моего сына 2022-FHD 
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Mat.moego.syina.2022.WEBRip-AVC.ExKinoRay.mkv?link=8eb9503e466073346a046e534ea0fb3f98457067&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/mkyfrot85yx2dqwzgnwfo/808214256818646.jpg?rlkey=iv1cqlucq62gb6i5iemj2wocy",Валансоль 1965 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Valensole.1965.2025.1080p.WEB-DL.H264.mkv?link=f5a3509308abdf52118c6614f6fa273126454820&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/fg47ouccxixfsrqtxks28/808214256818644.jpg?rlkey=k7njdhofeho0aik7l01z4j4qf",Иллюзия обмана 3 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_qvY976-Ixo2JW8Mw_gAyU2onS3h6ttfhPt2f7QJAp6JYYjYinIgvXH58aQtkRTEW3BvR974jRphd_45xLYvbgq2Sr6h-XJUyBvkdak6Pzk7R1Ppr3gRK0GJr_mpr7Ba0i4b9jFBG0ZVb_6-tcRVfbeo_ZQtP4iQndfEEjxLm3u4-njluEwyLM2CAf0afEWJ3WosL3K73eKk2eJLv64GuCSIoFvOdgpeAN56rgOraArJ0pL7SXgbzs9-YqI4qYmO2JLISEeKEItDzOJbSGzHuSD4twdKD2VFz2mYbexb2VCwMFC_lGGJCQogrOLHhIUFvj3ykmQaCZdbRbnn3luot-ZRqqYZc2vpo/646542d9e8a90/704ae01dc8a69401a76744c1afdb685f8c527eb1c27f0c51b784167c948575f0/1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/fg47ouccxixfsrqtxks28/808214256818644.jpg?rlkey=k7njdhofeho0aik7l01z4j4qf",Иллюзия обмана 3 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Now.You.See.Me.Now.You.Dont.2025.DUB.WEB-DLRip.x264.mkv?link=0ed04e4b6e4ddbc86eb785604d302a404549c429&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/mkyfrot85yx2dqwzgnwfo/808214256818646.jpg?rlkey=iv1cqlucq62gb6i5iemj2wocy",Валансоль 1965 2025-FHD (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Valensole.1965.2025.1080p.WEB-DL.H264.mkv?link=f5a3509308abdf52118c6614f6fa273126454820&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/mipozrple32j3lifi4h5j/808214256818643.jpg?rlkey=46jnd23wvnl9ukkb0ewzhosai",Август 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Avgust.2025.WEB-DL.720p.ExKinoRay.mkv?link=17ea49087b2c83260d1f3410eaf2617b6b6e167f&index=1&play
@@ -142,6 +148,9 @@ http://185.117.152.190:8090/stream/Jay.Kelly.2025.DUB.WEB-DLRip.x264.seleZen.mkv
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/2579rtymi2l4wgjxq7h0a/808214256818631.jpg?rlkey=bjg250cl6pd71o8p5taz933b0",Метод исключения 2025-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/No.Other.Choice.2025.MVO.WEB-DLRip.x264.seleZen.mkv?link=f5d0039ef50bbd666eeabc293568037e5d8f344a&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/2579rtymi2l4wgjxq7h0a/808214256818631.jpg?rlkey=bjg250cl6pd71o8p5taz933b0",Метод исключения 2025-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/No.Other.Choice.2025.1080p.WEBRip.x264.AAC-Jaskier.mkv?link=51ad9c4fbd4e6daac70225ab67b37dfe1cf9f857&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/9/2/2/8373229/336079894343.jpg",Семейное счастье 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Semejnoe.schast'e.2025.WEBRip.x264.mkv?link=e9b52ead8d83da260765d3b6913e100112caf184&index=1&play

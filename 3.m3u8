@@ -3051,6 +3051,9 @@ http://185.117.152.190:8090/stream/The.Fantastic.Four.First.Steps.2025.DUB.WEB-D
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ka3c3wkwogl9yxmk2hxns/808214256723.jpg?rlkey=y3pr82ib1c6sy5htjj63rzazm",Гарри Поттер и философский камень 2001-FHD (ВЫСОКИЙ битрейт)  
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Harry.Potter.and.the.Sorcerer's.Stone.2001.BDRip.1080p.Rus.Eng.mkv?link=75209d8a8123f77c526db09107015dea476afe67&index=8&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ka3c3wkwogl9yxmk2hxns/808214256723.jpg?rlkey=y3pr82ib1c6sy5htjj63rzazm",Гарри Поттер и философский камень 2001-FHD (средний битрейт)  
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Garri_Potter_i_filosofskyi_kamen%60_2001_BDRip-AVC_by_Dalemake.mkv?link=9cd2014e40f15667b8fcbba6a18d2154e8749762&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/agfp0ecee25prkhgezpk6/808214256722.jpg?rlkey=v3y5ahz206wb6c801uta269d4",Гарри Поттер и Тайная комната 2002-FHD (ВЫСОКИЙ битрейт)  
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Harry.Potter.and.the.Chamber.of.Secrets.2002.BDRip.1080p.Rus.Eng.mkv?link=75209d8a8123f77c526db09107015dea476afe67&index=1&play

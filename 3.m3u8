@@ -7,6 +7,9 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/7/7/8382779/504615901861.jpg",Бессмертный: Кровавая дорога домой 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/SISU.2.2025.720p.iT.WEB-DLRip.x264_il68k.mkv?link=72343478347a98f92dd327b278f26cd778228ecd&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/321730i751lwl5rufkqfi/808214256818651.jpg?rlkey=d930a9g2hqe9efeu379mddqb0",Остров хищника 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Orang.Ikan.2024.BDRip.720p.ELEKTRI4KA.mkv?link=7ef00d292e1e03ee28f6f61a1486d7d66b20db32&index=1&play
@@ -213,7 +216,7 @@ http://185.117.152.190:8090/stream/Muzzle.City.of.Wolves.TVHUB.FILM.WEB.720p.mkv
 http://185.117.152.190:8090/stream/Okovyi.smerti.2024.WEB-DL.1080p.ELEKTRI4KA.mkv?link=08f91bc04d1352207312a8490e0998a50f980532&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/1/1/2/8382211/570857921751292865.jpg",Тролль 2 2025-FHD в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D1%8C%202%20(2025)%20UHD%20WEB-DLRip-AV1%201080p.mkv?link=e92e031a7d5637d925ae36b89bc6032c8fec1700&index=1&play
+http://185.117.152.190:8090/stream/%D0%A2%D1%80%D0%BE%D0%BB%D0%BB%D1%8C%202%20(2025)%20UHD%20WEB-DLRip-AV1%201080p.mkv?link=5cbdf86117a4cb4f3647f9a7b7015758c10d22b9&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/1/1/2/8382211/570857921751292865.jpg",Тролль 2 2025-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Troll.2.2025.WEB-DLRip.x264.seleZen.mkv?link=37bd760713ff51b2d6ef409ee417d79f07fb1c97&index=1&play

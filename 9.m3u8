@@ -5,9 +5,12 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 
 
 
-
-
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/lcyqud0pnvkzn4spznr4i/8082142568186587.jpg?rlkey=yyzjlizkkyji4y3tjgoxxk27z",Золушка 2015 4K в AV1
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/Cinderella%20(2015).mkv?link=e51baaccf57268a7fea3bcd15a4efe7976ff9e61&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/w09xiwd7yffk1wxz0vg79/8082142568186582.jpg?rlkey=tv6yu8y582rl0sev54xtugqei",Красотка 2001 4K в AV1
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%BA%D0%B0%20(Pretty%20Woman)(1990)(4K_AV1_9Mbps)(AI%20by%20Vadik-p).mkv?link=9a42fa1f3ff4da25ae527e04e102a0aa5d331069&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ka3c3wkwogl9yxmk2hxns/808214256723.jpg?rlkey=y3pr82ib1c6sy5htjj63rzazm",Гарри Поттер и философский камень 2001 4K в AV1 (IMAX)
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Harry%20Potter%20and%20the%20Philosopher's%20Stone%20(2001).mkv?link=c28060ab1ad8ab34c48746ffc29a51b6700cfad9&index=1&play

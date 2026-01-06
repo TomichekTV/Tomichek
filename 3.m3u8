@@ -10,8 +10,9 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/4/5/8373549/921482038455.jpg",Выживший 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_1BKgpVy7oHO6J3THJOv5dk-j0OBb74MdHKx_P-Ju1vu1idMHrYd1grgr9K2Hgn_5Wwmklz6zBvCISlqDZab8_qHWieA6rnGsan8BYMxS0UCKY0jC9bqG5_5Qk6IXepXgh9NB5W8NtOUltpccsJsqvZ2OeLZMWtiMQL3udmf5RsxFtE4n2cUbbOnkb1SYTVb0tpbBcZv32km6x7hFaS5e-HRaF7P76GABwhO2XS394T669SGbc0r0aiCj7QLgn5ndglZBPGy6j9filyUtBWK1EXB2ZN2RBeGt-8KtsDnZxy9T8Gr8tXnONNRzgEk7YHP1c-0igf3Bu_EuYVzPZn0ltBu3IvbS6Cgo/647cb031bf910/40361f3e8b72024eec5abca3a39f3b06bb13a6968d671f0442516019134f5946/720p/playlist.m3u8
-
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/4/5/8373549/921482038455.jpg",Выживший 2025-FHD
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Not.Without.Hope.2025.720p.AMZN.WEB-DL.H264.seleZen.mkv?link=2e64cde475833d0bf36b677d88695bf8ee7e33f7&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/2/3/8374327/485877168552.jpg",Хищник: Планета смерти 2025-FHD (средний битрейт) + ОФ.ДУБЛЯЖ
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Predator.Badlands.2025.DUB.AMZN.WEB-DLRip.720p.x264.seleZen.mkv?link=ae86714cb9c480c9056fa4a6e3fdf73feb62484b&index=1&play

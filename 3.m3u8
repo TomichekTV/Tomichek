@@ -8,6 +8,10 @@
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
 
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/3/2/8381235/803119240822.jpg",Ёлки 12 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18ChIhKVH2x6W-sXXvXkoZQHFSHaRLNrF1SOwk7HHbH8XfyiHmv7v_jyAXmsgm5H9ySxGjGpvioPF-lPOjT1Vl6ZvHIGU5UtGx1jid_7ESIy1gog8_Grjx9ky_gwRxDHuRvtu6nsZe1FHRIF-7rNJv74cGNo1ZZPtBgnRVAIJ31T_Y6yJtRytgilnRxWdzbSrvDt_xDeG7rfhcPzd0CZNxp8h0XNnMGO_nTy5Vjgggc5pB65dCMLu0H7IBW1-Orawu5gas7Cp-_ieJdNzSoSiB-ZG3IfSF4ArWFDfWFjQKzPl7CNck4ZvWgIRuSsvrHPSOXIgYuylSyutL6LypkMRd-h3AlsdLCyeL9iTA65LCIFGTao582bqey/647df0cc5c658/7803df88f243301aaef21bd390a5b1fd0ef4c02d0917394e67ceab908954f10b/1080p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/4/5/8373549/921482038455.jpg",Выживший 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-6euMdq6AQnQQzJuNuqYa6V88C3UvfXIfbL_cY3Iedj3sEwcHYYGrGQzLsT564uVTKsgN0owXDzcyoOWIXBmFgIQmqoL7LJjXxu1kuGT_0TZ8sFNjYlZaKxeCegVNGxnStAbaLrOcnV9SZkWWFaQHy9oOUyfKj3oiCIup5RB7BiZc5Ow-F2nfjh2FzjFw_gQw9GiktdFMAOsDUIKoMHJRI3z8GNeu802-Y3BSskUsF8lB0KYHkGoGiWK0Rx9fUFKm6ZSV244ZbVQS-4QTERr8sXXnDmjScd6wDKUgAxYgNcgKyWr-tl1Ncy35LJecZxpy50nSAeIRfqyzG83fFszaqqBRo0ml7khs/647de7eb95190/5d4a87f8dceb1ab440ed8a971997f981f790aa85c632b87fb8cfbf8e9be4526c/720p/playlist.m3u8
@@ -20,6 +24,9 @@ http://185.117.152.190:8090/stream/Predator.Badlands.2025.DUB.AMZN.WEB-DLRip.720
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/1/7/8382714/135189519877.jpg",Похищенная 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Stolen.Girl.2025.DUB.BDRip.720p.x264.seleZen.mkv?link=bf08224da9ca9c9ce847bb56f1d5831c072061a6&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/w3e8yj8er8zg2oi9i4icy/8082142568186588.jpg?rlkey=ptzuamrqy4i5zsdmlheyvg09k",Блюхер 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Blucher.2025.720p.iT.WEB-DLRip.x264_il68k.mkv?link=2771f977b735c2a7e84f7efd5d90e1c52c9a1238&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/1/5/5/8384551/341441177015.jpg",Тигр 2025-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Tigr.2025.AMZN.WEB-DLRip.AVC.mkv?link=82126bd1892945fea1a9d31c1a0d59d303bed183&index=1&play

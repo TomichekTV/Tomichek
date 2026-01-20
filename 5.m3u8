@@ -40,7 +40,9 @@ http://185.117.152.190:8090/stream/S01E08.mkv?link=37bb9c35e0ecfe13d1fe9e9391230
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Дети перемен 2024-FHD (все серии | средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_NsuuVbYzWt7lUZbFBvE0p_z6OXG59QUJKxHaiCwQDwrn--4uzJ-vBIVpkoWGFzRmN5ukUPxiRUVUI_qFcdIHn4aKbyAqruY-EvKVeh5tissMHGjWO-zrZfsfcV9zrP_deVI97lqdgwlCTUU8X39Qd8piMjQdgUGF0theRn9Nn4v-iUr9vIg_OTg1YYZHWJBim3I6JqhDYD6wEuoj62y_fBQm1wYZTyYWHUyyJPjrQVhYzY9XFTvr0gds8zx6WqlQwGNe_ulRbIcdB67TJR4hSrrSSNCHm_0cGisULPSASyJrvpDB1kxkNqSIOp3J6bJv_PVmhqFAlcHScVZ8K7z_AGvzQdvd9ELwqglE5uwQKVPRkaPKeJUbb/648e62d90f300/1f0e73c05c05cf0fd613b2c35b1b94a3f1dfe0eee7e00ab3354905ebb29fdb2d/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/2/0/14024/739273557476.jpg",Позывной. Альфа 2026-FHD (все серии | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-IBNVe6JvSWp4q3l5KvV3Edi7P8GXBrslDNYMIaPMDADS_TLOzmHhsoNRP5zHpRUeogoHKTiAbviCFZarxJHLQ824KOb5NMeFD51g8Hjq02i8bR2Nlo6Di7Sk9tGTrdlpL4A6lu1FJ7mQJuYsAfUmjg3HJZmSorBCCfpfopoV93gIY50jzTrAAL8zP8TSW0N7EztMntIoYSpc_1DBkkA8l5OTQW1FVL90ZKOF1uQlCQDYjBp9aBOzVlgoP5t0vQpNEBKoyCfT-qmAXa2AucjNb73pfoXA2to3SCgiyF3C7YRp10ikKMkGmgGen6yM6r90J_mRWpqco-QHREeC8Fk6OsPu2aHufw6tDQC5rbwGO-XaQthrtk-Bv/648e49deb97b0/110715e0e9d7bb97dfb75cd3a3fdde57a2356f87a1e4d38e8ed5405d686fd992/720p/playlist.m3u8
@@ -242,30 +244,7 @@ http://185.117.152.190:8090/stream/Kiberderevnya.S02.E09.2025.WEB-DL.720p.ExKino
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/7/8720/922890703637.jpg",Сезон 2 - 10 серия - Кибердеревня 2025-FHD (средний битрейт) (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Kiberderevnya.S02.E10.2025.WEB-DL.720p.ExKinoRay.mkv?link=3bee331543f184d1f75f4a7e50d66e24a3b04829&index=10&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 1 серия - Дети перемен 2024-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E01.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 2 серия - Дети перемен 2024-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E02.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=2&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 3 серия - Дети перемен 2024-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E03.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=3&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 4 серия - Дети перемен 2024-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E04.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=4&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 5 серия - Дети перемен 2024-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E05.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=5&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 6 серия - Дети перемен 2024-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E06.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=6&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 7 серия - Дети перемен 2024-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E07.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=7&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 1 - 8 серия - Дети перемен 2024-FHD (средний битрейт) (финальная)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Deti.peremen.S01.E08.2024.WEB-DL.720p.ExKinoRay.mkv?link=baebfae92fe3b6dde92c28cf705a75eedf5570e8&index=8&play
+
 
 
 

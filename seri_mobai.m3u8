@@ -2,12 +2,7 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:СЕРИАЛЫ FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/qs08icig95j0jbk3ik3bs/8082142568186608.jpg?rlkey=qkgtsiz8l99clzk6jgg3boanb",Сезон 1 - 1 серия - Цикл Пендрагона: Восхождение Мерлина 2026-FHD 18+ (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/The.Pendragon.Cycle.Rise.of.the.Merlin.S01E01.1080p.NewComers.mkv?link=64feb412aca0ca23c26b4c8b202abd3c30c1f372&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/qs08icig95j0jbk3ik3bs/8082142568186608.jpg?rlkey=qkgtsiz8l99clzk6jgg3boanb",Сезон 1 - 2 серия - Цикл Пендрагона: Восхождение Мерлина 2026-FHD 18+ (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/The.Pendragon.Cycle.Rise.of.the.Merlin.S01E02.1080p.NewComers.mkv?link=64feb412aca0ca23c26b4c8b202abd3c30c1f372&index=2&play
+
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/c6tfatt3mswzq1qluqfkf/8082142568186621.jpg?rlkey=17977mhico1kwafpbyhft3g5x",Сезон 1 - 1 серия - 11/22/63 2016 FHD в кодеке AV1
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/S01E01.mkv?link=37bb9c35e0ecfe13d1fe9e939123025c3ffac242&index=1&play
@@ -38,17 +33,18 @@ http://185.117.152.190:8090/stream/S01E08.mkv?link=37bb9c35e0ecfe13d1fe9e9391230
 
 
 
-
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 1 серия - Рыцарь Семи Королевств 2026-FHD (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_oRMrHK7DVpiDEjPFvlkhuTlXgssrvnaZJRv8V2aabS6Nrr55qZbflfAnpih-uDWJ_GMMC8Fg8ypqeFwCi8wujfhK-AOKetjfPZX6MJtwSAtb3JzcybAwmTRpArQyE_4RC6Ko6iqlHq1bHpH9xEFC-YbIwcLSqZASTVCzPCgnQkXnAhBlQdTo6TIx_1g33VC_MzPexoggfO4B-cvcwwwK4hApIqqq0FbVlmPLKaZuV1tDZ3vgfxyxP6oRI_qV-z04aHZ4wZJ9XUx9Pyoo_DUIwP5JtGwotQV94IGD0i0nnXLvzFdRCHXegdw-mDT3jqmuEpmkixhYUKd957tVTJgCWOnGWVefG73zlbK6wbQczRn2ZH5u2kQ7b/648e49e08b4d0/65ed9d0fac1851526200ac4a4f026bf362d78d1788e899bc2d56cb0e54a6d837/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/9/3/2398/457976721595445511.jpg",Желтый глаз тигра 2018-FHD (все серии | средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1-U17OmdhRaV5IqjGcxFJ_Ukt7rjiQqNPs21Ez_y9q9EdPLdpABlCb4RkQkKzuCITWtLv01ANfnILdQPumcFWMZJRE45WvNrI3YgYF3nr5uSDwRCrPsGsnq7PluIbGnOWeCMuCA9iJp0_SaFQ2bAVTHTCVBzCtMRbKNgu_rukfhVODcNypZ5u3irkvMaGqfRbcch97MJwBDtnYGZRt5q7wow256lKdPVe6OsIVDfc4ArgXNr51Z7oWVJaxPKMAHlnGGNQJ6SgXN8An6ypBE7kJPx3Gn3hSBk8Vldu8dvzFPka4U3P7q3qcAdCYi-PENOQN0rGVZcbU6S0co3LrMZ24jrBY29e2IYEpV-dckglT3WoyDQCPd3mOx/648e6c74d2680/d5e23bb57970b8d5bd3cf476985f4b0a5a1329b382234fc405b6e08638b25850/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Дети перемен 2024-FHD (все серии | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_NsuuVbYzWt7lUZbFBvE0p_z6OXG59QUJKxHaiCwQDwrn--4uzJ-vBIVpkoWGFzRmN5ukUPxiRUVUI_qFcdIHn4aKbyAqruY-EvKVeh5tissMHGjWO-zrZfsfcV9zrP_deVI97lqdgwlCTUU8X39Qd8piMjQdgUGF0theRn9Nn4v-iUr9vIg_OTg1YYZHWJBim3I6JqhDYD6wEuoj62y_fBQm1wYZTyYWHUyyJPjrQVhYzY9XFTvr0gds8zx6WqlQwGNe_ulRbIcdB67TJR4hSrrSSNCHm_0cGisULPSASyJrvpDB1kxkNqSIOp3J6bJv_PVmhqFAlcHScVZ8K7z_AGvzQdvd9ELwqglE5uwQKVPRkaPKeJUbb/648e62d90f300/1f0e73c05c05cf0fd613b2c35b1b94a3f1dfe0eee7e00ab3354905ebb29fdb2d/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/2/0/14024/739273557476.jpg",Позывной. Альфа 2026-FHD (все серии | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-IBNVe6JvSWp4q3l5KvV3Edi7P8GXBrslDNYMIaPMDADS_TLOzmHhsoNRP5zHpRUeogoHKTiAbviCFZarxJHLQ824KOb5NMeFD51g8Hjq02i8bR2Nlo6Di7Sk9tGTrdlpL4A6lu1FJ7mQJuYsAfUmjg3HJZmSorBCCfpfopoV93gIY50jzTrAAL8zP8TSW0N7EztMntIoYSpc_1DBkkA8l5OTQW1FVL90ZKOF1uQlCQDYjBp9aBOzVlgoP5t0vQpNEBKoyCfT-qmAXa2AucjNb73pfoXA2to3SCgiyF3C7YRp10ikKMkGmgGen6yM6r90J_mRWpqco-QHREeC8Fk6OsPu2aHufw6tDQC5rbwGO-XaQthrtk-Bv/648e49deb97b0/110715e0e9d7bb97dfb75cd3a3fdde57a2356f87a1e4d38e8ed5405d686fd992/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 1 серия - Рыцарь Семи Королевств 2026-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_oRMrHK7DVpiDEjPFvlkhuTlXgssrvnaZJRv8V2aabS6Nrr55qZbflfAnpih-uDWJ_GMMC8Fg8ypqeFwCi8wujfhK-AOKetjfPZX6MJtwSAtb3JzcybAwmTRpArQyE_4RC6Ko6iqlHq1bHpH9xEFC-YbIwcLSqZASTVCzPCgnQkXnAhBlQdTo6TIx_1g33VC_MzPexoggfO4B-cvcwwwK4hApIqqq0FbVlmPLKaZuV1tDZ3vgfxyxP6oRI_qV-z04aHZ4wZJ9XUx9Pyoo_DUIwP5JtGwotQV94IGD0i0nnXLvzFdRCHXegdw-mDT3jqmuEpmkixhYUKd957tVTJgCWOnGWVefG73zlbK6wbQczRn2ZH5u2kQ7b/648e49e08b4d0/65ed9d0fac1851526200ac4a4f026bf362d78d1788e899bc2d56cb0e54a6d837/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3awm9bdqi7m8m1gmsou9a/8082142568186633.jpg?rlkey=liyow5sw2uquqqsy5qx52e1g8",Сезон 1 - 1 серия - Майор Гром: Игра против правил 2026-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX195-aM4wH2FGahQD83dRrrT7w8h27JR_hEDPtOqfRT2nNPmNzA_jV7dzGV6SvmSlg2Y5ooi4J7nC0ZmYNKVtuFUxQpTbqVv5pPLz_WJaHHMkeaUXHUclCCbTo26eAtvgodJOLegG8J4bZQSPudmPxvKEG9O2c0FDx_IVeg5zueH08Y3pU9aJOkYixtz2ZfiWUt63cBafJr4W_2PcsxTlylz1J1vqIWjhQ7wGReYIiCRWVpLQmCb3hIOCMsefjQnWWLHwLBQQG9nQPOx6OSRFiN6A4zvn6AgwDtrNUc3fLZm872l2ksB7uOk-l5gcRs5OEZIYTQVCW74tl7v89_1x-KDEbFdRMgYCJY/648e49e182dc0/db3eb1a24ac20dc9ad1dad3a710ccb3f2bb3aefc47d4191eae7c6ea7e1d2e08a/720p/playlist.m3u8
@@ -136,7 +132,7 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18DUN90q7fZd9jhx43MVqCUFqADhvlRlo
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/t8odjlajdpkgeuayeocox/80821425681829.jpg?rlkey=omycmt3z3c6vqmnz6choe2w05",Оно: Добро пожаловать в Дерри 2025-FHD (1 сезон | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_ryWdYOJ-zv7MRBW3WmpXoUDA5stV1xrswyEhhlqrtpCFC4GUx9mDD3b6c-dSgyMEi41FpPNdeFJ-V4KVQ0NA1rM7UkizQXNpkYOBtfgQG2-8j7MjP_Pktqm2C1baM3bkHWx11gT5zwqwM4oIZxFRvATp7J6TMKulqKrpEMx54iQJ8frdlMEFUzj5S1EHKYiCvZ03utS2fHPkNvMPdrTTMSIvMBnqZcS1Dh6sdC6vNmPxNW82_QgpVmA_0O6KW3TQzlnIh9eghum6xzw94igZnefjOPRH4RcD4Hzox_vwg8KUnU1ti73pYsgZjAuWwMqTPvvrajgwl7TI1eVJwVe43n7cwWN1eXAE/648e49fc57448/df09af7dbf453190332870aa5d9c2241f4a476c0705c371749b115976a633f0d/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images-s.kinorium.com/movie/1080/256180.jpg",Антикиллер 2002-FHD (все серии)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/7brm12lb4j0jpv0osus10/8082142568186637.jpg?rlkey=oyp13288cbojjhuehlm2mw4a0",Антикиллер 2002-FHD (все серии)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18nt6Zss6bb7QiHcXmpFuw_NC3a0vQdrnHBQ_4KUcqOYZGL2NKYYd3aiIhFTisuxI77vKtPz2XZcaVSTTTF_QZ8T3N0ypEMxuuqQJ62tyXIyv4RAFBjMPpCuu1ki_QlCVieYXx5R4H4XeRaW-R0NYZM-zffVm8JHQvanzI7NEfI6nH2BkH11Scxv9iBCofFVrHeXIAIjWAOxdvi3xy0aLcecr43XwLJj_SNPM8S-6-IhFT2K5QrooBNQ_B6Dyb3yJAXf7yLq9brQ4QYcelXe6lSy47BbAVyFs2xM7fmatqhndFHpm6na_dDOMai_ry7-KH38wMRYlRjeuS-lXxkIuSybVCiYze5MMw/648e49fd4a6e8/f24a3322a33ee21038d0b4b2184bff1b8bbb8992316dc26a635dfb15fe9c1aec/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/uc5wqapnp5cssma1709cp/808214256819.jpg?rlkey=7ouh6pkaww4ikhsljwkr285m9",Бригада 2002-FHD (все серии в одном | средний битрейт)
@@ -244,7 +240,12 @@ http://185.117.152.190:8090/stream/Kiberderevnya.S02.E09.2025.WEB-DL.720p.ExKino
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/7/8720/922890703637.jpg",Сезон 2 - 10 серия - Кибердеревня 2025-FHD (средний битрейт) (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Kiberderevnya.S02.E10.2025.WEB-DL.720p.ExKinoRay.mkv?link=3bee331543f184d1f75f4a7e50d66e24a3b04829&index=10&play
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/qs08icig95j0jbk3ik3bs/8082142568186608.jpg?rlkey=qkgtsiz8l99clzk6jgg3boanb",Сезон 1 - 1 серия - Цикл Пендрагона: Восхождение Мерлина 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Pendragon.Cycle.Rise.of.the.Merlin.S01E01.1080p.NewComers.mkv?link=64feb412aca0ca23c26b4c8b202abd3c30c1f372&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/qs08icig95j0jbk3ik3bs/8082142568186608.jpg?rlkey=qkgtsiz8l99clzk6jgg3boanb",Сезон 1 - 2 серия - Цикл Пендрагона: Восхождение Мерлина 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Pendragon.Cycle.Rise.of.the.Merlin.S01E02.1080p.NewComers.mkv?link=64feb412aca0ca23c26b4c8b202abd3c30c1f372&index=2&play
 
 
 
@@ -256,30 +257,34 @@ https://cdn4509.entouaedon.com/stream2/b-401/be18f39aa600eb3a1328c4cffa6ecd98/MJ
 https://cdn4509.entouaedon.com/stream2/b-401/be18f39aa600eb3a1328c4cffa6ecd98/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVRVjTXVlMaREbt9EVGpWTUZEbZRFbqpFRZNjTXFVMNpXTzolaKhWTX1UP:1801234000:925.088.211.266:081654f207550621fe9039b6d4397f5faed6b3ea0efcd6ba6b75b514460ab32d:ru/720/index.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 3 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E03.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=3&play
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E03.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 4 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E04.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=4&play
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E04.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 5 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E05.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=5&play
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E05.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=5&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 6 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E06.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=6&play
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E06.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=6&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 7 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E07.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=7&play
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E07.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=7&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 8 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E08.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=8&play
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E08.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=8&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 9 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E09.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=9&play
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E09.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=9&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 10 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E10.2025.SATRip.ExKinoRay.mkv?link=821f1f222e283df744acdffba6abaaecfb98600e&index=10&play
-
-
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E10.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=10&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 11 серия - Вечерняя школа 2026 FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E11.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=11&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 12 серия - Вечерняя школа 2026 FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E12.2025.SATRip.ExKinoRay.mkv?link=c3736354f41abbe6fcabd40b70a38747ab326e09&index=12&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/5/5/12558/386231047817.jpg",Сезон 1 - 1 серия - Жека Рассел 2026-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Zheka.Rassel.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=e66c47251fc5844a949d932b6837713d14b9f11d&index=1&play

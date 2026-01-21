@@ -8,13 +8,19 @@
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
 
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/4/8330487/f0dbb1f887f8006d1c0d7350f3e5bada.jpeg",Гемини 2018-FHD в AV1 = НЕ для старых ТВ!
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%93%D0%B5%D0%BC%D0%B8%D0%BD%D0%B8%20(2019)%20(AV1)%20(60%20fps)%20(AI).mkv?link=91e231ad3b0061dd6db6c75e69505a2217fa7ee9&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/fk5tsgf7wt9bhgyegtjdg/8082142568107.png?rlkey=04hrpjooc7ojh03lgobe2hpcv",Фантастическая четверка: Первые шаги 2025-FHD в AV1 = НЕ для старых ТВ!
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/03%20-%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%87%D0%B5%D1%82%D0%B2%D1%91%D1%80%D0%BA%D0%B0.%20%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5%20%D1%88%D0%B0%D0%B3%D0%B8%20(2025)%20(AV1).mkv?link=8da433db45c54cc6fb443c9e7ffdaad545a303cc&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/b2fy3tfdsjaig2ymk1fdi/8082142568186635.jpg?rlkey=me2ea1r2bz2snbvrt8ie9xkfl",Покойник 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The%20Decedent%20(2025).mkv?link=4786cf80c3fd51622e1c3ed9823a9c6c5f4f0502&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wd4epgbgdidr8l16u5230/8082142568186625.jpg?rlkey=8h60uea9dbf88hborwgrnr2ws",Франкенштейн 2025-FHD в кодеке AV1 (средний битрейт)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wd4epgbgdidr8l16u5230/8082142568186625.jpg?rlkey=8h60uea9dbf88hborwgrnr2ws",Франкенштейн 2025-FHD в кодеке в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%20(2025)%20UHD%20WEB-DLRip-AV1%201080p.mkv?link=3ecf93a9a1551a41a3a7fc172f937d20d64efc07&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/1b461vqo8wmqapzlcijzq/8082142568186603.jpg?rlkey=h2q9pqe6nc0lqcnqbxfgin6qs",Заклятье. Первое пробуждение 2022-FHD в кодеке AV1 (средний битрейт)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/1b461vqo8wmqapzlcijzq/8082142568186603.jpg?rlkey=h2q9pqe6nc0lqcnqbxfgin6qs",Заклятье. Первое пробуждение 2022-FHD в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%97%D0%B0%D0%BA%D0%BB%D1%8F%D1%82%D1%8C%D0%B5.%20%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20(2022)%20(AV1).mkv?link=1b4a7dfbe07098bec9b96001ac57dcbb97ea0cdf&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wo1oj6qqopchmqia0s2sg/8082142568186622.jpg?rlkey=3za2yo21qqv2gnqu8bc5y83d1",Столетний старик, который вылез в окно и исчез 2013-FHD (средний битрейт)

@@ -39,7 +39,9 @@ http://185.117.152.190:8090/stream/S01E08.mkv?link=37bb9c35e0ecfe13d1fe9e9391230
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 1 серия - Рыцарь Семи Королевств 2026-FHD (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18uqbe3Ot9VUYYvoFLwxAKrkUHzcu5omBq3tYkZfdn-8VW__xO6TcuI8TAXC5RT6tbjvNpMpt3hP-_E7EUOYMC1Thgh1va6rdIVscky5ZOdMORl9OKO9c_xpEyGLyUp9kGT4-PnNcW5aJif3srIaUwaOAdvOJa81Drmbbr49bZFJtxRcSACsJE-JqHFbCsFV8OHEwD_bpHpayLU0pY_j0b3GkIrbbMOZs8oOMEVzZS_SCV_wUPaNB77bSLoZolUuI0oD8oj776QjYecYtUZdxmSHpv_bkVbgQiKc6MBpdzLvEyghfhKGE7KCFW6FPVUjLiiklC--734JLNzfQiLAOoc4h15eitbbaZxXten3zzjSEtHe8036QVN/64912f5d28f00/20f97c1bcb6d4079045dedb7797db0d0477b431b35ebe63f46d152f65007e5d2/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/9/0/11098/247257178130.jpg",Чудо 2025-FHD (все серии | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-ZGfQ3uydB2ZHvK1e9NAEr8XAx-iRXXC6D1P1IT9bZYxeCk4C009dLcVFeBVeM6t1P41j7pXVm3WmJ652ToyNv-nTZZttmSpMdNT7tTJ2ZddDKXnIr9QN0OsxopNFoU7iVBLxexdHh1kpkiGRkO0fnS3XFF-4gB9WHN1CznbxAMA01z18Ojzi9Nq8HXea0gvzriB73VIsKJJBMRu0jQJ_6aJgMHUUxeSd1mapNmmlg-HpZ1wCFY4lvfcB1BVjF5A7lPMzjPjcjFWtWyqm8BzQCtpxrN6JLFeQr7fg2KvRf6pgJZY376wElMpH8hX46d0R1Tu9o2gVS3kyjAsokitJCmjIHA5pQoMWaiiT20byvFzE6y3KgRzoX/64912f53f5b68/0427345e3b35f63cbe0e680bc39253ca6a20398813cd26f23862ef2626fd3339/720p/playlist.m3u8
@@ -64,9 +66,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19qIx0ni37q5YHk-6jOiWeOov9wAFTxvT
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/2/0/14024/739273557476.jpg",Позывной. Альфа 2026-FHD (все серии | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19FIGRq2GRS_UXFfNO7QAByX0MwdCE94Z7Q7-W4AG23U4Twkw2mXiba40vGQ5-0rhRpCNtxhfmlqQCwWZkchkWyBi6iAvS6lUkCdqF87H42VYqZPIv3Ke04pZcm_eAlIsnl3LP7JjGMYwbfS3ERETF1zhLNqwaIVaHBnC3TzmGnXemt2u_EeBcAYq8FI593ZHjkzqBxyYjjkv5iR0uji11BV-C2ehlxdpTC3Ydf_SescXI2f3c_gxOHu8khZI07sWtraTmJXSBsEEQ-yUERetJGEnQA-87MXPBgsbZ1sul4KnVWFcFOmz95--sCnBqKRMEGkt7UNmYXEH8iISz9M4-XMrnB1EXIrbtt2JgKHHFU5DWEliOQaoRy/64912f5c35878/ac3fc437a7ef89bf9ffc20e0d13f1842bd26ea0af1e6c689289e196759a3c93c/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 1 серия - Рыцарь Семи Королевств 2026-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX18uqbe3Ot9VUYYvoFLwxAKrkUHzcu5omBq3tYkZfdn-8VW__xO6TcuI8TAXC5RT6tbjvNpMpt3hP-_E7EUOYMC1Thgh1va6rdIVscky5ZOdMORl9OKO9c_xpEyGLyUp9kGT4-PnNcW5aJif3srIaUwaOAdvOJa81Drmbbr49bZFJtxRcSACsJE-JqHFbCsFV8OHEwD_bpHpayLU0pY_j0b3GkIrbbMOZs8oOMEVzZS_SCV_wUPaNB77bSLoZolUuI0oD8oj776QjYecYtUZdxmSHpv_bkVbgQiKc6MBpdzLvEyghfhKGE7KCFW6FPVUjLiiklC--734JLNzfQiLAOoc4h15eitbbaZxXten3zzjSEtHe8036QVN/64912f5d28f00/20f97c1bcb6d4079045dedb7797db0d0477b431b35ebe63f46d152f65007e5d2/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3awm9bdqi7m8m1gmsou9a/8082142568186633.jpg?rlkey=liyow5sw2uquqqsy5qx52e1g8",Сезон 1 - 1 серия - Майор Гром: Игра против правил 2026-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-h0G6n3gyvA3sLsKYr5T2qorZ37rUNjpBMZjheXYlOcEmMCZWJzpZMeKXYl48zJ3mXtrv0wRpumFTyxlFATFT4FGarSJdN25LiBMWGxeARkKYmZ5kjm_XaC0RJLviOPtpSkDsWOAsOX5nrcJV97WP52P3elEvdmoMvur809C7aCkRS6oJIc1a-_gpFNeGG3JgOnZ5FI4k6RhsvtQrIw0J6hae8QFhQiYD1KzvgMCZPnT50v5Chb8PfqFnIahVYlBT9jAQYK_loTWX0dpUK7WhCg7nR4-mvDuGv1xNr7sQax6oZG4adzPOYnoIJWDbStHliOHgZt6cO75Udhq4AMnW0ewxoJCnUQGE/64912f5e08920/b31d3aac26206fe8732c472802b307bac2a14c5780e000b1c4076222c3280129/720p/playlist.m3u8
@@ -79,6 +78,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19YApB-qMfU2PS4_q8f7kmGR5NJ0XvwNe
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3awm9bdqi7m8m1gmsou9a/8082142568186633.jpg?rlkey=liyow5sw2uquqqsy5qx52e1g8",Сезон 1 - 4 серия - Майор Гром: Игра против правил 2026-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_t6rlzF65spwfjobRXdaTtwR69WEQ73f7CQq5c6ZMZOv8afUSJ4bHVpf-YalHOWt3HczD_uapcEGGEIYyQZS59XcjLX-7iDvOpFO_HkP1b55BtgavdHK4z1xUnw1gnEQIl02P5zjYI942v3KTZHfeHs27pBCzaZfwAC0H-L6RvPA0wCFALAxy9eYFHVL8CMjCegQ5CeKa8EsZ-v5xO1j4s2bCjMl0wMLo7nY5zlw6hozgQio-4_Smv0BOWGKA681xPFGgJ7TcVRhr6cwvdalQcqxLOkjyenGBMinCRJvtf3R67Hi0KKElPplBuWmcPdKri12yiPCMkDbRy-sFNVShKBN50D-CVsIg/64912f6116108/7e36ae63d6d69f7db18af82add9492db34916d2e3f2c26f6da1652215235adc9/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3awm9bdqi7m8m1gmsou9a/8082142568186633.jpg?rlkey=liyow5sw2uquqqsy5qx52e1g8",Сезон 1 - 5 серия - Майор Гром: Игра против правил 2026-FHD (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19nr8F-SAXjXHU2tFrKCzmcJ0GQ-7ombOlgqKQA-MGiQfnKanQc_72-DIPzzrAufWg1UskxX22MdgNyd9igg8JaUuhmqC3Vk_cKCsesowO9cefWCeKe0sJmj68gDGGrP2WGJ6lwPgTMaN3XFTtmA9j-U2Cy3M0h8WJ7AfKpQkA9PyHK7XL5apOJ9328OZgL5C33k-NajJW-5TCja9igVZlu6Po1yRAVL5Gr9V1BaPzojcLME2MFjMT2Z_wp2c9SniOlvUzImZnvJ8QAlUD7I2CWt1aQZA0KHNhn5cAyf94Kce6sf2QKuI3CIxWFBj8gHeDGPw5KD6UcVla743chZTGlBa4Vja8bdkuo2er-5eImW1p4AcDDcbLb/64919256578a8/5134e277da446f18e56f4963d1fd2a26ab2863fbfc14f456e8d0e7df2ac9e4cb/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3awm9bdqi7m8m1gmsou9a/8082142568186633.jpg?rlkey=liyow5sw2uquqqsy5qx52e1g8",Сезон 1 - 6 серия - Майор Гром: Игра против правил 2026-FHD (средний битрейт) (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18iDfveYAqzCGvKcs7u_V1Oir2ftwP_PzGS_bcu7kCd7g4DVMB2wOXvV39fTeLRS_wPS37SwLzwpEfsxhDezd42l4l5pq2KjfTwuXT9SfuuLWO8512MLvGHnUnct85mK6RVhAjek1HJRbfQoaDtpSvENYBy00C86RZ-kInYuRq3q9R8icobixX5RnFe7okZQSvXt8xRCQUeSltfvQQesT0iQ1EPhjUaDSC2PcFcMhfg3gpIfoechXD4GZU8h5HHja-kXi0CW8ejHIPK6GG1B1ITV_Jhsqgt4-V8KGAusaXC2N0dKSHOcFhy0GubjDi0TsONXrL9hVGoGCHW-gTnHHUEQASVf3UX7YjJoi8jbU04LWn3ETAiqXAw/6491921271f30/7196c87fe45643c8ba5f3f2fd44fc4abe680c973e084f0c27f8f9cf9984c8828/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/vntzs07enihdy8ud832sj/808214256818637.jpg?rlkey=w7cjaqlxt64oa18a2r7h7z4no",Сезон 2 - 1 серия - Золотое дно 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_ZTFIHjT-HWTtRanEc32lgVX9MJii1yRJnvDfUw7jDOmVhSEroWjEPPYsGD6W9FOhtWZO_IO7TTdiToh2ZAeqdi6Zx-AGXFaQkynZM83sDZci5k-OkyFlz1dT1hNe_K0rUXqQaQRUUKbH1POz-VdtWhazuUGzdSYg9dk5Y4Wj1oxSw35M47F0cmLr-FO4EVTVZ9D4Y6erhYQTuF8pPaJ3SegH_If7hGQVxPNhrB5dp8wRKPZ4vQUph0el7IchHUO7YPFM6aQ0HWUo-FChzQ8Q8BdYDdK2Lk_uwh9H7CLAz96GHfce7jTaYLngNKesQrgvp-f5S-xTvWkfCGn-udHS93fuTChhamGc/64912f621dfb0/9f594973048d5b26573c6ff832750ba0f4d8f89701e6aceb3b37bee88e2192f6/720p/playlist.m3u8
@@ -307,7 +312,7 @@ http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E14.2025.SATRip.ExKino
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 15 серия - Вечерняя школа 2026 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E15.2025.SATRip.ExKinoRay.mkv?link=541b27abdc698944662f2e40850cd026afa6c18d&index=15&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 16 серия - Вечерняя школа 2026 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/1/7/12718/649620773481.jpg",Сезон 1 - 16 серия - Вечерняя школа 2026 FHD (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Vecherniaya.shkola.S01.E16.2025.SATRip.ExKinoRay.mkv?link=541b27abdc698944662f2e40850cd026afa6c18d&index=16&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/5/5/12558/386231047817.jpg",Сезон 1 - 1 серия - Жека Рассел 2026-FHD (средний битрейт)

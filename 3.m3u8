@@ -7,7 +7,9 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/jm4gf963st90w4idr4l5n/8082142568186656.jpg?rlkey=v28iq6d4315yvo8o0c4b42f2f",Пёс 51 2026-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Chien.51.2025.1080p%20-%20New-Team.mkv?link=12cbaa156b1bba6dbc11536d81a1f1688127bbf5&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/1/5/8381516/555539433341.jpg",Безумное свидание 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Follemente.2025.DUB.BDRip.720p.x264.seleZen.mkv?link=bc0b16c8b5d1161aad45fc59002917a8f59d5595&index=1&play

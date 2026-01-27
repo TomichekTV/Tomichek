@@ -2,6 +2,12 @@
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/761mqqyndlu8aah4bxjh9/2024-03-04_004107.png?rlkey=d66a3w8zh517rmbyzc5uojzsj",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 #EXTGRP:СЕРИАЛЫ FHD
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 1 серия - Рыцарь Семи Королевств 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19aFTYeIsd_NS_QYAVSZ4awm6XSB-yrhsot-qx3_5eSbD6BV4-1tw6JjhYBeo3bUgYq_OK_zyqQnV84ATztEmTNS6txc_ltv8E_lfgY1h7O3FMB8PG6UOkOttQtr_dgoYT7U2DgqHlBNMGA4MHHB-E_UK3HQkifWKu01g2G8CisAMaSF3puxHyUKLXWetEzt3KKzqHHHChxHiD4uAkj_IAg-SH3T3ayVOA-2jZ_kbKRCtpdJcKni9HMrMBNiSdamphE1ur-txQGUrw0JjbezgdFMYCznXs2K_41tBKn9YsE5mUGaxnAhXaQTGC1F_m7fJ8aE42_Z-_aC9mEE0-bMuYSNit-8vQ-0uqrKyzIVeCKAUY4ZD4GwmIH/64960dcd92f88/7f44616e435e9bf2720bbd0a18f1a538f21bb6a24fb4b64e856c7e5178ad0be5/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 2 серия - Рыцарь Семи Королевств 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/A.Knight.of.the.Seven.Kingdoms.S01E02.AMZN.WEB-DLRip.x264.seleZen.mkv?link=8e61a28854bc0f87d887fca350eccae14af4b868&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/3/9/5931/312545342826.jpg",2 сезон - 1 серия - Художник 2026 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Hudozhnik.S02.E01.2025.WEB-DL.1080p.ExKinoRay.mkv?link=bf17863c8d4620b3cd6f4876c088a55e5eab8bdf&index=1&play
@@ -50,7 +56,9 @@ http://185.117.152.190:8090/stream/S01E08.mkv?link=37bb9c35e0ecfe13d1fe9e9391230
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/1/14120/624177841769411893.jpg",Кровь за кровь 2026-FHD (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18XhmrWdAp8a0YE0FlLawX6rjT1kiYhg7RpnYnJDDdHzEvvzvLz3HrnSUfu9NioFLAIXGLuOCYPl0T3CVJ7fDp5w20bgxH93grGJuGks3wQaaTjHy50HS2tu9_swJT2nz-h2Mz23U5DycNtLd3vYyzB-5j6JQkk8wvG4VnVt6UQGTmciGNz3WxZ4YQXiZ3rsoRwtM5SX7oPcF_bGXDl6Wv5NiClPtQlhii5RZMqp2vGPsggdAZ0Xih-KnDAnQInxtylUiOZ5PWSTDZ1Ha97zMzvOZKVzF7LNOuKpOxwvIfn3dT9tvOywWq9J4ZiP4p2NYHvs3iwMdwMolgrpuPtdDWFN_CJ6Vr-GKbdwz6cDTV6wAycP4PoShkz/64963ab1e6dc0/fb483e98f31647e2ab7262bce662e7f57019c4c84993c1ad0f5dc049a4871528/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/jw9ocxyjzvjh4bhn6fj1n/8082142568186661.jpg?rlkey=m2doypwe145s8zgzplxjmzuqm",Рейкьявик Фьюжн 2026-FHD (все серии | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1__sfYfIIl3Cc4zYamdIYN-bSPmEBCgV74_HvJNlILMo8qBBuMFhR5oYV5ILcOQ1iI5Bm3vfmk4bVWSs4BmQMMuzZOcK4JgftaNOUsdmTIVHdWSGnaIJ0XcEciJYOzGZGtL05pu3YrRuPem_sU7rst7keXUFG5RT-d066AyRilo-EBV4LTzfzEXOWbFMW30tsFQjI_BKzCcwBHtdfaYf7Jj95LBMXMgY35F29DoDIzaNCdqRfeOvhkho2JgM5DfMw-Bmsrkv2JE9mmQArIU4U5pxFhI7SD20-MXmMj2QBuUU8DwHCgtCwY2fmPYLsanEF7oFUMJt_vjGLrQhTjx2pZmtEo0Otik8NU/64960dbc55a40/a3cd43dc014fd24ace038051999fc061b80b6d3ac0882f7bfb91e3d61fd1b3fc/720p/playlist.m3u8
@@ -105,9 +113,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-UEn8f9cmUYkDYM0XjnN0QPdR-HIv3_k
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/2/0/14024/739273557476.jpg",Позывной. Альфа 2026-FHD 18+ (все серии | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX187bMFarq-X5iz-rGrz4Gzw_6fHFKbEtVZpq4BAsY5MEAeGMlvBrhgLHjZI9kgWdsRM7U3hmNYT8w4CgAHySl8X8bk5Uo3js8UV9P1FkeYGpky2ZaB2GCdrpJdLBOINrkgrIG9yUORdYUrBXc6tVWXLrFo0iZ1TpNuamAMKks6_U_RxfkNLokJKcui7L_yRoHzFboISMv8_MW6HLvPVXWwPZYEpQ-akG-aIDlA4oQR6aQj7ZKKfiG9OWe_svxh81CacJF5R8CDqlDLj8fUTh37yznrZppbEOEFqMPEQkISpqUhNWziu1GCWTaS9vVzWjCM_FzjsaaisM9TzRvOphsyxVvY279DdSop5hKSGTD4xtlCb3feZKrbV/64960dcc9fce8/a9634f1312afd4be8a3e40cd7d5847e12ba4988f38605168b5d6d98441c41cda/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 1 серия - Рыцарь Семи Королевств 2026-FHD 18+ (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19aFTYeIsd_NS_QYAVSZ4awm6XSB-yrhsot-qx3_5eSbD6BV4-1tw6JjhYBeo3bUgYq_OK_zyqQnV84ATztEmTNS6txc_ltv8E_lfgY1h7O3FMB8PG6UOkOttQtr_dgoYT7U2DgqHlBNMGA4MHHB-E_UK3HQkifWKu01g2G8CisAMaSF3puxHyUKLXWetEzt3KKzqHHHChxHiD4uAkj_IAg-SH3T3ayVOA-2jZ_kbKRCtpdJcKni9HMrMBNiSdamphE1ur-txQGUrw0JjbezgdFMYCznXs2K_41tBKn9YsE5mUGaxnAhXaQTGC1F_m7fJ8aE42_Z-_aC9mEE0-bMuYSNit-8vQ-0uqrKyzIVeCKAUY4ZD4GwmIH/64960dcd92f88/7f44616e435e9bf2720bbd0a18f1a538f21bb6a24fb4b64e856c7e5178ad0be5/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3awm9bdqi7m8m1gmsou9a/8082142568186633.jpg?rlkey=liyow5sw2uquqqsy5qx52e1g8",Сезон 1 - 1 серия - Майор Гром: Игра против правил 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18Pa2Yparr53-LD8HI-yxbZlfW8ii3_H_AAS7fMHQjVVl2tIIEP8TiE_zmUxCos_YXh_UjQKLreus9ATocWRGH2l-ZPiynYPH6Cb1TX6dq4hr8oIsN8aSlvR-dBlFZWNd-NvPiKi3F_zVaHK4bzZTzoPIdc_cQYqQLDWw9lmI2tMU3lu_VEcsWcmUQ7dWCIh00LGzFOgr1EpaoyLL0KUgIzbGuKJy2xP-oVFLBYazs7Ijg91orUHNMm38iGStJEukXbla2YzuQ_nlw5q9y7V48PsKiokD4jgV8C7CP3Hs3ycNjWf7_RbnHalDFDXQxsy04o0ez8K48mH2cBLeljEovc21sS4jG2-jk/64960dce8e6f8/21e0d9e0c627284511017e1bfa32207b595a1ddb4a2becc64b6c9865a395639f/720p/playlist.m3u8

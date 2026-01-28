@@ -8,6 +8,12 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 
 
 
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/yx25b800ajyiq9v6qpcfn/8082142568186684.jpg?rlkey=2qy55lqf2i33q5sa4bwzrm51w",Прометей 2012 4K в AV1
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/Prometheus%20(2012)%20Workprint%20Edition%20(Extended%20Edit).mkv?link=5e1273263ac702c1aa6eb42797acd39e7f5d9fd1&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/9f98zwla5tlaa8m0di6uj/8082142568186624.jpg?rlkey=7zmtnjpxf7ubnrjxc1z6v3rbc",Лакомый кусок 2026 в 4K HDR (средний битрейт)
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/The.Rip.2026.2160p.HDR.mkv?link=f3c2f9fbf496632a997e63b0e336c9a1c654e19c&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/3/0/8361030/058c0f1b52081dda25ec1fefe2230240.jpg",Охота на Санту 2020 4K в AV1
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Fatman%20(2020).mkv?link=393d4f5ac94a4ee11fe95520d3dddf6cf627c574&index=1&play

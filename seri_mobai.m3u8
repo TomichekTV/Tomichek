@@ -55,7 +55,9 @@ http://185.117.152.190:8090/stream/S01E08.mkv?link=37bb9c35e0ecfe13d1fe9e9391230
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/gu70969kfs6knn29ak6zz/8082142568186672.jpg?rlkey=9aaac6v4yyzqqstfa24z7eznd",Учебная группа | Исследовательская группа 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_I8K--Hli06uEYRqV30Nh7ro6UVYEDeZktmzd7vOkUJ0Kb08l21uDhCyPRhDAW9KFbVwaJDA1VrntwJk8XJ9LAh_UGG5rxOHJtSMzUQ_DfcFSS9OdtRTdKCkflCtRJ1MNHz0IDiabF6JpnhzmdZghaMOiEriueweso52-wjoap77NiwIkxXlMAZJ4ZyEpV1j8KjYCxY_yA7_Wuheu-yhtWN5AR5oB6vBIzE7V2TUg239biGxxuYZS404QjdqTfiEVjKGt7QvoFt4tSPPoDgePr7wP9w14oHokRkXAVRFJuh983vkJWDKZ2tklAPuL2NqAN9tV6IuRPuTm1sIlo7h8c_J1GSiVqrFESEGGrkHW4LEB9Q8IV9gmH/64982ea4e4c80/0819793c1d22cd3cc0bf6b6c9fbaab8a862c7b95e1b3d8d3ce7929b2d31f7cf2/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/1/14120/624177841769411893.jpg",Кровь за кровь 2026-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18mTAMPXFsHy7z2f9vQ8EHkeGUQbPEWMc96lZnFi4BnfUMT5FZEOoVvUuskN8M_oE5oNiiXb_kxQtaG_EijZpM6B5YAB_fXDtbPsIrwYf4r3_h32YwwZOICqwxFlMRpBFTlVCKrs8lWlWAFbWlTbVzPrqzxw8lgn1geQKYUP44P5BcpUCqBYkY9v-8-imjuzKcL5Ttoi-z4cOsQgNuQvCe34BMwzLyhi4_B23But8JFbk02hLya--kJ2xP0Lw6qZAlv3QiK73y-O62UHFPoD89uWFDJqj9u2qjCNdsP8CLPUBVl7PIiOVK1vl8rYNNwa4P-ps6szuSApwZc32nm2WQCW9hCQJA0VtU/649750f1395d8/aaa30e00d2fa933bef6c1e4a5b1a3465d845df08d090534ab91402641a95d635/720p/playlist.m3u8
@@ -5056,100 +5058,184 @@ https://cdn4502.entouaedon.com/stream2/b-401/db861468b9e679bb47bad4b6df9d3efc/MJ
 #EXTINF:0 tvg-logo="https://i4.imageban.ru/out/2025/05/30/18ed666790415e960f7ffbb1aed9e144.jpg",Сезон 2 - 8 серия - Нереалити 2025 FHD (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/db861468b9e679bb47bad4b6df9d3efc/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbFVTTEl1MNpmQr9ERZFTWq1EePRUV0olao1WTtlkeadlWolleal2TXlVP:1801234000:925.088.211.266:a68cbc37fa802dd2d8c45331c7ddaf05b567805bc75d865153f7c5e230655967:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 1 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 1 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERktmT6NGNNpmSp5keBJTWUp0aNR0Zxo1RShmTEFVNapWS6plaNNTTHlUP:1801234000:925.088.211.266:d84db4c116caea342843a5175a158c1086c93baaa5a96388422c4e81fe80efc6:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 2 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VRFTWtFFMaRUW10kaahmTtVUeZp2a39ERGpmTUlUNNdUV1kVbK12TXVUP:1801234000:925.088.211.266:04053a0add81138d811c9e03ceaebcc41b185130c8cbc8f6aeaf3693ef870c84:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 3 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keolmWEF1MNpnQt9ERGtWWqlVNadkSs1kaCpWTExGbapWQy40VWtWWUVUP:1801234000:925.088.211.266:1003d56b07cce84ac522c0bd4459b7c81bf7cc67bec14f57be1571c8ce480c39:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 4 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plajJzTXF1dNpmRopVbJVjTEN2dOpWSy0kejVjTqlFNNJTWz8ERspWTqVUP:1801234000:925.088.211.266:144c6ef49869af70b676b1e341e725a686093d8d78bdbca3ffb5cb31f005fd1e:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 5 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250ROtmTERmaZpWW31EVjVjTt1UeOdVU1oVbJlnTHlENadlRr1kaBFTTUFVP:1801234000:925.088.211.266:7002be4905181c7c5a43c9f4fdd7c11f5968d39a333351312361f46806af7fcc:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 6 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERo1WWy4EaORlWp5UbZJTTXZFbOpmSppFRSpWWqZEbNREbp1EVBdXWyUVP:1801234000:925.088.211.266:a65cf12f1fc791102473c735990917e8d95077bc21a0c96bc9053e0ea721d665:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 7 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleWtmWq1UNORUU35UbZJTT6J1aOpnTq9ERKxWT6VUMapmSopVbJVjWHFVP:1801234000:925.088.211.266:9153a58863b18e3694692eeb2e41fe7c149f75223d05038e57bc5b21c75cc164:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r1n1q8qbbyxjssk263v07/8082142568186674.jpg?rlkey=5gnmfc53wtcvzynkybuj6s3ys",1 сезон - 8 серия - Ваша честь 2021-2022 FHD (отечественный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290VKhWWtZ0aNR0Zw4UbFdnT610dNpGZqp1VOt2TEJEaPRkVs1kMSlWTXVUP:1801234000:925.088.211.266:37b3a2f81c2cf5a1400224af29558cd6260c0aec33dc4a2511655ebd786ad1ae:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 1 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaJlXTqlUNPdVTyo1RalWWUNWeOJTWx4keoxWT6VlMZpWS4lFVVhnT6FVP:1801234000:925.088.211.266:3c975ad80da712adfe2e1de44f89a284f773dcaec20d44a673e975470969d185:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 2 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVnFzTE10dZRlQq90VapmTXVlMNdkSp1ERWlWTElVNORkUr10VGlmWXVVP:1801234000:925.088.211.266:3338321d9fba444d6da1c4a0f6a832495a3852f6d0842768f5bc9bfb81d7a1a2:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 3 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaKtWTqRGbN1mTrp1RFlnWHpkaPdUS14EVVVTTEdGNZRVU55EVZVTTqVUP:1801234000:925.088.211.266:1807cb5eea81b9486da6563aea0d9cf5f6c06f317599f5a3a7b14fb1734f3dc7:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 4 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290ROh2TURGbN1mUop1VSpWW6JUaZdVVwolaFFTWyoEbNpnUtllMVRjTXlVP:1801234000:925.088.211.266:b8fd103044e13dfee122addb5f31af12668af976b1d2026dc78a0f98f10c1252:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 5 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaRd3TXVFMO1mVrlVbO1mWElUeapWU690RFdnWHFVNOJjVt5kasxmTUFUP:1801234000:925.088.211.266:aa1d8e6397da90ef0cdbb617690d92ed673655e2b5642b6e461f04a15b890bf3:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 6 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERkxmWqtWNNdVV3p1VJNzTH1keOdlRtp1VGlWTU1keOdVW69EVJpnTyUUP:1801234000:925.088.211.266:7d23c453fb5d2277956aa2b8b607364f32ef5d92d4c1de0daee4e9e7ab2ff785:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 7 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERVd3TXVFNapWUzoFVjRzTUlENOpXU61kMRhXTXV1MOR1YwoFVJRjTEdWP:1801234000:925.088.211.266:1ddac086e8898b2268f67393a83f67faca1f1f3505566923fa25ac50cd4585aa:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 8 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaRJjWUVkeORFbo5keO1mT6lFeadUT41EVRVjTqJEaPRlUp1UbJd3TXVVP:1801234000:925.088.211.266:341a4edbb4dba79f87491894523a14bb56fbb259351bf39161a509957c468de3:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 9 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVJNzTERGbNRFbq10VFJTTXl1dPRVQw4kMRhnWUF1MPRkRo5EVrlXTUtWP:1801234000:925.088.211.266:c5a08bb1b0bc7ad77fc86550f9b4498b49e5160f8b7d469c828827ea815bce16:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",1 сезон - 10 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RGlmWqZ0aORUQy80VJVjWqVEMOJTS1oFVRpXT6xGaapWU45UbVpnWtVVP:1801234000:925.088.211.266:0c90fd1aa99c36d4f3a5a80ba433ad8d1b5caf16bfa3189689dcb3acd9b3d856:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 1 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVNdXWt1UeZJTU00EVGhmT6dWePR1Yx0UbFNTT6tWMOpXQyklaRd3THlUP:1801234000:925.088.211.266:de092549cd99c398171b38e3517ce6034671136f6cbe962fb9e1a6351d9f2496:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 2 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERO1WTU5kaOdUR0o1RJpXWtVkMZRVS10kMKtmTyUVeOpXS390VZNTTqVVP:1801234000:925.088.211.266:f7789abfa5a745d4cde029b2eb01e9ccac542892ef372fe1adcbc7cb6b3d7e1d:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 3 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250RNFTT6dGePdUT410RVRTTXVkMOR1Z10kMZRTTENmMNpWQ35ERjpXW6tWP:1801234000:925.088.211.266:ae63a16033f77bf8f5b182b25a93347173c806a3feb8fcef516400e0da2857eb:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 4 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVs1WTUt2dNdVSx0keJVTT6Z1aOp3Yx40RaxWWtl1dNpHZtlVbax2TUVVP:1801234000:925.088.211.266:a7a08de682d801605c039e7294e74815b5786e691036be9cefee1cb12ffa934e:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 5 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210VRNjTH1UNaR1axolaJNTTXlFMOpHbs90RK1mT650aORUW1oFRnlnTtVVP:1801234000:925.088.211.266:6a7b91e31c0d10ec70759e50dabd938c0430fe8bd91086452092320733e22d9f:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 6 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVRFjWqVEMNRVSwo1RWlWTqFFNNRVSy4ERRJTTUpEbOdkWspFRotmWqlVP:1801234000:925.088.211.266:0b0802c47b55b5a8aaa7bc6607c223d78abff37792fcbad9cf4c6281033f0793:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 7 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERFpXWXlkeNRkSslVbOlWTElkMORVQ4p1RSpWWXVleNR0Z51kMKlmTUlVP:1801234000:925.088.211.266:afc6791bce41f85794cac22b1d7e4b5d8a3754bd665f3c7d86495a795a66793a:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 8 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbNVzTEFleZ1WR65kMRFjTEVVMapWW14kea1WW6lEMadUSwklarVTW6lVP:1801234000:925.088.211.266:566673c839504a1eab7efd83eee7010245d04423878939956b9ecc671deca830:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 9 серия - Ваша честь FHD (2020 - 2023) (зарубежный)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleVBTTqV0daRVTyolaFRTWqdWMO1mUt90RJRTT6xGaOdlWo1ERVhXTtVUP:1801234000:925.088.211.266:0fd38c8625b5c5829531e70a880133bf2335dd3e7606045d7e1262fd91655673:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ahpam09bycnlyczqpfco6/8082142568186675.jpg?rlkey=pxo8jyr0jfokvlk7hu7q5luiv",2 сезон - 10 серия - Ваша честь FHD (2020 - 2023) (зарубежный) (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRklWW6FUeOp3a390VWlmTEdWeadlSspFRBFjWEl0MPRlUolFVjhXWqVUP:1801234000:925.088.211.266:1b072124783a213d4fbe7c5d27f01bfc7cf2576421af00a6818aeb507f083f0a:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 1 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaVlXWqZEbPRUUz8EVVdnWUFUNNdkRs5EVnNTTUVVMNpWT6pFVjVTWUlUP:1801234000:925.088.211.266:049edf5289a552d4fd744368e4d8cd7a416f530e7ece780405bf6e76e1172030:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 2 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 2 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llMFNjWE10MOdkUtllerdnWHJVbNR0a14ERnNTTHZFbNRUWx4ERjlnTXVVP:1801234000:925.088.211.266:84219df5477c69c750489f559b486c9e101d095b2eab26e80df76f6a4a8ed2fa:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 3 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 3 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVslWW6JkaZJTV10kMFhnTX50aNRVQzkFVjl3TEJlaPdURy40VVVjTEVVP:1801234000:925.088.211.266:e66b654f0f88c73bfc24efae44ffa1ec741b1d0bd6093cb70a9dbcc05faf9942:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 4 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 4 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERrJjWEZEba1WRy0ERRJjWUZVbZJjUq5kaJhnT6RGaZRlWq10RRhXW6lUP:1801234000:925.088.211.266:5ecc8232fa504c462f1c75bf625a28682ea8ec5130b74c6f71bf8771efaffbcc:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 5 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 5 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1VJdnTXZUaNdUUx40VSpWTtlEeNpnTq10VVpnTyk1dPRFZqpFVCxmTHVUP:1801234000:925.088.211.266:cc51aeca3d8b39c4f0b057904730da0411048bbfacc9378f8e44e1d2cae93e2f:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 6 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 6 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25keSxmTHF1dPRlTolleZhXWUN2dOpmWrlFVRVTTXlEMadVTx00VGlWTq1UP:1801234000:925.088.211.266:88b7f5415d4a34b8567e65d505b0eb2899c15b25457b56866c78042aed7852a3:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 7 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 7 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210VVRjTEJlaadVV6pFRZJjTElFeZJTT5pFVRFjTXJlaOpnWrlFVCl2TUVUP:1801234000:925.088.211.266:4b324ae50ccccdbe06cdc5aae9e0f2cf24c43a76ec0f1849a5ef2c15a43abd4d:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 8 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 8 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaaxWWXlEMaRkWr1ERFBjTqZVaNRlQo5EVjJjT6NWNPRlRol1VNNTTEVUP:1801234000:925.088.211.266:acdcd66f8c33887a8704a43b765f7f3ba47fe0ec4f2676ea6472d8ae4343f56b:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 9 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 9 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaapmWUZUaaRVRzo1VVdnTtlEePRVT14kMWxWTXlFea1mRp5UbKp2TXlUP:1801234000:925.088.211.266:b5170366173713dbf20f2974eed57cbae79652d0223ccb86e90447b4055f02c7:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 10 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 10 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVClWWqZEaN1mTolVbZNTWt10dPRlSr5kMShmTENWeZpWQ18ERWxWWtlUP:1801234000:925.088.211.266:31b6201fcaf68251de8dfbd7f67ffea25c25519c5c1bb52aae0d52645df01bd7:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 11 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 11 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVRJzTEdGMO1WV1kleRBTTURWaNpHaspFVjpnWUFEMNRkQr5keZFTTUtWP:1801234000:925.088.211.266:e806f1efbd507dea198a23758280f6879e650959bd0f18937f8f22213b25cca3:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 12 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 12 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaRNjWqdGePRkTp9ERZlnTHpVbNpXQ180RSlmWExGbadVU5l1VFl3TUdWP:1801234000:925.088.211.266:796d268b71e02c32a2970c25c6fd9dd2fa7379b81dcd9ac013d13b27b512a36b:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 13 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 13 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleVd3TEVlea1mUsplarhXTykFMNpmUollaFNTW6JEbNpXWz4ERrpXWU1UP:1801234000:925.088.211.266:a03618a2c12f725861ea768b68ca651ca06dd79affa9e97350ac795befb7af6c:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 14 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 14 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kerlnWtVlMNRlRtlleBRTT6RWaOdVS45kaBNjWH1ENN1WS0klaRdXTEFVP:1801234000:925.088.211.266:4d8b9f8681ce155fc0f2253207ebdfa019e39b84e20d716de0b03495a244b944:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 15 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 15 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pVbatWTENmeap2Zz4EVaxmTUtGeNR0ZxoFVCxWWqt2dadkSt1karl3TElUP:1801234000:925.088.211.266:592201d5f6eb250398a3a8723526f4d297b7a7b107923a2df7e2ab350253f745:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/4998799/d5c0d26d9dc6e3e82f31a4869fdcd453/1716466441.jpg",Сезон 1 - 16 серия - Загляни ему в голову 2022
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rjhpq4pmmpxa608v6v004/8082142568186676.jpg?rlkey=iqi6kplri1x0h683ayaavknwj",Сезон 1 - 16 серия - Загляни ему в голову 2022 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/53e53ae8b97d2bee558e13abbca313aa/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaopmWX1UNZpGar9ERWhmTUx2aZpWT45UbRJTTtF1MZpHZp1EVol2TXVUP:1801234000:925.088.211.266:ba987628339284b84caf4fb7eb8d7f515cfa0601f1767727eec5641c4365a8a4:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 1 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 1 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keBFjTUJVbOJTV31ERWxWW6dGeZpXUy4ERNhnTHZEaO1mSsp1VSxWTy0UP:1801234000:925.088.211.266:d04139e8e4d34c8774ce23036dbf998458cb4e03e4d991b375ee2623854ff59d:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 2 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 2 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaBVjWEZUbNRUUw4ERJBTT6VlMaRUR61kMRFTT650aNRkUtpFVKlWTHVUP:1801234000:925.088.211.266:f0da44ebe4b34d399f6641d18e4f8ce6949e2fb1467fdfb7039d256f4d23f6ca:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 3 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 3 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMatWTyoUbOpWW3pFVnRjTEVFeZRVT10UbNdnWEtmeaRkVt50VNpXTE1UP:1801234000:925.088.211.266:610d3cbc6f0f974e30738905e5773bdc3a2af78793e968036826da5f519f41ab:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 4 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 4 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290RNJjTyEVMadlWtpVbWxWWUdGMadkRt10VOtmTEF0MOp2Z00kMShmTXlUP:1801234000:925.088.211.266:6eacb795cb677eeb7f09713df155c044894825b2240f41c8c6f1690e98d4b0ec:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 5 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 5 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleZBzTUVVMOJTUx4UbVp3TXVFMORkTsp1RVpXW6h2aaREbo9EVslWTyUUP:1801234000:925.088.211.266:e368fdaea934d96551c0c31cdcb77804d86cd64e17041400df15641361cbc87e:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 6 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 6 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kenFjWEN2daRUSz80VRNjWqJVaPdlStp1RVNzTUxGbZpGbrlleNNjT6tWP:1801234000:925.088.211.266:07889c31b32b84417a3748ec8d050e263f4d1d97d9d864fa1eef47d7aa74d74b:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 7 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 7 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kerpnTXZVaO1mUt5keWh2TEdWMaRkSs1kMFVTWqllMORlVp1keVVjWX1UP:1801234000:925.088.211.266:9286237ee66b6e38ce283a43f3d21a2e73f8f100ab37d76d8193c3c1737f9374:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 8 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 8 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4561.entouaedon.com/stream2/b-401/183aacf7ca8eb8560d1c727602603288/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RNFjT6plaadVS61UbFdnTEtmMNR0Z10kekhWWqpVbOpXRx8EVCtmTqVUP:1801234000:925.088.211.266:c2161981087a6d15e240fc3f69b2c091ec6606678f9b0ad4c4a031343efdc5bc:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 9 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 9 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/3a1ab747920c15395e9c8481cb30f9d1/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VJlnWXVlMadVW5pFRZhXTqpEbORVUz0keCxWWtZ1aNRkWtp1VJlnTEVUP:1801234000:925.088.211.266:d64960a4f59a9a36394353814e19b3705a2c984e3a2b918b320d5a28a85e993e:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 10 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 10 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/3a1ab747920c15395e9c8481cb30f9d1/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kejpnWERWaOpXW51keSlmTqFFNPdUU35EVJFTWqJFaPR0a650VJlXTy0UP:1801234000:925.088.211.266:9708a01935c22523ee97a817698adae60edf144302d5f01d4fe1427646fd28fe:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 11 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 11 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/eb215f93cfe8f2f60baa32f71eb1a17b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVRp3TUZEaZpWR5plaCxmWEFFeNp3Zz8EVrhnTql0MPRUT5pVbZJzTHFVP:1801234000:925.088.211.266:70f07134ea118ba800de0fd1d99e1dd43f37678c9464a6567a81a17b521fa26a:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 12 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 12 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/eb215f93cfe8f2f60baa32f71eb1a17b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVotWTXFVMNRlVtplarpnWqRWbNRUW1kleW1WWtVUeOJjSs10VStWW6VVP:1801234000:925.088.211.266:dc61eb8dad6115e8dffaa606adaa38651e27a45a4286818e7c4318c7bee100b1:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 13 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 13 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/eb215f93cfe8f2f60baa32f71eb1a17b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbFBTW6ZVaaREZsp1RKhWW6t2MapWR610RShWWX1UNaRVW5plandnTqlVP:1801234000:925.088.211.266:207d07d261e736c7ae1be7d1aa3db47305038f0c89504d9cd37ea6a0723f9160:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 14 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 14 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/eb215f93cfe8f2f60baa32f71eb1a17b/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaVdnWUpkaZpWW39ERFRjT6xWaZJTU04UbGxmTENGMOJjTt50VVh3TUlVP:1801234000:925.088.211.266:a8fd8eb4585fe6ccbdcae01bfdd25b9bd3796498b4b7bfdde01bf65e57148b8d:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 15 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 15 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/2e14c10600eae9276d53abef90e6c91c/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaotWTXJ1aZRlUq9EVrBjWqtWMOpnSs1EVW1mWXlkeOpXW45EVZJjWHFVP:1801234000:925.088.211.266:0991ac53090e950831ff1c496235c427e472211977bb62dbff1bf3eecce44d97:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://i125.fastpic.org/big/2025/0507/fe/61e50a44166a9284cb22bf31133b6ffe.jpg",Сезон 2 - 16 серия - Загляни ему в голову 2025 FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/0/5/8509/496295354729.jpg",Сезон 2 - 16 серия - Загляни ему в голову 2025 FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/b-401/2e14c10600eae9276d53abef90e6c91c/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kMG1mT65kaPdlWr10RZdnTUZEbZp2az0EVGpWW6l1dORVT6p1VVNjTtlVP:1801234000:925.088.211.266:699aecab8a28c104a37c71e2a7a44ef2e6a4c98029ed5885ec3d35ad67b22a97:ru/720/index.m3u8
 #EXTINF:0 tvg-logo="https://i1.imageban.ru/out/2025/05/26/f190ec1341d1ed34a35759388aa83f61.jpg",1 сезон - 1 серия - Вторая семья 2025 FHD
@@ -65374,90 +65460,6 @@ https://cdn4531.entouaedon.com/stream2/cdn-400/375bbbd3a80da2082d2d77c26a8214b6/
 #EXTINF:0,3 сезон - 13 серия - Ганнибал FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4531.entouaedon.com/stream2/cdn-400/375bbbd3a80da2082d2d77c26a8214b6/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleS1mT6lkMPRVRw40RRlnTqtGePR1Y14UbNVzTU5UaNpWSx8EVrBTWUlVP:1801234000:925.088.211.266:4f958244b8aafd3c02056e3be32751f7d46672f903aaefb2348e347d55b0f3b5/index.m3u8
-#EXTINF:0,1 сезон - 1 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaJlXTqlUNPdVTyo1RalWWUNWeOJTWx4keoxWT6VlMZpWS4lFVVhnT6FVP:1801234000:925.088.211.266:3c975ad80da712adfe2e1de44f89a284f773dcaec20d44a673e975470969d185/index.m3u8
-#EXTINF:0,1 сезон - 2 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVnFzTE10dZRlQq90VapmTXVlMNdkSp1ERWlWTElVNORkUr10VGlmWXVVP:1801234000:925.088.211.266:3338321d9fba444d6da1c4a0f6a832495a3852f6d0842768f5bc9bfb81d7a1a2/index.m3u8
-#EXTINF:0,1 сезон - 3 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaKtWTqRGbN1mTrp1RFlnWHpkaPdUS14EVVVTTEdGNZRVU55EVZVTTqVUP:1801234000:925.088.211.266:1807cb5eea81b9486da6563aea0d9cf5f6c06f317599f5a3a7b14fb1734f3dc7/index.m3u8
-#EXTINF:0,1 сезон - 4 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290ROh2TURGbN1mUop1VSpWW6JUaZdVVwolaFFTWyoEbNpnUtllMVRjTXlVP:1801234000:925.088.211.266:b8fd103044e13dfee122addb5f31af12668af976b1d2026dc78a0f98f10c1252/index.m3u8
-#EXTINF:0,1 сезон - 5 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaRd3TXVFMO1mVrlVbO1mWElUeapWU690RFdnWHFVNOJjVt5kasxmTUFUP:1801234000:925.088.211.266:aa1d8e6397da90ef0cdbb617690d92ed673655e2b5642b6e461f04a15b890bf3/index.m3u8
-#EXTINF:0,1 сезон - 6 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERkxmWqtWNNdVV3p1VJNzTH1keOdlRtp1VGlWTU1keOdVW69EVJpnTyUUP:1801234000:925.088.211.266:7d23c453fb5d2277956aa2b8b607364f32ef5d92d4c1de0daee4e9e7ab2ff785/index.m3u8
-#EXTINF:0,1 сезон - 7 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERVd3TXVFNapWUzoFVjRzTUlENOpXU61kMRhXTXV1MOR1YwoFVJRjTEdWP:1801234000:925.088.211.266:1ddac086e8898b2268f67393a83f67faca1f1f3505566923fa25ac50cd4585aa/index.m3u8
-#EXTINF:0,1 сезон - 8 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaRJjWUVkeORFbo5keO1mT6lFeadUT41EVRVjTqJEaPRlUp1UbJd3TXVVP:1801234000:925.088.211.266:341a4edbb4dba79f87491894523a14bb56fbb259351bf39161a509957c468de3/index.m3u8
-#EXTINF:0,1 сезон - 9 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVJNzTERGbNRFbq10VFJTTXl1dPRVQw4kMRhnWUF1MPRkRo5EVrlXTUtWP:1801234000:925.088.211.266:c5a08bb1b0bc7ad77fc86550f9b4498b49e5160f8b7d469c828827ea815bce16/index.m3u8
-#EXTINF:0,1 сезон - 10 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RGlmWqZ0aORUQy80VJVjWqVEMOJTS1oFVRpXT6xGaapWU45UbVpnWtVVP:1801234000:925.088.211.266:0c90fd1aa99c36d4f3a5a80ba433ad8d1b5caf16bfa3189689dcb3acd9b3d856/index.m3u8
-#EXTINF:0,2 сезон - 1 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFVNdXWt1UeZJTU00EVGhmT6dWePR1Yx0UbFNTT6tWMOpXQyklaRd3THlUP:1801234000:925.088.211.266:de092549cd99c398171b38e3517ce6034671136f6cbe962fb9e1a6351d9f2496/index.m3u8
-#EXTINF:0,2 сезон - 2 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERO1WTU5kaOdUR0o1RJpXWtVkMZRVS10kMKtmTyUVeOpXS390VZNTTqVVP:1801234000:925.088.211.266:f7789abfa5a745d4cde029b2eb01e9ccac542892ef372fe1adcbc7cb6b3d7e1d/index.m3u8
-#EXTINF:0,2 сезон - 3 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250RNFTT6dGePdUT410RVRTTXVkMOR1Z10kMZRTTENmMNpWQ35ERjpXW6tWP:1801234000:925.088.211.266:ae63a16033f77bf8f5b182b25a93347173c806a3feb8fcef516400e0da2857eb/index.m3u8
-#EXTINF:0,2 сезон - 4 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21EVs1WTUt2dNdVSx0keJVTT6Z1aOp3Yx40RaxWWtl1dNpHZtlVbax2TUVVP:1801234000:925.088.211.266:a7a08de682d801605c039e7294e74815b5786e691036be9cefee1cb12ffa934e/index.m3u8
-#EXTINF:0,2 сезон - 5 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210VRNjTH1UNaR1axolaJNTTXlFMOpHbs90RK1mT650aORUW1oFRnlnTtVVP:1801234000:925.088.211.266:6a7b91e31c0d10ec70759e50dabd938c0430fe8bd91086452092320733e22d9f/index.m3u8
-#EXTINF:0,2 сезон - 6 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29EVRFjWqVEMNRVSwo1RWlWTqFFNNRVSy4ERRJTTUpEbOdkWspFRotmWqlVP:1801234000:925.088.211.266:0b0802c47b55b5a8aaa7bc6607c223d78abff37792fcbad9cf4c6281033f0793/index.m3u8
-#EXTINF:0,2 сезон - 7 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERFpXWXlkeNRkSslVbOlWTElkMORVQ4p1RSpWWXVleNR0Z51kMKlmTUlVP:1801234000:925.088.211.266:afc6791bce41f85794cac22b1d7e4b5d8a3754bd665f3c7d86495a795a66793a/index.m3u8
-#EXTINF:0,2 сезон - 8 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbNVzTEFleZ1WR65kMRFjTEVVMapWW14kea1WW6lEMadUSwklarVTW6lVP:1801234000:925.088.211.266:566673c839504a1eab7efd83eee7010245d04423878939956b9ecc671deca830/index.m3u8
-#EXTINF:0,2 сезон - 9 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleVBTTqV0daRVTyolaFRTWqdWMO1mUt90RJRTT6xGaOdlWo1ERVhXTtVUP:1801234000:925.088.211.266:0fd38c8625b5c5829531e70a880133bf2335dd3e7606045d7e1262fd91655673/index.m3u8
-#EXTINF:0,2 сезон - 10 серия - Ваша честь (зарубежный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/5739e573477c2e660a466b20ecd9bfb7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRklWW6FUeOp3a390VWlmTEdWeadlSspFRBFjWEl0MPRlUolFVjhXWqVUP:1801234000:925.088.211.266:1b072124783a213d4fbe7c5d27f01bfc7cf2576421af00a6818aeb507f083f0a/index.m3u8
-#EXTINF:0,1 сезон - 1 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4531.entouaedon.com/stream2/cdn-400/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERktmT6NGNNpmSp5keBJTWUp0aNR0Zxo1RShmTEFVNapWS6plaNNTTHlUP:1801234000:925.088.211.266:d84db4c116caea342843a5175a158c1086c93baaa5a96388422c4e81fe80efc6:ru/720/index.m3u8
-#EXTINF:0,1 сезон - 2 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250VRFTWtFFMaRUW10kaahmTtVUeZp2a39ERGpmTUlUNNdUV1kVbK12TXVUP:1801234000:925.088.211.266:04053a0add81138d811c9e03ceaebcc41b185130c8cbc8f6aeaf3693ef870c84/index.m3u8
-#EXTINF:0,1 сезон - 3 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keolmWEF1MNpnQt9ERGtWWqlVNadkSs1kaCpWTExGbapWQy40VWtWWUVUP:1801234000:925.088.211.266:1003d56b07cce84ac522c0bd4459b7c81bf7cc67bec14f57be1571c8ce480c39/index.m3u8
-#EXTINF:0,1 сезон - 4 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plajJzTXF1dNpmRopVbJVjTEN2dOpWSy0kejVjTqlFNNJTWz8ERspWTqVUP:1801234000:925.088.211.266:144c6ef49869af70b676b1e341e725a686093d8d78bdbca3ffb5cb31f005fd1e/index.m3u8
-#EXTINF:0,1 сезон - 5 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT250ROtmTERmaZpWW31EVjVjTt1UeOdVU1oVbJlnTHlENadlRr1kaBFTTUFVP:1801234000:925.088.211.266:7002be4905181c7c5a43c9f4fdd7c11f5968d39a333351312361f46806af7fcc/index.m3u8
-#EXTINF:0,1 сезон - 6 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERo1WWy4EaORlWp5UbZJTTXZFbOpmSppFRSpWWqZEbNREbp1EVBdXWyUVP:1801234000:925.088.211.266:a65cf12f1fc791102473c735990917e8d95077bc21a0c96bc9053e0ea721d665/index.m3u8
-#EXTINF:0,1 сезон - 7 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lleWtmWq1UNORUU35UbZJTT6J1aOpnTq9ERKxWT6VUMapmSopVbJVjWHFVP:1801234000:925.088.211.266:9153a58863b18e3694692eeb2e41fe7c149f75223d05038e57bc5b21c75cc164/index.m3u8
-#EXTINF:0,1 сезон - 8 серия - Ваша честь (отечественный) FHD
-#EXTGRP:СЕРИАЛЫ FHD
-https://cdn4502.entouaedon.com/stream2/b-401/454ab486a64744a5d146dad5ff81e964/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT290VKhWWtZ0aNR0Zw4UbFdnT610dNpGZqp1VOt2TEJEaPRkVs1kMSlWTXVUP:1801234000:925.088.211.266:37b3a2f81c2cf5a1400224af29558cd6260c0aec33dc4a2511655ebd786ad1ae/index.m3u8
 #EXTINF:0,1 сезон - 1 серия - Охотники FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4502.entouaedon.com/stream2/cdn-400/1a8e6369b400bc1d7ea4395d76141ae4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbO1WTtZVbap2a4lleFFzTE5kaZpHbq9ERRBTTqtGeORUUx0UbNNTWXlUP:1801234000:925.088.211.266:4e797a16ae52e50a5e656f190a292e963b1ac872aef8b142407bfc704fc8501c/index.m3u8

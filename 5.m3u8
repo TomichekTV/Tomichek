@@ -17,30 +17,36 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-MlL517YPtDRTp9P59TZiftt2YCfpEwc
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Сезон 2 - 1 серия - Дети перемен 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX186z9MTf_m_MXe7fFIZyPPFLvNkMcJbzV7wgfgy4zYSftH_dg6ck2kyl2kpI5oli6befFi1Up7Krhi_BiK8rOWJf3n8nb_Uilj6zhyYpVCRDIMkzXCZJp5XfDWPZsxsvhFKNzLYJ4DJATIdmtWbAbsXQvoJajlm1TZqNK6JSQLVKG094WZeZmALAjh5_lfo9f-hc917J3vqlTfICeZNV7p5hvPj8WrPbV55ppqsmAAHkU9xlyUL0JbdDbfc_bLgbsXntUTPJkHF8JxrliPAq90iVLQBmkUGG9puZHtdaINSF9tnc0IrqUUXSnX7BexarzWSNZbcvGAc9G0Nv9o1Wd3_FKb39v_tyETkc7pTCvfT5UGlb8eYVq20/6499b1912f030/572ea2c17916956feeff24e76e133069587e1a7c9803a83f9e93b3239153acc2/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/5/7/11758/824328334821.jpg",Сезон 1 - 1 серия - Резервация 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Rezervaciya.S01.E01.2026.WEB-DL.720p.ExKinoRay.mkv?link=b9a2ca2b74d760a252d7c9ebf240facd9fc4d22b&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/5/7/11758/824328334821.jpg",Сезон 1 - 2 серия - Резервация 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Rezervaciya.S01.E02.2026.WEB-DL.720p.ExKinoRay.mkv?link=b9a2ca2b74d760a252d7c9ebf240facd9fc4d22b&index=2&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 1 серия - Рыцарь Семи Королевств 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_gdBnfQkjTxonan2HqEbBpEjjMXvvx9HXn-IuWPDoyRUZGO573CZhoMmfSm3DvPN6QlkGGgpOZuH1goqnO7EPhY4S5_2qj9Emegv31UHeP3F-AK8hX1VnFxPoNZ29ZIlE0lq1I2mGfh-u3vdlBmTv8r2z5I-YzflzRC_BOMOrAJoN9VSnAYIEr9SHhT4whZqhB8a0NcTh0fjUsWpoj2wDNzFVS5QTmOFK6vSnGtJXwgcshB77cpzpvpHmFlpVtcBzeNWPS4no2Cwrraalpx1GXwY7UGCNDQVmu5WzMVKQBY9K0Eo2hhGd81N3QN7Pn7bey4iNdpJszaLGRVAo62L4SswFcxp_JIitdsFc2qUYdCHGFk_c1fI4A/6499b1a8f2050/b5ddefaa5f17b960f6ef36c0a709bccaa4fba5795b1c01b6ab19fd91b0aa4076/720p/playlist.m3u8
+http://185.117.152.190:8090/stream/A.Knight.of.the.Seven.Kingdoms.S01E01.720p.WEBDL.RGzsRutracker.mkv?link=65c78f75bebd1e119f835348abf4b65a1621844a&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wak6ebpenqft0akr7ghl4/8082142568186632.jpg?rlkey=b94aqlu757y94rbu7hym4bdin",Сезон 1 - 2 серия - Рыцарь Семи Королевств 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/A.Knight.of.the.Seven.Kingdoms.S01E02.720p.WEBDL.RGzsRutracker.mkv?link=65c78f75bebd1e119f835348abf4b65a1621844a&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/3/9/5931/312545342826.jpg",2 сезон - 1 серия - Художник 2026 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hudozhnik.S02.E01.2025.WEB-DL.1080p.ExKinoRay.mkv?link=bf17863c8d4620b3cd6f4876c088a55e5eab8bdf&index=1&play
+http://185.117.152.190:8090/stream/Hudozhnik.S02.E01.2025.WEB-DL.1080p.ExKinoRay.mkv?link=10fbbad8df42257739f20f451c1a88d1330246d7&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/3/9/5931/312545342826.jpg",2 сезон - 2 серия - Художник 2026 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hudozhnik.S02.E02.2025.WEB-DL.1080p.ExKinoRay.mkv?link=bf17863c8d4620b3cd6f4876c088a55e5eab8bdf&index=2&play
+http://185.117.152.190:8090/stream/Hudozhnik.S02.E02.2025.WEB-DL.1080p.ExKinoRay.mkv?link=10fbbad8df42257739f20f451c1a88d1330246d7&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/3/9/5931/312545342826.jpg",2 сезон - 3 серия - Художник 2026 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hudozhnik.S02.E03.2025.WEB-DL.1080p.ExKinoRay.mkv?link=bf17863c8d4620b3cd6f4876c088a55e5eab8bdf&index=3&play
+http://185.117.152.190:8090/stream/Hudozhnik.S02.E03.2025.WEB-DL.1080p.ExKinoRay.mkv?link=10fbbad8df42257739f20f451c1a88d1330246d7&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/3/9/5931/312545342826.jpg",2 сезон - 4 серия - Художник 2026 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hudozhnik.S02.E04.2025.WEB-DL.1080p.ExKinoRay.mkv?link=bf17863c8d4620b3cd6f4876c088a55e5eab8bdf&index=4&play
+http://185.117.152.190:8090/stream/Hudozhnik.S02.E04.2025.WEB-DL.1080p.ExKinoRay.mkv?link=10fbbad8df42257739f20f451c1a88d1330246d7&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/3/9/5931/312545342826.jpg",2 сезон - 5 серия - Художник 2026 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/05%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA-2_rip%20by_Aleksan55%20(1).mkv?link=25f7569e928f97f8999c5cb7638235270b8bc780&index=5&play
+http://185.117.152.190:8090/stream/Hudozhnik.S02.E05.2025.WEB-DL.1080p.ExKinoRay.mkv?link=10fbbad8df42257739f20f451c1a88d1330246d7&index=5&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/3/9/5931/312545342826.jpg",2 сезон - 6 серия - Художник 2026 FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/06%20%D1%81%D0%B5%D1%80%D0%B8%D1%8F_%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA-2_rip%20by_Aleksan55.mkv?link=25f7569e928f97f8999c5cb7638235270b8bc780&index=6&play
+http://185.117.152.190:8090/stream/Hudozhnik.S02.E06.2025.WEB-DL.1080p.ExKinoRay.mkv?link=10fbbad8df42257739f20f451c1a88d1330246d7&index=6&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/im316r1ztwkipdfzrkugu/8082142568186654.jpg?rlkey=0smr1bah8guve9c5aoh69jc6v",Сезон 1 - 1 серия - Полная совместимость 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/01.%20%D0%9F%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C.2026.WEB-DL%201080p.Files-x.mkv?link=1c385000224f05f29c3516990d80aca71f33929c&index=1&play

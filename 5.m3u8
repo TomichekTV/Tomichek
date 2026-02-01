@@ -47,7 +47,9 @@ http://185.117.152.190:8090/stream/03.%20%D0%9F%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/im3vv1jpxy56ff4mvfzwm/8082142568186703.jpg?rlkey=vrbucl6cl7qmsrsxcecknk7wt",Ничья в пользу КГБ 2025-FHD 18+ (все серии | средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1999sjCa0C1VZDQZkO7x2g7dbVIDfWpar2S9bNMP7LEymcMAG2TZ5EVb65e9ItaRtFOKWSEo2-VRVMaVF1ygTfiUIeAQ3yRMNQPxQd1F0pmkZLXQLWrBsP5V2LznZPKIIl94jE-fyfG7yrVyMdehHlKJTX4puVElrMmmeattT4Dr9LORcZRnp2RQ7S09jmVJ9HK2Uj5bf9zOIFAQ8sgN4hP32iF8i9rhClhZX6XVLMb_hyZWHhNANZL0PJ2Z32DHu1wofVZZRgUFGRXcEtmnz0FWuslQ3Lpn82dbSK_Xb-BE9zaSgUcF9p5Zp-4ScFBz6jXlCKOyBueJl7vQ7T_GHOG3Naa4Y0nOz-whEGodtWWK_fhacXE6-AB/649da94e742d0/1751e69e12e84179614f13825ace58ef6d7d28266792fbd878161340bcd1cfa8/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/3/5/6/10653/147772397324.jpg",Дети перемен 2024-FHD 18+ (1 сезон | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19p7nIYc3trQihAg0VEKwKwanApD0rG1LA3RqzWCJ9XMt4lJngj0GvtTaVTfYfxg3gxXumiy8bdN334e6bxbM6hOMynykrlIAnwkU5vZ63yMbhvyg8YJpyP4pCeND5qLfK6bNVvo4T_lJ1zXex15onvG1jH5nb9Sk_8QWJ-Vjj3q0bGqwzItsGAmp3HnInbY8udzGR1mowfXHAaT-t2iad_9F_oJMhJLb44ovpwpcYXPRCZIyACcC2cuciQz4AXelpBOVGH_X0-PBcMB7G9heHU2LqCWnKpW3APFS_tAHXgarx3iknFaVN0eEHzqsmov1mS9XSgGFVOtajr_XfqCYuotlTj-NZo5jBIOHnP1D4YvBTkv6kh6tnO/649d580427e58/d1179cf63c29dce7255bc4e575874e6bc5af53cfcf95044ff89fdec765912fe6/720p/playlist.m3u8
@@ -427,30 +429,6 @@ http://185.117.152.190:8090/stream/Zheka.Rassel.S01.E08.2025.WEB-DL.720p.ExKinoR
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/5/5/12558/386231047817.jpg",Сезон 1 - 9 серия - Жека Рассел 2026-FHD (средний битрейт) (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Zheka.Rassel.S01.E09.2025.WEB-DL.720p.ExKinoRay.mkv?link=e66c47251fc5844a949d932b6837713d14b9f11d&index=9&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 1 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 2 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E02.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=2&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 3 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E03.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=3&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 4 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E04.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=4&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 5 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E05.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=5&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 6 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E06.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=6&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 7 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E07.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=7&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6frtde51l1bdxypnuvyno/808214256818657.jpg?rlkey=uqdew68m20tau4hp8j4dbq3z9",Сезон 1 - 8 серия - Ничья в пользу КГБ 2025-FHD (средний битрейт) (финальная)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Nichya.v.polzu.%20KGB.S01.E08.2025.WEB-DL.720p.ExKinoRay.mkv?link=930a3cdbcb180346ae8fdb2f7bdbadeac2035722&index=8&play
 #EXTINF:0 tvg-logo="https://i126.fastpic.org/big/2025/1109/80/7fdf92323d888496fde669307e23a980.jpg",Сезон 1 - 1 серия - Из многих | Одна из многих 2025-FHD (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Pluribus.S01E01.720p.WEBDL.RGzsRutracker.mkv?link=95198f07f9556e67cad5ace603a724378f7ab4fd&index=1&play

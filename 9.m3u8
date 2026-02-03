@@ -7,13 +7,15 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/l0agg2y2i93hseush7dvm/8082142568186689.jpg?rlkey=p4nkeadfb5d11k1cma6uwk132",Опасный дуэт 2026 в 4K HDR (средний битрейт) + выбор озвучки
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/The.Wrecking.Crew.2026.WEB-DL.2160p.DD5.1.Atmos.DV.HDR-DVT.mkv?link=6e0d15947d39b2e2b521127bf99b8edf758dd0ee&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/0q5zubmybuutpn68nqmlg/8082142568186704.jpg?rlkey=z9tonsas6umrig532a2c16mgr",Обитель проклятых 2014 4K в AV1
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Stonehearst%20Asylum%20(2014).mkv?link=f6068fa194ff55f84c02af73bcd401e8fc9196cc&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/9f98zwla5tlaa8m0di6uj/8082142568186624.jpg?rlkey=7zmtnjpxf7ubnrjxc1z6v3rbc",Лакомый кусок 2026 в 4K HDR (средний битрейт)
 #EXTGRP:4K
-http://185.117.152.190:8090/stream/The.Rip.2026.2160p.HDR.mkv?link=f3c2f9fbf496632a997e63b0e336c9a1c654e19c&index=1&play
+http://185.117.152.190:8090/stream/The.Rip.2026.2160p.WEB-DL.DV-TheEqualizer.mp4?link=afb4e2b02f605aaf9f648ae845ca7417f7a42741&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/3/0/8361030/058c0f1b52081dda25ec1fefe2230240.jpg",Охота на Санту 2020 4K в AV1
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Fatman%20(2020).mkv?link=393d4f5ac94a4ee11fe95520d3dddf6cf627c574&index=1&play

@@ -16,6 +16,9 @@ http://185.117.152.190:8090/stream/The%20Town%20(2010).mkv?link=90d8a1b89f12b2f4
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/7/5/6313577/a267f0373b2025aa4dbb1d7ae43b2310.jpg",Знамение 2009 в 4K - AV1 - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Knowing%20(2009).mkv?link=8a9d99fa9ac59d453d3b33c026aee55576a67003&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ao2hoapgmaivcybk8hhfx/808214256851.png?rlkey=6pke8u9dr2xtvmbsdjnelr3ba",Балерина 2025 в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/Ballerina.2025.2160p.iT.WEB-DL.DV.HDR.TYMBLER.mkv?link=542ad25ea90dcd44c2ba2348fe417e0b1f785bca&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/7/9/8158971/2360c9f6c639e753e8c3ebe738a27737.jpg",Варкрафт 2016 в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/%D0%92%D0%B0%D1%80%D0%BA%D1%80%D0%B0%D1%84%D1%82.2016.WEB-DL.2160p.mkv?link=49be7f1e6d8bd32efac237192ceab279ce0c5cfc&index=1&play
@@ -103,9 +106,6 @@ http://185.117.152.190:8090/stream/In%20the%20Name%20of%20the%20King%20A%20Dunge
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/kwb22upyngtsgdl6hsdyx/80821425612.jpg?rlkey=c5imb8uybtoiea9mda8bnlewm",Как приручить дракона 2025 в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/How.to.Train.Your.Dragon.2025.4K_HDR_DV_RHS__%5Bscarfilm%5D.mkv?link=0cde96942eecc401b73dd90ab8d32139833b07b6&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ao2hoapgmaivcybk8hhfx/808214256851.png?rlkey=6pke8u9dr2xtvmbsdjnelr3ba",Балерина 2025 в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
-#EXTGRP:4K
-http://185.117.152.190:8090/stream/Ballerina.2025.2160p.iT.WEB-DL.DV.HDR.TYMBLER.mkv?link=542ad25ea90dcd44c2ba2348fe417e0b1f785bca&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/1/4/8369419/222507317695.jpg",Супермен 2025 в 4K - AV1 - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%20%282025%29%20WEB-DLRip-AV1%202160p.mkv?link=852fe119d3bc7ec8c7191c0b77cadaae4ec5868c&index=1&play

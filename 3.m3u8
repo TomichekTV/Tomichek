@@ -3401,7 +3401,9 @@ http://185.117.152.190:8090/stream/Eden.2024.LeonineFilms.BDRip.720p.mkv?link=2a
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/qlptfzrp49kn0dobox5yi/8082142568186737.jpg?rlkey=hvvfavb4qh5pp37a0ixncw9a1",Достучаться до небес 2 2023-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Das.Beste.kommt.noch.2023.BDRip.1080p.seleZen.mkv?link=74a60950d2283d673a9134cd604d28937e588013&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/e6lpz2fzk2p972smgzlcw/808214256818580.jpg?rlkey=flusc2eac6pjy547zy061ilk1",Рестарт 2025-FHD (средний битрейт + русские сабы)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Qaitadan.2025.WEB-DL.1080p.mkv?link=0ed08d18c078b4b9e3143f44ad80a177cc40e218&index=1&play

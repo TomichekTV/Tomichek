@@ -13,9 +13,12 @@ https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl
 
 
 
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/7/9/8158971/2360c9f6c639e753e8c3ebe738a27737.jpg",Варкрафт 2016 18+ в 4K - AV1 - НЕ для старых ТВ!
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/7/9/8158971/2360c9f6c639e753e8c3ebe738a27737.jpg",Варкрафт 2016 18+ в 4K - AV1 + HDR - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Warcraft.AV1.BDRip.(2160p).HDR10.Djon.mkv?link=ec99a36900b6b2ba25d36f81d9c3a8ab19ff4bd8&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/7/9/8158971/2360c9f6c639e753e8c3ebe738a27737.jpg",Варкрафт 2016 18+ в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/%D0%92%D0%B0%D1%80%D0%BA%D1%80%D0%B0%D1%84%D1%82.2016.WEB-DL.2160p.mkv?link=49be7f1e6d8bd32efac237192ceab279ce0c5cfc&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/rieq3czbvsp2rjdko5v65/8082142568186745.jpg?rlkey=yz9lju8b2mc4xrdspyg4ehkuz",Мы — Миллеры 2013 18+ в 4K - AV1 - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/We're%20the%20Millers%20(2013).mkv?link=a2cc9dda777141181dce00000b55798b17152796&index=1&play
@@ -64,9 +67,6 @@ http://185.117.152.190:8090/stream/Knowing%20(2009).mkv?link=8a9d99fa9ac59d453d3
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ao2hoapgmaivcybk8hhfx/808214256851.png?rlkey=6pke8u9dr2xtvmbsdjnelr3ba",Балерина 2025 18+ в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Ballerina.2025.2160p.iT.WEB-DL.DV.HDR.TYMBLER.mkv?link=542ad25ea90dcd44c2ba2348fe417e0b1f785bca&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/7/9/8158971/2360c9f6c639e753e8c3ebe738a27737.jpg",Варкрафт 2016 18+ в 4K, Dolby Vision, 10-bit - НЕ для старых ТВ!
-#EXTGRP:4K
-http://185.117.152.190:8090/stream/%D0%92%D0%B0%D1%80%D0%BA%D1%80%D0%B0%D1%84%D1%82.2016.WEB-DL.2160p.mkv?link=49be7f1e6d8bd32efac237192ceab279ce0c5cfc&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/0q5zubmybuutpn68nqmlg/8082142568186704.jpg?rlkey=z9tonsas6umrig532a2c16mgr",Обитель проклятых 2014 18+ в 4K - AV1 - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Stonehearst%20Asylum%20(2014).mkv?link=f6068fa194ff55f84c02af73bcd401e8fc9196cc&index=1&play

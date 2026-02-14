@@ -82,9 +82,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-JoSMiUkgaCjbVt9_WEy7PIc3Wfle9gg
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/1/0/8368012/253661136469.jpg",Возвращение в Сайлент Хилл 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18eh-oNF7UhvT8mkMaR4KezbCscE1bC1C_zE3g_wQBmSOZDE-cFq5_eFj6CAW2ijbrxgBpDHGsDa_Jhhqvrm5fj0Y8YkFTL73F4LznpN0xazlxJ0bBNDrGrH82zR9BLw7x5CIlbM8-Ukdz3-ZTeGi5DCk4UmPBTjiYmWKrX-Ao21k8NrCq-ViJOLJvzzrdUTUqwJq_n7eeG71WjWeq2JQHRPgRYozWBr22IPtXPrNDFHk6s9r7hpqkPzprp9qAmMuPLSVSxIjsWq43sHwvGkKAt_RnFsux-24Jhv6YxGwdxZD7YNYsQ36rnPpvmG570WVDwSjAxT0RuoZIprJN_qdaGMQne2SdvaQQ/64ae10c1c9240/1480574ce7f92fce4ffa5c12730cb04672ebf61b2e2b6a2615c6a39fb49d6bbd/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/1/0/8368012/253661136469.jpg",Возвращение в Сайлент Хилл 2026-FHD 18+ (средне-высокий битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Return.To.Silent.Hill.2026.1080p.WEB.DL.mkv?link=00e084013e65efbc0cd048ca98dbf42dfe086862&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/f9f5nc9av6pl2b74b00iq/808214256853432433.jpg?rlkey=v6zmn99zrdc66wmu8oyw6ex07",Пленник 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/El.cautivo.2025.1080p.NF.WEB-DL.DD5.1.H.264.mkv?link=ac80b9482c45c3fe8ed176ef4d1b2d0c3fea1133&index=1&play

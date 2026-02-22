@@ -21,13 +21,13 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=HD_Russkiy_Extreme&tok
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Sovetskay_kinoclassica_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/a825a954-84e0-4761-bf63-77c9be6956dc/" group-title="TV-PREMIUM",Советские фильмы HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=kinozal_23_sd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0wnf2wpz5t5oqwinv8lyv/Home_premium.png?rlkey=3fkxc4ovv4hwrpdurytxo1rlz" group-title="TV-PREMIUM",Дом Кино HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9yilimvxvcje2i0qxqljo/dom_kino_2026.png?rlkey=2xon8hto1psilpzrcc2y0tk75" group-title="TV-PREMIUM",Дом Кино HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=D_Kino&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/e668067b-e929-4c02-9da2-09f67d8b4815/" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/uvzageudkxcm22c14bewp/mosfilm_2025.jpg?rlkey=7yq2zh7bzgcztswzi1alqbvkk" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Mosfilm_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/124fdace-9d4f-4192-9597-01ab6d4fb0f9/" group-title="TV-PREMIUM",Дом Кино Премиум HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0wnf2wpz5t5oqwinv8lyv/Home_premium.png?rlkey=3fkxc4ovv4hwrpdurytxo1rlz" group-title="TV-PREMIUM",Дом Кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=HD_Dom_Kino_premium&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/f056e675-39e6-404b-9492-4668bb5491cd/" group-title="TV-PREMIUM",ПОБЕДА HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/q9q08wvw4ailzr1s5lava/pobeda.png?rlkey=9obz2t2mqxwgryj6pfgvoja1q" group-title="TV-PREMIUM",ПОБЕДА HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Pobeda&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c712f20d-8401-40eb-8d4e-c3ff4179c2b3/" group-title="TV-PREMIUM",Премиальное HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Premialnoe_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
@@ -39,24 +39,31 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Ostrosuzhetnoe&token=T
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Komediinoe&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/72f7684b-c698-44cd-a7b3-3d14915a8270/" group-title="TV-PREMIUM",Любимое HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Lubimoe_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/0a3da16d-a08d-4f2e-bd47-76a22ebd0438/" group-title="TV-PREMIUM",Первый HD
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/8jsshu4xti9mxicp9siwh/nat_geo_2022.png?rlkey=zrp6ljdhb6zfcxpbkagk3f30z",Nat Geo Wild HD
+http://185.221.213.254/live/itvonline.tv4444.php?id=nat-geo-wild&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/2p3bjpajod2sq5dozleyc/National-Geographic.jpg?rlkey=x82oahq0h2r0fsgznf6k23bp9",National Geographic HD
+http://185.221.213.254/live/itvonline.tv4444.php?id=national-geographic&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/huszz3pvyntsg6mc0rl3o/discovery.png?rlkey=27tkt2434v5xcqjerhcz7uzad",Discovery Channel HD
+http://185.221.213.254/live/itvonline.tv4444.php?id=discovery-channel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/09o3vkw5pn6dv0byc5nwk/Investigation_Discovery.jpg?rlkey=hpcvgnx7gu7i812237jlk2lo8",ID: Investigation Discovery HD
+http://185.221.213.254/live/itvonline.tv4444.php?id=id-investigation-discovery&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/af5447d1-b347-4c5b-8693-c2433467a157/" group-title="TV-PREMIUM",KIONХИТ
+http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=KIONHIT&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=1TV_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/4457f305-1077-4bc2-9a2f-519b76032553/" group-title="TV-PREMIUM",Россия 1 HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=Rossia_1_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/46576758-c8f7-45a8-b18e-f60f7f8f49fd/" group-title="TV-PREMIUM",НТВ HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=NTV_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/7b9095ae-18b1-4fc3-85f5-6aeabc68bba8/" group-title="TV-PREMIUM",РЕН ТВ HD (+7)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bqp1rgccyyu8g83170m6/ren-tv.png?rlkey=qfzrjnepo372x5awmxrm1v02g" group-title="TV-PREMIUM",РЕН ТВ HD (+7)
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=REN-TV_7_sd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/634dc907-1125-40f4-8cc3-119d1df725e9/" group-title="TV-PREMIUM",ТНТ HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/odm3kef6di0mpfgq7mmgl/TNT.png?rlkey=rqqfw0z9w79s34w840cmyxcxb" group-title="TV-PREMIUM",ТНТ HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=tnt_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/e99a8424-3030-4e6f-911f-d73657f40584/" group-title="TV-PREMIUM",ТНТ HD (+7)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/odm3kef6di0mpfgq7mmgl/TNT.png?rlkey=rqqfw0z9w79s34w840cmyxcxb" group-title="TV-PREMIUM",ТНТ HD (+7)
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=tnt_hd_7&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9a168165-958c-49ff-8898-fa84e2da5836/" group-title="TV-PREMIUM",ТНТ4 HD
-http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=TNT4&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/51fea04e-8a1e-4272-9f00-8013298a3f30/" group-title="TV-PREMIUM",ТВ-3 HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/i0nudc7yvqjumspn6uspv/TV-3.png?rlkey=ugzx7lw4zfj65x9zispmq3wji" group-title="TV-PREMIUM",ТВ-3 HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=tv3_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/51fea04e-8a1e-4272-9f00-8013298a3f30/" group-title="TV-PREMIUM",ТВ3 HD (+7)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/i0nudc7yvqjumspn6uspv/TV-3.png?rlkey=ugzx7lw4zfj65x9zispmq3wji" group-title="TV-PREMIUM",ТВ3 HD (+7)
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=tv3_hd_7&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/b45652eb-3b95-43a1-a54e-57a7086e12ff/" group-title="TV-PREMIUM",СТС HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=STS_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
@@ -66,24 +73,24 @@ http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=STS_7_sd&token=T2xlZz
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=zvezda_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c7296025-2120-45db-b6c3-0f6aae8e0a88/" group-title="TV-PREMIUM",ЗВЕЗДА HD (+7)
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=Zvezda_7_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9568d5e0-58fe-43b6-afad-cfcc51d308f7/" group-title="TV-PREMIUM",ТВ ЦЕНТР - Москва HD
-http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=TV_Center_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/b84af9ed-b2d0-4d08-a3bb-70cae6f886f7/" group-title="TV-PREMIUM",Домашний HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=domashny&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/24fb95af-a7d0-487f-b318-244fb7a614fb/" group-title="TV-PREMIUM",ПЯТНИЦА! HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=Friday_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/24fb95af-a7d0-487f-b318-244fb7a614fb/" group-title="TV-PREMIUM",ПЯТНИЦА! HD (+7)
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=Friday_7_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/db3457d7-61d1-426e-a2c1-7cc1bd5b2a3a/" group-title="TV-PREMIUM",Ю HD
+http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=U&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/f47ee39c-74fc-4923-9275-45f3712e89c5/" group-title="TV-PREMIUM",Суббота! HD
+http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Super&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/275c3513-c6dd-42c2-bdd8-97b27aa5ecdb/" group-title="TV-PREMIUM",Пятый канал HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=5_kanal&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/59112e87-68ba-4f71-9172-110791d5dc02/" group-title="TV-PREMIUM",Пятый канал HD (+7)
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=5_kanal_7&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/db3457d7-61d1-426e-a2c1-7cc1bd5b2a3a/" group-title="TV-PREMIUM",Ю HD
-http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=U&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
+#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9568d5e0-58fe-43b6-afad-cfcc51d308f7/" group-title="TV-PREMIUM",ТВ ЦЕНТР - Москва HD
+http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=TV_Center_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9448ef3c-4022-4f03-aec7-ff2731e8b31a/" group-title="TV-PREMIUM",Россия К HD
 http://list.onlinetv-sochi.ru:8080/live/view11.php?name_id=rossia_k&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/f47ee39c-74fc-4923-9275-45f3712e89c5/" group-title="TV-PREMIUM",Суббота! HD
-http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Super&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/9b5b9f2e-9e52-4e33-a02b-7d8bb5a3a970/" group-title="TV-PREMIUM",Лавстори HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Lovestory&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/12b0fc30-080d-4899-9200-305332f312f4/" group-title="TV-PREMIUM",Лапки Live HD
@@ -308,8 +315,6 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Classic_Music_HD&token
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Bridge_rock_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/abebbdea-bb5c-4fda-bcad-a8b7bdf97ed7/" group-title="TV-PREMIUM",DetectiveJam
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=DetectiveJam&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/81035e7e-4836-4ac5-84e2-358c25d86297/" group-title="TV-PREMIUM",KIONХИТ
-http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=KIONHIT&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/99575589-b25f-4b89-9c4d-8aec90e22163/" group-title="TV-PREMIUM",КИНЕКО
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Kineko_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/c1bc7033-c58e-476e-9274-03424c8896b4/" group-title="TV-PREMIUM",САПФИР
@@ -448,12 +453,6 @@ http://185.221.213.254/live/itvonline.tv4444.php?id=viasat-explore&token=T2xlZzI
 http://185.221.213.254/live/itvonline.tv4444.php?id=viasat-history&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/viasat-nature.png",Viasat Nature
 http://185.221.213.254/live/itvonline.tv4444.php?id=viasat-nature&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/national-geographic.png",National Geographic
-http://185.221.213.254/live/itvonline.tv4444.php?id=national-geographic&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/discovery-channel.png",Discovery Channel
-http://185.221.213.254/live/itvonline.tv4444.php?id=discovery-channel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/id-investigation-discovery.png",ID: Investigation Discovery
-http://185.221.213.254/live/itvonline.tv4444.php?id=id-investigation-discovery&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/nauka.png",Наука
 http://185.221.213.254/live/itvonline.tv4444.php?id=nauka&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/animal-planet.png",Animal Planet
@@ -462,8 +461,6 @@ http://185.221.213.254/live/itvonline.tv4444.php?id=animal-planet&token=T2xlZzIx
 http://185.221.213.254/live/itvonline.tv4444.php?id=history&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/history2.png",History2
 http://185.221.213.254/live/itvonline.tv4444.php?id=history2&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/nat-geo-wild.png",Nat Geo Wild
-http://185.221.213.254/live/itvonline.tv4444.php?id=nat-geo-wild&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/travel-channel.png",Travel Channel
 http://185.221.213.254/live/itvonline.tv4444.php?id=travel-channel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/cineman.png",CineMan

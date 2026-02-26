@@ -24,7 +24,7 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Sovetskay_kinoclassica
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=kinozal_23_sd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9yilimvxvcje2i0qxqljo/dom_kino_2026.png?rlkey=2xon8hto1psilpzrcc2y0tk75" group-title="TV-PREMIUM",Дом Кино HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=D_Kino&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tizeli2v8ifjdzjgt8qew/.png?rlkey=2a3k1b4nhplao3dbi87klb6bc" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dq14y21j82mggwprl9wzm/Mosfilm_2026.jpg?rlkey=vcx4ybtadcfferrtrdff1y5b1" group-title="TV-PREMIUM",Мосфильм. Золотая коллекция HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Mosfilm_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0wnf2wpz5t5oqwinv8lyv/Home_premium.png?rlkey=3fkxc4ovv4hwrpdurytxo1rlz" group-title="TV-PREMIUM",Дом Кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=HD_Dom_Kino_premium&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8

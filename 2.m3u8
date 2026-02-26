@@ -15,7 +15,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/a8yidtl809iv1rrq4k73y/HD-rex.png?rlkey=l2dykqbtx55xva5tw05wiy3co" group-title="TV-PREMIUM",Russian Extreme HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/puna3ke19iqa5rn66b6em/RU-EXTREM_2026.jpg?rlkey=twv1u6avz4uvwab3xjlzm6dk0" group-title="TV-PREMIUM",Russian Extreme HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=HD_Russkiy_Extreme&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/35c6869b-d2d1-48ea-8a52-277e28f4f903/" group-title="TV-PREMIUM",Советская киноклассика HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Sovetskay_kinoclassica_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ/.index.m3u8

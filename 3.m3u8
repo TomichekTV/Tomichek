@@ -3532,9 +3532,6 @@ http://185.117.152.190:8090/stream/Captain.Hook.The.Cursed.Tides.1080p.WEB-DL.mk
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bhgrnjr3ox89qky12a0kp/808214256818654.jpg?rlkey=9xw0dw666qqyz00g65eld2a5g",Последний викинг 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Last.Viking.2025.1080p.WEB-DL.H264.mkv?link=702f3748ce926908e7e9681237345c1a289fca43&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/7/5/8384577/240527506252.jpg",Охотник и охотница 2025-FHD (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Ohotnik.i.ohotnitsa.2025.AMZN.WEB-DL.1080p.ELEKTRI4KA.mkv?link=f910c87537c2a26d8470e17498f066a092b949fd&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/7/7/8382779/504615901861.jpg",Бессмертный: Кровавая дорога домой 2025-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/SISU.2.2025.720p.iT.WEB-DLRip.x264_il68k.mkv?link=72343478347a98f92dd327b278f26cd778228ecd&index=1&play
@@ -95429,6 +95426,9 @@ https://cdn4531.entouaedon.com/stream2/cdn-400/14abbb5af5bf6753f9ccb7e806288f1c/
 #EXTINF:0 tvg-logo="https://img.movielab.guru/340-500/Images/Main/Poster/1045882/1f5144099d00f58303cbcef2f7b284a2/1657899662.jpg",Джеремая Терминатор ЛеРой 2018-FHD
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://cdn4531.entouaedon.com/stream2/cdn-400/14abbb5af5bf6753f9ccb7e806288f1c/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2llMKt2TUV1MNdVV41kerNTTUlEMPR1Yw0kaKlWWq1UNO1WV51kMVNjTqFUP:1801234000:69.088.211.777:822388cbb3f45f13b96b31764c4488f89b16a184da774e44c90209a1244715bf:ru/720/index.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/4h2zeevxfpb2lornprfxo/8082142568186717.jpg?rlkey=lsyrsj18symgdj20fyeppeuoz",Горничная 2026-FHD 18+ [HDR10, Dolby Vision, 10-bit] (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The%20Housemaid%202025.UHDBDRip.1080p.HEVC.HDR10.DV.7.6.10bit.DUB.mikos.mkv?link=2c38eb52aa4af650281623dc5b518e571b09772b&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/8/9/8379982/628590344146.jpg",Кутюр 2026 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Couture.2025.D.TELECINE.1O8Op.mkv?link=97f829d9b3a439134c7cb2712440849c77babb47&index=1&play

@@ -82,7 +82,15 @@ http://185.117.152.190:8090/stream/Imperfect.Women.S01E01.WEB-DL.1080p.LE-Produc
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Imperfect.Women.S01E02.WEB-DL.1080p.LE-Production.mkv?link=a99562ad8604cf904a544b64c4012a6d8fcbae6d&index=2&play
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/9/1/4194/630311272765.jpg",Сезон 1 - 1 серия - На льду 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Na.Ljdu.S01E01.AVC.mkv?link=d3916f91bf69974b9aa925b4a634d56b06f0c0a1&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/9/1/4194/630311272765.jpg",Сезон 1 - 2 серия - На льду 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Na.Ljdu.S01E02.AVC.mkv?link=d3916f91bf69974b9aa925b4a634d56b06f0c0a1&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/9/1/4194/630311272765.jpg",Сезон 1 - 3 серия - На льду 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Na.Ljdu.S01E03.AVC.mkv?link=d3916f91bf69974b9aa925b4a634d56b06f0c0a1&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/740380501808.jpg",Сезон 1 - 1 серия - Гуляй, Шальная! 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Gulyay.Shalnaya.S01E01.AVC.mkv?link=aaf82fea2df67531720ed41aef06e9eb29eb7f31&index=1&play
@@ -128,10 +136,10 @@ http://185.117.152.190:8090/stream/The.Madison.S01E03.1080p.WEB.h264-Morgann23.m
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bfomsewvrfipagizn6mfj/808214256853432502.jpg?rlkey=sjqao2dhh2ej66prsafwtueok",Сезон 1 - 4 серия - Река Мадисон 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Madison.S01E04.1080p.WEB.h264-Morgann23.mkv?link=bfba49a37cd76fc00ec5afea38ecc885a112191d&index=4&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bfomsewvrfipagizn6mfj/808214256853432502.jpg?rlkey=sjqao2dhh2ej66prsafwtueok",Сезон 1 - 4 серия - Река Мадисон 2026-FHD 18+ (средний битрейт)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bfomsewvrfipagizn6mfj/808214256853432502.jpg?rlkey=sjqao2dhh2ej66prsafwtueok",Сезон 1 - 5 серия - Река Мадисон 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Madison.S01E05.1080p.WEB.h264-Morgann23.mkv?link=bfba49a37cd76fc00ec5afea38ecc885a112191d&index=5&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bfomsewvrfipagizn6mfj/808214256853432502.jpg?rlkey=sjqao2dhh2ej66prsafwtueok",Сезон 1 - 4 серия - Река Мадисон 2026-FHD 18+ (средний битрейт) (финальная)
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bfomsewvrfipagizn6mfj/808214256853432502.jpg?rlkey=sjqao2dhh2ej66prsafwtueok",Сезон 1 - 6 серия - Река Мадисон 2026-FHD 18+ (средний битрейт) (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Madison.S01E06.1080p.WEB.h264-Morgann23.mkv?link=bfba49a37cd76fc00ec5afea38ecc885a112191d&index=6&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/fceo9d2j2m6smrl3uhw38/808214256853432436.jpg?rlkey=zilsrmr9cbs7s48mzi6gzcxz7",Сезон 1 - 1 серия - Красота 2026-FHD 18+ (средний битрейт)
@@ -167,12 +175,6 @@ http://185.117.152.190:8090/stream/The.Beauty.S01E10.WEB-DLRip.x264.seleZen.mkv?
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/fceo9d2j2m6smrl3uhw38/808214256853432436.jpg?rlkey=zilsrmr9cbs7s48mzi6gzcxz7",Сезон 1 - 11 серия - Красота 2026-FHD 18+ (средний битрейт) (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Beauty.S01E11.WEB-DLRip.x264.seleZen.mkv?link=20b2cd24b9d8a6eab55bec0eeb656f0698fc62ac&index=11&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/9/1/4194/630311272765.jpg",Сезон 1 - 1 серия - На льду 2026-FHD 18+ (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Na.Ljdu.S01E01.AVC.mkv?link=6e1c17b55495df570f87480871b3764c9a3deee8&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/9/1/4194/630311272765.jpg",Сезон 1 - 2 серия - На льду 2026-FHD 18+ (средний битрейт)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Na.Ljdu.S01E02.AVC.mkv?link=6e1c17b55495df570f87480871b3764c9a3deee8&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/8/10882/575169495706.jpg",Сезон 1 - 1 серия - Князь Андрей 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Knyaz'.Andrej.S01.E01.2026.WEB-DL.1080p.ExKinoRay.mkv?link=94f2b55197d4de5f0a708766484cd5a597415da2&index=1&play
@@ -215,15 +217,36 @@ https://cdn4509.entouaedon.com/stream2/b-401/73c5ab91e146ee0daab59398b1e59913/MJ
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 6 серия - Мертвая точка 2026-FHD
 #EXTGRP:СЕРИАЛЫ FHD
 https://cdn4509.entouaedon.com/stream2/b-401/73c5ab91e146ee0daab59398b1e59913/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keNVjTtlUMZpmSp5kaBJjWUpEbPRUTyklaRFjWqFUMOp2a10kaOxWWtVVP:1801234000:925.088.211.266:69cd0234801b8d43b81cb3eed3a68beec5c544b4917614f964d62dd5bb7b9018:ru/720/index.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 7 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E07.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=7&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E08.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=8&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E09.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=9&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E10.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=10&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E11.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=11&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E12.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=12&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E13.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=13&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E14.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=14&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E15.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=15&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/7/6/12678/908551885882.jpg",Сезон 1 - 8 серия - Мертвая точка 2026-FHD (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D0%B0%D1%8F.%D1%82%D0%BE%D1%87%D0%BA%D0%B0.S01E16.WEB-DLRip.x264.seleZen.mkv?link=2f97a51b01157742cff552f235a3ca5736e05399&index=16&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/1/4/1411/1d631b6dd3b1fbc4c281cc8299016180.jpg",Тёмные начала 2019-FHD 18+ (1 сезон | средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19DS8Z2fc4bEEzGvzrY6nM8AkwMGxlfnBjYG1qIp5BdaxtCGKscNzbYGZxrrizArZhQndPbGMJ2hUuPQnTa_B5164xzsJ0tXxMcKU31gWNUU7YEjSZWJMK1rHeCuRkvuGygb9K9XHwoZoJTTCkFduiYyMkgv0Ji3aLkKXbh3H-KsyOWih_QvRmGIHO5IcG6wFSDs9bvgFF9zAgJ_qtoo8lW22Dk486bnq_UdqRnjMXUj14joQLFwVL8JpobK26-gAofHMs9Q9M3u0ounieWs8eN0aKOA8gZd4Z6vEBm8EFcPvmkklRqGGmLhlSbX-K3u8GzZQLirXRjqMsEQcR9PaQGjKMCRtP5gJk/64dda1e7135a8/9503d3d9fef2fc18402656c661fb33748cfd88cf0b8c695b273c55dae8ac2cfa/720p/playlist.m3u8

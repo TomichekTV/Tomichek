@@ -13,7 +13,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/e728c437-9444-48e7-885a-ea25529a6b30/" group-title="TV-PREMIUM",Блокбастер HD
+http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Blokbaster_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/af5447d1-b347-4c5b-8693-c2433467a157/" group-title="TV-PREMIUM",KIONХИТ HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=KIONHIT&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/puna3ke19iqa5rn66b6em/RU-EXTREM_2026.jpg?rlkey=twv1u6avz4uvwab3xjlzm6dk0" group-title="TV-PREMIUM",Russian Extreme HD
@@ -118,8 +119,6 @@ http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Arsenal_HD&token=T2xlZ
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Nashe_Muzhskoe_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/4eaf1fee-f921-484c-9b26-110fcfb35faa/" group-title="TV-PREMIUM",Хит HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Hit_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/e728c437-9444-48e7-885a-ea25529a6b30/" group-title="TV-PREMIUM",Блокбастер HD
-http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Blokbaster_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/b7e0b762-dbed-4126-8116-74771eb69353/" group-title="TV-PREMIUM",Камеди HD
 http://list.onlinetv-sochi.ru:8080/live/view1.php?name_id=Kamedi_HD&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/786cbe25-873b-43b0-93ee-a2016a7efbb1/" group-title="TV-PREMIUM",Про Любовь HD

@@ -11,6 +11,9 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl255ntekftakhqxgpaafhn&.mp4
 
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/s96wm9k6epelxgucyfhda/808214256853432526.jpg?rlkey=s5zftzhq6jtwc761a9d66syoz",Пицца Фильм 2026-FHD 18+ (средне-высокий битрейт)
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/Pizza.Movie.2026.1080p.WEB-DL.DDP5.1.H.264.mkv?link=b439f5aba494137ef5a21f506cdfafefe3db00d7&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/h6m875gbl3by13zkioc88/808214256853432523.jpg?rlkey=pe3prczpuyhtbjxpcxwy94gx7",Тайны моей сестры 2026-FHD 18+ (Blu-Ray | средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Taynyi.moey.sestryi.2026.WEB-DL.1080p.ELEKTRI4KA.mkv?link=0f347eefb4e6f52fcb9d06508b0987978e313f82&index=1&play
@@ -71,12 +74,13 @@ http://185.117.152.190:8090/stream/No.Other.Choice.2025.1080p.WEB-DL.DDP5.1.H.26
 
 
 
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/1/3/8382314/843985586313.jpg",Комментируй это 2026-FHD 16+ (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-s_y0p89Vh0DsF1Er5Q284YLSJPWdB5yqYb44AOaJF6zlUvE9o8ivE1rd0uYB5UQkEurufIr6HuDsAiZdb3ARMPEImnp7nwc_9ad1uckxQy2UNupK5Vwqe2o3r739b_ucLEpyZhscW8fFrhBFSwSQaHKpIQQvJfWhcur-WRNq1npnHf5LGxLDnlA3Yugsf4OTKRrI0SAKb_aNbq5F-ytql3OJzUurRbpKB03IldU2OuFCxAND87MIikp2sfpsRu9RLrIU5EeG-zDbQIPxiTIYAFuWeJNPewUAVq7JxrUrKiGNfmxn7NMVqfL163sFVY_rij-LuogFAN3AZEdtImkkyDgjGzsoShqw/64ec95d6d30f0/2481cd2977bb5a9f8582e3cca3353a215e852bdfc0cd6363b7d27716a992807c/720p/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/0/5/8373507/846304944302.jpg",Буратино 2026-FHD 6+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-tR1SIc1ntabWNINYKiOV26fX3ViNA74KhXdpIJOjak_T83z3afaPt_tVak3rB1hM9zcrG7a74n6EcGZlrXBca4imZUBb-Ju-xWjssn2iqhdDWe3X0AI2RFUZACxImBX_YJW4vmdQPIogzligm-YNlvSnntVZ4gTZwDsCu2yS9mm0bwNzUtaZNIkxwT_Qh9GRvwj_8ZjSZNZGMzvuIbCRXZggbs2eTkTA5-KiN8Br5qfdaFt8rXisThAjzVwyAT2D5Z8jSRpnC2AyMpXL510sL4UQEuDu0VKKEx4LVc-OJqCQFx34jin5AoWV46VS8QPsA-ibjhCZn76xoL5N0ItFp8HVjCf_bYls/64ec95d7babf8/f7db05494d2b1f852ebf44e1d3beda3ca1b3fc5459acc95b4f3886c142d44cf9/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/1/3/8382314/843985586313.jpg",Комментируй это 2026-FHD 16+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1-s_y0p89Vh0DsF1Er5Q284YLSJPWdB5yqYb44AOaJF6zlUvE9o8ivE1rd0uYB5UQkEurufIr6HuDsAiZdb3ARMPEImnp7nwc_9ad1uckxQy2UNupK5Vwqe2o3r739b_ucLEpyZhscW8fFrhBFSwSQaHKpIQQvJfWhcur-WRNq1npnHf5LGxLDnlA3Yugsf4OTKRrI0SAKb_aNbq5F-ytql3OJzUurRbpKB03IldU2OuFCxAND87MIikp2sfpsRu9RLrIU5EeG-zDbQIPxiTIYAFuWeJNPewUAVq7JxrUrKiGNfmxn7NMVqfL163sFVY_rij-LuogFAN3AZEdtImkkyDgjGzsoShqw/64ec95d6d30f0/2481cd2977bb5a9f8582e3cca3353a215e852bdfc0cd6363b7d27716a992807c/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/l436evpx5a4deb6o45vfx/808214256853432516.jpg?rlkey=1p8uhyuoss7e6ibqdr6r30ihe",Ноэль 2004-FHD 18+ (Blu-Ray | средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-__sycrsP15wOX-2SIXDbCiEyuKifsjnWJmoNarXFFNQpMJloLCiD035OScar8OvBrgL34-WLSnCpRBKHYqbsED-f7bRdE8HkPLq6m93TtzOINOepOplOI2hJ1aZrkdhImvbLedxO6lRetYjPL5B2i15zLpTqEX3wyc_BPLODROrHVjrRvCSmXy3qRf64-bqYS3M2LrN7GmjkBcqcjty88oe2LtcvvRcj-Db1KgP8qoYdiWtR2kLoqo3DsZN8qouiCiq5BNs_b-J3W9o6gGEXs2rCXynOxjlcm1ZkMO8o0zfI44V2yWFXy1MEVdldUQ0Te-3Xc9l8pKVKRM8cg2u3KeQnMtxZRTaA/64ec95d8e5168/cc9a63214d49f7d84838abe46e7db0716888f76acf96642922b1855c3b168346/720p/playlist.m3u8

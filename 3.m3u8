@@ -12,8 +12,17 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl255ntekftakhqxgpaafhn&.mp4
 
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/s96wm9k6epelxgucyfhda/808214256853432526.jpg?rlkey=s5zftzhq6jtwc761a9d66syoz",Пицца Фильм 2026-FHD 18+ (средне-высокий битрейт)
-#EXTGRP:4K
+#EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Pizza.Movie.2026.1080p.WEB-DL.DDP5.1.H.264.mkv?link=b439f5aba494137ef5a21f506cdfafefe3db00d7&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/2/6/8366621/161609423602.jpg",Каменщик 2023-FHD 18+ (Blu-Ray | средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The.Bricklayer.2023.DUB.BDRip.720p.x264.seleZen.mkv?link=d515faee022fa69b76c408ef4c984e6b9ec25901&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/3/1/8379139/903255938469.jpg",Цинга 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%A6%D0%B8%D0%BD%D0%B3%D0%B0.2025.WEBRip.%5B1080p%5D.NNMClub.mkv?link=b8bf81e3e42726fe92f54f9b4cc4dcfbf48200e2&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/8/8/8377889/413751920288.jpg",Марти Великолепный 2026-FHD 18+ (Blu-Ray | средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Marty.Supreme.2025.720p.iT.WEB-DLRip.x264_New-Team_il68k.mkv?link=a55ce49a8e05a51ff3bed7f4a8ace0889caf6424&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/h6m875gbl3by13zkioc88/808214256853432523.jpg?rlkey=pe3prczpuyhtbjxpcxwy94gx7",Тайны моей сестры 2026-FHD 18+ (Blu-Ray | средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Taynyi.moey.sestryi.2026.WEB-DL.1080p.ELEKTRI4KA.mkv?link=0f347eefb4e6f52fcb9d06508b0987978e313f82&index=1&play

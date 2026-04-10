@@ -25,6 +25,9 @@ http://185.117.152.190:8090/stream/%D0%9A%D0%B0%D0%BB%D0%B5%D0%B2%D0%B0%D0%BB%D0
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/1/1/8377116/206396588367.jpg",Проект Конец света 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Project.Hail.Mary.2026.DUB.WEB-DLRip.x264.seleZen.mkv?link=595b8ab434c8ff66a05649b5a581f3e79b0225da&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/1/1/8377116/206396588367.jpg",Проект Конец света 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Project.Hail.Mary.2026.WEBRip.720p-New-Team.mkv?link=5906a86a6657df890ebe1d117127f57f0d447579&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/2/5/8379523/475618096563.jpg",Кто-то должен умереть 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Kto.to.dolzhen.umeret.2025.WEB-DL.1080p.ExKinoRay.mkv?link=68bbfffc7c13f3ef188737106af385e91a7213c4&index=1&play

@@ -21,6 +21,13 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18vR_Laj9RgfyT8tVTGOr8G3oVef0hkUv
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-84-b_F_4VrlYO-pagm7yXvaHvSy6HeM-5zOVQ3MJ1G-x_Vddbvi8cAWxevQ78HJzaBqw7otKzjbvNbkb6FcEd3xxJybTrOTyrr_WqEhZdV1t90ACdBrk3xlcgCKcjQ4zP9yuK_dEOxnlgY5ph6fJPuxTIT_RTSvngCPgiNXsJyI23Jke-5IRBySLlXG-KslrLEUIYFD1dGmvTTz_OvONclObWn2v7T9D18_Lvkv7xTeg6yE1AElsTclMB9-otSLi1ucHqPoZU0rhEIWskdTso6kg4QPQUlLniaeKuoe1ZsE_MHudKkqkP9hkDdflhLkJf9T7wvEF4tkfePr4Gb5CVWKQZUMAvjRQ/64f4930ab5670/6bfe676ec4b7080ae73aeaaa079e647068b0a737e3d80d13d50399af32841b50/720p/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/7/3/8368370/158369821773995777.jpg",Последствия 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Outcome.2026.x264.WEB-DLRip-New-Team.mkv?link=46b843e269471a51a5ca1d623c90e608fd8541c0&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/7/3/8368370/158369821773995777.jpg",Последствия 2026-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Outcome.2026.1080p.ATVP.WEB-DL-New-Team.mkv?link=b8a518998bdb3bea2666b9b4ad00f98d7a9b3eea&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/8/9/8380980/102632098991.jpg",Я иду искать 2 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%AF.%D0%B8%D0%B4%D1%83.%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D1%8C.2.2026.WEBRip.%5B720p%5D.NNMClub.mkv?link=3545e930609c45d6c5946f7bcbb1f0862c19ae17&index=1&play

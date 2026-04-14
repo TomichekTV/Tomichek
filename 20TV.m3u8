@@ -13,10 +13,10 @@ https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/suqdjh2891aykarwx9mdr/1HD.png?rlkey=6elb5awcptba5e6ajmzzu9eao" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Первый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+https://s14131.cdn.ngenix.net/hls/CH_R03_1TV_KAM/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/rmi83n77s3dudb6m04bld/Ru-1.png?rlkey=2pzjqobfyal4wst8elalrhs52" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+https://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_RUS8_OTT/variant.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/m5mxkctfud86qbvltnp43/ru-24.png?rlkey=xu3c4honwbxe8mro87d2tirpb" group-title="ТЕЛЕКАНАЛЫ HD-FHD" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия-24
 #EXTGRP:ТЕЛЕКАНАЛЫ HD-FHD
 #EXTVLCOPT:http-user-agent=WINK/1.46.2 (AndroidTV/9) HlsWinkPlayer

@@ -14,6 +14,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый канал (+7)
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWJpW0p29gVwUEqqnuiCcUs-CbthoHquhCu6Ghy4vH2Cw&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый FHD
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVnHJ2apK_51Hb1qRJwkxujteHRPUwI-btzV4Xon8fhDA&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/e728c437-9444-48e7-885a-ea25529a6b30/" group-title="TV-PREMIUM",Блокбастер HD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18A0kfKxLJvZHq5c3YnNbduN5Femzu0mEqpzck4ZJX3o2SsSTgmOxXgVvXXlcakjEBzimF-Tnlv0beFB4jbqXSpXaiR1Bm6PdRpCZawg-stWKjp9cAD5DYJNmOJ0roP_Yx6qT9r6rQkoGvcjTsISCYmvN7-mucAC1tEWvMZfTMHooPlGp5r3j87e-V35GhI3jjd5laOUCuE-VXpATiZ8Z0cQ9gX0TR53a2MQchIuknbzvPHDbeUUdueUHCOTVtJA8I9fx_5ytZmb3LyzRFoBrxxxO9wJ6WMR_8QgVOYWLZKWtfQaqa_C7HaI_iCeophu5Zhy3k_ljjE5iE8GM8ed43vajyBDXxImJM0z_K9yXGtLvrH4U0Saf6a/65049f367ae88/5e31230a599555a47b829e199718137559ce30007a041fef77bf69f7d368df5c/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/af5447d1-b347-4c5b-8693-c2433467a157/" group-title="TV-PREMIUM",KIONХИТ HD

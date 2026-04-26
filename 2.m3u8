@@ -15,7 +15,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый FHD
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVnHJ2apK_51Hb1qRJwkxujteHRPUwI-btzV4Xon8fhDA&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/gj8wvs6lzrxqbogaw6r49/AmediaHBO.jpg?rlkey=0ro5jdf9cp375yxz89iecmmj1" group-title="TV-PREMIUM",Amedia Premium HD
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Мульт HD
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUqONNGmWDdMqi3uJsJoTud7SgAunpPxUrUM9C48sUVWw&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/h3yadtk8lkjoveqhgb9ft/media_prem.png?rlkey=zrmcy4r03t859wqgc7x67sbqu" group-title="TV-PREMIUM",Amedia Premium FHD
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXW6PZsEz6WBp9O4ayMeLQIw8Z4NvM0lgO211HKwAjVU1w&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9yilimvxvcje2i0qxqljo/dom_kino_2026.png?rlkey=2xon8hto1psilpzrcc2y0tk75" group-title="TV-PREMIUM",Дом Кино HD
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVO7d6QWTMUUol-lV25Oxx3-MApfG55eLuwcgb3lnECzQ&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
@@ -750,8 +752,7 @@ http://185.221.213.254/live/itvonline.tv3333.php?id=kbc-legendarnoe&token=T2xlZz
 
 
 
-#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Мульт HD
-http://185.221.213.254/live/movix_tv.php?id=МУЛЬТ_HD&token=MjIyMjoyMjIyMjI=%3D|User-Agent=1&|User-Agent=1/.index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/whv20o8k1lwk9km2mn9uk/TOMNetFLX.png?rlkey=9yjiirf15oqr05f33wlz5edkc" group-title="TV-PREMIUM",MARVEL HD
 http://185.221.213.254/live/itvonline.tv3333.php?id=cineman-marvel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/e0se9pmng2x9m2d/Radio_Record_HD.png" group-title="TV-PREMIUM",Radio Record (Music)

@@ -17,6 +17,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVnHJ2apK_51Hb1qRJwkxujteHRPUwI-btzV4Xon8fhDA&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN4rZYOLbBln3EQNrP.png" group-title="TV-PREMIUM",Мульт HD
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUqONNGmWDdMqi3uJsJoTud7SgAunpPxUrUM9C48sUVWw&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/hfhwb666q172rtjszwur7/ru-tv_2.jpg?rlkey=u7x21x1hi084uw75kt4vf63a8" group-title="TV-PREMIUM",RU.TV HD
+http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXUlNm1z7Pm9HLs4Z-F5Dxr0ItkylvIj4cmRgxmPiRVCZw&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/h3yadtk8lkjoveqhgb9ft/media_prem.png?rlkey=zrmcy4r03t859wqgc7x67sbqu" group-title="TV-PREMIUM",Amedia Premium FHD
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXW6PZsEz6WBp9O4ayMeLQIw8Z4NvM0lgO211HKwAjVU1w&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/9yilimvxvcje2i0qxqljo/dom_kino_2026.png?rlkey=2xon8hto1psilpzrcc2y0tk75" group-title="TV-PREMIUM",Дом Кино HD
@@ -759,5 +761,5 @@ http://185.221.213.254/live/itvonline.tv3333.php?id=cineman-marvel&token=T2xlZzI
 https://hls-01-radiorecord.hostingradio.ru/record/96/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.smotreshka.tv:80/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL21pcmhkLnBuZw==" group-title="TV-PREMIUM",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/hfhwb666q172rtjszwur7/ru-tv_2.jpg?rlkey=u7x21x1hi084uw75kt4vf63a8" group-title="TV-PREMIUM",RU.TV HD (тех.работы)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/hfhwb666q172rtjszwur7/ru-tv_2.jpg?rlkey=u7x21x1hi084uw75kt4vf63a8" group-title="TV-PREMIUM",RU (тех.работы)
 https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=1TV_hd.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiJ0bXBfYzQ5Yjk0N2JhZTA5MTEyZDc4ZTE4M2U2YTM4NjUxNjgiLCJleHAiOjE3NTk0NTU5MDcsImh3aWQiOiI5MzBkMWI5YWNkMWJjN2UzYTI2N2QyYjkzYjI1NTVlMjdjNWYzMGE3YzI1NTc3NWVjZTUxNGI0ZDNhMzAzNjk3IiwibGFzdF9yZXFfZGF0ZSI6MTc1ODg1MTEwNywic2Vzc2lvbl9pZCI6ImFjZTQyZGRmNDNmYzRmZWJiM2MxOWE3ODljNzUxYjIyIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.cA2qPAisFww--fz9JaIT4GmS4Gn1XoMXS0C2NyZazqI&amp;index=1&amp;play/plst.m3u8

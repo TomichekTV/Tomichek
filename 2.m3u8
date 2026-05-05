@@ -4,6 +4,10 @@
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/wfimsgzxwlgkr34qyqzwh/feedback_2026-5.png?rlkey=sx28smmcb72sc4wkgno0b4pcu" group-title="TV-PREMIUM",НАПИСАТЬ РАЗРАБОТЧИКУ В  MAX!
 https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl255ntekftakhqxgpaafhn&.mp4
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/a3c73bpb89gdypt4j9sgf/net_geo_wild.jpg?rlkey=gejibve3x7cny24ew0ijm6z71",Nat Geo Wild HD
+
+#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/ayj2w482fegboifz2v4r8/Discover_2026.jpg?rlkey=ibh17wljnixowr32j4rxyjm76",Discovery Channel HD
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
@@ -27,10 +31,10 @@ http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXVa_FsrITtVBGDJxur2gCxHiW2qWjj-Xo3Uljknx2Zhew&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="TV-PREMIUM",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0wnf2wpz5t5oqwinv8lyv/Home_premium.png?rlkey=3fkxc4ovv4hwrpdurytxo1rlz" group-title="TV-PREMIUM",Дом Кино Премиум HD
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/af5447d1-b347-4c5b-8693-c2433467a157/" group-title="TV-PREMIUM",KIONХИТ HD
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWVi5eoJ1KLp43TaDaM5v_9uJ5pLfZCmCDBfUE5WL2RmA&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0wnf2wpz5t5oqwinv8lyv/Home_premium.png?rlkey=3fkxc4ovv4hwrpdurytxo1rlz" group-title="TV-PREMIUM",Дом Кино Премиум HD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_T7cRBsAfrbDTkGUq53i2G9tiG9gBQ9eUyYXAy4CbMriivtkjhUmVJ3VqH3gY-ldnXGgsUaVX5WEtpbpFmRq1I7BKtlCjQUcNNRIht4DWsUmRqYoyr1Hyb_I-8jyjkWWjYEW0AprzB0fN80G24175CacbFYBfgNlNidrrQ5ZHrNbTXwAk5kILyEc3plokZG7TRhcLBBT3x9cAQpew31lYJGHvbtPMpHjkTBVC8gyA-Lu6VYlKoDoSq9yu0qCby6NALKhBmlWSFTfFte1rkNNh43JtMPTqjCebNdk3uGmRBrTSStjohUeOjHqhSALXuEthKEhyyRj6RQmaEUg9Si21Im4qXuBvEwze-Kxk-DOAG5zoEOV_59_MO/6511a416105c8/3f24485e86a89f1aca8b8224002ce34eea817c7d5f7ea67027efc77064fd7feb/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/e728c437-9444-48e7-885a-ea25529a6b30/" group-title="TV-PREMIUM",Блокбастер HD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_T7cRBsAfrbDTkGUq53i2G9tiG9gBQ9eUyYXAy4CbMriivtkjhUmVJ3VqH3gY-ldnXGgsUaVX5WEtpbpFmRq1I7BKtlCjQUcNNRIht4DWsUmRqYoyr1Hyb_I-8jyjkWWjYEW0AprzB0fN80G24175CacbFYBfgNlNidrrQ5ZHrNbTXwAk5kILyEc3plokZG7TRhcLBBT3x9cAQpew31lYJGHvbtPMpHjkTBVC8gyA-Lu6VYlKoDoSq9yu0qCby6NALKhBmlWSFTfFte1rkNNh43JtMPTqjCebNdk3uGmRBrTSStjohUeOjHqhSALXuEthKEhyyRj6RQmaEUg9Si21Im4qXuBvEwze-Kxk-DOAG5zoEOV_59_MO/6511a416105c8/3f24485e86a89f1aca8b8224002ce34eea817c7d5f7ea67027efc77064fd7feb/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/puna3ke19iqa5rn66b6em/RU-EXTREM_2026.jpg?rlkey=twv1u6avz4uvwab3xjlzm6dk0" group-title="TV-PREMIUM",Russian Extreme HD
@@ -47,10 +51,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_T7cRBsAfrbDTkGUq53i2G9tiG9gBQ9e
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_T7cRBsAfrbDTkGUq53i2G9tiG9gBQ9eUyYXAy4CbMriivtkjhUmVJ3VqH3gY-ldnXGgsUaVX5WEtpbpFmRq1I7BKtlCjQUcNNRIht4DWsUmRqYoyr1Hyb_I-8jyjkWWjYEW0AprzB0fN80G24175CacbFYBfgNlNidrrQ5ZHrNbTXwAk5kILyEc3plokZG7TRhcLBBT3x9cAQpew31lYJGHvbtPMpHjkTBVC8gyA-Lu6VYlKoDoSq9yu0qCby6NALKhBmlWSFTfFte1rkNNh43JtMPTqjCebNdk3uGmRBrTSStjohUeOjHqhSALXuEthKEhyyRj6RQmaEUg9Si21Im4qXuBvEwze-Kxk-DOAG5zoEOV_59_MO/6511a416105c8/3f24485e86a89f1aca8b8224002ce34eea817c7d5f7ea67027efc77064fd7feb/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/72f7684b-c698-44cd-a7b3-3d14915a8270/" group-title="TV-PREMIUM",Любимое HD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_T7cRBsAfrbDTkGUq53i2G9tiG9gBQ9eUyYXAy4CbMriivtkjhUmVJ3VqH3gY-ldnXGgsUaVX5WEtpbpFmRq1I7BKtlCjQUcNNRIht4DWsUmRqYoyr1Hyb_I-8jyjkWWjYEW0AprzB0fN80G24175CacbFYBfgNlNidrrQ5ZHrNbTXwAk5kILyEc3plokZG7TRhcLBBT3x9cAQpew31lYJGHvbtPMpHjkTBVC8gyA-Lu6VYlKoDoSq9yu0qCby6NALKhBmlWSFTfFte1rkNNh43JtMPTqjCebNdk3uGmRBrTSStjohUeOjHqhSALXuEthKEhyyRj6RQmaEUg9Si21Im4qXuBvEwze-Kxk-DOAG5zoEOV_59_MO/6511a416105c8/3f24485e86a89f1aca8b8224002ce34eea817c7d5f7ea67027efc77064fd7feb/720p/playlist.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/a3c73bpb89gdypt4j9sgf/net_geo_wild.jpg?rlkey=gejibve3x7cny24ew0ijm6z71",Nat Geo Wild HD
-http://185.221.213.254/live/itvonline.tv4444.php?id=nat-geo-wild&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/ayj2w482fegboifz2v4r8/Discover_2026.jpg?rlkey=ibh17wljnixowr32j4rxyjm76",Discovery Channel HD
-http://185.221.213.254/live/itvonline.tv4444.php?id=discovery-channel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/321809oce3arusnhwoxpu/ID_interesting_2026.jpg?rlkey=r1vh8hk5ikvh0479jfiphyiik",ID: Investigation Discovery HD
 http://185.221.213.254/live/itvonline.tv4444.php?id=id-investigation-discovery&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/46576758-c8f7-45a8-b18e-f60f7f8f49fd/" group-title="TV-PREMIUM",НТВ HD

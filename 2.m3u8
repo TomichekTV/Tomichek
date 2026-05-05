@@ -8,9 +8,13 @@ https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl
 
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/ayj2w482fegboifz2v4r8/Discover_2026.jpg?rlkey=ibh17wljnixowr32j4rxyjm76",Discovery Channel HD
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
+http://levshanov.tlkf.ru/live/view11.php?name_id=1TV_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD
+http://levshanov.tlkf.ru/live/view11.php?name_id=Rossia_1_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="TV-PREMIUM",Известия HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="TV-PREMIUM",Известия FHD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/h3yadtk8lkjoveqhgb9ft/media_prem.png?rlkey=zrmcy4r03t859wqgc7x67sbqu" group-title="TV-PREMIUM",Amedia Premium FHD
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXW6PZsEz6WBp9O4ayMeLQIw8Z4NvM0lgO211HKwAjVU1w&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
@@ -53,10 +57,9 @@ http://185.221.213.254/live/itvonline.tv4444.php?id=national-geographic&token=T2
 http://185.221.213.254/live/itvonline.tv4444.php?id=discovery-channel&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/321809oce3arusnhwoxpu/ID_interesting_2026.jpg?rlkey=r1vh8hk5ikvh0479jfiphyiik",ID: Investigation Discovery HD
 http://185.221.213.254/live/itvonline.tv4444.php?id=id-investigation-discovery&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
-http://levshanov.tlkf.ru/live/view11.php?name_id=1TV_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD
-http://levshanov.tlkf.ru/live/view11.php?name_id=Rossia_1_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/46576758-c8f7-45a8-b18e-f60f7f8f49fd/" group-title="TV-PREMIUM",НТВ HD
 http://levshanov.tlkf.ru/live/view11.php?name_id=NTV_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/3bqp1rgccyyu8g83170m6/ren-tv.png?rlkey=qfzrjnepo372x5awmxrm1v02g" group-title="TV-PREMIUM",РЕН ТВ HD (+7)

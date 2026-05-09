@@ -18,7 +18,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18nRVQFUG5E77IdT1ycrUGXipfXCoVyLZ
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18EHnHTUo11tDg8-lNDYEsKXjsUY0RAARKJuLowiht_TXme7R84tXTg8ECds59fjQSnsRDK1vwe9gi4bsU5ljugEJ-QhQrfJbZSxjEANxocbkkvBp69GyxHGfLMqOaB7cG5edixeQ0lgm-4Ai-2mkFTenA5UN0i0G1xhXi3fLQsaYRf2gzZoF3lgsGwHlOC7tivgvWGdD1gjkDKXBRNapfTlTBJ2mIpYR4Cpt4YsFINZiy0FnrmozA-yysJcb2NcdhzNZDuITtHiDdJ54HP6X-gTaXHVLs7eoTIpEl50qd8O6qeUrKqiw9kvdqW0GxOAJQvpO_XxqIzwTxkLDwsm48VFm39nPL-JSs/651658f0b8ac8/30f27b2d4c7748bb5cf6f5bf039adb1bf9b6f77f063a7aafe99efbe06ffc170e/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/lc9mytuydr7s4wh2dp23k/808214256853432556.jpg?rlkey=jytcyge6tflwtkfwuk0b1j7xf",Затаившийся 2023-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Hidden.WEB-DL.1080p.mkv?link=f003d9c29b6a3614229dd9ed9c7f8d539c97afd8&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/6i3g3bvwq9xhgvev92k0j/808214256853432555.jpg?rlkey=dhzubs3l4poodnnk9e34rj2pl",Квантовое превосходство 2026-FHD 16+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Kvantovoe.prevoshodstvo.2025.WEB-DL.1080p.ELEKTRI4KA.mkv?link=5c00b9e33ef7838a8f96922474d58d2e195b4666&index=1&play

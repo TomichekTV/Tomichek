@@ -32,7 +32,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-rf-S_B6IpTEyKbCiJ8QCq9X71LCjXhU
 https://streaming.disk.yandex.net/hls/U2FsdGVkX197usvvoYHkOlzB4UYu3jojNWnxwmmxTBA1woIWyy_rceTsFy3j6yrIzj54vPq2O6D46bOEoIYGbs_K0IX0CZiOdX5UOUso9StDH-TYQjgJNNab3QTJFBd2ercD_G8iQHuqF0XogLYO5W4Hmd9nqXygUeAZJkX2fQrwpUKD4NwS1PEfYm0oivaTeZEt01UXk3pktI6lFgMTXV6GwLHbRvPd5vKKS-chgTej1at8C1Z0Q4zqbBCk4i5vQ1qY0C7z33fK4uxQ5X2ws1cMTPvf8XotFUq8sPbeCn_OMVRZuladKriZaTvt9m40yex7e736bjUXa0--pJjsTsvShk_l5VO4A2tuzfPJttI/651e25d0fef00/dc211dca016921dd02e5fa2e7ad069da5d95122fe64c067960766ca36ac8c2b0/720p/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/7/8/8384871/759406579846.jpg",Хищник. Спуск в преисподнюю 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Hischnik.Spusk.v.preispodnyuyu.2025.WEB-DL.1080p.ELEKTRI4KA.mkv?link=53eab27c57bf64391b97028cce4edd62702e752d&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/0/2/8384208/884149954813.jpg",Мумия. Возрождение зла 2025-FHD 18+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Morrigan.1080p.mkv?link=8a5848085dc1d72f2ee3f08cccdf9560c338947d&index=1&play

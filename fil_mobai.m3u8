@@ -14,10 +14,15 @@ https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_jmTFa1fsdieJd4LYfq76uaCp3dzzfmg_7obYvmc9LnSyoUDuWEtaHemyfYHLxIO4jONplcEHReiUsFJK8SeZM3S_RPtsToumYF9uM7EB_-g8lp-_Uys4UULY9BB0wI7O0u2Y7sB47EFCXvfBASzPiTZujqn9mJ60PKqW8S2wW33-0AYGLaauMtbWgDtx9QO_KCulHGs-qkrA8_Yctdgr1vENvp5KXJJPCXTA6opdU2Agc4v3PHE9Crxl-kygrmjeY3fvnxbWhSYPHntkiZLfQ1_twUz8CGkg_DLzgPdq3wowXLp9begBD06wNbKosIygMsR3mNEVF4EnyvrSEQTuI3j_uX2L2k_MiM3cGv56vd7wIUacZzqZf/6522c7df327b0/64d2163a18848854ab58c8e04c148a3563e5d329cf52403d8ae50544a769cbbb/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/9/8381987/746212727119.jpg",На посошок 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Le.citta.di.pianura.2025.x264.BDRip-New-Team.mkv?link=be4b69530b03ac0b86e76e0155a366bd86a57c21&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/3/2/8382230/637252830546.jpg",Дьявол носит Prada 2 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Devil.Wears.Prada.2.2026.x264.WEBRip-New-Team.mkv?link=39455808ef2df7680df06a5e2e35edad5a732efa&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/3/2/8382230/637252830546.jpg",Дьявол носит Prada 2 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The%20Devil%20Wears%20Prada%202%20(2026)%20HD.mkv?link=c132ec5787c59e5e959624a6db73d360355a7e10&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nopn3k0d21bvie2op36f0/808214256853432562.jpg?rlkey=z80czxjx016t195nztaqlpwl6",Мортал Комбат 2 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Mortal.Kombat.II.2026.x264.WEBRip-New-Team.mkv?link=eb0be3e7246a2e6f4e021d3cb6d6907e998ffbc8&index=1&play

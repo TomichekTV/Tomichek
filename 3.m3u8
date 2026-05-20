@@ -17,6 +17,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19p00KN61OJZ7Ri4qZ44LjRcB1dR0KvY6
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nopn3k0d21bvie2op36f0/808214256853432562.jpg?rlkey=z80czxjx016t195nztaqlpwl6",Мортал Комбат 2 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Mortal.Kombat.II.2026.x264.WEBRip-New-Team.mkv?link=eb0be3e7246a2e6f4e021d3cb6d6907e998ffbc8&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/6/1/8381160/450506343843.jpg",Мумия 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Mumiya.2026.AMZN.WEB-DLRip.AVC.mkv?link=d2caa25dabeefc9380d2481f91b2e3599673fbed&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/9/8381987/746212727119.jpg",На посошок 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Le.citta.di.pianura.2025.x264.BDRip-New-Team.mkv?link=be4b69530b03ac0b86e76e0155a366bd86a57c21&index=1&play

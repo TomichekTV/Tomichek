@@ -8,7 +8,7 @@ https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl
 
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://dl.dropbox.com/scl/fi/ayj2w482fegboifz2v4r8/Discover_2026.jpg?rlkey=ibh17wljnixowr32j4rxyjm76",Discovery Channel HD
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/b1hwyfmmb7zyakig64w8o/1HD.png?rlkey=o9enw936a3hnwavygco3tkqoc" group-title="TV-PREMIUM",Первый FHD (+7)
 http://levshanov.tlkf.ru/live/view11.php?name_id=1TV_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -673,8 +673,6 @@ http://185.221.213.254/live/itvonline.tv3333.php?id=mm-pogruzhenie&token=T2xlZzI
 http://185.221.213.254/live/itvonline.tv3333.php?id=mm-priklyucheniya&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/mm-skorost.png",MM Скорость
 http://185.221.213.254/live/itvonline.tv3333.php?id=mm-skorost&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/mm-sport.png",MM Спорт
-http://185.221.213.254/live/itvonline.tv3333.php?id=mm-sport&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/mm-supergeroi.png",MM Супергерои
 http://185.221.213.254/live/itvonline.tv3333.php?id=mm-supergeroi&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/mm-translation.png",MM Translation
@@ -881,8 +879,6 @@ http://185.221.213.254/live/itvonline.tv3333.php?id=kbc-history&token=T2xlZzIxNT
 http://185.221.213.254/live/itvonline.tv3333.php?id=kbc-koshmarnoe&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/kbc-newfilm.png",KBC-Newfilm
 http://185.221.213.254/live/itvonline.tv3333.php?id=kbc-newfilm&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/kbc-sportmiks.png",KBC-СпортМикс
-http://185.221.213.254/live/itvonline.tv3333.php?id=kbc-sportmiks&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/kbc-shpionskoe.png",KBC-Шпионское
 http://185.221.213.254/live/itvonline.tv3333.php?id=kbc-shpionskoe&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 group-title="TV-PREMIUM" tvg-logo="https://smotret-online.tv/images/kinozals/kbc-strana-sssr.png",KBC-Страна СССР

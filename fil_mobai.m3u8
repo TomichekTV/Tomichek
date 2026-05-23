@@ -21,6 +21,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19nlttf3CKfJboZ_Ne2Oa6_23EBY7Ks--
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-EiS4HfkEnNZgyHVLgY_SJoCOrDBloX7vGSwhn2DFBrAVcFlReDF8C78V3NCdugEONLUArax9R3-Q6yvMx1xCzi7FKotHLBfMDiiQ_qNFrtzp-vO2gLYknGARptljiNAdyVnRdHL-GPqjFC3mhAuhMJKJQC4BOzsf04rhUGdgTtBQIctqZuJJUugMPqLdlVaYoWR2ko0sB1PtO7YEDLFB0b1_ozqjf9j9L8RJgWERcbW2z97MV_Qs6IczswTbxmhJcBz5gZ2t1Tq2VUC649m13fHXp2x2pgwCgmpTO88FVkFdRw-1ahXrRbN7pq_iTD_y9uyuyI-n4DOltXYbhR9hAEw3cbDEajn3V2AoP_X9nQxe1Cl0-rW0Y/652920a5f0858/4af70de36a64a98cadf37001c1595c67f1159ff68039aa91e37f7f0da61889ea/720p/playlist.m3u8
 
 
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/3/3/8378331/937200172840.jpg",Вот это драма! 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The%20Drama%20(2026)%20AVC.mkv?link=9d72ece5c81222df04cf3e95d31900701bf4e654&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/9/5/8379592/283012358735.jpg",Частная жизнь 2025-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/A.Private.Life.2025.DUB.BDRip.720p.x264.seleZen.mkv?link=331a8d4d44aef4ff1d6ca2479685ffd800e4fd9f&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/uw86n6oqpjjparzzeh7y7/808214256853432574.jpg?rlkey=oovxke2utln8uwpkfk6mzb18e",Битва бессмертных 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Immortal.Combat.WEB-DL.1080p.mkv?link=56fcea811acbb63823b58dd5fa074fe2944fa7bb&index=1&play
@@ -141,9 +147,6 @@ http://185.117.152.190:8090/stream/The.Wizard.of.the.Kremlin.2026.VOSTFR.1080p.W
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/2/9/8382929/396065344097.jpg",Афера по-русски 2025-FHD 16+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%90%D1%84%D0%B5%D1%80%D0%B0.%D0%BF%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8.2026.WEB-DLRip.x264.seleZen.mkv?link=00451a50f2c4c4d8fffdc95c12c69e8840c27743&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/3/3/8378331/937200172840.jpg",Вот это драма! 2026-FHD 18+
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/The.Drama.2026.WEB-DLRip.x264.seleZen.mkv?link=7e552967deb1573d8f84525de43fc26f01faabf4&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/4/2/8383241/507093129005.jpg",Вальс со смертью 2025-FHD 16+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Vals.so.smertyu.2025.WEB-DL.1080p.ExKinoRay.mkv?link=3fdac95c98d4bdb3a63e660be50df09c37c35193&index=1&play

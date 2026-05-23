@@ -16,7 +16,15 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18N6XPXPO2NyRxGdUWVp0IRkk8w1GSmeJ
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5qgw9mpdmpm9y9a0tewlt/808214256853432571.jpg?rlkey=skcmww4t2cn09o73etewilc6s",Пандора: Огонь и лед 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Pandora.Fire.and.Ice.WEB-DL.1080p.mkv?link=dec5d764bbaaf0e26dcc6400185d540cff7f707a&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/mvqcq0rif4edfhrs37ttw/808214256853432570.jpg?rlkey=ia8glrfv5199rzhdgsqu40ld3",1159 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/1159.2026.WEB-DLRip.x264.seleZen.mkv?link=5e47156b7ee9cc6da753b314f08dd40de5362be7&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/mvqcq0rif4edfhrs37ttw/808214256853432570.jpg?rlkey=ia8glrfv5199rzhdgsqu40ld3",1159 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/1159.2026.WEB-DL.1080p.ELEKTRI4KA.mkv?link=91d9fd9b5dd53a8330412a920d0b5fceec1b465f&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/7/6/8383673/211999519952.jpg",Оно. Первое пришествие 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Diabolic.2025.DUB.BDRip.720p.x264.seleZen.mkv?link=f07b8fe1077ad9b00d416f3bbfb6931ee47f0b87&index=1&play

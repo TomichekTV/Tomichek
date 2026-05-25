@@ -26,7 +26,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19i_EL1DDwcf9WGkypbSF_IIeIkMA7NGb
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-GA4aKrSfl0faPrlbZRMAd56Nydkzu6j-KWd3kvA49sEEBCtiuInbQmGMI9nngJeg9CBfaNXySF0dLnUuuFz8tI5_w_HxQLlA-TYq1d2eB9BXNfUZauF-WXKg4YgnjKzOkSRLGWBhqig3SRcQKm1Nup9CAEs88TYCRKy5Spwk1rhipK27hGnI7zNz1wZWUlcuXmTOHyc0vvmCue1RR7xXKBapEHZQfaH0nrd2LSfY6Ku5wpP0JPlEF8VF8wu1lCdwXT6QFzwm2lxaXcKkkbZW589TMkhkuiiNIQHusLQoUM0JD0jimUcfVWi6cWhWW2A3xYCEUcpVtLupKzOVgssS8zlU7I5A4CAw/652a91d08c6a8/c449dfed636db0f92546778eeed3ed0fde5d0a4c1864a81ac1f99ff88dd23641/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/2/0/8385022/351734892945.jpg",Бой со зверем 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Beast.2026.AMZN.x264.WEB-DLRip-New-Team.mkv?link=e215a1fec301016794a7a157d2661c6b3474a7a5&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/2/0/8385022/351734892945.jpg",Бой со зверем 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/BEAST.2026.AMZN.WEB-DL.720p.x264.seleZen.mkv?link=78a729a11d0dbfceccafb04e7e21432fb220fc06&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/3/3/8378331/937200172840.jpg",Вот это драма! 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The%20Drama%20(2026)%20AVC.mkv?link=9d72ece5c81222df04cf3e95d31900701bf4e654&index=1&play
@@ -118,9 +123,6 @@ http://185.117.152.190:8090/stream/Vi.D%C3%B6r.I.Natt.1080p.mkv?link=02b57d2a5f8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/3/2/8385232/971456847870.jpg",Каратель: Последнее убийство 2026-FHD 18+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Punisher.One.Last.Kill.2026.1080p.DSNP-New-Team.mkv?link=22395905c4952e73e168b97e468e0f93291b2b8f&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/2/0/8385022/351734892945.jpg",Бой со зверем 2026-FHD 18+
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Beast%20(2026)%20AVC.mkv?link=067900990c7dd97ac6b081f420732fed8edded90&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/sg7hsi48gm1afjclfhwhr/808214256853432559.jpg?rlkey=zooay9lld4t6bk6smfw6vk3p3",Лики смерти 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Faces%20of%20Death%20(2026).mkv?link=950548d4eda666e7d5b6691581708c3ff8dd55fa&index=1&play

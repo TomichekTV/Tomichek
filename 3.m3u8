@@ -29,6 +29,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19i1z5ufRSJI76pZW07fx9Hvs2fY7UF8K
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18MMFQ_PDPJKFRy9ejQW1Tk1uPzNlqqWXSK_t6zhwIO19nxKVQk-IsSezgXnRF5SBz9pITOuginLjVPHmdr06dmxDDtsXQj3CtPIWc48lAurNaJzeee3uHT2Q3PQj3dH-OH20Ywns-IjbY6vK_Bzupih8vPoX7MLNcq9midI54REMf_hRwlsits6uhPvyqU8j_bowR4vM9XFIvhSgfYPuTZNxPXXkC8yLtMc2Y-uozGkVedHWpTrtNu1Q8bstO-GlV6KgPzfyDd0TMb20-OyuG6aY4YbGG79i9WeTO02S3iQcQLq6M67TQPaxYKFXrXS7GH0NngA1KjZ83utpIszJxcSx1DsSbNV6A/652bc164f8398/155172e40f632ff9ca1943b6e3b6279b007be357256fec6399ecb2b6c7357fe6/720p/playlist.m3u8
 
+
+
+
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/82p4n6fwhlxaqx58a6vgj/808214256853432590.jpg?rlkey=elyf9x5lguuww0mn73vbc2xwe",Таинственный лес. Родовое проклятие 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The.Arborist.1080p.mkv?link=c80c652455006e3031b9ed901134b0a062401539&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/2/0/8385022/351734892945.jpg",Бой со зверем 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Beast.2026.AMZN.x264.WEB-DLRip-New-Team.mkv?link=e215a1fec301016794a7a157d2661c6b3474a7a5&index=1&play

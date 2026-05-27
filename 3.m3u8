@@ -2320,6 +2320,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX195eeeW1YgsxsW7GJSiWc8nvNXMD65gbd
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/s77jnf9yq7owos2ii47ve/808214256855.jpg?rlkey=n2hxyt0hcetybhvhwlrhrwkow",Крик в тишине 2024-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-IweYIW9IOq7avq7YNgeZe9p8Jsex0o39bab1OJ9Rg7U9oxJeFy2CdOMDP7MosakfEzi9T7ng4kjvNCSxBV0h3THFihUxQ_fNiK31hXoipDyRqVoOqWny2KFHs9xgus8wERZsLVN5b0NeJc2U2m4szEitYTSLLrHIujyBnkm0JZ0ln5pxd2yLhaUJ6-anBU2ZRv-F4PAp3bLVUhhTazyjUNUcGEZIm0kWAZhIFWnESIMfbxRhd4glF5s9t33k073YPbLMCE8PeKRLMM5Q8E7eKqBGIhu1TrbX9lcC95vNO04SOa-2xyjF1eWOZtWkMKCAyihfQuazdzFa8zZevouWhQxxMfmuXhlc/652e117843ef0/0150bfd3a4a0c575e35f71a28e374e217461c01d3516cd6c5dfb59720702b4dc/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/1/1/8375114/976005628841.jpg",Потрошитель. Наследие 2024-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19QqIsACCDHTtd_cSQc4U4rjWoITD06dCRfgnpfxZumrh5KIwkEJBGw0z0yToyE2_EGd0tppJLfwSS2rh3kuegD_qdt8gyFGCbF2K47OwDECcZYeBcLAy3MsJ5zgNzDpYKKQCN_6EJ8uv5WnYDOXuT9fkek6qu8W4M2FSwqpHXZNhhojDsNQaVXfb4ak_XxvDUGJmi5zPI41QwtlqTOHDY8BHN8-WSy27eMRolTVrI7oZLyKDSVcXWR-UNdtXH5PpZIdsHfA4oLq42sXzKlEeYtUs-iaWVUNuiEuk7BksLOezvz0vCxWJHJdFlTXnS8DZxPFghvBpx3NksoZ8wa6TRMgndQSRdCbp_gEN_xJ9SUGYnff72JXT77/652e474556ac0/55aa48d567128324ed5ccb69b56b5a8e5cab534860f6df38c870516a4b9e84fc/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/w8ou3gipmt34xe00gd3hj/808214256844.jpg?rlkey=j4jd3t3qrtgnc70bx6s4tc3zm",Еретик 2024-FHD (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-te13mfWRYozO9bCxQmJwrnWIaNfSU-0VrtrpVlIyfCLkm8yFcGGX3r04W-45cThdgVvxNPYIxj-4-LORhSisapet4AxqnaylC7p5ZVcr_yL9r5RjkjB51ZjRx6XiTMM3GJuzNJoFSOC6Irjgq9iU6IYadqqDNz4lBlZOnIHxgmwXzBUHhhqeSlyQNi2ZfAI7zImQTJARrAxIvn48G25WlgkwBPFgQGT7TrY4xGq0cJn7P_wkVmiDi8CXVKU_NsgBssZAVShgaSu9spx9k1xPgUVfglTkiJZOJCGRHq8Yce_baqg8bNGAx4ppic399WtXdx3LRyqNLIN30KdV7FKrdNiinn_-RZnNbB8kgAcNBcZlXjpfWxLsD/652e11795cf08/5e36c7d189f95bb3dd72e9d99c464e8e2e2d424b362db172d4bca4f3c6e2f1ce/720p/playlist.m3u8
@@ -4204,7 +4207,15 @@ http://185.117.152.190:8090/stream/Eden.2024.LeonineFilms.BDRip.720p.mkv?link=2a
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/0/1/8375101/539961081794.jpg",Дыхание шторма 2024-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Last.Breath.2025.720p.AMZN.WEB.DL.H264.mkv?link=3bccc4e2661e64a74417e5f9521629e055994466&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/8/6/8376684/282919831149.jpg",Верни ее из мертвых 2025-FHD (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Bring.Her.Back.2025.BDRip.720p.x264.seleZen.mkv?link=163b754b2a1f7a1f6653f95c172911300c11434b&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/2/3/8378328/237765947263.jpg",Филателия 2025-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Filateliya.WEB-DL.2024.1080p.mkv?link=c3315ea920adebfbcb7a4bffad3ddc2ea66849b6&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/e6lpz2fzk2p972smgzlcw/808214256818580.jpg?rlkey=flusc2eac6pjy547zy061ilk1",Рестарт 2025-FHD (средний битрейт + русские сабы)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Qaitadan.2025.WEB-DL.1080p.mkv?link=0ed08d18c078b4b9e3143f44ad80a177cc40e218&index=1&play

@@ -35,6 +35,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_HWsAvuWYgwrF1Lfeqi64cwov1huKD-D
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/82p4n6fwhlxaqx58a6vgj/808214256853432590.jpg?rlkey=elyf9x5lguuww0mn73vbc2xwe",Таинственный лес. Родовое проклятие 2026-FHD 18+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Arborist.1080p.mkv?link=c80c652455006e3031b9ed901134b0a062401539&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/z4p162gs6rvcnpps1iq5e/808214256853432594.jpg?rlkey=jrdgfoxsmzbt2usd00wvpgrrq",Драйв 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Drivers.Ed.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264.mkv?link=464fb32ddba78c3cea2ea8b8f5d8baa1e30bf96f&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/2/0/8385022/351734892945.jpg",Бой со зверем 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Beast.2026.AMZN.x264.WEB-DLRip-New-Team.mkv?link=e215a1fec301016794a7a157d2661c6b3474a7a5&index=1&play
@@ -83,10 +86,6 @@ http://185.117.152.190:8090/stream/No.One.Will.Know.2025.GER.DUB.BDRip.720p.x264
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nopn3k0d21bvie2op36f0/808214256853432562.jpg?rlkey=z80czxjx016t195nztaqlpwl6",Мортал Комбат 2 2026-FHD 18+ в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Mortal%20Kombat%20II.mkv?link=bf56bf550e8887ece6393806643657a7f237125a&index=1&play
-
-
-
-
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nopn3k0d21bvie2op36f0/808214256853432562.jpg?rlkey=z80czxjx016t195nztaqlpwl6",Мортал Комбат 2 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Mortal%20Kombat%20II%20(2026)%20HD.mkv?link=e4e4c2510afd227898a637020884fef28fa1ea07&index=1&play

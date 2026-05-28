@@ -6,9 +6,9 @@ https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=ser
 #EXTGRP:СЕРИАЛЫ FHD
 https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl255ntekftakhqxgpaafhn&.mp4
 
-
-
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/k6vw63wx6gt93glwi8zc1/808214256853432595.jpg?rlkey=ihyhhx1kg41h22hgk7ikwcfd4",Сезон 3 - 1 серия - Фишер 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Fisher.S03E01.AVC.mkv?link=bd6c41de98b0d3a5b050dc6ac332db1ac7aa575f&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/k1to6ph70aopl4k83yp8w/808214256853432592.jpg?rlkey=ihrqfdwbjls791zkum0hrz9ok",Сезон 1 - 1 серия - Друзья и соседи 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Your.Friends.and.Neighbors.S01E01.720p.ATVP.WEB-DL.H264.mkv?link=854bd1a585374f1c7e8742e26b55ad21676421fe&index=1&play
@@ -1156,6 +1156,9 @@ http://185.117.152.190:8090/stream/Pervaya.raketka.S01.E03.2026.WEB-DL.720p.ExKi
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/856zbhxf48de5rv238uvt/808214256853432545.jpg?rlkey=phskhj3u61aaz31kmo7413gdy",Сезон 1 - 4 серия - Первая ракетка 2026 FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Pervaya.raketka.S01.E04.2026.WEB-DL.720p.ExKinoRay.mkv?link=d1d13c1c066ba9eb9b852b90af302176fe85cf43&index=4&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/856zbhxf48de5rv238uvt/808214256853432545.jpg?rlkey=phskhj3u61aaz31kmo7413gdy",Сезон 1 - 5 серия - Первая ракетка 2026 FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pervaya.raketka.S01E05.AVC.mkv?link=c2669a5337b85d63f6419b181b7b0872baaf1fb9&index=5&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/5/2/14257/724349587452.jpg",Сезон 1 - 1 серия - Псы и волки 2026 FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Psy.i.volki.S01E01.AVC.mkv?link=f8b26ac9e3963b9eb89fd78945ab2b62310b8fb5&index=1&play

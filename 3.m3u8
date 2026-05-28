@@ -32,9 +32,18 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-6P7mtCBs4azq_JzzF0x0kIJsBtI7mP8
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19-nYMNo6FFY-qmjDsmXiJvIN5MHc74Surm8r15B6A6bPgKc_B3NRehBgfHlQfzI8AKDN_2LU8YXXweFWDiB1wmg_1UKUejPOasnYjfs6Yxkiox7TL2af2_4O9uyGmnFO1uDtoa0cDKgcSxUD1MqOl5-xEnM86T48kM9ZRmWBv1IUtmcFysf9RToOA3CF4Xg4U0glyLto4LzDsBn2WtmQDjcvMtra2ZcyAnjQEUzGqbVSOWMIcFIFBBE4ucyH34LI52vX__OC9CGXrFAY4PLtoqxK_dPhhEDPRkkjAzhZc7azQGRcFDacrv_vDOeuiNuxdAg8tfNQ028Oa0iQTMiSb_2lKqVZw0hYo/652f413564a40/6418126937b2026c3a95fd508894149d7162ee69122b7f065bd2d303e59c5853/720p/playlist.m3u8
 
 
+
+
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/4/5/8364548/c3c82d42744d67a2388fad96c39b8534.jpg",Мейер Лански 2021-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Lansky.2021.WEB-DL.1080p.mkv?link=a5e341a7d5cace5fa5f67024a445e21a48f7bfbe&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/82p4n6fwhlxaqx58a6vgj/808214256853432590.jpg?rlkey=elyf9x5lguuww0mn73vbc2xwe",Таинственный лес. Родовое проклятие 2026-FHD 18+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Arborist.1080p.mkv?link=c80c652455006e3031b9ed901134b0a062401539&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/3/0/8384036/928499315393.jpg",Стервятники 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Stervyatniki.2025.WEB-DL.1080p.ELEKTRI4KA.mkv?link=7b15fa076582529a8ae5beefe6fbfd9815ef788e&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/z4p162gs6rvcnpps1iq5e/808214256853432594.jpg?rlkey=jrdgfoxsmzbt2usd00wvpgrrq",Драйв 2026-FHD 18+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Drivers.Ed.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264.mkv?link=464fb32ddba78c3cea2ea8b8f5d8baa1e30bf96f&index=1&play

@@ -856,7 +856,10 @@ http://185.117.152.190:8090/stream/Prisoner.2026.S01E06.1080p.WEBRip.ViruseProje
 
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nygj8hs3foboqzh7ej4zg/808214256853432567.jpg?rlkey=50t19hs2ya8x2adnqvcw83nt6",Сезон 4 - 1 серия - След Чикатило 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Sled.Chekatilo.S04E01.AVC.mkv?link=2f3edb4807e21c3bdd9a49c676a9a4aef9ce183e&index=1&play
+http://185.117.152.190:8090/stream/Sled.Chekatilo.S04E01.AVC.mkv?link=cd71d5cce588b8a515b3380c326539cfa055d643&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/nygj8hs3foboqzh7ej4zg/808214256853432567.jpg?rlkey=50t19hs2ya8x2adnqvcw83nt6",Сезон 4 - 2 серия - След Чикатило 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Sled.Chekatilo.S04E02.AVC.mkv?link=cd71d5cce588b8a515b3380c326539cfa055d643&index=2&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/y8evtr0kgscj94oc4ms00/808214256853432568.jpg?rlkey=e5390i9q5n8au2igdcp67w8ro",Сезон 1 - 1 серия - Бороуз | Городок 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Boroughs.S01E01.NF.DUB.WEB-DLRip.x264.seleZen.mkv?link=db853718437da0b80e3ad038ab71736798b67554&index=1&play

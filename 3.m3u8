@@ -140,8 +140,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_j57GuOqz9GCaAsGsEuf2HGbSQZwbzRZ
 
 
 
-
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/4/9/8382947/773388130112.jpg",Опасные отношения 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Over.Your.Dead.Body.2026.WEB-DLRip-AVC.seleZen.mkv?link=dc73f1000721acf3ccf03d113ad98afd9955014a&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/4/9/8382947/773388130112.jpg",Опасные отношения 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Over.Your.Dead.Body.2026.720p.AMZN.WEB-DLRip.x264_New-Team_il68k.mkv?link=a4061bfd57dd8b3e4b15fa40d27a1bd3ea4a88f8&index=1&play

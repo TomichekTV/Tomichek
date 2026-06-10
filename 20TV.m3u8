@@ -53,7 +53,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/au8vhrlrz8souh9262k0e/CTC.png?rlkey=yvjt2wi6sd8ji6vfex4v4kuni&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",СТС (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/nj7wlf2brwynsusunh5ct/domshny.png?rlkey=sfe3nv8appoi2dtz4i5q31l8a&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Домашний (+7)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/zmbhudi3er0gwbsnr8sqv/Domashn-2.png?rlkey=kkvq40aoz5vpujwkaex1ljwu9&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Домашний (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tv3-ru-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/i0nudc7yvqjumspn6uspv/TV-3.png?rlkey=ugzx7lw4zfj65x9zispmq3wji&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",ТВ 3 (+7)

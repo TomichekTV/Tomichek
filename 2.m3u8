@@ -40,7 +40,7 @@ http://levshanov.tlkf.ru/live/view11.php?name_id=STS_7_sd&token=T2xlZzIxNTI2OldP
 http://levshanov.tlkf.ru/live/view11.php?name_id=zvezda_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2ors3w2vyymcv0z23l03o/zvezda.png?rlkey=oeiunymudf2xpd359fyka1pjl&dl=0" group-title="TV-PREMIUM",ЗВЕЗДА HD (+7)
 http://levshanov.tlkf.ru/live/view11.php?name_id=Zvezda_7_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://cs1.ott.tricolor.tv/media/v2/b84af9ed-b2d0-4d08-a3bb-70cae6f886f7/" group-title="TV-PREMIUM",Домашний HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/zmbhudi3er0gwbsnr8sqv/Domashn-2.png?rlkey=kkvq40aoz5vpujwkaex1ljwu9&dl=0" group-title="TV-PREMIUM",Домашний HD
 http://levshanov.tlkf.ru/live/view11.php?name_id=domashny&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/zpzs45bmox2wftgk8r4m8/patnica.png?rlkey=qpf3s17uziqiqav35yb0uri88&dl=0" group-title="TV-PREMIUM",ПЯТНИЦА! HD
 http://levshanov.tlkf.ru/live/view11.php?name_id=Friday_0_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8

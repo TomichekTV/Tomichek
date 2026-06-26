@@ -10,9 +10,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_A1ZcoxQ-QfXB4Pkx1oKAtGG54BeFBLb
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18n6ByO1J8BQpAGWc0Gl8gfC2V6ZA3Pf53RvisdCaCxe-OybS5OkTS3FZmEykNERBUSxQ62Q-F-I45LJxRcP8bnsCsMNypw1Q4Ly_6dBOtyTqo3Ioux_a3CvQBkuIWilj6zZrrbZ8e_-cUdDxOhnFTotpChcCbWIEgTJH-Ajvk3Jq1ohWvqskz-rMncOmvR-R0bFaToExyJm91iobZp86ACnTTlz7CowRIGThqC6veUre9Q43wxz-3nKYtt6mr69qVwppwjrt31qXTU0xuzsxbyri8oKPDrc7ma6joZemhxbxGWHViGQ_Ci33LqR1ZMXcDOkSLd0x6hfK6OV5d_eKuillkbXkbm-Ic/6553da36d99f8/29303a9e62aafce3bee9d67e5fe9e6386798d1e7cb26686995c3d4c34cda1015/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/3/2/8376239/294396623253.jpg",Очень страшное кино 2026-FHD 18+
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Scary%20Movie.2026.DUB.WEBRip.x264.seleZen.mkv?link=063aea6e8f937174cba532d9484bd0dfa8cc3835&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/3/7/8372734/800461579969.jpg",Кодекс Данте 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/In%20the%20Hand%20of%20Dante.2025.DUB.NF.WEB-DLRip.x264.seleZen.mkv?link=fff0abdf500965bd432bad441eaa8888956becf0&index=1&play
@@ -37,8 +34,22 @@ http://185.117.152.190:8090/stream/The%20Mandalorian%20%26%20Grogu.2026.DUB.WEBR
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/48/e02ed41fb40ad17c7635ed1a457ab848.jpg",Каролина Кэролайн 2026-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт + сабы)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Carolina.Caroline.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264.mkv?link=21e696a8ae9e3adf5c29baafae0736580efd0712&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/3/2/8376239/294396623253.jpg",Очень страшное кино 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Scary%20Movie.2026.DUB.WEBRip.x264.seleZen.mkv?link=063aea6e8f937174cba532d9484bd0dfa8cc3835&index=1&play
 
 
+
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/3/2/8376239/294396623253.jpg",Очень страшное кино 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19R9oSbfdTXhKk45qdF9LWcSBwxORtX89vsIJrfpnCUS7a1-2n31Pi84v94b8AgZ11_nm42psCOS29L3oRTsJF_iInvlxM6jxOKhW-ffub7415xY80M3zgXjqs3Tams7DWzEmeUqBz-hFdgp6CTzmwTn4RW8IeXKNNc_AZSH7k3E84H9uVrvW5DB2oMY0ZJFDaPN-qdZHoAegyxv3O8u4NtaQw3XT1RRiiCQF_Lrmnibv_rLgBUfetdVXq5boFIOrPi0aDypOxHYt0wTCpXhlSnuoBe3mt_ct4KgeKij_8u3nWjd0YiVTRvU_gYXPsUrQfP1PoV_s5iPsvrOSpJWJhBbUvTZ2z3Om4/6553d7485ed20/5693990336447cdecc24d540ced716bee0b4a531c70b21fcb8435d9dfeb86d87/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0626/4d/e1b959885ac3e2ffecf419e19172924d.jpg",Гражданин-мститель 2026-FHD 16+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19lN9hTvL4wI7rhrvAYfrfptr1tc2Mffpx3pIDlaAKjckq8Z8yBRzc4o5sfte7Yy4iZ_2VBpSOODesi_hUeumu3loqEnqCqDozzrrvd1IBkgfszrfoUbHRCGh6xkXElXEb7KbKrsFb-tMygG7RgPpIkfCw2SoCuuXmBzWwI22qdbJ1E6IfYEhVjmoXzXbm07OQBZ2QviokbOiaoWQeeu3Omveg8GMnJHoVdM40Hxh72R849vYmQhNZhORe-fHJqSvfrshkUYaa5jNzMPcyBQtWUE7JVmE86ouULtbty_RfUILGC-_kjv5jPqZVyQ4tGUfDsLor2e9AJxHoP_H7E4AWo34G0NSpOgjLcqA6AQ7sRflQ8DjcZKOGV/6553feda4a960/e15daac9e52efe9cffd484344b6334467cd475029b021dbe7a608eaeba8fc09c/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/8/7/8374788/954945789331.jpg",Грязные деньги 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX189F19jW_LUGXcLGmOsRPT0lyN3NWeBjn7GeXD2i3afNwI1fcvOxt8mFpvDaaGmiv6Vxuvu08afk765GhZqGQT4ypjs_rIS5WjRSRFEVypvBQcJrr54pb3csRro7RCMOZ3b3xDxPaDinVEt4aXwUN9l3adBXxhec3rg1pm1zIT1Tc1ZZ0xZcVksmGggjXcJqy8oTYSJuMP848JVQ5BELgXqAvF2b9XDLljjwXr9XVDIPPbKlPO6Bu9vUbQrm6sg2NF64j7eHmRP_xEvsMLqM8uCdtmaS283VoGX60OnK0LLNXL_N_bZhjqInW2LO4M5dQv-irrV8rQoDhyV0Bqyf2UwVx0P5T7aaETpW-A1-yUY9QiSkATuj2r9/6553fec264e90/c80c3d7390ab696cd021ea68afd7a339d4fea04130cc53abbc11c0e53af87ad2/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0626/2b/f3f099f127bd34cc300c54716a308f2b.jpg",Дом, в котором люди не живут 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18LyHrpcW68ZB98e_i8KLcF40rJwJxARhjo2FjWc1hky7S_WN4mGHJM0cMDnAFBRnVqDjtA2WdYUfjkgibAiPyggKlb_1-grEZ7-Lgiq80DRVtgFZYP7Qa3FQubgGvR2P8Q-oFFOKvwdTCHrgOUmcLg2RqZ9aPOqzWoTGtmzyHjfR2bL5nVldzSP7Bpcv7Zv5M0SoNUdY-XpcDdOIt0Kog0z6_6Gqg-48VxfxaU9uqW3tng4IyX7BdMSmm4y51QMLX75wW8nvSF4YFa-55XHr3oAR3PaSavF-fDBcockX2Cv3dBZkMG9G-1ugEk1byiX63Um0Rtq_3-WcH0rcanrg9-2bnDyUpoldEDWSHG8BFXCUsAbtS-7Qrr/6553ea8534e08/9c3fe55a4435a0a860edcbc09888fffee90b1bf05d89042867191d7da3b321c6/720p/playlist.m3u8
@@ -48,9 +59,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_oExLEhi2EDTd4Gjkq1_ErhVtx4OIO5c
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0626/27/5f24426880eb9d18264ea74689a3d427.jpg",Убийцы по ДНК 2025-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-vxV9qybqFMWc_YQHDXwCjTyMjckvVsiPfFRKCq-aa-kuqM85dcmURs0P9NJxQv8rF0ysxVMrgVliZQ9rL8cQqaW78iPEWYDG5MDORTo-CrEqKfKhXcauqGfcjE-gDTFUJxirHmWgQ1vxQi4YIQraDm0E6eTEBiHPk9DYcMevjuThnX9IHcblPXnuE-93NPEIQF8Kve_VYVpAoXSD26Ru3jX1xJfX606ooNEPQFoF7qroaUo93Dl-Kf0XtBubDRoHgH0I2C7gB_DFr142DSU1AEmqCqOx2UFr79OnU61AcMHpHMIWs3jVCkII-2l-sy6Cz4Gm8kQc1-A9DgwO27dA4NbbPdh-lenHbYhIP586ID4uuJ9QMBUJg/6553e7104e358/30253968714a25a3aa91796d120ca15afd5e3ba2ca11111f96bc0c3fcb27acfb/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/3/2/8376239/294396623253.jpg",Очень страшное кино 2026-FHD 18+ (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX19R9oSbfdTXhKk45qdF9LWcSBwxORtX89vsIJrfpnCUS7a1-2n31Pi84v94b8AgZ11_nm42psCOS29L3oRTsJF_iInvlxM6jxOKhW-ffub7415xY80M3zgXjqs3Tams7DWzEmeUqBz-hFdgp6CTzmwTn4RW8IeXKNNc_AZSH7k3E84H9uVrvW5DB2oMY0ZJFDaPN-qdZHoAegyxv3O8u4NtaQw3XT1RRiiCQF_Lrmnibv_rLgBUfetdVXq5boFIOrPi0aDypOxHYt0wTCpXhlSnuoBe3mt_ct4KgeKij_8u3nWjd0YiVTRvU_gYXPsUrQfP1PoV_s5iPsvrOSpJWJhBbUvTZ2z3Om4/6553d7485ed20/5693990336447cdecc24d540ced716bee0b4a531c70b21fcb8435d9dfeb86d87/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/1/2/8377215/697413393692.jpg",Следствие ведут овечки 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18cxSPgHUdlOqrkovt2qTjDOasQbRcJ0v9USC-wVn4oik1hoeZYgqncP3uBFcmT6fPZCdaPYIDno13M8hu3_OvfEnM-DQJfRIqRsnE4bTD13optPqPoptsHrevPNSCkLPV0hM2uyk2uwU0zzi85lal0edkLk8Tf0kXDUU4BvRkBG9X573uhVSelDkqrJ9v_IMP1XnJCldPuDPfDcMnT2ypJgZYTQPj0Vle4HnEQU_A7KK02c_Qyv60AYOlAUr71n64Tt0iJVyXFCtefccXxjPES-KEbz-k_ZYkz3HCT9lEbxmmaf3QS1HXBo3qeNP2O0Y4ehJzJAly6gEHku2X2NU3GzeOh-aCqllw/6553d74958550/80294cc992f758fcc93610c3486f02b170c4803af7c3e16e152c267f0671da1f/720p/playlist.m3u8

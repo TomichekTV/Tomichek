@@ -19,6 +19,12 @@ http://185.117.152.190:8090/stream/Little.Brother.2026.720p.NF.WEB-DL.H264_New-T
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0628/ab/3cfc89262550dea254d980fc5e41adab.jpg",Модная братва 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/I.Love.Boosters.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=b4d6f980f48c1b24991406da6ae8df798f9bba9f&index=1&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0630/7f/f5395f71f1bb7e2ef72843204794737f.jpg",Обсессия 2026-FHD 18+ (средний битрейт + сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Obsession.2025.x264.WEB-DLRip-New-Team.mkv?link=930b410c1160dcb5899a10c1fd42bbc0894e1f43&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/8/5/8386581/309854679006.jpg",Не с первого взгляда 2026-FHD 16+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Perfectly.Imperfect.1080p.mkv?link=d5e216299bb11fbf3c9261620d790b6dd06c2dfb&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0626/11/4a7a9628104e49a9da9791f74ef7b411.jpg",Настройщик 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Tuner.2025.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=e710e693750d951cb10e75ec0036c2416795150b&index=1&play
@@ -61,9 +67,6 @@ http://185.117.152.190:8090/stream/Pinkerton.1080p.WEB-DL.mkv?link=de8e43e23c499
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0629/9a/481d51d1de112e53e8e190dd985d359a.jpg",Война миров. Последствия 2024-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/War.of.the.Worlds.Extinction.1080p.WEB-DL.mkv?link=c2c26ddf56141259b360bf140849d327d130e248&index=1&play
-#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0630/7f/f5395f71f1bb7e2ef72843204794737f.jpg",Обсессия 2026-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт + сабы)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Obsession.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264.mkv?link=4bc7d6fb996e4ba5cb1c7af10c544f67c89bedac&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/3/2/8376239/294396623253.jpg",Очень страшное кино 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Scary%20Movie.2026.DUB.WEBRip.x264.seleZen.mkv?link=063aea6e8f937174cba532d9484bd0dfa8cc3835&index=1&play

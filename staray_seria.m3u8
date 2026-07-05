@@ -1,6 +1,7 @@
 #EXTM3U
-
-
-#EXTINF:0,Ужасы природы 2026-FHD (средний битрейт)
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0704/c3/6ce4cb2347617d7aecab48584dcf4bc3.jpg",Сезон 1 - 1 серия - Аватар: Легенда об Аанге 2026-FHD 13+
 #EXTGRP:СЕРИАЛЫ FHD
-https://streaming.disk.yandex.net/hls/U2FsdGVkX18l1inJ8G3jfxzngVYJ4A8phN_FohrtNS9KlyR1VFAlRSqPfpmt3t3ANwvnGYsFtXvx88Q2wKBseILwHhuP6AGmQvjTHWcjLsNT2iATcLrVsIAPfd_I4GCwpKVDlsnwG3DL0mSXR4Lva1vlDqrWBOQaak7HHLQILAzhW3wCvgvzsjLtceT6CDEs5B74Py8IJg87trdj86-h2cSmQb3dnrWb9TO1wQdqIeaqtuMcKZie4WZ5ZxheNoICNFj2A9sSVU_gsMI_oBCoP2bLC2Qs3okcacRyeWZrozynCaTkPNLRioyBMl43djHDnPoo018HjHRgXFQ_MfR8NXnwTQ0_TVkajQNnwsfa2ndWaYNRqQIsaQxMjZY-zPot/655f0117ebed8/800f1170c03a51368b2b79672d2dcd5231e8d448efe20147c47b7b403eb43fab/720p/playlist.m3u8
+http://185.117.152.190:8090/stream/Avatar.The.Last.Airbender.S01E01.WEB-DLRip.x264.seleZen.mkv?link=9ab887ac9e33f07fee14bcc8e88e86f3df97de40&index=1&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0704/c3/6ce4cb2347617d7aecab48584dcf4bc3.jpg",Сезон 1 - 2 серия - Аватар: Легенда об Аанге 2026-FHD 13+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Avatar.The.Last.Airbender.S01E02.WEB-DLRip.x264.seleZen.mkv?link=9ab887ac9e33f07fee14bcc8e88e86f3df97de40&index=2&play

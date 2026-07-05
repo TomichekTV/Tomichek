@@ -612,9 +612,6 @@ http://185.117.152.190:8090/stream/Meteor.Day.One.WEB-DL.1080p.mkv?link=24d026ce
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/0/8368078/285077481667329356.jpg",Варвар 2022-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Barbarian.2022.WEB-DL.720p.Voldmair.mp4?link=d905a1ae1f83a0065bf21af031844cc46364c957&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/04mzor9cwt9jwtfgrpiye/808214256853432551.jpg?rlkey=jqzp104mfqnnz9ar1zksffjam",Ограбление в Лос-Анджелесе 2026-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Crime.101.2026.WEBRip.H264.AC3.mkv?link=77f6e4883bdb2b6179e8df18aa18b32234a10c34&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/0kxcxof5ncaqmvtswn6d7/808214256853432550.jpg?rlkey=bx35091016crmzupepxh06cyr",До Луны и обратно 2025-FHD 12+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Do.Luny.i.obratno.2025.WEB-DL.1080p.mkv?link=306269d28be45cf0f4395f3986219e8aa42e7c66&index=1&play
@@ -1103,16 +1100,16 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_gSjTCyrgoM1OsdWQ4PjbowgZZMBoUsS
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/2/9/8367928/917924689975.jpg",Не дыши: Начало 2022-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18u5FAMtrCvRAAvMYjMp-7FZP0kDKVJ1D76elz3htANiecozPk2Pq6PK9Bmz2V9UFwH3HEtRIh-chT6urHHrkx06185Bx6FTBQ8p6W70gsYLczAL0QaQnbvhMGXEret6UhASAy1WoDwdzW7pwOVaMnYzeFmLqXriLwfUd4Z7Oa_lDPwf1SlzFsSeWlaVCFBTpFEpQLR3sv7AvilvU-1-s8_bLgmm9D10wO70Yvvj2Tcr1OuuaBSJ_HxgyQtUKLAhSmw1MzJ9dFASqmHvHOED0Fwa6bjOTFQ2pVBAhpF3YUHkao7-_XGovhpB2FocQK-OrVcqpyrXh92EZQ8_Ge6nJADOl8a63ELaWc/655ee28123ff0/0a0d32fbc51a5c8cfd22cd31dcedffb107268c4269bf0ca4af0cc1684a194fe1/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/0/2/8379203/700514384742.jpg",Хищные земли 2025-FHD 18+ (средний битрейт) - ДУБЛЯЖ
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/0/2/8379203/700514384742.jpg",Хищные земли 2025-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19iXClHNjrJajCXb-ZvrMsYIQAqUKYkDdi7KeTX_I0ecW-3MvDgv2cIIiZYNw1Z68HeqsWZWyZXDHo_4jfnuNktomZ7ojsUICj15y9huITg385dy1LxljctUTxLE9KI-HMFlZmorCjws8T7ut26o34cje-fIY_PP6OTCrDqIR5WyzD28RskKgkdE9QX8EHagN0BMXCaJ7-NPTAkmQxfkknfq8xjHnoV1D2tAehgLookMi5nxWj9B_1-dfzAu8UU8O_mkZeNRTs_N0OHdl1oYEskwl0cO5Brpd5dG_mDDW4IVNSfg75jVT0RVLtHDO3-rUECX8KIFAegSWZdcX8HKjX6zMIpe4lrvHM/655ee2821bcc8/6be2dd76904e5fc1e9d7268f6b067704a897ab1b1ef142e733fa239403fcad25/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/965p92y3mmfzmm45hq75g/808214256853432481.jpg?rlkey=92vsb85vjrfiso0epfnwy73en",Завещание Анны Ли 2026-FHD 16+ (Blu-Ray | средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19K-u7Y79DzvAL0o82M-GzERxuavkq5Rn2Ia48UmkTDgnKYD33ry6U6FFl6CZI1DAvUj9r7fDF0R_WLymDspvlDfyV0xEAYjagq4wdJR_Ttg4LNqsec5dShYlegcPwrK4pVec7-jcMxUUNjWUYLMrVCSeXNQIGueKxtVqQ6f8t3Ie0Rsfy9v6h9J0FhGkQSv9T33wxIiqk3y0Hpw6xBUFdg3q-F1gldw8_i1cvsrkMs7K7EiijycWrwRjlxYLE_nkojUYhTcFrJkNg_tNBmbTsRpuQTJsTLGa_AZICdHjLKh9D-YddGQlIxpj3FNikMkEbEKwq29NKHEooumAP1iPCZYbEjSmThE9w/655ee282f60f8/d67be37aa86d5ef758dd8c7fc5c4f3368c7ed2a7f54b4e33669cdbf4c4abd210/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/4/6/8383648/843983766743.jpg",Ограбление в Лос-Анджелесе 2026-FHD 18+ (средний битрейт) - ДУБЛЯЖ
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/4/6/8383648/843983766743.jpg",Ограбление в Лос-Анджелесе 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-OEKdIpGEl13kFyfTmaiityHvYb3431ev4PR-wopfnptrwwY9DaANbrF7zxx6Xx6Mxf-0qDprIr-_CCm436p6T9VnW8sCEjpDo2efPJGtnmLZ6mOwlT_MhTwJ9adUit-OBL9l-1xixg_RjN4SFQB1syMyUBd9lNS7FEsyOV1-hYIrgKhdA9LxKNoF4L_s7mAgsJGbYj-4QpS7Nbskxi_C3ehMgIPeeQ5WfKsY5bPrx3IgK4GT9870f-2ozhJQaB9AVvNVwwoajtNyKvPd6FqqLimOikcXgl38nzRIl_tF3NbRfitauuQfyOiU31fwuWtC85-pnd4eNi8q8YoVpcN2A6twkGt8fXmE/655ee2840e558/83a80609b603909f8ac3b0c906b9fbe3833231e60298bfb59bad9f5cb7b98c32/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/6/6/8377669/966241197878.jpg",Особо опасный пассажир 2025-FHD 18+ (средний битрейт) - ДУБЛЯЖ
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/6/6/8377669/966241197878.jpg",Особо опасный пассажир 2025-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-ppWW-xcfCROXMkzEiJv0ICdOuk8sgnxOTCRrxTm0qa8Uj0IFZcWfFnNy-pWUJkh-wazTG4xdnPuCroi04ZNsBq7cUDgrSXbErVmekL1pidwGasdtQ2eCoguLIN-IdPrDlorVLvRj44XYOrRDd0kWTjK7TonY6CglzdbMSrU8nSIiDGU6RWvJISqUiPnwJSxSxc-wifuB48OJ38rAKTGHNNjfmTUElJixDvuxfnG-YltRCnGYpZO2ZpRNxnAinCg5gGy8sSHxxNy7TKr5COGOL_Z6_ZJWdrGPfuavPmdnwuuRxCFnQaYu7LLHnWVOfX3c_nkia3rFsmbT98n4EO00sB-ImNFnW3Vo/655ee284fa2c8/192c21013c08ba0e3407c93301495a91d1144ffc21cb8fc3a7057f1778e9a338/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/8/8/8381883/776245186094.jpg",Рецепт счастья 2025-FHD 18+ (средний битрейт)

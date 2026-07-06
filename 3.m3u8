@@ -13,6 +13,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-r-CMye9l7veib_9BYAiTnRZaPjEdi1f
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/4/8330487/f0dbb1f887f8006d1c0d7350f3e5bada.jpeg",Гемини 2018-FHD 18+ в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%93%D0%B5%D0%BC%D0%B8%D0%BD%D0%B8%20(2019)%20(AV1)%20(60%20fps)%20(AI).mkv?link=91e231ad3b0061dd6db6c75e69505a2217fa7ee9&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/4/4/8384445/806105940991.jpg",Ип Ман. Битва кланов 2026-FHD 18+ (средний битрейт + сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Ip.Man.Kung.Fu.Legend.2026.1080p.BluRay.mkv?link=d1ae948cb6b0d63ed97b756e49c29f1dcdafc772&index=1&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/25/dcf3b617614df5e1ec5450d375420625.jpg",Пассажир 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Passenger.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=9977728d5b1654e4a0b40bff5abd8a0f41479ce7&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/1/5/8355519/479be90ed814fa2ea48fd34029ad5e51.jpeg",Паразиты 2019-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Gisaengchung.2019.BDRip.AVC.ExKinoRay.mkv?link=bacb4e541846bc0a6aac6a12ba4567f1c3e7461a&index=1&play

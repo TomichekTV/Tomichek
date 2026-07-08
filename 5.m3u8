@@ -10,10 +10,13 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19_gtrLR1COpcuPtFGjldxlS-9W4vln9F
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19MmbDhSKPVQWETcj85JwNUrben-l_dBiTkMm_9of2SlXUqGMG47fCFMW4ecalWSTe-_X6aNovL0OL0dIlHrtWXkMhP3r6guvug1HMFhwA-oV9Lrnn2Ab1JsYKIu9BIrkaAI28X6SZ3jCCiYBrDYX_NboEuNNeq7x0tPcK2CGX_v5K0hnQIwQ-FXCSRC6D3qViqrY58XRAjzEO19f2nVDVz5OKhPUNHWpNkKtW4YrCR2z5tKlKfMpFsIZNgUPcAX9fQsEMLlA9YY1YyVIw278D347zk1He4IXBLED7RxHamJWO58pQt5_q2y3LvedOEyHWi6Tzg06rJnh6O0cJy2JgWLJi754wzRnM/6561da981b028/cd166ddf09e34fbe4d8ddbc47d482e1284b982318d455cc1ff72d587d4d9dea1/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/0/1/9104/429693439927.jpg",Сезон 1 - 1 серия - Суета 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Sueta.S01E01.AVC.mkv?link=1497db346ba72c48d8c8a217772f17143672548d&index=1&play
+http://185.117.152.190:8090/stream/Sueta.S01E01.AVC.mkv?link=296f6ab976073347474942f43333f9ecc6ca3d41&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/0/1/9104/429693439927.jpg",Сезон 1 - 2 серия - Суета 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Sueta.S01E02.AVC.mkv?link=1497db346ba72c48d8c8a217772f17143672548d&index=2&play
+http://185.117.152.190:8090/stream/Sueta.S01E02.AVC.mkv?link=296f6ab976073347474942f43333f9ecc6ca3d41&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/0/1/9104/429693439927.jpg",Сезон 1 - 3 серия - Суета 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Sueta.S01E03.AVC.mkv?link=296f6ab976073347474942f43333f9ecc6ca3d41&index=3&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0704/c3/6ce4cb2347617d7aecab48584dcf4bc3.jpg",Сезон 1 - 1 серия - Аватар: Легенда об Аанге 2026-FHD 13+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Avatar.The.Last.Airbender.S01E01.WEB-DLRip.x264.seleZen.mkv?link=9ab887ac9e33f07fee14bcc8e88e86f3df97de40&index=1&play

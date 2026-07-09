@@ -5,6 +5,26 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-MMREHb6NpMqtF89mXJgEXSF9g9OM51y
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-9yP6u491TUb0ulh37tuoTejH4jGZGV8QO6G0Wiogk4Qtr8p2_L7FGJZNEnNNQ0tuK8BQatq1QNpXySaHjLB9DJtW-njwDzjgSH_jbY_qG68ybEMhSR7YK36QgOAT1ATEUqcUKuAiwCC6lpDlfh8qCxdLuvQjhlnPKiTWeXtZ7anVwPGkz3GsygznYNCTVN7iCEO-bfvt9gzSRIIV7ePkCdgUwkW8u40iE_qfA9Lqr_vipqbXBub_325eqwg-ughhIbvSh8kyBiD-NYmNCf4ufCAtr4-9p6PwFkOli2hBuOPQnwoP2ArJIzq_jcm1qr1Av2i9u1ApRMLz2Az7w1dzXKKXrnIC0_uk/656369bb516d8/1ddada5a8d6e537cb59cc77ced49683f2acb21963f59d92af7c6e2744a97d99a/720p/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0709/45/cbcd2fb0ecb63f6ae6b43155f39c2645.jpg",Сезон 1 - 1 серия - Кабул 2025-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Kabul.S01E01.mkv?link=f93c3de83478955e7a38db483670c971318fcac1&index=1&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0709/45/cbcd2fb0ecb63f6ae6b43155f39c2645.jpg",Сезон 1 - 2 серия - Кабул 2025-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Kabul.S01E02.mkv?link=f93c3de83478955e7a38db483670c971318fcac1&index=2&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0709/45/cbcd2fb0ecb63f6ae6b43155f39c2645.jpg",Сезон 1 - 3 серия - Кабул 2025-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Kabul.S01E03.mkv?link=f93c3de83478955e7a38db483670c971318fcac1&index=3&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0709/45/cbcd2fb0ecb63f6ae6b43155f39c2645.jpg",Сезон 1 - 4 серия - Кабул 2025-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Kabul.S01E04.mkv?link=f93c3de83478955e7a38db483670c971318fcac1&index=4&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0709/45/cbcd2fb0ecb63f6ae6b43155f39c2645.jpg",Сезон 1 - 5 серия - Кабул 2025-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Kabul.S01E05.mkv?link=f93c3de83478955e7a38db483670c971318fcac1&index=5&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0709/45/cbcd2fb0ecb63f6ae6b43155f39c2645.jpg",Сезон 1 - 6 серия - Кабул 2025-FHD 18+ (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Kabul.S01E06.mkv?link=f93c3de83478955e7a38db483670c971318fcac1&index=6&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 1 серия - Дом Дракона 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E01.WEB-DLRip.x264.seleZen.mkv?link=1cc31be97ae44c8233ef7d49b1f08fff54cfe382&index=1&play

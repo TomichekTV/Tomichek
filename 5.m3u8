@@ -6,6 +6,17 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_m41ETOACK33lOLCq2xv7A5KwTPx6YfJ
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19NsMts1xL9NLrM7w-H6RjaxIfL3J7nsKRM1eM99UkHUVIrQrjwTRH_hQVDRguS6hx8dTpaX2PARHE6HCRl9nxtsXXRdrYZH_sPavxQVNNDdvobLAkPVX6aPO03KbpbkYGdxOD3vb1ob7f1py2ZeBAgJFdKHqoHO624lC_2AuXppWkBGVG_PoKnkwRNrYcmrCAElFnt2Aw-hzvwK9BVdDAyy5EIdhrRGK-5III0OfNrLsCzt2UeBrzFqbtOOILcn3Dx1IhPr8j93N4vM9mlCd7G9WSbro7AIIJIzY_7o0aBEZYMCYtXEHQT1Vk_YufJmG-oWk9AtvAdINbUbMdR9xPPZKAhJIBNN_E/656483d4f0da8/a279eb63fb8a21069c0aab1a878702c8257341d84497fd6281142e8dbda3a4a5/720p/playlist.m3u8
 
+
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 1 серия - Паша 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pasha.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=7543a3206a42310219d40d2ca97751b8919be03a&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 2 серия - Паша 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pasha.S01.E02.2025.WEB-DL.720p.ExKinoRay.mkv?link=7543a3206a42310219d40d2ca97751b8919be03a&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 3 серия - Паша 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0710/78/719e63581a7ec4b30fc71a0f66470c78.jpg",Сезон 1 - 1 серия - Маленький домик в прериях 2026-FHD 16+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Little%20House%20on%20the%20Prairie.S01E01.WEB-DLRip.x264.seleZen.mkv?link=f512762976241db8c5bfbf1a6079b0441cf2574b&index=1&play

@@ -20,7 +20,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-e22a8S3prnI29cBvBI0X4yhr1Rr_uPE
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1--KrWCEk4y4lZdvnOf1fIzVVNLeyxia4MHDl3BwG26UM8LqY-MoTxptnmZf62LocJjxUAejrj88w1xClyzISghCXCcoPK0IkTJ8tPGhCgTFCB_rJA7oTCzL8teBGHHPS3QlHskWp_vW7Szfm4tY7EJVTbsy7HWpD2a0r2OiRN7jpzwudttqEvhy9bK46lWD00XiGVRh1rOFC-1QE-x-aHHJJ0ky_HoQKxypABsqEupOQQMSv9rBbLzhf86MQJI--yyeZyZ0dgxIefuRXmwpj_eA1_rPdZHLITqWbmiOe5m2QeUJg6T0jAv0XONPmnQ8STXVdbI5SFam107-rRhZYlVicAO6RuiS8A/656483f9ea2f8/44516997f55961df48dcdb6679044a2cf22733aa77a70d89f4830e5ef7dac98a/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0710/2d/bce322f09a2180610b459cbe270a2b2d.jpg",Живая ярость 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The.Furious.2026.720p.MA.WEB-DLRip.x264_New-Team_il68k.mkv?link=9ea2feac5588d021d4cb2a039cf67ff366267265&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0709/e0/c92fb30717f497b42ab9aac809e10fe0.jpg",Рейс 298 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Black.Box.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=53c42b875f7f3d5da31515f16e909c8134b27cdd&index=1&play

@@ -23,6 +23,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19B5sOXuzK53eBqLFJ7d12x5vHTs_MIfR
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-pTxJL-XIblilcBqUZwmuc86GAunOM9q3ftzQU9vVppKxMmDvNjsW4UQ2TCruJuop4lJ94wIfFdYSSWI8od1d_mLKJm7lv_wBfgSk9ZrnlcRFlZXVyDVsbu5Wwk3O03Fr5PQul00LBeiYqoEWQrIGsluZWGM3gQALAUXnrY3ypA43QPXRaftdIow5Z6NHLrTyVZC4ttP8lhD9vzQkoL135t_JzjIHX90BSaJyGdFk_-CFejVUq7cAKlA5aOghSQbDZYQnJ4hFUVP63-CYtpabfwUzJYFKRi9M0mLxFeFsZ9nMX4OnQQzgsC9n8hZlxYLlK5zP9iD6LC5qdGQfqTy1BCSaJj7pW5lg/6565af530d700/29ae23915662a39a5787ebdaafcfeb91dd361bd3da5a2b89ae751b2a98b17910/720p/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0710/8d/63c6c9ac959510266cb45ecf9d3c4a8d.jpg",Крик: возвращение убийцы 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Black.Spines.2026.AMZN.DUB.WEB-DLRip.x264.seleZen.mkv?link=4396fb05f41274c2185a9e2568773617fe7909bd&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0710/2d/bce322f09a2180610b459cbe270a2b2d.jpg",Живая ярость 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Furious.2026.720p.MA.WEB-DLRip.x264_New-Team_il68k.mkv?link=9ea2feac5588d021d4cb2a039cf67ff366267265&index=1&play

@@ -11,6 +11,13 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18MZKYqqI3uY2Izio_07umiXn_AnHgcyY
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18GMTf_kwYlyMCGTRVjqAe1EGsuq3nkty0oFBV2qSsSsB4SuHl4vi6wMVZv1r71hzyqQYRJa4770BC82HQxJ1crwuWUBw0D6md-A0UpltWeIvmQG5ZInbQCgH_8YUPPXxXn0iuq3rolkfXsWwVXpnEk9aXtJN8xN2eSPgIKWr5f5dZfBbvrGsNUjRmWGG3lRsA20A0znKJ6gAXD-oQgQEqcxNOG3m0Bm2924Lw8IMPEptYRvaaQJZsQeuLpAeCJqysawkvsmYtyeXFpZWaKDZT3Wbz34vEDjltBu7o-0Aplw97IftJr4DOn5hdp_snnrxaddKuHsponKjjeNCiCqm2SUgfjrQEzQaA/6568434656138/1fed419f19126ae8bff4b6938e82fb4b6d242e044e724b70974765c795953094/720p/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0713/f2/2ce385b97c59af84637fbba5ad21b6f2.jpg",До последнего раунда 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Nothing.to.Lose.2026.720p.NF.WEB-DL.H264_New-Team_il68k.mkv?link=e07ef4dbdbef50fedc560a65c58ef76d07be5e14&index=1&play
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0713/c4/1f242891512df800a60afc990bba93c4.jpg",В шаге от боя 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Marave.2026.1080p.WEB-DL.H264.mkv?link=dbd46f00dc0cae770cb0906928f8fde2851ed26f&index=1&play
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0713/30/0d274da529a557007a64db42fcdaff30.jpg",Внешняя угроза 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Outer.Threat.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=32436f9b9d146bef8beecc9868ecf01faead1f62&index=1&play

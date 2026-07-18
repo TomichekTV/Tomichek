@@ -24,6 +24,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-rRI5qx5VxmbAWoLxVg94csQ34eSmkuB
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0716/2b/88aedc71067c42ce5f41d89ca8bbc32b.jpg",Закулисье реальности 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Backrooms.2026.WEB-DLRip.x264.seleZen.mkv?link=48350761986196a0eda6a0a5f41a8009b65e186c&index=1&play
+#EXTINF:0 tvg-logo="https://i126.fastpic.org/big/2026/0108/c2/457013c6ebf98bf395dfc6320c1bc9c2.jpg",Убийца из космоса 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Alien.Assassin.1080p.WEB-DL.mkv?link=7b97dd5b8e555ff655458a7cbc395efe52ba27f7&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/9/1/8379194/737282327950.jpg",Отбросы 2024-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%9E%D1%82%D0%B1%D1%80%D0%BE%D1%81%D1%8B.2024.WEB-DLRip.x264.seleZen.mkv?link=42bd918c14e3fdbecf4ea41cc303ffe904abe1e6&index=1&play

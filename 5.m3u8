@@ -28,8 +28,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19voHQCUf3IJhM6g8nWJPrF_RF9K2r_y-
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19rVOJ4fzP-dmq_DDakwS-GireeGcjgqnYtP7kGL2rqkzbUROgAYyuQgIAfxQCq5xm2U5QxQqrLfihxtJEdu2a4fzuZtjEd1PzpYVDTnp7ieZrkb1OSdQaB0YX66slOOuUexC5K2pIZjEqzUSNnKpqDYMp4nDBORwrlGP2b1QNvFR3ppsT0WG6WhBcaGFVJ9DblAV_a_gZuaqmH8SP4kYwYk-Ml3dQ2jFX93P7QD6Kj9wbmda-ZQY9KQMfgO8um6SBhOBkzvKhvy479ZulG77NWkf8nYWmqH_XN8b41Gfvya57KIwJQAmBD_JBwQh76rSSt9cejxHMxiZGM0tiHCbyCq47jn9Q8fAY/656e8bfb01f80/64b2df2cc6ca38ed637ec5d3bd8381034a8b8fc562bc766377a95e80e1bfc602/720p/playlist.m3u8
 
 
-
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 1 серия - Лаки 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9B%D0%B0%D0%BA%D0%B8%20-%20Lucky%20S01%20E01%20(%D0%91%D0%B5%D0%B7%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D1%85%20%D0%BF%D1%83%D1%82%D0%B5%D0%B9)%20WEB-DL%201080p%20(2026).mkv?link=c1e45a3975712332eee601ce5bf8a49911bbde47&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 2 серия - Лаки 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9B%D0%B0%D0%BA%D0%B8%20-%20Lucky%20S01%20E02%20(%D0%97%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D1%8C%20%D0%B8%D1%85%20%D1%82%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D0%B0%D1%82%D1%8C)%20WEB-DL%201080p%20(2026).mkv?link=c1e45a3975712332eee601ce5bf8a49911bbde47&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/8/8/11887/967562700427.jpg",Сезон 1 - 1 серия - Холод 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Holod.S01E01.AVC.mkv?link=276595a85dc32eaa80a2a33da2785ae6b5c9d9fb&index=1&play

@@ -20,7 +20,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-VvZGIww-gaIPE0at6cyYW7iRGESNVt9
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-rRI5qx5VxmbAWoLxVg94csQ34eSmkuBzEi4y0IKXTSGdhbUhkKnWXnp4sHjmGf64m82kMeUJCuJij_VHd6iSzRZKaFa6YFVY70ENI-4TRRglnLCg9VUueGiU-KmtRRRPbqIkwuXchWCIuLk-w2yO8iQtlyiIzf_8267d1vVoW-Kb4Snd3Xdh9S2Nvaa72E3Crt3M-Z2QPqo6zU2RaDBG5UhPXOQ4zfufGfM9KcIWL7T42R22dNwHyzhDM4muCP5pE9hC_5ZnndgOelN-51Exxt4sxeBFemNhIAGO9WFstN2jKa7175FbFkeLlqxQbLWL5GYVVImQdeKaaZcQobPAm0lQWb5rySno/656e8baed9e00/cd53494660125a958909f9076b54fdd587da171fbc064256fa7647e4571e46f7/720p/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/1/8355187/3dc8c1b1322b0998791dafda1ababd63.jpg",Тихое место 2 2021-FHD 18+ в AV1
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/02%20-%20%D0%A2%D0%B8%D1%85%D0%BE%D0%B5%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%202%20(2021).mkv?link=56b59b1a20886dcdf4098a3069ee84e09cf7fd0a&index=1&play
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0716/2b/88aedc71067c42ce5f41d89ca8bbc32b.jpg",Закулисье реальности 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Backrooms.2026.WEB-DLRip.x264.seleZen.mkv?link=48350761986196a0eda6a0a5f41a8009b65e186c&index=1&play

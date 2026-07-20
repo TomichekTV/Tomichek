@@ -24,6 +24,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19E9BdcJFlrSwMNOXAs2JDfpPu7zXURfP
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/1/8355187/3dc8c1b1322b0998791dafda1ababd63.jpg",Тихое место 2 2021-FHD 18+ в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/02%20-%20%D0%A2%D0%B8%D1%85%D0%BE%D0%B5%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%202%20(2021).mkv?link=56b59b1a20886dcdf4098a3069ee84e09cf7fd0a&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/0/7/8367702/934478246434.jpg",Обещание 2022-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Obeshchaniye.2022.RUS.WEB-DL.1080p.mkv?link=96d9387f2a9c464267c47148712cfef848a7a51b&index=1&play
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0716/2b/88aedc71067c42ce5f41d89ca8bbc32b.jpg",Закулисье реальности 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Backrooms.2026.WEB-DLRip.x264.seleZen.mkv?link=48350761986196a0eda6a0a5f41a8009b65e186c&index=1&play
@@ -39,6 +42,9 @@ http://185.117.152.190:8090/stream/Ghost.Board.2026.1080p.WEBRip.mkv?link=31150f
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0713/f2/2ce385b97c59af84637fbba5ad21b6f2.jpg",До последнего раунда 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Nothing.to.Lose.2026.720p.NF.WEB-DL.H264_New-Team_il68k.mkv?link=e07ef4dbdbef50fedc560a65c58ef76d07be5e14&index=1&play
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0713/c4/1f242891512df800a60afc990bba93c4.jpg",В шаге от боя 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Marave.2026.WEB-DLRip.AVC.TORRNADO.mkv?link=a648e772ce6fa3d14c4eeaa6e4ca2ddf75c40f29&index=1&play
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0713/c4/1f242891512df800a60afc990bba93c4.jpg",В шаге от боя 2026-FHD 18+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Marave.2026.1080p.WEB-DL.H264.mkv?link=dbd46f00dc0cae770cb0906928f8fde2851ed26f&index=1&play

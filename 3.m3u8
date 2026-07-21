@@ -33,6 +33,10 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_23caWTtrrN7en_2OfiYjpIGnSH_Aigz
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-gUryg8JLexo0Wz2vplbrKrnglFv5IhKAvZBEKGmIlOZ7vRaO-AOWWnUMYalFyqjicXi1VjHPjmkUOKDQO7sfbqlIDRWTtl3geX-9qnnQfdCBkDojoPodfBkHObNZzgWwEcU8suPd5-vJqlbdgkuzNNSkstXM9KYSLeWH2nUPgBYpCvAMBlgOwxMl55xQaqLBe8YAfkKcLYVsK-g3YWcNI00UqgUiL8TETziWo7NAfBJgqFzuoz3_FOXp5laIa5yJWdSCwTDG3JMlQ4-TL37tdLwnpCTeqWz84uQ57qzeFUVNLJqyKUD05_in0yxjYYHR2Sd3o5H4C4SXqRqbuEcl7ksYhGllzJio/657245fe8bb98/475b4868e3553debff6f257d4a324271b1df2c334b1d77ffc0d89a713c51e924/720p/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0718/49/5192545ea4a1fae8b1aba7aa8ab0d049.jpg",Бухта 2026-FHD 18+ (средний битрейт + сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The.Bay.2026.720p.WEBRip.mkv?link=78123425d5419207ce80dc67417fd71e648f84d8&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/1/8355187/3dc8c1b1322b0998791dafda1ababd63.jpg",Тихое место 2 2021-FHD 18+ в AV1 = НЕ для старых ТВ!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/02%20-%20%D0%A2%D0%B8%D1%85%D0%BE%D0%B5%20%D0%BC%D0%B5%D1%81%D1%82%D0%BE%202%20(2021).mkv?link=56b59b1a20886dcdf4098a3069ee84e09cf7fd0a&index=1&play

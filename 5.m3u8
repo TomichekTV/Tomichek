@@ -31,6 +31,16 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18pjtFi8LTP7Ydi5nHW9KdskQv3EUtjh7
 
 
 
+
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0722/f1/aa85ecae1baf37ca34329eb15c2e69f1.jpg",Сезон 1 - 1 серия - Вестис 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The%20Westies.S01E01.WEB-DLRip.x264.seleZen.mkv?link=1a4522f97ca6475d5eb3657501930e7927905f80&index=1&play
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0722/f1/aa85ecae1baf37ca34329eb15c2e69f1.jpg",Сезон 1 - 2 серия - Вестис 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The%20Westies.S01E02.WEB-DLRip.x264.seleZen.mkv?link=1a4522f97ca6475d5eb3657501930e7927905f80&index=2&play
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0722/f1/aa85ecae1baf37ca34329eb15c2e69f1.jpg",Сезон 1 - 3 серия - Вестис 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The%20Westies.S01E03.WEB-DLRip.x264.seleZen.mkv?link=1a4522f97ca6475d5eb3657501930e7927905f80&index=3&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 1 - 1 серия - Укрытие | Бункер 2023-2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Silo.S01E01.Freedom.Day.WEB-DLRip.x264.seleZen.mkv?link=d2faabb21d4c7df479069ef1658b036bacf069b8&index=1&play
@@ -108,16 +118,22 @@ http://185.117.152.190:8090/stream/Lucky.S01E01.WEB-DLRip.x264.seleZen.mkv?link=
 http://185.117.152.190:8090/stream/Lucky.S01E02.WEB-DLRip.x264.seleZen.mkv?link=6d88b33e56197ae73c738ef9637f7a7e43ed929b&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/8/8/11887/967562700427.jpg",Сезон 1 - 1 серия - Холод 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Holod.S01E01.AVC.mkv?link=276595a85dc32eaa80a2a33da2785ae6b5c9d9fb&index=1&play
+http://185.117.152.190:8090/stream/Holod.S01E01.AVC.mkv?link=6e5df94b312ee74f21b1aaee9917952cb1ba0545&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/8/8/11887/967562700427.jpg",Сезон 1 - 2 серия - Холод 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Holod.S01E02.AVC.mkv?link=6e5df94b312ee74f21b1aaee9917952cb1ba0545&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/1/5/11511/932169910811.jpg",Сезон 1 - 1 серия - Фейк 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Feyk.S01E01.AVC.mkv?link=bdcd83ad92d063bc2e3922956b8524947b754f5a&index=1&play
+http://185.117.152.190:8090/stream/Feyk.S01E01.AVC.mkv?link=a3566f014774cfaeff4bc190962f4f9dc8ba2722&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/1/5/11511/932169910811.jpg",Сезон 1 - 2 серия - Фейк 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Feyk.S01E02.AVC.mkv?link=bdcd83ad92d063bc2e3922956b8524947b754f5a&index=2&play
+http://185.117.152.190:8090/stream/Feyk.S01E02.AVC.mkv?link=a3566f014774cfaeff4bc190962f4f9dc8ba2722&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/1/5/11511/932169910811.jpg",Сезон 1 - 3 серия - Фейк 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Feyk.S01E03.AVC.mkv?link=bdcd83ad92d063bc2e3922956b8524947b754f5a&index=3&play
+http://185.117.152.190:8090/stream/Feyk.S01E03.AVC.mkv?link=a3566f014774cfaeff4bc190962f4f9dc8ba2722&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/1/5/11511/932169910811.jpg",Сезон 1 - 4 серия - Фейк 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Feyk.S01E04.AVC.mkv?link=a3566f014774cfaeff4bc190962f4f9dc8ba2722&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 1 серия - Паша 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Pasha.S01.E01.2025.WEB-DL.720p.ExKinoRay.mkv?link=c5223b81125047cbd1b53db22d746af04baa4223&index=1&play

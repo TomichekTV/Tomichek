@@ -10,6 +10,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_6rrR5v3DjTFo9wWzrYPK1BtLvbX04DW
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-X0-3lsux8oUpooRzlVNd680a11vUHODnlWquOKizVFgQ4jciFRoCbuN5ZQ3q9HsBU4yhxVaASxiTPTl54uLu0z3GYESd8Gt62-3Dl4IZlFTfUjeDdduJQKGKbhkOYg0jg0pSboT8a2wLx5X6cFW6z8FGz7dQ7k9FLuZLDs-lBqfzzweN94MJk10lfrD63EFsY02so_DXOjDtueObFdTC9ZtwgAhp9neApAkxWY4Tlc7NEhcTaOofIjecLR9T0EN0_rH2MTkcT8X5QINu8_imMrXE00JFUjHPgl83SGeHZaxzVOaMR5HoJw1jyfwcbVjtDUa0PSVF1iv6-ncsRpwXYpie8vwUhPxo/6575b1b9a85c0/17df22287520bb760f99364f789dfabacb79e1dc7f0915afd74c9f65d2058d28/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/1/8378178/948892662865.jpg",День разоблачения 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Disclosure.Day.2026.720p.MA.WEB-DL.H264_New-Team_il68k.mkv?link=2eb35275aaae8218bc690bdbe73ca77dfcf2f648&index=1&play
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0722/37/c723840a3ec734d69bd2acde0025b037.jpg",Хранитель памяти 2026-FHD 18+ (средний битрейт + сабы)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Memory.Keeper.2025.1080p.mkv?link=75dc2e5311c3d209b509b5da54979107e3381428&index=1&play

@@ -13,9 +13,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-rZSihcR8s9xigvFJi_iyMwAk7rZRmr0
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/4/0/3659042/9526c44d4a76373aca5c31f90aae016c.jpeg",Маска 1994-FHD (Remastered | Blu-Ray | средний битрейт + все озвучки)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Mask.1994.Arrow.Remastered.BDRip.720p.mkv?link=2a289495041db9e4b81eb1103a62f2a6dd7004ee&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/4/9/8382940/261729967857.jpg",Пропасть 2026-FHD 16+
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Propast.2026.WEB-DLRip.AVC.ExKinoRay.mkv?link=b952be8dbb533c54c20465dcbe17f69c9ff52d4f&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/1/8378178/948892662865.jpg",День разоблачения 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Disclosure.Day.2026.720p.MA.WEB-DL.H264_New-Team_il68k.mkv?link=2eb35275aaae8218bc690bdbe73ca77dfcf2f648&index=1&play
@@ -27,7 +24,9 @@ http://185.117.152.190:8090/stream/The.Memory.Keeper.2025.1080p.mkv?link=75dc2e5
 http://185.117.152.190:8090/stream/Huldra.Lady.of.the.Forest.1080p.WEB-DL.mkv?link=b5b3d2f373003df4c815d5a85cfe2d9eaed43f89&index=1&play
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/4/9/8382940/261729967857.jpg",Пропасть 2026-FHD 16+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18Y-KRL1bzupCUUDnGsKbZ2N2Oxh172hkd08-FQKWAlx_AyOYm328Bxgy-gv7LM4qifQPgsRFN5o54Frbr0R3aBwVBmmZXD6WvBrJGBfCJkOonX8pFpcJxEiF_TP8DffLlPaSbjEmAo8KpZ7wn2_R59TIi3sxBmQjaI-vsemVAmAxjMgogF7sQ2JrHhcB-7tSOXJcuFncC-tw3iB95QK3v3213M0K1kQfbS1vcOJm2u6rgaoGaXYOEytj8bWt5UIXdIK-wsmYJBlzKPanNes75L2QV0EafRHyj-G5R2pUK_-iy1Ui2tW4oUUq-5boqu_8bki2xeRzKCDRUh-AvK7cgktGxr2_LQ9CJpEIKFFpNXblrIKCRcCkQk/65783206d4420/7b9cdd27b96d2edf9a590c049abe80964dd72af3b990fc910506c3b0175e44f8/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0725/1b/56b77d8cfe45ee3c9542d0d0cc37c41b.jpg",Беги 2025-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18ABuCAIDns3oKBHt8vTclmWBEqtU4LZFUw71zfvz7xX6uZfloXI9PoO67zcOUv5K9XhIqnhaDUOVA2piQcSBKj6mvyGPewL6buUBzFtk3COt7YwMquM_DrqAsEUfwKFUyEpRJvFm6DnQPB1AsSYZ3SFLuOhNeFOw9VCtsDwQM5nW2VTssQkG0I6dZRQzNyzGhtYk6AXYr2lKYdHEF6jmpML9q8ioQaw15AgoW1-gN6Pru3-_x54kmXPV9mBlkcn43i9TTy79ZpGEMuvJUbG6S7auezWXN_Kb-0eCfDze2xyloR08DTK2-g0QsMMryNq6ZLmkCA1WC1aNFHiyj1oX4Yl1FsT2_qnqk/65781ec806c88/48fece72e7bf37cdca3fcf919023cc47bd65ff5cff2886e59b1a7bc34ff2df06/1080p/playlist.m3u8

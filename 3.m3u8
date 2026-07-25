@@ -19,7 +19,9 @@ http://185.117.152.190:8090/stream/Disclosure.Day.2026.720p.MA.WEB-DL.H264_New-T
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0722/37/c723840a3ec734d69bd2acde0025b037.jpg",Хранитель памяти 2026-FHD 18+ (средний битрейт + сабы)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Memory.Keeper.2025.1080p.mkv?link=75dc2e5311c3d209b509b5da54979107e3381428&index=1&play
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/0/7/8/8386870/911276091783676827.jpg",Хульдра: Хозяйка леса 2016-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Huldra.Lady.of.the.Forest.1080p.WEB-DL.mkv?link=b5b3d2f373003df4c815d5a85cfe2d9eaed43f89&index=1&play
 
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0725/1b/56b77d8cfe45ee3c9542d0d0cc37c41b.jpg",Беги 2025-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD

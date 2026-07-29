@@ -13,7 +13,16 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX185jNW4P6NTSytfbahv4WOCD3ETZaXuVM
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/3/8369378/751152635659.jpg",Супергёрл 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Supergirl.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264.mkv?link=c60c36e046679c8ee8d085275746016719871a38&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/3/8369378/751152635659.jpg",Супергёрл 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Supergirl.2026.DUB.WEB-DLRip.x264.seleZen.mkv?link=5203db27e44a6040b5a50713090946a1f55f7872&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/2/1/8385126/459226997674.jpg",Колония 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Colony.2026.WEB-DLRip.AVC.TORRNADO.mkv?link=919fa0abb4806d9f9c047dd954f68287dc48be9d&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/3/4/8385436/337982445263.jpg",Семь снайперов 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Seven%20Snipers.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=63a0daa98f40e88fa1fb8fa5d2b9fe34ceac2e93&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/3/4/8385436/337982445263.jpg",Семь снайперов 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Seven%20Snipers.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=63a0daa98f40e88fa1fb8fa5d2b9fe34ceac2e93&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/4/2/8376241/642654811713346490.jpg",Ужасающие 2023-FHD 18+

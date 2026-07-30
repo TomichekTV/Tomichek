@@ -10,6 +10,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_DwQICS0RHKCzsZ9NJLosv1HLjAbEohC
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19Enp65DHLqDpmjecNOkBPU4csoJyvvknq16O1ZkJgSx97o7ps5NUM23VKUn_bi6-Sl1Ih6fnjSq01TQv_leuVSnqSK4DIUEcnlaK7mhygSNjTY_7MDFhULGwiKQaC3Qi593jJJg82MNQPxainEBaIX6vNOX-v7p4HN_XfjOEQecBAqNVfje0SgvfdCtuzZT5xPKwnhdw58CkTTpJGNxOqUjmBZA67mmZ9kzN-EvvipGuT5mNfWxtiJipU_FU3AAUig828FdqLdMwY2aG7JzyFJZ1lzicAwJ4A42aY1yAtwXW56DaFYhzVBwCg8-VFRwCqM8MIVNLbVlr0-8Ssv98tqwOqtRdMN0So/657dc804aead8/38211650ef6294e9549634a25f75fe418f012ab94dd6df8d322d33840bd84594/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/9/6/8380697/913224682360.jpg",Хокум 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Hokum.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=36866e22c76a038966ffefccb15e4bc2b7f9a862&index=1&play
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0730/d4/1d310be31ef9787ef46dba1e5176b9d4.jpg",Уинтер: Поле битвы 2025-FHD 18+ (средний битрейт + сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Winter.Battleground.2026.1080p.mkv?link=1c9261b3f2c7503f63a60367f66a3ada04d4ef1e&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/1/1/8386114/350265671782892732.jpg",72 часа 2026-FHD 16+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/72.HOURS.2026.720p.NF.WEB-DL.H264_New-Team_il68k.mkv?link=460071119af27d59b4c69eb4601528d1eae0951b&index=1&play
@@ -3855,12 +3861,6 @@ http://185.117.152.190:8090/stream/The.Bunker.2024.DUB.BDRip.720p.x264.seleZen.m
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/8/9/8384989/333536442512.jpg",Холостяк в Италии 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Solo.Mio.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=b4225abd8cd2c2dcc3c1eca80c7877c0cc3ab30a&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/9/6/8380697/913224682360.jpg",Хокум 2026-FHD 18+
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Hokum.2026.WEB-DLRip.x264.seleZen.mkv?link=8ba1acb04312df4d7a6842e4d59533debb975fb3&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/9/6/8380697/913224682360.jpg",Хокум 2026-FHD 18+ (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Hokum.2025.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=1553b619fd9eea7056e8809115024b7520140506&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/9/3/8382393/332399052465.jpg",Приключения желтого чемоданчика 2026-FHD 6+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F.%D0%B6%D0%B5%D0%BB%D1%82%D0%BE%D0%B3%D0%BE.%D1%87%D0%B5%D0%BC%D0%BE%D0%B4%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%B0.2026.WEB-DLRip.x264.seleZen.mkv?link=014c983287499099cbad28d00bb60fdd4c62dce2&index=1&play

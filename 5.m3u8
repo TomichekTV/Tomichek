@@ -8,9 +8,30 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_l-4vN4S2q_tm6WYmfXqWSQguUtzBT3i
 
 
 
-
-
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 1 серия - Нам кранты 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E01.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 2 серия - Нам кранты 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E02.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=2&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 3 серия - Нам кранты 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E03.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=3&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 4 серия - Нам кранты 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E04.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=4&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 5 серия - Нам кранты 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E05.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=5&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 6 серия - Нам кранты 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E06.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=6&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 7 серия - Нам кранты 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E07.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=7&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ccz6yfx1931vjbwlx29as/808214256853432610.jpg?rlkey=rb04tjs39shtotq2htmvai1xq",Сезон 1 - 8 серия - Нам кранты 2026-FHD 18+ (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Nam.Kranty.S01E08.AVC.mkv?link=354c5b5b6edf9549c2606c3e9afc574e9026f3ed&index=8&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/0/6/6607/448254166789.jpg",Сезон 1 - 1 серия - Ира 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/01.%D0%98%D1%80%D0%B0.(2023).WEBRip.(AVC).by.%D0%A1%D0%B5%D1%80%D1%8B%D0%B91779.Files-x.mkv?link=e0ee6e38826683b0f9997a9487e5f443a0e1ee33&index=1&play
@@ -926,6 +947,15 @@ http://185.117.152.190:8090/stream/Pasha.S01.E05.2025.WEB-DL.720p.ExKinoRay.mkv?
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 6 серия - Паша 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Pasha.S01.E06.2025.WEB-DL.720p.ExKinoRay.mkv?link=3cb556b5bd7df97fbbe7eb21b6a4b622b64328aa&index=6&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 7 серия - Паша 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pasha.S01E07.AVC.mkv?link=9ea984b1d57789e5076f9a661f7882fd728a7408&index=7&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 8 серия - Паша 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pasha.S01E08.AVC.mkv?link=9ea984b1d57789e5076f9a661f7882fd728a7408&index=8&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/2/9/14920/340219015181.jpg",Сезон 1 - 9 серия - Паша 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pasha.S01E09.AVC.mkv?link=9ea984b1d57789e5076f9a661f7882fd728a7408&index=9&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0710/78/719e63581a7ec4b30fc71a0f66470c78.jpg",Сезон 1 - 1 серия - Маленький домик в прериях 2026-FHD 16+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Little%20House%20on%20the%20Prairie.S01E01.WEB-DLRip.x264.seleZen.mkv?link=f512762976241db8c5bfbf1a6079b0441cf2574b&index=1&play

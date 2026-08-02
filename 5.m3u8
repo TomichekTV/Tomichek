@@ -10,6 +10,25 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_9zTPzLxkywF3b2fiFglLy6tFLEZkTDY
 
 
 
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/3/4/15438/567833383561.jpg",Сезон 1 - 1 серия - Алиса в Стране Чудес. Безумные приключения 2026-FHD 6+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Alisa.Bezumnye.priklyucheniya.S01E01.AVC.mkv?link=f174c4c0c6df3cd2042c046e643337f1b78d7983&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/3/4/15438/567833383561.jpg",Сезон 1 - 2 серия - Алиса в Стране Чудес. Безумные приключения 2026-FHD 6+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Alisa.Bezumnye.priklyucheniya.S01E02.AVC.mkv?link=f174c4c0c6df3cd2042c046e643337f1b78d7983&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/3/4/15438/567833383561.jpg",Сезон 1 - 3 серия - Алиса в Стране Чудес. Безумные приключения 2026-FHD 6+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Alisa.Bezumnye.priklyucheniya.S01E03.AVC.mkv?link=f174c4c0c6df3cd2042c046e643337f1b78d7983&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/3/4/15438/567833383561.jpg",Сезон 1 - 4 серия - Алиса в Стране Чудес. Безумные приключения 2026-FHD 6+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Alisa.Bezumnye.priklyucheniya.S01E04.AVC.mkv?link=f174c4c0c6df3cd2042c046e643337f1b78d7983&index=4&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/3/4/15438/567833383561.jpg",Сезон 1 - 5 серия - Алиса в Стране Чудес. Безумные приключения 2026-FHD 6+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Alisa.Bezumnye.priklyucheniya.S01E05.AVC.mkv?link=f174c4c0c6df3cd2042c046e643337f1b78d7983&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/3/4/15438/567833383561.jpg",Сезон 1 - 6 серия - Алиса в Стране Чудес. Безумные приключения 2026-FHD 6+ (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Alisa.Bezumnye.priklyucheniya.S01E06.AVC.mkv?link=f174c4c0c6df3cd2042c046e643337f1b78d7983&index=6&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/8/8/11887/967562700427.jpg",Сезон 1 - 1 серия - Холод 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Holod.S01E01.AVC.mkv?link=e39f3a7989ec33e8977b4afeec43de621857f0f9&index=1&play
@@ -933,13 +952,25 @@ http://185.117.152.190:8090/stream/Silo.S02E09.WEBDL.720p.RGzsRutracker.mkv?link
 http://185.117.152.190:8090/stream/Silo.S02E10.WEBDL.720p.RGzsRutracker.mkv?link=3b61b9c89bffa5e31b5a1a04ad73edcd8463b14e&index=10&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 1 серия - Укрытие | Бункер 2023-2026-FHD 18+ (RHS)
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Silo.2026.S03E01.WEB-DL.1080p.RHS.mkv?link=3b4eab71e6edfb1d6c59e274c532b4bd2bcbb49a&index=1&play
+http://185.117.152.190:8090/stream/Silo.S03E01.WEB-DLRip.x264.seleZen.mkv?link=1ca0a7014cd52622729a5992867a2bba988fcbc7&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 2 серия - Укрытие | Бункер 2023-2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Silo.S03E02.WEB-DLRip.x264.seleZen.mkv?link=7517a32edf48270a9b2ac72912fe04c3de00ae5b&index=2&play
-#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 2 серия - Укрытие | Бункер 2023-2026-FHD 18+
+http://185.117.152.190:8090/stream/Silo.S03E02.WEB-DLRip.x264.seleZen.mkv?link=1ca0a7014cd52622729a5992867a2bba988fcbc7&index=2&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 3 серия - Укрытие | Бункер 2023-2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Silo.S03E03.WEB-DLRip.x264.seleZen.mkv?link=7517a32edf48270a9b2ac72912fe04c3de00ae5b&index=3&play
+http://185.117.152.190:8090/stream/Silo.S03E03.WEB-DLRip.x264.seleZen.mkv?link=1ca0a7014cd52622729a5992867a2bba988fcbc7&index=3&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 4 серия - Укрытие | Бункер 2023-2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Silo.S03E04.WEB-DLRip.x264.seleZen.mkv?link=1ca0a7014cd52622729a5992867a2bba988fcbc7&index=4&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 5 серия - Укрытие | Бункер 2023-2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Silo.S03E05.WEB-DLRip.x264.seleZen.mkv?link=1ca0a7014cd52622729a5992867a2bba988fcbc7&index=5&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 6 серия - Укрытие | Бункер 2023-2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0706/7b/313b099f4e912218dc03de8941b60b7b.jpeg",Сезон 3 - 7 серия - Укрытие | Бункер 2023-2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 1 серия - Лаки 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Lucky.S01E01.WEB-DLRip.x264.seleZen.mkv?link=6d88b33e56197ae73c738ef9637f7a7e43ed929b&index=1&play
@@ -1095,34 +1126,34 @@ http://185.117.152.190:8090/stream/Avatar.The.Last.Airbender.S02E06.WEB-DLRip.x2
 http://185.117.152.190:8090/stream/Avatar.The.Last.Airbender.S02E07.WEB-DLRip.x264.seleZen.mkv?link=2d9c7e0ba617f1a571c08bf9765f5d2cf3332d7d&index=7&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 1 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E01.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=1&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E01.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 2 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E02.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=2&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E02.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=2&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 3 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E03.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=3&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E03.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=3&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 4 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/ape.Fear.S01E04.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=4&play
+http://185.117.152.190:8090/stream/ape.Fear.S01E04.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=4&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 5 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E05.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=4&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E05.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=4&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 6 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E06.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=6&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E06.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=6&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 7 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E07.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=7&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E07.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=7&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 8 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E08.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=8&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E08.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=8&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 9 серия - Мыс страха 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Cape.Fear.S01E09.MVO.WEB-DLRip.x264.seleZen.mkv?link=befb6944361f0ba2d6c7af2a167ce85ee96b1fd4&index=9&play
+http://185.117.152.190:8090/stream/Cape.Fear.S01E09.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=9&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0624/51/dc2e9a8540dc45a0f22353e7d3381951.jpg",Сезон 1 - 10 серия - Мыс страха 2026-FHD 18+ (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
-
+http://185.117.152.190:8090/stream/Cape.Fear.S01E10.MVO.WEB-DLRip.x264.seleZen.mkv?link=6da9b0fdc718260a3438068455f575efc9fd5c0a&index=10&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/1/1/15111/956336631780992395.jpg",Сезон 1 - 1 серия - Затмение 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Zatmenie.S01E01.AVC.mkv?link=45bd7fb326642445f61fb85e65c8f424ec455c27&index=1&play

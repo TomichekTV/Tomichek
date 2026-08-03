@@ -13,6 +13,15 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-JLZe_WC6nI4-HeUJYwi6uCNFs0EwhD2
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/5/3/8386358/560359210224.jpg",40 свиданий, 40 ночей 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_l93JPMV8cNqirwvNAmr-e8oj9cy6hNuaHfeOyvAuxVBEV8SD0vDd2jbaijLRJynFlxbFAGoHRLDxJ7H0nhCoQfYtzcE9UIjhFBgvGnZFFeY9RHP7PwCJkNUETRpblc9jJhoOOjvJPM9nklh9Pvp5BCwbnTXp-zMSuMuN0O5zJamFwbGeJdBy_I4FIWZ0h81KxPy34GZg1iHf5_MbcWhIaa_Jr1vFVapFZT5gXVQMbLy2EotTx_F6y-sTVPAb7Ip21BAbHVlFJeVey6xerWhjqg-tRwH6Kc3Utx035KLa-iLeW1rO5qIZdv_7CtPaCpLKGn-ZN72rRmABXYJHj9oqdbP9IMBYeCug/6582a59eea250/a58b977cf674c4686695718d3e6c24f86ee2f337eb9b669f0238c151dc090e74/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/2/5/8377522/826483909282.jpg",СОУЛМ8ЙТ 2026-FHD 18+ (средний битрейт + сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Soulm8te.2026.1080p.AMZN.WEB-DL.DDP5.1.H.264.mkv?link=9164013fcbfefbde87d87a6654686f2ca7c18ad2&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/5/9/8385953/739069821429.png",Дени и Мэни в кино! 2026-FHD 6+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%94%D0%B5%D0%BD%D0%B8%20%D0%B8%20%D0%9C%D1%8D%D0%BD%D0%B8%20%D0%B2%20%D0%BA%D0%B8%D0%BD%D0%BE.2026.WEB-DLRip.x264.seleZen.mkv?link=da2d0d7e85276bb02eac95382fc8cb3e8d3dc02b&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/5/9/8385953/739069821429.png",Дени и Мэни в кино! 2026-FHD 6+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Deni.i.Meni.v.kino.2026.WEB-DL.1080p.ELEKTRI4KA.mkv?link=d975104a1e835652179c3308013b428c72b952ba&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/5/0/8387057/629373791784796304.jpg",Пасть дьявола 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The%20Devil's%20Mouth.2026.WEB-DLRip.x264.seleZen.mkv?link=c2030f54cba6bd6f1f4b4f90626abb1145c76de6&index=1&play

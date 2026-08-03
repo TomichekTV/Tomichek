@@ -8,9 +8,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-JLZe_WC6nI4-HeUJYwi6uCNFs0EwhD2
 
 
 
-
-
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 1 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E01.WEB-DLRip.x264.seleZen.mkv?link=db870482d5c0508b3322db0594cdfe9fc814d3d9&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 2 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E02.WEB-DLRip.x264.seleZen.mkv?link=db870482d5c0508b3322db0594cdfe9fc814d3d9&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/3/4/15438/567833383561.jpg",Сезон 1 - 1 серия - Алиса в Стране Чудес. Безумные приключения 2026-FHD 6+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Alisa.Bezumnye.priklyucheniya.S01E01.AVC.mkv?link=f174c4c0c6df3cd2042c046e643337f1b78d7983&index=1&play
@@ -1053,22 +1056,25 @@ http://185.117.152.190:8090/stream/Kabul.S01E05.mkv?link=f93c3de83478955e7a38db4
 http://185.117.152.190:8090/stream/Kabul.S01E06.mkv?link=f93c3de83478955e7a38db483670c971318fcac1&index=6&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 1 серия - Дом Дракона 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E01.WEB-DLRip.x264.seleZen.mkv?link=9adf53d150a3144c53c3cc34e1af2c126d6b900a&index=1&play
+http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E01.WEB-DLRip.x264.seleZen.mkv?link=0670dfeb96b11ebb93e7fda162338063c87dab77&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 2 серия - Дом Дракона 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E02.WEB-DLRip.x264.seleZen.mkv?link=9adf53d150a3144c53c3cc34e1af2c126d6b900a&index=2&play
+http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E02.WEB-DLRip.x264.seleZen.mkv?link=0670dfeb96b11ebb93e7fda162338063c87dab77&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 3 серия - Дом Дракона 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E03.WEB-DLRip.x264.seleZen.mkv?link=9adf53d150a3144c53c3cc34e1af2c126d6b900a&index=3&play
+http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E03.WEB-DLRip.x264.seleZen.mkv?link=0670dfeb96b11ebb93e7fda162338063c87dab77&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 4 серия - Дом Дракона 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E04.WEB-DLRip.x264.seleZen.mkv?link=9adf53d150a3144c53c3cc34e1af2c126d6b900a&index=4&play
+http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E04.WEB-DLRip.x264.seleZen.mkv?link=0670dfeb96b11ebb93e7fda162338063c87dab77&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 5 серия - Дом Дракона 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E05.WEB-DLRip.x264.seleZen.mkv?link=9adf53d150a3144c53c3cc34e1af2c126d6b900a&index=5&play
+http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E05.WEB-DLRip.x264.seleZen.mkv?link=0670dfeb96b11ebb93e7fda162338063c87dab77&index=5&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 6 серия - Дом Дракона 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E06.WEB-DLRip.x264.seleZen.mkv?link=9adf53d150a3144c53c3cc34e1af2c126d6b900a&index=6&play
+http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E06.WEB-DLRip.x264.seleZen.mkv?link=0670dfeb96b11ebb93e7fda162338063c87dab77&index=6&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/9/1/4199/973760532879.jpg",Сезон 3 - 7 серия - Дом Дракона 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/House.of.the.Dragon.S03E07.WEB-DLRip.x264.seleZen.mkv?link=0670dfeb96b11ebb93e7fda162338063c87dab77&index=7&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/0/1/9104/429693439927.jpg",Сезон 1 - 1 серия - Суета 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Sueta.S01E01.AVC.mkv?link=7aee9f667884a974b6f0fac270e20139ecb1ab99&index=1&play

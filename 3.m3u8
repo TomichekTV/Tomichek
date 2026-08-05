@@ -13,6 +13,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18wqzQe_98UwT6IvVdf8gXGg9NRWIRPdl
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/5/3/8386358/560359210224.jpg",40 свиданий, 40 ночей 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-ZKgFdiaY9NigtrnOs5jwK2hERkk1SjcebUu_hcR6mcl8Ri5JfwYZghulRmc3HMSS0_rGLGgZZlWExYiEJp7arj00kcButkmZClXviDrsQgEnIAZnDhlVQOdIpEhb5pUL5vysaYAvTZZIY7wUGZm6AWzmYmaa3g-4Atgf_xY2kX_9QD77oM2Z1sKZMr-AjqxW9TnisJmr4vat3kkAGX0xSlW73pJ6fYqbNHXm6BGDjNRf9Q61Dh0o6ZPPJn--wFOuTMXer31w3C5V5PBlbxw6LBohePpf-vgpdn1I0am8ULMa4KYl3e24098ltRZevraPjdrCpYeFv9HCWkcW5omRRATgKfJzBhMU/6584d2ec7ebe0/55c1d14e9a0847767a3b1c81492e85a798e211012e358666f606dbe0968e8bb0/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/hob1oqarjrqq1k3hh9ahm/808214256853432613.jpg?rlkey=i2k9tspz029a3rxeu5j8sstqq",Микаэль: Охотник двух миров 2026-FHD 18+ (средний битрейт + сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Mikael.Pemburu.Dua.Alam.2026.1080p.WEBRip.mkv?link=7e11e4d9940f9bc564b94b547c8f17ac108fe0f2&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/4/4/8382441/484926155746.jpg",Зловещие мертвецы: Пекло 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Evil%20Dead%20Burn.2026.MVO.WEB-DLRip.x264.mkv?link=d575f1a637ef6d6a1141733ab02300da96bca872&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/2/5/8377522/826483909282.jpg",СОУЛМ8ЙТ 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Soulm8te.2026.720p.AMZN.WEB-DL.H264_il68k.mkv?link=ccbd4908cd03e4e842eb1f76dd58d32eabb8f5d1&index=1&play

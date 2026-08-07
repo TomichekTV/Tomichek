@@ -317,17 +317,66 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_ZCO_mH2dpBFH10qCxGeqWRuheemmRe7
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 1 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E01.Pilot.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 2 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E02.Lawnmower.Dog.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 3 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E03.Anatomy.Park.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 4 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E04.M.Night.Shaym-Aliens!.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=4&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 5 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E05.Meeseeks.and.Destroy.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 6 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E06.Rick.Potion.%239.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=6&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 7 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E07.Raising.Gazorpazorp.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=7&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 8 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E08.Rixty.Minutes.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=8&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 9 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E09.Something.Ricked.This.Way.Comes.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=9&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 10 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E10.Close.Rick-counters.of.the.Rick.Kind.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=10&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 1 - 11 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S01E11.Ricksy.Business.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=11&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 2 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E01.A.Rickle.in.Time.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=12&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 3 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E03.Auto.Erotic.Assimilation.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=14&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 4 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E04.Total.Rickall.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=15&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 5 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E05.Get.Schwifty.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=16&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 6 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E06.The.Ricks.Must.Be.Crazy.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=17&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 7 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E07.Big.Trouble.in.Little.Sanchez.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=18&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 8 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E08.Interdimensional.Cable.2.Tempting.Fate.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=19&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 9 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E09.Look.Who's.Purging.Now.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=20&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/9/1/191/842438105799.jpg",Сезон 2 - 10 серия - Рик и Морти 2013-2026-FHD (средне-высокий битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Rick.and.Morty.S02E10.The.Wedding.Squanchers.mkv?link=097fd9047fa928346e94ed5c1cb07b9531c15f90&index=21&play
 
 
 

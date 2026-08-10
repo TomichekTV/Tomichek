@@ -13,6 +13,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19-s4xh92DED4X21GWS6oJRnwSXuv79ym
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/5/1/8387151/471914721785254393.jpg",Последний дом 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Last.House.2026.720p.NF.WEB-DLRip.x264_New-Team_il68k.mkv?link=22a7e1d435d9c004ff5e01309b8827c4f6f1462a&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/4/9/8328948/16903c55c32a16cab54e11808ad857a9.jpeg",Лунный свет 2016-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%9B%D1%83%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B2%D0%B5%D1%82.2016.BDRip%20720p%20msltel.mkv?link=49f9dd897c7e52a94154122cad932e4721425605&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/4/4/8374441/263522960711.jpg",Неожиданные связи 2024-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Cocorico.2024.DUB.BDRip.720p.x264.seleZen.mkv?link=6e67796aa94faa0e4b8466890faa7f3857b978ba&index=1&play
@@ -175,7 +178,10 @@ http://185.117.152.190:8090/stream/The.Bay.2026.720p.WEBRip.mkv?link=78123425d54
 http://185.117.152.190:8090/stream/Obeshchaniye.2022.RUS.WEB-DL.1080p.mkv?link=96d9387f2a9c464267c47148712cfef848a7a51b&index=1&play
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0716/2b/88aedc71067c42ce5f41d89ca8bbc32b.jpg",Закулисье реальности 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Backrooms.2026.WEB-DLRip.x264.seleZen.mkv?link=48350761986196a0eda6a0a5f41a8009b65e186c&index=1&play
+http://185.117.152.190:8090/stream/Zakulise.realnosti.2026.AMZN.WEB-DLRip.AVC.mkv?link=4f3090b93b1520c36f7c13bc77dcb73bb5121685&index=1&play
+#EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0716/2b/88aedc71067c42ce5f41d89ca8bbc32b.jpg",Закулисье реальности 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Backrooms.2026.720p.AMZN.WEB-DL.DDP5.1.H.264.mkv?link=548b8aecb0fc5df4276ea40d362f5262b0a07d4a&index=1&play
 #EXTINF:0 tvg-logo="https://i126.fastpic.org/big/2026/0108/c2/457013c6ebf98bf395dfc6320c1bc9c2.jpg",Убийца из космоса 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Alien.Assassin.1080p.WEB-DL.mkv?link=7b97dd5b8e555ff655458a7cbc395efe52ba27f7&index=1&play

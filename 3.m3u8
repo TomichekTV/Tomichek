@@ -19,7 +19,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-RvzR7wO8EHGK-xcADVITXuYUDihx0EX
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_gM5EmvN7Y6nbHvz_MdR8VAy4KkywwqgiZLVbJArisMMabNEmOi6y4UtQp_ycBZCX1b-MCZx5XaAsjNZZHglo6ILiEihHKehyxEC44ikR1NmDN2rJEAZTXjIl4v2n11fAHLMIHNaQKZu3jfFhsWer6gj4BPUFnTbRnGg6kJqwnb2dqQGtf8TVdTcHGK-wuV2E_rzJFqovIFisfn43ADEB4Tg6H-cN6iDrafU2bfZ-QE-4e_glkMObnw47v0NHhIvBg__E7PxTZ1Km6Ar_8HqzNVshsNHqRsCfW0ZJeJupcrj630QrheAIV47eTaC66cpYrJ9zr498snY_GnmpUOyNYg86ZsofQa84/65932b530b528/a6b60444fb9e6c66e9b3d59ed15cd370dc6f823a50b7f53aa8d3220e048b60a8/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/9/1/8382196/428597869167.jpg",Трасса «Море — море» 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%A2%D1%80%D0%B0%D1%81%D1%81%D0%B0.%D0%9C%D0%BE%D1%80%D0%B5.%D0%BC%D0%BE%D1%80%D0%B5.2026.WEBRip.%5B1080p%5D.NNMClub.mkv?link=189f37590dbbcad1ac17e79efdc23a6cc3ac20ba&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/3/1/8387130/639369461785235023.jpg",Молодой Вашингтон 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Molodoj.Vashington.2026.AMZN.WEB-DLRip.AVC.mkv?link=2ddfd302634981815962499d72a665d088b5f35f&index=1&play

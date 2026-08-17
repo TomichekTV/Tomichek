@@ -9,6 +9,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX187EVMLo19dD-W1GigHqTXZKpjlHvONH7
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX192pxuf40vINfJeNVfGgBKzfyUlf1YAtASPwkMLvJLQPa7FPA9PZwVIQ0elu0CEylh3uSgrn7-cDk8mx7U2AXmHUOSHtFawfjlRUIhPu0bRAQAFXyVniylVgrXQGJnZ0ETCgu5MVdQ6pJhCUV24Z1TPAvAcgNImPiHPUlyQuZwZNGRaq8mnW4-nytssghLHMhOJyBmkeaMGKSj4CGmTLEZXR1fHWA1TJpRCXgRQGhAqI4dlboqDgESAzF7h9tqOquADQJU1cAlSm8V46viR9_luCDQkMYpBwZj886UN8x7R8F1BekXyP4r0GeRXk4xxw43Zq14rSmY0Obn8r6vVAoAVU5w7EMemOHk/659455c3a8738/9cbe9b2318c84fef092f44ef1ad746a117ad61f721b3874d75adf5b8eabc1698/720p/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/0/2/8385205/639967870218.jpg",Тень 2026-FHD 6+ (средний битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Scotty.WEB-DL.1080p.mkv?link=047b411813babdad05d5c027d4d9cacc516dc905&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/6/5/8384563/262332525396.jpg",Тролли возвращаются! 2026-FHD
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Trolli.vozvraschayutsa.2026.WEB-DLRip.AVC.TORRNADO.mkv?link=2b04210b9d2e8843a02013526d737794d8339b5d&index=1&play

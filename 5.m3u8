@@ -14,7 +14,24 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX190RIbX4GRLi7wDaqN3hz7GEMOAVNrtK2
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19HLi_PE4oxA4FqyXLGfDvnT7Z-NVEfZvrQCxluQDMklnmmRx5BjGdyIGE1wPdJFw5MGgpPi0i8zwPMdhx7MN3RFsq3Wg0QWHBFUWEMG8Ol2_KEenCyUxMirL0BbOfIK4jVk9XTj2M9hCTZSsA4xT5AYN1PpaXu8ailITC0GvfY3e0To7saNHrAxlaaIMJFFZgAhXEoGrqqDNhX9uZ8US7gqxWaWc0LUhXOKlG2ywnp0WL6i7TWxc5-yxfNx_G3O2rZOhuV_sioSxndbQLPIA9E367pv99vAVdZ6Uq17Dy8gFKwJX5rCmIS5KlIBJPZWUDIka0LdAOYLm9m1XV75OV_4XMkL4k-nNU/6595574b0f008/45db9159a7d4ca97410528d3ce0802ed73294b8e33c57812272f9b1014c8c985/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 1 серия - Фонари 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=b893633fb88b2ada7a67b15c2c5b1b1253531cd0&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/agy4tm124e2ztw6iqhdy5/808214256853432626.jpg?rlkey=baujit8x4dn7odmwy5a2362mp",Сезон 1 - 1 серия - Владение | Одержимость 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Possession.S01E01.WEB-DLRip.x264.seleZen.mkv?link=f64e4bd9b0780c5fd5aa88c1792234ea61567bb3&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/agy4tm124e2ztw6iqhdy5/808214256853432626.jpg?rlkey=baujit8x4dn7odmwy5a2362mp",Сезон 1 - 2 серия - Владение | Одержимость 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Possession.S01E02.WEB-DLRip.x264.seleZen.mkv?link=f64e4bd9b0780c5fd5aa88c1792234ea61567bb3&index=2&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/agy4tm124e2ztw6iqhdy5/808214256853432626.jpg?rlkey=baujit8x4dn7odmwy5a2362mp",Сезон 1 - 3 серия - Владение | Одержимость 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Possession.S01E03.WEB-DLRip.x264.seleZen.mkv?link=f64e4bd9b0780c5fd5aa88c1792234ea61567bb3&index=3&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/agy4tm124e2ztw6iqhdy5/808214256853432626.jpg?rlkey=baujit8x4dn7odmwy5a2362mp",Сезон 1 - 4 серия - Владение | Одержимость 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Possession.S01E04.WEB-DLRip.x264.seleZen.mkv?link=f64e4bd9b0780c5fd5aa88c1792234ea61567bb3&index=4&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/agy4tm124e2ztw6iqhdy5/808214256853432626.jpg?rlkey=baujit8x4dn7odmwy5a2362mp",Сезон 1 - 5 серия - Владение | Одержимость 2026-FHD 18+ (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Possession.S01E05.WEB-DLRip.x264.seleZen.mkv?link=f64e4bd9b0780c5fd5aa88c1792234ea61567bb3&index=5&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/1/5/15510/188910821785752867.jpg",Сезон 1 - 1 серия - Стерлинг-Поинт 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Sterling%20Point.S01E01.WEB-DLRip.x264.seleZen.mkv?link=0a3b941022f941d40a3e8f854905a665fee1ce96&index=1&play
@@ -1131,19 +1148,22 @@ http://185.117.152.190:8090/stream/Silo.S03E06.WEB-DLRip.x264.seleZen.mkv?link=e
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 1 серия - Лаки 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lucky.S01E01.WEB-DLRip.x264.seleZen.mkv?link=b296a1584726673594abb8163e23804cc24cff6a&index=1&play
+http://185.117.152.190:8090/stream/Lucky.S01E01.WEB-DLRip.x264.seleZen.mkv?link=4cd578d4d530a9aab16cfc324979f800b81299f1&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 2 серия - Лаки 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lucky.S01E02.WEB-DLRip.x264.seleZen.mkv?link=b296a1584726673594abb8163e23804cc24cff6a&index=2&play
+http://185.117.152.190:8090/stream/Lucky.S01E02.WEB-DLRip.x264.seleZen.mkv?link=4cd578d4d530a9aab16cfc324979f800b81299f1&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 3 серия - Лаки 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lucky.S01E03.WEB-DLRip.x264.seleZen.mkv?link=b296a1584726673594abb8163e23804cc24cff6a&index=3&play
+http://185.117.152.190:8090/stream/Lucky.S01E03.WEB-DLRip.x264.seleZen.mkv?link=4cd578d4d530a9aab16cfc324979f800b81299f1&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 4 серия - Лаки 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lucky.S01E04.WEB-DLRip.x264.seleZen.mkv?link=b296a1584726673594abb8163e23804cc24cff6a&index=4&play
+http://185.117.152.190:8090/stream/Lucky.S01E04.WEB-DLRip.x264.seleZen.mkv?link=4cd578d4d530a9aab16cfc324979f800b81299f1&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 5 серия - Лаки 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lucky.S01E05.WEB-DLRip.x264.seleZen.mkv?link=b296a1584726673594abb8163e23804cc24cff6a&index=5&play
+http://185.117.152.190:8090/stream/Lucky.S01E05.WEB-DLRip.x264.seleZen.mkv?link=4cd578d4d530a9aab16cfc324979f800b81299f1&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/5/0/7/11705/377052674173.jpg",Сезон 1 - 6 серия - Лаки 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lucky.S01E06.WEB-DLRip.x264.seleZen.mkv?link=4cd578d4d530a9aab16cfc324979f800b81299f1&index=6&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/1/1/5/11511/932169910811.jpg",Сезон 1 - 1 серия - Фейк 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Feyk.S01E01.AVC.mkv?link=9644219b5ff3d8e7db4e203f4771be4ffa7352ff&index=1&play

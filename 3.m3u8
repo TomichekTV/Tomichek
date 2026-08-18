@@ -18,7 +18,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19Uj44omDlPKYnlK_507xEpxwp7cRD-bc
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18a81K_nSUSYS4rNANllv4QnXoHs4cnlh7KQeL8jJgAh7CulPL7sVNZJ7M56S_CpTo2o0rXUQ_PpGiWqhE_yMYdAyLATybOWNql53A__FUJWkGBidAcUsElA0P1HG3yjuOsI6s1IK0r5-H_0BdPMXFVFiW3NqdFJqaZIt91RWfiOiy8S4UVCZ1uc12kkCTn_uq3SXGwwpM9H8cRkm4biYT1WnJ1TrtzPpPxAV_5BqH9EIPA28Ok2eGKs8XA9T5TOpPTwvFgV27Ud2dSfQ4RSZl2fOe7lM9I2lobS3Lv4bCK4B43MEm2i1iFWSN48STolr6qdtFavj6qKsfPb65SivU_xy_L-yqhqLU/659557512c6e8/31f0c5bc0d9f953c50715a0e0b549dc062659da7d39ae787b0dda31abac50213/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/k0u2csy5ak0i466rda51l/808214256853432625.jpg?rlkey=w0vbb1zhqk8gx9kb8h3gdoio8",Лучи и тени 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Luchi.i.teni.2026.WEB-DLRip.AVC.mkv?link=dc6a8e4fec05a3189800513f310668aaf0967f0d&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/3/4/8385436/337982445263.jpg",Семь снайперов 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Seven%20Snipers.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=63a0daa98f40e88fa1fb8fa5d2b9fe34ceac2e93&index=1&play

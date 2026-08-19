@@ -23,7 +23,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19fzHm6Kg-EhO7f236RXfjouU6WU_stXj
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_qQitnxaNeTcFkJxf1tUS6wIeeWa0kJak3u7R4lHzcNHLEyRPH9bcsvHmR-ifYTZSBvBMQSJbx1plAiy-UFVlPKBcSy85wgoaFNJ9CGHb-INPco66mOlwsI28oDDNAjmLze3V-keUSJyZK5dqgWjrbg1F6qAb_HWmEaPrgJDs25evwLuTjcct2PT-UjlLwvqmsxs7vU632yMtjV9ufCvUkyosSUzL6XBmOXkljBJ0S8Xq-eyubpV9gSrmcr7kNzE43EAG-iMzrQg6rj4dwvjat0L1OTtjqjdzjoH2e28rrvGQODzoNnmd3SCD4ZETbEO9j1LkNCntqvpFLUl0a3XAavJutlDYCjj4/6596791a73958/f4b784db3176a0f2cb9b519b16ca5d9f460db52563b6f7c8cfe375de470042c9/720p/playlist.m3u8
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/9/2/8386299/330124498960.jpg",30 ночей с бывшим 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/30.nochey.s.byivshim.2025.BDRip.720p.ELEKTRI4KA.mkv?link=a4980d7a3183cdec9a68afb8760392d27d09871a&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/k0u2csy5ak0i466rda51l/808214256853432625.jpg?rlkey=w0vbb1zhqk8gx9kb8h3gdoio8",Лучи и тени 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Luchi.i.teni.2026.WEB-DLRip.AVC.mkv?link=dc6a8e4fec05a3189800513f310668aaf0967f0d&index=1&play

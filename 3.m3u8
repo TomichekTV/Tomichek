@@ -14,6 +14,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-ccSQJLT0VRiF5VVSmmlez8Yk5ZeRLKz
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-MEur-Qe_RvIiuK09W7x0k_2tVcD6vP2aOv_Ym-BqRvI1UCDldjpi__6_wvWyQwf_Uq-XwMz_xjtIA-_e0BOFPIZ6_P4ugIBZxHFmU16KwVqCb6s1sf4ZXa_mutMeCrIWVSO0GIkN2jSVnCxmKYzgNgAmL3C96GAcND_HjdK76CtQawAhdUHYBMxFfXonD5rZrIX-bchoHaxGVweqRHUC-DU8UPvLI4GQCCOfIeeep0qrMMk6SPHVcMTtfMTIReXSxEPU2uOVdbbuFCEkBM4_tZ-4aArtZZYg8hWqF9dPSjc3sjIGHNLsTeVJtk89Oiq5Uydt7ysUAeIuBIyk9wlAKihSQw-3jZMADbHp8XmXlRUiyFaiVYL4u/6598565db0980/8d89588e0d117faa96bfdb21a94d0edd400831983ffc829da29a520dc28cdc49/720p/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/7/8/8384872/388710512731.jpg",Ограбить Лондон 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Fuze.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=14e031ccf9cd703cb324b1587b13a649f4a408b0&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/9/2/8386299/330124498960.jpg",30 ночей с бывшим 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/30.nochey.s.byivshim.2025.BDRip.720p.ELEKTRI4KA.mkv?link=a4980d7a3183cdec9a68afb8760392d27d09871a&index=1&play
@@ -68,9 +71,6 @@ http://185.117.152.190:8090/stream/The.Last.House.2026.720p.NF.WEB-DLRip.x264_Ne
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/4/4/8374441/263522960711.jpg",Неожиданные связи 2024-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Cocorico.2024.DUB.BDRip.720p.x264.seleZen.mkv?link=6e67796aa94faa0e4b8466890faa7f3857b978ba&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/7/8/8384872/388710512731.jpg",Ограбить Лондон 2026-FHD 18+ (Blu-Ray)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Fuze.2025.1080p.BluRay.x264-playHD_EniaHD.mkv?link=ef991c6fc9f41ddcc247ca8ce491211ee95bd6d3&index=1&play
 
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/7/5/8382576/773477557697.jpg",Отпуск на всю голову 2026-FHD 18+ (средний битрейт)

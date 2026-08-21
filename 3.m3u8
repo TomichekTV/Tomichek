@@ -10,7 +10,11 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-XXdXJgthBCrDSpEsaCy0T9xytURpKjQ
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_-wygQGDkunuVNWKT6A_XCsygrkjMI5Ap0zwxy4j5f4mateTf3Ph6Xi0CVQ5eRAnYfBZPW3HRhksPX_B_L7h7AFkb--uyDpfkOM9uFyKGJF3OKi0ZI9NDabjsahRwR-ozHX-hdEV-UdX0Imkf2rDifa4QBVdzb6BU0XoYOUfp0reNnaiseWK3T2FCZDRhGKGOBWBKWy494mJtPFkia_CGATB3TMcbRWv44nE1vjVLbq4Vf3_4rdXZ6x0schmNxOdgFWo7kI1foISlnKunuYmYPxE78cUBvXw8PwmB9p9dpcQRSrHd8AOPeLPDQ2WSOyIZe-cSGX3Csta_nAX5ELpM4-KmeIhSNnaU/6599e24f6f870/4bacf5018003048a7358f2ef9341217a1c8c6af9584171d01bd6bf16171c924d/720p/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/6/7/8380768/816421671980.jpg",Мятеж 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Myatezh.2025.AMZN.WEB-DLRip.AVC.mkv?link=c59a788e3228caddf3c3870819c78dbbdf7574a9&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/6/7/8380768/816421671980.jpg",Мятеж 2026-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт)
+http://185.117.152.190:8090/stream/%D0%9C%D1%8F%D1%82%D0%B5%D0%B6.2026.WEB-DL.%5B1080p%5D.NNMClub.mkv?link=e9b48cbb59f2b8565de1b3ffd4d05596accd99e4&index=1&play
 
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/5/1/5/8374515/247963945038.jpg",Человек-паук: Новый день 2026-FHD 12+

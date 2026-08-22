@@ -9,14 +9,16 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_BSjEhv-rW34ilZwua_uyq8pM0PJ4nkr
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-sZTIcj1LCsE2QH8hlBZFOpLmQczSY7Kj2M3kGjLptMou_Cw0LF9MIc5JwZ7oM4fbZbPSj1Y0GdQQXIzGscxOC5hqbBm4FtFY5ZP0XFFsuqPz6RVJu4aWw5Th0CDcS0tHcZTDToB0kjXZzblshjQNBzrxSx-ZTLfLchJDwM2Tcydz4R4GbwvUWdFcO6umBSDLl2os2UuWvYtWspGhjmauaEjXTNh3ZdoYANWr_yyQJyxOBJVCl4jUmkDLoETl5kloT6GZ_Qo2_hDaHGnsM-kJzvcBeWODmaEAVm2yuys9v-D4YRjaKAiX_lUAGNlqxkqcgFAQltUfkDUbhw1fmu8vw76jCTxNIOaA/659b6a4389338/6ed393a0e1600bfb39c3204aeff7aff44dc4b0adc4c4c20ce51cdddecf4c0c6f/720p/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/0/5/8382501/429182189260.jpg",Колючая и ушастый 2025-FHD 6+ (средний битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_yqg1riCewKhaWeTW7UopRKZrb9oRYVob18d3y-jk-enuQpbct5FXs220PGs81Hxkb8ZrbJfCUuTlnx-ApCg5HocSFJG5sNCBRTA7jniEm-y2VHOE2W6iXhZgBGWiyzmdta1LtSi9t1bHO3O0ZdfpPsofwjm0Pitvc-3zSs6eanPKuuQ0n0NgZa3HtgbV-q3VXE8StgcijxCmETqZUMpxU4JsaRngla2m7WihBth2kr4WgtGCs3oxGtESrAuvv8mplm_IaxsDXltAumKdrFreXC44Q-Wg_UQxt-_qe4lqdVzKkwGlOWONFBQGZmK8qXVSlEdwhYLfHZY9n9gMNUnUc0qSdpGnkupxYADKYsoUiqotLUPeieE04/659bb6c677988/a45eaf03cd7cba69baa34dc3bed638252aeb91f6080154556e6df19de6d6a36d/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/zekmfx73topvq16g3lv62/808214256853432619.jpg?rlkey=19ru0cs5hs6yqkvpy038e8njt",Миньоны и монстры 2026-FHD 6+ (средний битрейт)
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18MeJPaRCHvR7NWKjtC1yi_5HgkGopRG94zfn5JM4YvcI555HRp5x42S7tXOEuCADQbKi4qcCZovNubxbA_Q9bNu-aQin5In6DTl8QKor5WNVkR9t2gkAdVonIYiZg7zz4bs7husl4qf5UdUhLffjElmQ-SSygqZSvOUaU74BzKjXFMUI2kL4X8x6azfnQsM0FhLDYwGiblBwGq1sLL5jDM2OJIlRO-76LpbqkXAVbqdEIQIGtLrDOClyRuPizEngeEzKp7HOMxA1D2lbhWMOQjlm6yDpJaRqyQ71tw5NWF7vEHbHleln_hC0gtlRmII2ftKiQL2W_aMOjkJRAWvmUhqpV9407qp-Q/659b6a0c11fb8/c77e1f5c5599d31672b1954411d5e1d85f39735aac16a22f80f56afcd0336773/720p/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/0/5/8382501/429182189260.jpg",Колючая и ушастый 2025-FHD 6+ (средний битрейт)
-#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Spiked.2025.WEB-DL.1080p.mkv?link=dbaf13e3e3fa9f0c39492225f94e18265f443999&index=1&play
+
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/0/2/8385205/639967870218.jpg",Тень 2026-FHD 6+ (средний битрейт)
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Scotty.WEB-DL.1080p.mkv?link=047b411813babdad05d5c027d4d9cacc516dc905&index=1&play

@@ -16,6 +16,13 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_-wygQGDkunuVNWKT6A_XCsygrkjMI5A
 http://185.117.152.190:8090/stream/Sugar.Mill.2025.WEB-DL.1080p.mkv?link=6bd4c47c3fa99ecf29be5f9cc746d2fb0e80c52f&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/6/7/8380768/816421671980.jpg",Мятеж 2026-FHD 18+ (средний битрейт)
 http://185.117.152.190:8090/stream/Mutiny.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=47c967ff1bcb248a29a33c96cf2540a037831cb7&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/8bg29v51r7lhiycpm9lqv/808214256853432631.jpg?rlkey=z4v1pa7izfjua6gxhvz7h36o1",Наш герой, Бальтазар 2025-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%9D%D0%B0%D1%88.%D0%B3%D0%B5%D1%80%D0%BE%D0%B9.%D0%91%D0%B0%D0%BB%D1%8C%D1%82%D0%B0%D0%B7%D0%B0%D1%80.2025.WEB-DL.%5B1080p%5D.NNMClub.mkv?link=0ce68a560d6b8229eb6fa4f959babf3ef3034405&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/7/6/8385670/620199742050.jpg",Ночь с гризли 2026-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Noch.s.Grizli.2026.BDRip.1080p.ELEKTRI4KA.mkv?link=8d1338715cd76cc9b8df120111f00e82203793a8&index=1&play
+
 
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/5/1/5/8374515/247963945038.jpg",Человек-паук: Новый день 2026-FHD 12+

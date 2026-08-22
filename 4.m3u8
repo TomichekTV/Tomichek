@@ -14,7 +14,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-sZTIcj1LCsE2QH8hlBZFOpLmQczSY7K
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18MeJPaRCHvR7NWKjtC1yi_5HgkGopRG94zfn5JM4YvcI555HRp5x42S7tXOEuCADQbKi4qcCZovNubxbA_Q9bNu-aQin5In6DTl8QKor5WNVkR9t2gkAdVonIYiZg7zz4bs7husl4qf5UdUhLffjElmQ-SSygqZSvOUaU74BzKjXFMUI2kL4X8x6azfnQsM0FhLDYwGiblBwGq1sLL5jDM2OJIlRO-76LpbqkXAVbqdEIQIGtLrDOClyRuPizEngeEzKp7HOMxA1D2lbhWMOQjlm6yDpJaRqyQ71tw5NWF7vEHbHleln_hC0gtlRmII2ftKiQL2W_aMOjkJRAWvmUhqpV9407qp-Q/659b6a0c11fb8/c77e1f5c5599d31672b1954411d5e1d85f39735aac16a22f80f56afcd0336773/720p/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/0/5/8382501/429182189260.jpg",Колючая и ушастый 2025-FHD 6+ (средний битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Spiked.2025.WEB-DL.1080p.mkv?link=dbaf13e3e3fa9f0c39492225f94e18265f443999&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/0/2/8385205/639967870218.jpg",Тень 2026-FHD 6+ (средний битрейт)
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Scotty.WEB-DL.1080p.mkv?link=047b411813babdad05d5c027d4d9cacc516dc905&index=1&play

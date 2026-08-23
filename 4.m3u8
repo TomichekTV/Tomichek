@@ -18,13 +18,18 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_yqg1riCewKhaWeTW7UopRKZrb9oRYVo
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18MeJPaRCHvR7NWKjtC1yi_5HgkGopRG94zfn5JM4YvcI555HRp5x42S7tXOEuCADQbKi4qcCZovNubxbA_Q9bNu-aQin5In6DTl8QKor5WNVkR9t2gkAdVonIYiZg7zz4bs7husl4qf5UdUhLffjElmQ-SSygqZSvOUaU74BzKjXFMUI2kL4X8x6azfnQsM0FhLDYwGiblBwGq1sLL5jDM2OJIlRO-76LpbqkXAVbqdEIQIGtLrDOClyRuPizEngeEzKp7HOMxA1D2lbhWMOQjlm6yDpJaRqyQ71tw5NWF7vEHbHleln_hC0gtlRmII2ftKiQL2W_aMOjkJRAWvmUhqpV9407qp-Q/659b6a0c11fb8/c77e1f5c5599d31672b1954411d5e1d85f39735aac16a22f80f56afcd0336773/720p/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/0/4/8382409/465589789128.jpg",Кролецып и Сурок Времени 2026-FHD 6+ (средний битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/%D0%9A%D1%80%D0%BE%D0%BB%D0%B5%D1%86%D1%8B%D0%BF%20%D0%B8%20%D0%A1%D1%83%D1%80%D0%BE%D0%BA%20%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8%20(2025).mkv?link=a4f49833aa8b538b73ab1ed7103d52cf1b0e94b0&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/0/2/8385205/639967870218.jpg",Тень 2026-FHD 6+ (средний битрейт)
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Scotty.WEB-DL.1080p.mkv?link=047b411813babdad05d5c027d4d9cacc516dc905&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/6/5/8384563/262332525396.jpg",Тролли возвращаются! 2026-FHD
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Trolli.vozvraschayutsa.2026.WEB-DLRip.AVC.TORRNADO.mkv?link=2b04210b9d2e8843a02013526d737794d8339b5d&index=1&play
+#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0702/16/64e51e17bbaaa4c30a482c52e9280516.jpg",История игрушек 5 2026-FHD 6+ (средний битрейт)
+#EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/05%20-%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%BA%205%20(2026)%20UHD%20WEB-DLRip%201080p.mkv?link=b4b518e86b5fafd0baea86aa56c6ec5071708a8c&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0702/16/64e51e17bbaaa4c30a482c52e9280516.jpg",История игрушек 5 2026-FHD 6+
 #EXTGRP:МУЛЬТФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Toy.Story.5.2026.DUB.WEB-DLRip.x264.seleZen.mkv?link=651bdd0544c0e98daf7537a0b36ae6e8c86390e7&index=1&play

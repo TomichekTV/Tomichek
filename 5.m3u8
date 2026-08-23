@@ -5,7 +5,24 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19rNptClcIANZXbBXEzXScFOmWsrtZHfd
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19EC4URU8WyKgyWo8ZB3VPFq18np6u0QZJK1pXbFo1LyhXwg02R__Iu97jkh4cLq-1rXP02v21SWywDTx7DAGL6XnArPm0Tq_q2VvwC9MYr3g7bZfXkSGiXTD1LHIjvFdy3w3qwluZoJADoAPQ2FaHkU89hm5PcURrWio2Bhzn_b0bpmjF2WQbx0gVX9szc1mfRqiBZhKQK12WQ5fiOybc42ZemaJwPMnXMtzAlBvssb-c2oAMXZ0-hzPaL7u4QBibXfvdQ-T-YjVUH6hBhEFvdMa1U0kqZmdtMg8KPODgU4BvNcN8r5IN3kOTKEEcb9UXFSh_r2V1yJpbqgzgr2s0pexVnL8FHvx8/659cd203a0cf8/b8c6e1c3fba2f6056abb53c50d00165852207764961bf57e04e4610e602ce947/720p/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/2/2/13228/282488118547.jpg",Сезон 1 - 1 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Glass.House.S01E01.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/2/2/13228/282488118547.jpg",Сезон 1 - 2 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Glass.House.S01E02.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/2/2/13228/282488118547.jpg",Сезон 1 - 3 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Glass.House.S01E03.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/2/2/13228/282488118547.jpg",Сезон 1 - 4 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Glass.House.S01E04.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=4&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/2/2/13228/282488118547.jpg",Сезон 1 - 5 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Glass.House.S01E05.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/8/2/2/13228/282488118547.jpg",Сезон 1 - 6 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт) (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/The.Glass.House.S01E06.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=6&play
 
 
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/yrnz9ut97mf76divh3tj1/808214256766.jpg?rlkey=8j5fzmnapmnznkv8284vw3i7u",Скрежет металла 2023-FHD (1 сезон в одном | средний битрейт)

@@ -9,7 +9,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-sZTIcj1LCsE2QH8hlBZFOpLmQczSY7K
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/5/7/8326750/f4e44c0b8d6ed218facba11968aded18.jpeg",Мег: Монстр глубины 2018 18+ в 4K - AV1 - НЕ для старых ТВ!
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/The%20Meg%20(2018)%20BluRay%202160p.%204K%20SDR%20AV1%20AI%2012Mbps%20Rus-Eng%20%40Isma.mkv?link=6f18f19da4c42c6419b5d3547550b9213d4c0796&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/0/6/8366602/631930520558.jpg",Мег 2: Бездна 2023 18+ в 4K - AV1 - НЕ для старых ТВ!
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/Meg%202-%20The%20Trench%20(2023)%20BluRay%202160p.%204K%20SDR%20AV1%20AI%2012Mbps%20Rus-Eng%20%40Isma.mkv?link=9ff0413721075373bfb66cb9ae0c9e4edb1f87f1&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/8/1/8355187/3dc8c1b1322b0998791dafda1ababd63.jpg",Тихое место 2 2021 18+ в 4K - AV1
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/%D0%A2%D0%B8%D1%85%D0%BE%D0%B5%20%D0%9C%D0%B5%D1%81%D1%82%D0%BE%202%20-%20A%20Quiet%20Place%20Part%202%20(2021)%204K.mkv?link=0d97a3b01977d96784887981168af7ec2d661eb0&index=1&play
@@ -271,9 +276,6 @@ http://185.117.152.190:8090/stream/Mission.Impossible.The.Final.Reckoning.2025.2
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/cg2ubch8cxbtv6k9tioly/80821425661.jpg?rlkey=zffosn1x0kdksijih8zmlt4dq",Топ Ган: Мэверик 2020 18+ в 4K - AV1 - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/%D0%A2%D0%BE%D0%BF%20%D0%93%D0%B0%D0%BD%20%D0%9C%D1%8D%D0%B2%D0%B5%D1%80%D0%B8%D0%BA%20-%20Top%20Gun%20Maverick%20(2022)%5BIMAX%5D%204K.mkv?link=2f447d7d5477933f655560ebd02c377a4e0858de&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/5/7/8326750/f4e44c0b8d6ed218facba11968aded18.jpeg",Мег: Монстр глубины 2018 18+ в 4K - AV1 - НЕ для старых ТВ!
-#EXTGRP:4K
-http://185.117.152.190:8090/stream/The%20Meg%20-%20%D0%9C%D0%B5%D0%B3%20%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80%20%D0%93%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D1%8B%202018%204%D0%9A.mkv?link=93e914b83043c70e6f8108392f8e576b23c1336a&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/8/1/8176185/9aff924dda4443677393453fb1c50eed.jpeg",Глубоководный горизонт 2016 18+ в 4K - AV1 - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Deepwater%20Horizon%20-%20%D0%93%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%202016%204%D0%9A.mkv?link=63c6c324dae7e59231649b8156693b4b7d20fb9f&index=1&play

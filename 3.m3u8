@@ -11,6 +11,11 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_BSjEhv-rW34ilZwua_uyq8pM0PJ4nkr
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-sZTIcj1LCsE2QH8hlBZFOpLmQczSY7Kj2M3kGjLptMou_Cw0LF9MIc5JwZ7oM4fbZbPSj1Y0GdQQXIzGscxOC5hqbBm4FtFY5ZP0XFFsuqPz6RVJu4aWw5Th0CDcS0tHcZTDToB0kjXZzblshjQNBzrxSx-ZTLfLchJDwM2Tcydz4R4GbwvUWdFcO6umBSDLl2os2UuWvYtWspGhjmauaEjXTNh3ZdoYANWr_yyQJyxOBJVCl4jUmkDLoETl5kloT6GZ_Qo2_hDaHGnsM-kJzvcBeWODmaEAVm2yuys9v-D4YRjaKAiX_lUAGNlqxkqcgFAQltUfkDUbhw1fmu8vw76jCTxNIOaA/659b6a4389338/6ed393a0e1600bfb39c3204aeff7aff44dc4b0adc4c4c20ce51cdddecf4c0c6f/720p/playlist.m3u8
 
+
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/6/6/8386667/264596272694.jpg",Катастрофа. Удар из космоса 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Katastrofa.Udar.iz.kosmosa.2026.WEB-DL%201080p.ELEKTRI4KA.mkv?link=f12d8fd29e4fce1d54968698b23e00b104d6b9fc&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/0/8/8360807/d09253e77588689dae051d9658f8d1a6.jpeg",Доказательство смерти 2007-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Death.Proof.2007.DUB.Open.Matte.WEB-DLRip.x264.seleZen.mkv?link=23dc091e8c51c2a40fab8e18898b8bbb7db902b8&index=1&play
@@ -22,7 +27,7 @@ http://185.117.152.190:8090/stream/Moia.zemlia.2015.x264.BDRip.(AVC)-ExKinoRay.m
 http://185.117.152.190:8090/stream/Ghost.Train.2024.BDRip.720p.x264_New-Team.mkv?link=5a3041bd9bcfac3929a1d5ea3cf806f7e3e06bc8&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/4/3/8385347/957316641504.jpg",Американский маньяк 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Amerikanskiy.manyak.2026.AMZN.WEB-DL%201080p.ELEKTRI4KA.mkv?link=c6372f8138da61844cf3cfb26d61da2251224b10&index=1&play
+http://185.117.152.190:8090/stream/The.Huntsman.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=a3ac8cc531051a1860448fc4be4f589ce553532c&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/7/6/8385670/620199742050.jpg",Ночь с гризли 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Grizzly%20Night.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=069f2249982528701979841fb3148fa1bbe48153&index=1&play
@@ -34,6 +39,9 @@ http://185.117.152.190:8090/stream/Mutiny.2026.720p.AMZN.WEB-DL.H264_New-Team_il
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/8bg29v51r7lhiycpm9lqv/808214256853432631.jpg?rlkey=z4v1pa7izfjua6gxhvz7h36o1",Наш герой, Бальтазар 2025-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Our.Hero.Balthazar.2025.720p.AMZN.WEB-DL.H264_il68k.mkv?link=b7c2263b77a624b8939ab0226fe5cc09bdafaaa7&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ouk5zfs24i2kqpudcvy7o/808214256853432633.jpg?rlkey=0069b6w13b7kuqv73nxfjvuzq",Наследницы 2024-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Naslednitsyi.2024.WEB-DL%201080p.ELEKTRI4KA.mkv?link=637fd4af8b85fe40f099d23db733e84b9094c190&index=1&play
 
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/4/3/8385348/256205212255.jpg",Между небом и землёй 2026-FHD 18+ (средний битрейт)

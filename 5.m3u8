@@ -5,6 +5,13 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19rNptClcIANZXbBXEzXScFOmWsrtZHfd
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19EC4URU8WyKgyWo8ZB3VPFq18np6u0QZJK1pXbFo1LyhXwg02R__Iu97jkh4cLq-1rXP02v21SWywDTx7DAGL6XnArPm0Tq_q2VvwC9MYr3g7bZfXkSGiXTD1LHIjvFdy3w3qwluZoJADoAPQ2FaHkU89hm5PcURrWio2Bhzn_b0bpmjF2WQbx0gVX9szc1mfRqiBZhKQK12WQ5fiOybc42ZemaJwPMnXMtzAlBvssb-c2oAMXZ0-hzPaL7u4QBibXfvdQ-T-YjVUH6hBhEFvdMa1U0kqZmdtMg8KPODgU4BvNcN8r5IN3kOTKEEcb9UXFSh_r2V1yJpbqgzgr2s0pexVnL8FHvx8/659cd203a0cf8/b8c6e1c3fba2f6056abb53c50d00165852207764961bf57e04e4610e602ce947/720p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 1 серия - ОПГ 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/OPG.S01E01.AVC.mkv?link=17aaf915b4ebba94acc336affa24acf2505576e4&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 2 серия - ОПГ 2026-FHD 18+ (средний битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/OPG.S01E02.AVC.mkv?link=17aaf915b4ebba94acc336affa24acf2505576e4&index=2&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/kg2ondu0sx94ap1jqdeit/808214256853432634.jpg?rlkey=giepr6lajcemfatmde7yt918f",Сезон 1 - 1 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Glass.House.S01E01.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=1&play
@@ -963,34 +970,34 @@ http://185.117.152.190:8090/stream/Sterling%20Point.S01E07.WEB-DLRip.x264.seleZe
 http://185.117.152.190:8090/stream/Sterling%20Point.S01E08.WEB-DLRip.x264.seleZen.mkv?link=0a3b941022f941d40a3e8f854905a665fee1ce96&index=8&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 1 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E01.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=1&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E01.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 2 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E02.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=2&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E02.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 3 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E03.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=3&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E03.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 4 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E04.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=4&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E04.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 5 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E05.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=5&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E05.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=5&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 6 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E06.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=6&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E06.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=6&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 7 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E07.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=7&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E07.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=7&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 8 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E08.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=8&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E08.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=8&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 9 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Chislo.zverya.S01E09.AVC.mkv?link=b82cdbfd68f1577896d2e83cbbfff6dfc0927c87&index=9&play
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E09.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=9&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 10 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-
+http://185.117.152.190:8090/stream/Chislo.zverya.S01E10.AVC.mkv?link=74012f766c7fb45b61901d2e640875057dd87640&index=10&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/303613327895.jpg",Сезон 1 - 11 серия - Число зверя 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 

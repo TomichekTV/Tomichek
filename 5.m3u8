@@ -8,7 +8,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_4dwxgVfORRno_CfOzVv4Zmyvlb4UhwV
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 1 серия - Фонари 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=3b487eb2c51765b20452ea540842ea2961c3e687&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 2 серия - Фонари 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lanterns.S01E02.WEB-DLRip.x264.seleZen.mkv?link=3b487eb2c51765b20452ea540842ea2961c3e687&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 1 серия - ОПГ 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/OPG.S01E01.AVC.mkv?link=17aaf915b4ebba94acc336affa24acf2505576e4&index=1&play
@@ -932,9 +937,6 @@ http://185.117.152.190:8090/stream/A.Shop.for.Killers.S02E07.The.Enemy.of.My.Ene
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ezss5n1djryfshfoxe80e/808214256853432629.jpg?rlkey=bdu4x4s6a4ox6g22ouzmkzb6x",Сезон 2 - 8 серия - Магазин для убийц 2026-FHD 18+ (ВЫСОКИЙ битрейт) (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/A.Shop.for.Killers.S02E08.Listen.Up.Jinman.1080p.DSNP.RGzsRutracker.mkv?link=bec9449f4f291be3e537e6b32b19542fbcbfd004&index=8&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 1 серия - Фонари 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=b893633fb88b2ada7a67b15c2c5b1b1253531cd0&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/agy4tm124e2ztw6iqhdy5/808214256853432626.jpg?rlkey=baujit8x4dn7odmwy5a2362mp",Сезон 1 - 1 серия - Владение | Одержимость 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Possession.S01E01.WEB-DLRip.x264.seleZen.mkv?link=f64e4bd9b0780c5fd5aa88c1792234ea61567bb3&index=1&play

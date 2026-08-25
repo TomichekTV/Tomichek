@@ -442,9 +442,6 @@ http://185.117.152.190:8090/stream/%D0%A5%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/3/2/8385234/768818029438.jpg",Пропала собака 2026-FHD 12+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Io.Non.Ti.Lascio.Solo.1080p.mkv?link=08be2fe44fa22e1d152054bf4b99246c467b11e0&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/4/8/4588846/a8921a922a815a4a9b7c328b7a7ad7c3.jpg",День, когда Земля остановилась 2008-FHD 12+ в AV1 = НЕ для старых ТВ!
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/%D0%94%D0%B5%D0%BD%D1%8C%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%20%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%BB%D0%B0%D1%81%D1%8C%20(Open%20Matte)%20(AI)%20WEB-DLRip-AV1%201080p.mkv?link=cc23c75b05d4c0445327a3d72d8b81d8ed1f2673&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0628/b8/2dfc51b5f3c5ae1b0e261d131782d4b8.jpg",Братик 2026-FHD 16+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Little.Brother.2026.720p.NF.WEB-DL.H264_New-Team_il68k.mkv?link=277a3220615de46cfd266f6e9c88817e5ecab1ea&index=1&play
@@ -454,6 +451,9 @@ http://185.117.152.190:8090/stream/I.Love.Boosters.2026.720p.AMZN.WEB-DL.H264_Ne
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0701/28/d43f492248ba64aacb6f3480731cfe28.jpg",Чужой: Рубикон 2024-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Alien.Rubicon.1080p.WEB-DL.mkv?link=7440c36846c192d651fcdae7e7ccba71ebe30e1e&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/8/5/8386581/309854679006.jpg",Не с первого взгляда 2026-FHD 16+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Perfectly.Imperfect.2026.DUB.WEB-DLRip.x264.seleZen.mkv?link=cc68c030ed265b8e538936f41e1a7c4f677f1c2d&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/8/5/8386581/309854679006.jpg",Не с первого взгляда 2026-FHD 16+ (ВЫСОКИЙ битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Perfectly.Imperfect.1080p.mkv?link=d5e216299bb11fbf3c9261620d790b6dd06c2dfb&index=1&play
@@ -463,6 +463,9 @@ http://185.117.152.190:8090/stream/Tuner.2025.720p.AMZN.WEB-DL.H264_New-Team_il6
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/3/7/8372734/800461579969.jpg",Кодекс Данте 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/In%20the%20Hand%20of%20Dante.2025.DUB.NF.WEB-DLRip.x264.seleZen.mkv?link=fff0abdf500965bd432bad441eaa8888956becf0&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/3/7/8372734/800461579969.jpg",Кодекс Данте 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/In.the.Hand.of.Dante.2025.720p.NF.WEB-DLRip.x264_New-Team_il68k.mkv?link=52c2bd69b164602f85ed90fc3ee56b75b545694c&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/1/8/8374816/995662565614.jpg",Снайперы-43 2023-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Snajpery-43.2023.WEB-DLRip.AVC.Night25.mkv?link=bd22cfca39564666a1e01438a1ab093d23b65016&index=1&play

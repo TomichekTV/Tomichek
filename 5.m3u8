@@ -7,7 +7,24 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-cwe0FVJYWX8bbyTd-L9SdYI_hiplbcg
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_9ZAY0i1Np8TtEVgWtdmqsyPE1i3fMYnpXMGJvI_hhUzRmgTvUTJxPQ0AEgYAm7NgyBiWKBgOAxELxezTu9UagS9olq0Czr0YUdT8-s7nl5vBZvqzrvZYXgZwHcGw54AXlNqVKxvWqzSbGB_kA2BkrgIBlIN3yYGoSWoDk9MUAPbb7RM0Nz6Kk82rTM05hz4FoLa2KVbRCfMWkvqdLpYpU_NPpe8v0bIOskiMyKe3E9qw6UXFD9fSIjgXBQBuKwhlEMCh0J7Egmgti2-inm7GRxF-QYBA8dZK6rgugc3gkfzjIaWg_xM47wihWnEA5eHazsKtEXgUQ3AbfTn9ImMMei1WwNWu8Lcw/659f1d57f8b00/6383dcaf91f4e82fe76dec865275f45505685b40eb6c6e5c2f62ad6900e5dab4/720p/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 1 серия - Пока смерть не разлучит нас 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E01.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 2 серия - Пока смерть не разлучит нас 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E02.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 3 серия - Пока смерть не разлучит нас 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E03.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 4 серия - Пока смерть не разлучит нас 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E04.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=4&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 5 серия - Пока смерть не разлучит нас 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E05.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 6 серия - Пока смерть не разлучит нас 2026-FHD 18+ (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E06.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=6&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/9g4s5spezgah9rxfke4wl/808214256853432639.jpg?rlkey=3utsngkpy53faef1zlukqvc0d",Сезон 1 - 1 серия - Сын 2017-2019 FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Son.S01E01.First.Son.of.Texas.WEBDLRip.720p.Rus.Eng.mkv?link=e4a634a46f060b33ea132506fd7c08780f588b4c&index=1&play
@@ -226,28 +243,6 @@ http://185.117.152.190:8090/stream/Furious.S01E06.WEB-DLRip.x264.seleZen.mkv?lin
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/9/3/15397/948144161784549019.jpg",Сезон 1 - 8 серия - Яростная 2026-FHD 18+ (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
-
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 1 серия - Пока смерть не разлучит нас 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E01.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 2 серия - Пока смерть не разлучит нас 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E02.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=2&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 3 серия - Пока смерть не разлучит нас 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E03.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=3&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 4 серия - Пока смерть не разлучит нас 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E04.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=4&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 5 серия - Пока смерть не разлучит нас 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E05.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=5&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/8/3/15382/161625075809.jpg",Сезон 1 - 6 серия - Пока смерть не разлучит нас 2026-FHD 18+ (финальная)
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Tills.doden.skiljer.oss.S01E06.WEB-DLRip.x264.seleZen.mkv?link=c604e097cdf245ff489effdcde01f45c49897d89&index=6&play
-
-
-
 
 
 

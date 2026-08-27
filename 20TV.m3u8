@@ -14,9 +14,12 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-pl7" tvg-logo="https://i127.fastpic.org/big/2026/0608/1b/777d0bc117a0ac69527465a6624ba11b.png" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Первый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWJpW0p29gVwUEqqnuiCcUs-CbthoHquhCu6Ghy4vH2Cw&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/rmi83n77s3dudb6m04bld/Ru-1.png?rlkey=2pzjqobfyal4wst8elalrhs52&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Россия 1 HD
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-pl7" tvg-logo="https://i127.fastpic.org/big/2026/0608/1b/777d0bc117a0ac69527465a6624ba11b.png" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Первый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+http://dmi3y-tv.online/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/rmi83n77s3dudb6m04bld/Ru-1.png?rlkey=2pzjqobfyal4wst8elalrhs52&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Россия 1 HD (+7)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://live.smotrim.ru/vgtrk/7/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/m5mxkctfud86qbvltnp43/ru-24.png?rlkey=xu3c4honwbxe8mro87d2tirpb&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8

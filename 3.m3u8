@@ -26,7 +26,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_SlKY9yPYN0KI2rjG6Vqc7uXbVsTJSSg
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/9/4/8382498/956705493876.jpg",Вверх по волшебному дереву 2026-FHD 6+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The%20Magic%20Faraway%20Tree.2026.DUB.BDRip.720p.x264.seleZen.mkv?link=fc281a9287fbfc6b3d6c7681d64b91b76f175f69&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/1/4/8384418/958442137281.jpg",Мотор Сити 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Motor%20City.2025.WEB-DLRip.x264.seleZen.mkv?link=990ed27796d14a79550c027baa78df9ab75b77fb&index=1&play

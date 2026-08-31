@@ -23,7 +23,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_f-fwR9a8g9UBalfSF64V2pp1Wuey6mb
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/1/2/8387215/470182930115.jpg",Загадочная женщина 2026-FHD 18+
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Zagadochnaya.zhenshhina.2026.NF.WEB-DLRip.AVC.mkv?link=eaa8a6cd18919c82fd45bddc305bd0006fe631d4&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/p0dvluevbir5tvpedbu4c/808214256853432642.jpg?rlkey=38mvn7ke33do533nzo50is8ek",Агата Кристиан: Игра в убийство 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Agata.Christian.Delitto.sulle.nevi.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=be41ba1a41bad217b3ad29ee162d17f7c2a18d58&index=1&play

@@ -5,24 +5,88 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX185DTxv3o9vfKekWo1ZSyUYxeItHGeGiR
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:СЕРИАЛЫ FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19xQQTENj_oW-KV-l5OzetlcBbBGrzaLd8v55aBb3ZAocjxkllcheSXBWJ5PprbBiho6Qbt-XQZDMVewLTMvaJXtBfgc1dEIDkDMdgHjBiqEKuNofO5DlEn0Qt4uz-k8orlFHdQZMAxZjNV_JjPm7Ln1BbPFsww2rG5XO9EgpUEZ0_lmnT7J2z2JRPBxHjdnS39VAnYo9Hq9hLxCz_xq95RJakYSTYftuO89LNE7AsjQj3XY1Ldy1fEvxuCR1tSd1yS38yC56SGxM27DwJnRqgQHsUw-vNVe0sgl_TffYpW7f_KXlSFYSiG-VY9W2kLYgARh-frHpwFLPy5EsrZ3p3f4mEPqgZBd4M/65a7af84c5530/eb6283514e1572974e7a2cb41b47c3261212f9394bd918d1d941e9f2965f2757/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 1 серия - Фонари 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=3d39722c191389d385a8439bd835c25192f76bf4&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 2 серия - Фонари 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lanterns.S01E02.WEB-DLRip.x264.seleZen.mkv?link=3d39722c191389d385a8439bd835c25192f76bf4&index=2&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 3 серия - Фонари 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lanterns.S01E03.WEB-DLRip.x264.seleZen.mkv?link=3d39722c191389d385a8439bd835c25192f76bf4&index=3&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5boo2f6v0mlb902089lii/808214256853432643.jpg?rlkey=ykz1cxytgv2hsiep7g257x33x",Сезон 1 - 1 серия - Хозяин Москвы 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Hozyain.Moskvy.S01E01.AVC.mkv?link=19f98cf6c1971cf8c4a027e3dab20d7dac900a3f&index=1&play
+
 
 
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 1 серия - ОПГ 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/OPG.S01E01.AVC.mkv?link=0395ee138d0036015880d09c5d60edaa52b8945a&index=1&play
+http://185.117.152.190:8090/stream/OPG.S01E01.AVC.mkv?link=fa6d4a19ac759752fe921a3cf146c83c3f485ecd&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 2 серия - ОПГ 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/OPG.S01E02.AVC.mkv?link=0395ee138d0036015880d09c5d60edaa52b8945a&index=2&play
+http://185.117.152.190:8090/stream/OPG.S01E02.AVC.mkv?link=fa6d4a19ac759752fe921a3cf146c83c3f485ecd&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 3 серия - ОПГ 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/OPG.S01E03.AVC.mkv?link=0395ee138d0036015880d09c5d60edaa52b8945a&index=3&play
+http://185.117.152.190:8090/stream/OPG.S01E03.AVC.mkv?link=fa6d4a19ac759752fe921a3cf146c83c3f485ecd&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 4 серия - ОПГ 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/OPG.S01E04.AVC.mkv?link=0395ee138d0036015880d09c5d60edaa52b8945a&index=4&play
+http://185.117.152.190:8090/stream/OPG.S01E04.AVC.mkv?link=fa6d4a19ac759752fe921a3cf146c83c3f485ecd&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 5 серия - ОПГ 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/OPG.S01E05.AVC.mkv?link=0395ee138d0036015880d09c5d60edaa52b8945a&index=5&play
+http://185.117.152.190:8090/stream/OPG.S01E05.AVC.mkv?link=fa6d4a19ac759752fe921a3cf146c83c3f485ecd&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 6 серия - ОПГ 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/OPG.S01E06.AVC.mkv?link=fa6d4a19ac759752fe921a3cf146c83c3f485ecd&index=6&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 1 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E01.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 2 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E02.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 3 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E03.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 4 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E04.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=4&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 5 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E05.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 6 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E06.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=6&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 7 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E07.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=7&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 8 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E08.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=8&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 9 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E09.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=9&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 10 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E10.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=10&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 11 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E11.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=11&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 12 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E12.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=12&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 13 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E13.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=13&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 14 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E14.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=14&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 15 серия - Пора на завод 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E15.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=15&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/9/4/13492/940741792973.jpg",Сезон 1 - 16 серия - Пора на завод 2026-FHD 16+ (финальная)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%80%D0%B0%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4.S01E16.WEB-DLRip.x264.seleZen.mkv?link=8053d79ebfd1805135acdc423ae5e81218dd5f70&index=16&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/7/4/13479/927806831184.jpg",Сезон 1 - 1 серия - Капитан Туман 2026-FHD 16+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Kapitan.tuman.S01E01.AVC.mkv?link=2c2b0858abb1ddec1993b9841e61ea49260a1502&index=1&play
@@ -298,12 +362,7 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_XMDQ6-fnZMALcrvis0abxqJyC3S6f7F
 
 
 
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 1 серия - Фонари 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=3b487eb2c51765b20452ea540842ea2961c3e687&index=1&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 2 серия - Фонари 2026-FHD 18+
-#EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E02.WEB-DLRip.x264.seleZen.mkv?link=3b487eb2c51765b20452ea540842ea2961c3e687&index=2&play
+
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/kg2ondu0sx94ap1jqdeit/808214256853432634.jpg?rlkey=giepr6lajcemfatmde7yt918f",Сезон 1 - 1 серия - Стеклянный дом 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/The.Glass.House.S01E01.1080p.mkv?link=f8b5e6005bb4d72c12d4cba715a4c020dea98413&index=1&play

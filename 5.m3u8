@@ -16,9 +16,10 @@ http://185.117.152.190:8090/stream/Lanterns.S01E02.WEB-DLRip.x264.seleZen.mkv?li
 http://185.117.152.190:8090/stream/Lanterns.S01E03.WEB-DLRip.x264.seleZen.mkv?link=3d39722c191389d385a8439bd835c25192f76bf4&index=3&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5boo2f6v0mlb902089lii/808214256853432643.jpg?rlkey=ykz1cxytgv2hsiep7g257x33x",Сезон 1 - 1 серия - Хозяин Москвы 2026-FHD 16+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Hozyain.Moskvy.S01E01.AVC.mkv?link=19f98cf6c1971cf8c4a027e3dab20d7dac900a3f&index=1&play
-
-
+http://185.117.152.190:8090/stream/Hozyain.Moskvy.S01E01.AVC.mkv?link=9a4ed311a567bc4040fec9ba49924c6b4a8584b5&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/5boo2f6v0mlb902089lii/808214256853432643.jpg?rlkey=ykz1cxytgv2hsiep7g257x33x",Сезон 1 - 2 серия - Хозяин Москвы 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Hozyain.Moskvy.S01E02.AVC.mkv?link=9a4ed311a567bc4040fec9ba49924c6b4a8584b5&index=2&play
 
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/783480697993.jpg",Сезон 1 - 1 серия - ОПГ 2026-FHD 18+
@@ -5675,57 +5676,72 @@ http://185.117.152.190:8090/stream/Izbrannyi.S01.E19.2025.WEB-DL.1080p.ExKinoRay
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/2/5/4/9452/295873520047.jpg",Сезон 1 - 20 серия - Избранный 2025-FHD (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Izbrannyi.S01.E20.2025.WEB-DL.1080p.ExKinoRay.mkv?link=2edc4c756feed8d1d4fbc41272548fbe4d01490b&index=20&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 1 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 1 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 2 серия - Олдскул 2025-FHD
+http://185.117.152.190:8090/stream/01.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 2 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 3 серия - Олдскул 2025-FHD
+http://185.117.152.190:8090/stream/02.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 3 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 4 серия - Олдскул 2025-FHD
+http://185.117.152.190:8090/stream/03.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 4 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/04.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=4&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 5 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 5 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/05.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=5&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 6 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 6 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/06.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=6&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 7 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 7 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/07.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=7&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 8 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 8 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/08.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=8&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 9 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 9 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/09.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=9&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 10 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 10 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/10.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=10&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 11 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 11 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/11.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=11&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 12 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 12 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/12.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=12&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 13 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 13 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/13.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=13&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 14 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 14 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/14.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=14&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 15 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 15 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/15.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=15&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 16 серия - Олдскул 2025-FHD
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 16 серия - Олдскул 2025-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/16.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=16&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 17 серия - Олдскул 2025-FHD (финальная)
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/802811807525.jpg",Сезон 1 - 17 серия - Олдскул 2025-FHD 18+ (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/17.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=17&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 1 серия - Олдскул 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Oldskul.S02E01.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 2 серия - Олдскул 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Oldskul.S02E02.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 3 серия - Олдскул 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Oldskul.S02E03.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 4 серия - Олдскул 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Oldskul.S02E04.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=4&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 5 серия - Олдскул 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Oldskul.S02E05.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=5&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/gvk34iq857i5znscna1i7/808214256739.jpg?rlkey=1omua11qne59um7ipi3ew7jab",Сезон 1 - 1 серия - Переходный возраст 2025-FHD - LostFilm
 #EXTGRP:СЕРИАЛЫ FHD
 

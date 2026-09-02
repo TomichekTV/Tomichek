@@ -17,7 +17,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18x1zx_9XLLtaQ5vTd3PAmgo6riEtW3Bb
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/r7q2jgk2az8opxnerzwow/808214256853432644.jpg?rlkey=xx53o02njdvd2mqzr3zzkzuph",На грани войны 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_OhCeXzzOsO86AgSp7iLcqr7Jvwy-XvcXTCcUZP3bVWHPUIvvZ5LQgtmSh8CvVyZXWvlHDT8F3L0KfAeZyGVIPh9dD_7_CX2n2SDCmrjGGV8_sBC193gJMAUkLHFvJ8qq-V81K1UKRO-nTleq4AHyCkZPS-QP9cwOHKe46HdnxuEgLT9TxC0-ccQ79cdtjX11AFkwpKS7MoB1wIxUXgjE6nIR6sARn5w6fbvyZWgTU67cYp4SChGxVVh9cO7wlQRb2lNvz_BAiRsZbxJsRQsOp3jU9Y4TwZgD6MMuvuwZ8H0L74Kxa3-_JrYbEokxDMcfb3iq5VsPgRIztPirxhm1vCDwpJfeHQZN7gKOJbsI6IWtoH3X68Uny/65a8a88baa158/aa97c6d02fdff39a28d48ed207bc36bb2d070577fb5b04ed6d5110c9aea02749/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/4/8/8362841/606633255195.jpg",Хитрый койот 2026-FHD 12+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18w2a2BdvWzIgRtAqy1khTxMZCEvfNxys_1ebT0NmVjdbvxnbiLcY-4yOgkX3tZOfMkUMIRvut7lkhFTZgDF-t-3bD4Yp7iOqbX0lwI9ZoHQW-MY5gGeVssY5mahv1gxST0G_Xlo78v4g-Mo08vx-x0JJQ-Z-mq-bYvxNCq526WjpFaY8cFy7BsoFkAa3o379K4t8-fn8zni5x-RZi0Hykxkp6PEammYLZak7z56OKiFyzfhnG1wa8SDod1ba5oje7Z0M-Ugt22ayb3sHWVXa18qLaIoJYoa8FZ2dRZuP0Pd4FuDH52mOAXD9P4AVxSZHRpGZidYz5v4P9bMPeHqFlVuewMH4NpGWQnv3Rp8k0X5Zej6Xmb16S7/65a8a8a8802a0/1ee8a355d69bff67cc71aeeb663b1162d4eee13fab192a4273b13b853f299cda/720p/playlist.m3u8
 
 
 
@@ -26,6 +31,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18x1zx_9XLLtaQ5vTd3PAmgo6riEtW3Bb
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/1/2/8387215/470182930115.jpg",Загадочная женщина 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Zagadochnaya.zhenshhina.2026.NF.WEB-DLRip.AVC.mkv?link=eaa8a6cd18919c82fd45bddc305bd0006fe631d4&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/6/6/8385660/409029261776412588.jpg",Доктор Глас 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Doktor.Glas.2026.1080p.AMZN.WEB-DL.DD5.1.H.264.mkv?link=79cc992d346a0444c7c2168e6ff97e38964a4610&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/p0dvluevbir5tvpedbu4c/808214256853432642.jpg?rlkey=38mvn7ke33do533nzo50is8ek",Агата Кристиан: Игра в убийство 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Agata.Christian.Delitto.sulle.nevi.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=be41ba1a41bad217b3ad29ee162d17f7c2a18d58&index=1&play

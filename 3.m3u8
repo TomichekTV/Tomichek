@@ -30,7 +30,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_F9xTR_2d1RZOWtiXCoibdi2pSz5-x1R
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/4/9/8384946/407783929133.jpg",Пасть 2026-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Past.2026.BDRip.1080p.ELEKTRI4KA.mkv?link=c6447b4cb0c07c454917f19adce083f3d0d4b624&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/1/2/8387215/470182930115.jpg",Загадочная женщина 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Zagadochnaya.zhenshhina.2026.NF.WEB-DLRip.AVC.mkv?link=eaa8a6cd18919c82fd45bddc305bd0006fe631d4&index=1&play

@@ -29,8 +29,6 @@ http://46.8.46.14/kinomix/index.m3u8
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=dxWftdAOjMLkIjPo-DHxjQ&e=2087856907&scheme=https/.index.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0608/ce/6d7a1a5c8d18b0a28e7cfbd3f6849fce.png" group-title="TV-PREMIUM",Первый FHD
 http://levshanov.tlkf.ru/live/view11.php?name_id=1TV_hd&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0608/ce/6d7a1a5c8d18b0a28e7cfbd3f6849fce.png" group-title="TV-PREMIUM",Первый SD
-http://dmi3y-tv.online/hls/DVB-T2/CH_1TV_7.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 FHD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/em22h47vmv4mmf6wlfsfj/russia_1.png?rlkey=ozsznjm7n6237agnfzc636d8x" group-title="TV-PREMIUM",Россия 1 HD

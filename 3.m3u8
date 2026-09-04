@@ -10,6 +10,10 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-jECEXDTu5XmW2oemjQhYsNdDq3stYd1
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-LjDq0BakuedKEP9HCDrZ2P2XvvymaetnGVhaqgozfg91bDYvKi8NGo5_zCl9tVECaxV-e1CigM_TeAt8yUIb0xDI8hQwqCZ7I_gDFSZo6FUsDCI3Rxl8eN_ecZ_AtzT7_UqPozplVcUKml9ZcGNBzqqnIaj1gBjeYMUZSo10xb_N8YoHyGzkfUzxwDQklfsFI4ZiTGxoCZOq03Eogvrzrd0q0SgRwItuJBVlzr9bE_PMS5jQKOm2nHq0pJNbhwbSwfayatwLS6Ejgc-bNiIwNBFEygmh33bYxpZPsD5GDxoGTeGvg3mtmW9ZB3NexmGPf_5uW3MBgBq7dyyTNbPNR7VwPu27-3xw/65aba97402808/71da7d5ed77f0210098fd3aca02ebd9150048dd811e9209b87693bb4b7b75aa5/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/4/3/8385343/269396684127.jpg",Бегущая 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The.Runner.2026.720p.AMZN.WEB-DLRip.x264_New-Team_il68k.mkv?link=c960e1dbfc6be243cf8841ea3cee2c96f0aeb919&index=1&play
+
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/3uz84vod08udyhf1aot4q/808214256853432641.jpg?rlkey=stuagcuv2hzlj5kz135vjyakl",Grand Theft Auto VI: Расширенный игровой показ 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19hhzQJVvxR9_iTvGrimXHfgcFyLzPUMreJohQwoK0pLDMMJ8F1mkbLkIkiJ4geFVi5ssvhfJuIfrkfYOZPhHagk1iboYfIlO2114NUSahGsh96qIvBry8UXt6cXZaIlSJ0V5DBEq-_IhgB3uDft0wM5_MgRhbtsPBZT-GVJsrQv6rjT5TmvFYzjLi-AmwZxO-odtatMDYGZdvN7Jjz_4q2hiuTgOCifeVsJtr4-59YP_mJzkz-K9pvt7FhA2cH61WFYeNeQrOCqZ3_MCJ8CetAh9s7scGajSaIznd3GlWmK1SkkhtPTQ-EyITgdCPTsUi_47kNZEmfx5s4VbQd8XDpgFGSvlZXTBI/65abb2d99eed8/9a5a782b3d259f1ae559215f475ccc1394392132a80e40b414387a4733cb4de1/720p/playlist.m3u8
@@ -309,9 +313,6 @@ http://185.117.152.190:8090/stream/Marave.2026.1080p.WEB-DL.H264.mkv?link=dbd46f
 #EXTINF:0 tvg-logo="https://i128.fastpic.org/big/2026/0713/30/0d274da529a557007a64db42fcdaff30.jpg",Внешняя угроза 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Outer.Threat.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=32436f9b9d146bef8beecc9868ecf01faead1f62&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/2/8/8384821/530399821278.jpg",Ночной бизнес 2026-FHD 18+ (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/The.Get.Out.2026.WEB-DLRip.AVC.TORRNADO.mkv?link=071109c18e608b505bef59ebac0d3de9eaa8b7a3&index=1&play
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0710/8d/63c6c9ac959510266cb45ecf9d3c4a8d.jpg",Крик: возвращение убийцы 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Black.Spines.2026.AMZN.DUB.WEB-DLRip.x264.seleZen.mkv?link=4396fb05f41274c2185a9e2568773617fe7909bd&index=1&play

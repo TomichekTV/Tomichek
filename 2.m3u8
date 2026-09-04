@@ -27,7 +27,7 @@ http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/atjez0ls3surn8r3zzkzi/1.png?rlkey=uwty3xmlu3nt169vrizzm6v4v" group-title="TV-PREMIUM",Кинопремьера HD
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e9rcjac0m53zcupdjadjt/.png?rlkey=smn5qpgzxmmu5d0tgd6kvigff" group-title="TV-PREMIUM",Киномикс HD
-http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0608/ce/6d7a1a5c8d18b0a28e7cfbd3f6849fce.png" group-title="TV-PREMIUM",Первый HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=dxWftdAOjMLkIjPo-DHxjQ&e=2087856907&scheme=https/.index.m3u8
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0608/ce/6d7a1a5c8d18b0a28e7cfbd3f6849fce.png" group-title="TV-PREMIUM",Первый FHD

@@ -10,6 +10,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-3eMYlwFzYcsSH972AnPTh7sODb1pxTG
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19IYDAouOW09kGq_Oq5-bQlaMrOFI61kLc_twRPIpBz4Nd8ukiyg-TATvrN0LWlYL4S6JX6M98PBCZpAjS1aNPwOovzmvppHRNk3J8HtE14aftwIdkuk5NG1Era6zDh1OdPJLdgCjDGLhgoeuju2KeCpIYBmW5YLLfOlZSMgAHSXOo5m6_ResD8_rSaIulwx7fMrZAu39De9fHQFXVUWOw7rpTg3Vi5d1QMwFB9ENZ4kaTiGgD-7c7UB9qw3XRvli9TUQzrKXNCwM8Rqdv78wxp8IzoXfJeBLaDCiApFJyMgESquxbz8qyVJNJ6tfnFvQd_dZZMUcdI0NNW9yJqUIU08Hj-ZWePSiY/65ad75d815f20/117361ef168a4fa94c48107e2b0e8ceac2fba52f2818f4b7611b292938f181e8/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/7/7/4/8385477/395584547545.jpg",Мальчик и лис 2026-FHD 12+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Malchik.i.liss.2026.WEB-DL%201080p.ELEKTRI4KA.mkv?link=11c08a23ea8b6e8cecd59e4d67d2faa5c4d822b9&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/1/1/9/8384911/518146521784193101.jpg",Мэйдэй 2026-FHD 16+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Mayday.2026.720p.ATVP.WEB-DL.H264_New-Team_il68k.mkv?link=affa98ea5ebbe96a62d227b522b8c5c80d183c64&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/4/3/8385343/269396684127.jpg",Бегущая 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Runner.2026.720p.AMZN.WEB-DLRip.x264_New-Team_il68k.mkv?link=c960e1dbfc6be243cf8841ea3cee2c96f0aeb919&index=1&play

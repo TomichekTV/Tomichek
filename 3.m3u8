@@ -10,10 +10,14 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-3eMYlwFzYcsSH972AnPTh7sODb1pxTG
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19IYDAouOW09kGq_Oq5-bQlaMrOFI61kLc_twRPIpBz4Nd8ukiyg-TATvrN0LWlYL4S6JX6M98PBCZpAjS1aNPwOovzmvppHRNk3J8HtE14aftwIdkuk5NG1Era6zDh1OdPJLdgCjDGLhgoeuju2KeCpIYBmW5YLLfOlZSMgAHSXOo5m6_ResD8_rSaIulwx7fMrZAu39De9fHQFXVUWOw7rpTg3Vi5d1QMwFB9ENZ4kaTiGgD-7c7UB9qw3XRvli9TUQzrKXNCwM8Rqdv78wxp8IzoXfJeBLaDCiApFJyMgESquxbz8qyVJNJ6tfnFvQd_dZZMUcdI0NNW9yJqUIU08Hj-ZWePSiY/65ad75d815f20/117361ef168a4fa94c48107e2b0e8ceac2fba52f2818f4b7611b292938f181e8/720p/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/1/1/9/8384911/518146521784193101.jpg",Мэйдэй 2026-FHD 16+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Mayday.2026.720p.ATVP.WEB-DL.H264_New-Team_il68k.mkv?link=affa98ea5ebbe96a62d227b522b8c5c80d183c64&index=1&play
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19ZmXL_mvDvy3TjzTSyqwQrP7J-cOu69rNeyTCpJaHhniIqT6E6OzKT4L_U4RhJEdY52q8PJ42Jc0a-VtF5SgpL5gUdQ0ZEkz5WalJ-7OhDeodIzXc10R2Xa-yLLtfHs9K9FVQI8EvigO4yOS49MirmT4BQSvLmzWrCmjMXmXgmObhLgmEeOGo-6GiphpDKl_i_2U-dvpbeqKfCX8cCCkVpNB-4XFPsywAhsch1_1ly8TUm_SuXjGyrvCEKhdVPFpOkrYJNWn2mvI61ZHzITjLIgQYYngch_OE2-MVC5OwLcBfoeBZHHJVEQFJ3EksD2g5EMZnpyI9rbhdANHxF8r8Zgr9vo_bmOuGAZb3h5d1jUnucKOBMSTDh/65add3402b1c0/118d8878e2256509768986a9d4635b1932fff605a6fca28fc5ab86c546d9734e/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1920x1080/upload/movie_posters/1/1/9/8384911/518146521784193101.jpg",Мэйдэй 2026-FHD 16+ (ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19ZmXL_mvDvy3TjzTSyqwQrP7J-cOu69rNeyTCpJaHhniIqT6E6OzKT4L_U4RhJEdY52q8PJ42Jc0a-VtF5SgpL5gUdQ0ZEkz5WalJ-7OhDeodIzXc10R2Xa-yLLtfHs9K9FVQI8EvigO4yOS49MirmT4BQSvLmzWrCmjMXmXgmObhLgmEeOGo-6GiphpDKl_i_2U-dvpbeqKfCX8cCCkVpNB-4XFPsywAhsch1_1ly8TUm_SuXjGyrvCEKhdVPFpOkrYJNWn2mvI61ZHzITjLIgQYYngch_OE2-MVC5OwLcBfoeBZHHJVEQFJ3EksD2g5EMZnpyI9rbhdANHxF8r8Zgr9vo_bmOuGAZb3h5d1jUnucKOBMSTDh/65add3402b1c0/118d8878e2256509768986a9d4635b1932fff605a6fca28fc5ab86c546d9734e/1080p/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/4/3/8385343/269396684127.jpg",Бегущая 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/The.Runner.2026.720p.AMZN.WEB-DLRip.x264_New-Team_il68k.mkv?link=c960e1dbfc6be243cf8841ea3cee2c96f0aeb919&index=1&play

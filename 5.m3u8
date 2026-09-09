@@ -10,6 +10,19 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_5DBDAxpMNakRiVVEZYhXC1PfWihtcJt
 
 
 
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/6/9/0/13096/390282487761.jpg",Сезон 1 - 1 серия - Почти настоящий детектив 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pochti.nastoyashchiy.detektiv.S01E01.AVC.mkv?link=d3b7503f3a87ef873d1950e51beeed524ea03854&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/6/9/0/13096/390282487761.jpg",Сезон 1 - 2 серия - Почти настоящий детектив 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pochti.nastoyashchiy.detektiv.S01E02.AVC.mkv?link=d3b7503f3a87ef873d1950e51beeed524ea03854&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/6/9/0/13096/390282487761.jpg",Сезон 1 - 3 серия - Почти настоящий детектив 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pochti.nastoyashchiy.detektiv.S01E03.AVC.mkv?link=d3b7503f3a87ef873d1950e51beeed524ea03854&index=3&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/6/9/0/13096/390282487761.jpg",Сезон 1 - 4 серия - Почти настоящий детектив 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Pochti.nastoyashchiy.detektiv.S01E04.AVC.mkv?link=d3b7503f3a87ef873d1950e51beeed524ea03854&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/9/1/4/13419/678434499876.jpg",Сезон 1 - 1 серия - Марик 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Marik.S01E01.AVC.mkv?link=3a49a7eaa908dbbd5a75634f801698fc3869f53d&index=1&play
@@ -5879,31 +5892,25 @@ http://185.117.152.190:8090/stream/16.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0
 http://185.117.152.190:8090/stream/17.%20%D0%9E%D0%BB%D0%B4%D1%81%D0%BA%D1%83%D0%BB.2025.WEB-DL%20720p.Files-x.mkv?link=e544a121ba13c1b5776115631039662541602a14&index=17&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 1 серия - Олдскул 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Oldskul.S02E01.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=1&play
+http://185.117.152.190:8090/stream/Oldskul.S02E01.AVC.mkv?link=da1445db1d6f03a2133dca5f8483a69508892f95&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 2 серия - Олдскул 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Oldskul.S02E02.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=2&play
+http://185.117.152.190:8090/stream/Oldskul.S02E02.AVC.mkv?link=da1445db1d6f03a2133dca5f8483a69508892f95&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 3 серия - Олдскул 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Oldskul.S02E03.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=3&play
+http://185.117.152.190:8090/stream/Oldskul.S02E03.AVC.mkv?link=da1445db1d6f03a2133dca5f8483a69508892f95&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 4 серия - Олдскул 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Oldskul.S02E04.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=4&play
+http://185.117.152.190:8090/stream/Oldskul.S02E04.AVC.mkv?link=da1445db1d6f03a2133dca5f8483a69508892f95&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 5 серия - Олдскул 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Oldskul.S02E05.AVC.mkv?link=3df9aea5915b137194b4b569f8cd3607911e65e0&index=5&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/gvk34iq857i5znscna1i7/808214256739.jpg?rlkey=1omua11qne59um7ipi3ew7jab",Сезон 1 - 1 серия - Переходный возраст 2025-FHD - LostFilm
+http://185.117.152.190:8090/stream/Oldskul.S02E05.AVC.mkv?link=da1445db1d6f03a2133dca5f8483a69508892f95&index=5&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 6 серия - Олдскул 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/gvk34iq857i5znscna1i7/808214256739.jpg?rlkey=1omua11qne59um7ipi3ew7jab",Сезон 1 - 2 серия - Переходный возраст 2025-FHD - LostFilm
+http://185.117.152.190:8090/stream/Oldskul.S02E06.AVC.mkv?link=da1445db1d6f03a2133dca5f8483a69508892f95&index=6&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/6/8/11867/587143726396.jpg",Сезон 2 - 7 серия - Олдскул 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/gvk34iq857i5znscna1i7/808214256739.jpg?rlkey=1omua11qne59um7ipi3ew7jab",Сезон 1 - 3 серия - Переходный возраст 2025-FHD - LostFilm
-#EXTGRP:СЕРИАЛЫ FHD
-
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/gvk34iq857i5znscna1i7/808214256739.jpg?rlkey=1omua11qne59um7ipi3ew7jab",Сезон 1 - 4 серия - Переходный возраст 2025-FHD - LostFilm (финальная серия)
-#EXTGRP:СЕРИАЛЫ FHD
-
+http://185.117.152.190:8090/stream/Oldskul.S02E07.AVC.mkv?link=da1445db1d6f03a2133dca5f8483a69508892f95&index=7&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/0/6/7/11760/315508213088.jpg",Сезон 1 - 1 серия - Баранкины и камни силы 2025-FHD
 #EXTGRP:СЕРИАЛЫ FHD
 

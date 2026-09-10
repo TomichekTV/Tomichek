@@ -1,70 +1,34 @@
 #EXTM3U
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/tp8ukdn49hy4xe5b36995/808214256778.jpg?rlkey=6syn75nzymsgtu1ced67u403z",Первый Форсаж 2001-FHD
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/tp8ukdn49hy4xe5b36995/808214256778.jpg?rlkey=6syn75nzymsgtu1ced67u403z",Первый Форсаж 2001-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4509.karabasstart.com/stream2/b-401/a6c26778c9199c2080fa5a3b34e23a22/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaOtWW6JEaPdVU040RWlmTExGbOREbsplaslWT6VVMORURx00RSxWTEFUP:1811234000:95.128.65.333:072144114b125362f1f2436408319f03192634272ef4381624c3178b3c070c64:ru/720/index.m3u8
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/tp8ukdn49hy4xe5b36995/808214256778.jpg?rlkey=6syn75nzymsgtu1ced67u403z",Первый Форсаж 2001-FHD (средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19-b-e9wwaiSZmEnGH9pF-F3bnxSn7ogTagGqvB40XoVg08t74WEp12cxHUpqqEL9zz34V_e10AJ0oAAqRJK6vtHTsrTGjCaNF3DZc7r_7iMGemRgOz4rzcb3UxMZXie7xtFOKoXY6-v7DexJd-6v5fGqxERJYYwCdyrl-dQyl_PJ4LM8ZK9M1u7VAEgCDXftfrdgBwPgbabXdz77Rv7X8uYv-GRIeXXOgBWH4gNfn0tWAjxMf9kwQuJJvD4AUyzX1meKE2NAJ6Zr3TpRrfWuTcghWGqLbqV7a1tNrNdXTXtQZeg4SWgYp7btlWsGBU2xXVnRuUKLgNHGPSmJsy7HET5tSBgpYE0dU/65b3c793e3020/1dbcf19a871294092d3e65a8a33ed3a4c26c4f0ebf8032007672a4bad4104663/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/8/8/4459883/6fdc19fe4836087dbc80005b931134f2.jpeg",Двойной Форсаж 2003-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/The%20Fast%20and%20the%20Furious%20(2001).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=8&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/8/8/4459883/6fdc19fe4836087dbc80005b931134f2.jpeg",Двойной Форсаж 2003-FHD (средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18c6-znbdTnyPjBEYym48CRHe_Uf5vgiTlnZ49DpIrhBcF2SVRVSqCE1RkuY8JFsbszC5IRPVBmDBxuIZ8e_3yN4VqYEJGOPnpMMIZtUNP65wtDiCQs4NCMwJ_KzPF0SB0RSL0pQ_uUXe1IuapFcNEkY7U6wNm9FYL0GQUyTaKlHfC9UmHDjfZ20ki2ob3ZCldClHazLjJSvfkkI8SEs0RHvpaGyyAb9EOBjZRgSNxRK1iAcJWubxChUKheZfMM_vtGILVjiwtL4fLacUCquVoBsZGVfk-26HHZhKXsAKNaJnf7_-Qzx0j9QvTsaYmZmgs6eMxcMirF4MjT2XM91nhQZnbiSHH7eKs/65b3c794e4168/180c796e4306c68faa6d9837bfccbb48259c2dd7d4e3012dfe64ca9fc99900e7/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/0/6/677603/e6d96768d7e8e2ed5d36a0ce8ee7c918.jpeg",Тройной форсаж: Токийский дрифт 2006-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/2%20Fast%202%20Furious%20(2003).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/0/6/677603/e6d96768d7e8e2ed5d36a0ce8ee7c918.jpeg",Тройной форсаж: Токийский дрифт 2006-FHD (средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18k6_1aHktXauw4eDU4-FmmWV1mL3eKCnDJVlifqm9cA0RhXUoSJLQ9cb3Tv0cxiIh_aKpPj_Eps2_RXKOAxH4hJbbqVOPXj4cm5yiaIch3XX5EMXbXz_zu6t8OOkILV8AFHPl0mHFmu7WB9ThJAC00QE-DsQ1DrGVimpNDicewq0ScsVcO7rSdQ4iYoRqZzGyj24BUmRS3tH7ShNNO7bXmjOcO9iiwewPGuB1XII5B0_QN7x0CvpyTggb-bZAefKnz-9lj_Sh5f_DQ5MCJaKZ7SfEl0re183mcUp-yIvtSZwKNOKA6N1zuTR1bqLZ5p2LGDxmCcvxmI9WLOvtGuUaFr0zwqHTJ0hA/65b3c795e4ec8/08a1a253320d87edac38b39b802183cac347d660b45ba5a6d1baa42d8462af6f/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/1/1/5123119/d6c7b9bf3fccfe0d7aa4aafc1656312a.jpg",Форсаж 4 2009-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/The%20Fast%20and%20the%20Furious-%20Tokyo%20Drift%20(2006).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=9&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/1/1/5123119/d6c7b9bf3fccfe0d7aa4aafc1656312a.jpg",Форсаж 4 2009-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18CMWwZ1g31mfzvptkk1SUicXvROAn0W1IqK7twrxYXfFOsO7KG3SyjRFnZ9WyyQJNA1eSKlepuvR4ztN3USU4u8fH5PjyYeXJhokln9Jo_KYGPU3NH4iOropU9kP3TDp1SYWIkOcL_qDnnCsUcEi2vMFQ6qsIlYgFyhPsJp5W-EHy0HRJxavHjLDwj3vTd934lArjY8RZ1jNq8WaORfQg6qGUZUcNH7liY9xuA5zUUCRWSA82UwIlJYqBC7_T8tw311CibM1kM5JCT2gAw6okFJbsNs2QY7g7S8YPndx-ubC1GoOIssxGMxcu3LHn0-Wl5QuMlQLTvO1RuzVKGZY7L3ukXgvC8Q0M/65b3c797155e0/fa569dfad8839355f7219a6b1c79fe73081cef6fca18dd26060f0ac10206a7e1/720p/playlist.m3u8?tid=4
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/5/0/8027051/a2c2db7e7b715d82bcf29eb7b3d249fa.jpg",Форсаж 5 2011-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn-400/ef328063582c7e749604e6e1468e3e5e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2p1RWxWWy0EMapGZspFRBFjWENWMOdVSy4ERS1WTqRmaNdUVwoVbFhXTHVVP:1811234000:95.128.65.333:6e796f47c99a094ef46ae1b848c0df727f38677f652ae1e52a7c60d7bb555bb7/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/1/1/5123119/d6c7b9bf3fccfe0d7aa4aafc1656312a.jpg",Форсаж 4 2009-FHD (средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1-_AfFn3tCGrYC28buKw7dzkVbqP48VOdBouRnYYZ-facqzWg3H2SoMBDjuHOvErFN3TzXSkXGTrjrurtXIC58IjYddG8eBWCqAA1h5kNHzP3bKqmySYCQ1aPzRv2yd6nUn3K44xY59nr7zL5az57vHjHIq2n5e5ljYWYsGJ2JVI9GjxsEDl8q6OHIMDHjPD49Kwh5diZrGclBboYbctt_PcmFm0jBkMDkVoVaxtWC8Pauk-qNkodr4yXEf_V2Tj9kMkrKjR2IjpAhFOT5jyGsAbJ-TSEBh2cIasCo2Ewkk1R8Bk9exfEy3KnQaefy-5wrCkW4sEQzmf3PIRsGQfe9CvMAU04HuV-8/65b3c79815f58/62578ba4599df63a7e9a04c9af6d92c78fbee8425b1f995169b73b27fb80ecf1/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/9/6/8124698/dce94bb660879d9f6e37f2885a9b8327.jpg",Форсаж 6 2013-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/Fast%20%26%20Furious%204%20(2009).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=3&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/5/0/8027051/a2c2db7e7b715d82bcf29eb7b3d249fa.jpg",Форсаж 5 2011-FHD (средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18R0yBkhCTrBZpbx5ZQbZ76bsO8yIk03OiQCTgEudIHseaOZnp69hTf0lxoO92giz93zHdKIBDsSycCuMBLp8YYx2Z6pDEK-xPSMjScETN5PgoB2OSY2T7q6Pxz80m6Z7tq5RtS3M4h9Pz5Sg54IAXF9Ud08IgllvNrhn0eLg3mhdq2H368LEK8zaXvIBDI5864zarEcyw9iK_m0vIjCX6lC9BWx1lC2DfPdV7H55PdI0QvkVWMBWw76KGm3uZXk9wu1EMZRkCJfKciZsuCYz2thyIkaaNbFBRGfx-76ayeYJN-5yqoYL3oBPS7c06lv1UeM-_5Qu5aUyB1cIaoXBPRZubAFQKiFQY/65b3c79963748/f209ab2aaaaa652590b55548495a071d83d9ad12886b4635d2d17d63800b9481/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/6/1/8155166/c93e59ba3b561c40de58260ec2da929b.jpg",Форсаж 7 2015-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/Fast%20Five%20(2011).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=4&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/9/6/8124698/dce94bb660879d9f6e37f2885a9b8327.jpg",Форсаж 6 2013-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1943T5B2bKDqhDNBQ8Xihg4nL0zco3x9n9J0zJXQkwddLMlhNGWibG99S6bjYlerJbQLCoqfk9QRIWg6ZM6hNzil9C0KBZ-agbVrfnHQOuol7DX_osCCp5Xo5q1KCrhW_gvNjPRsJ5A9650hfxbTAcKGEwdkj-b634Y0kEhI-4xDHicq__md0Zq8--uCK-B2UoVUvM7yDkciSjubGuC6Uy6zTf0y7PWy_nq-clxl_kw7yaJD715dAGsj023n9XeKs_p1QfG1bWgUXsniaqWyMx8lEUgObk1o9xhh6EKbGK8AvM63H93wwDNkLX5m_wnfCSper9y7mSe0uk8Pj52u4VG2q2KbHOLC3I/65b3c79a5b420/07e831fd51ecdc82488a6e9eb50a447a333400c52ebaabbbbd354d241db82660/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/9/8175978/13d5fc1bb29352890bec97f293c99a96.jpeg",Форсаж 8 2017-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn-400/ef328063582c7e749604e6e1468e3e5e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kaFJjWqZlaORkTt9EVNdXWq10MNdUU0olaZpXT6V0dNJTU6lleKxmTEdWP:1811234000:95.128.65.333:0feb9c4e05313bb553b07df644215b71efdc0b274b2caf7233072a09e32e87cb/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/9/6/8124698/dce94bb660879d9f6e37f2885a9b8327.jpg",Форсаж 6 2013-FHD (средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1-Ek__E-L66SVNTDpM7gEYQcmFFD-FC0kz2aBN9nreIin-stW4xQQzW6qlfQMfEHFgwOu6luVg5mi5hiqkhKTG2-tqVldVIVC4oUP7P237xzcojnmhNHUZNqZBwTB9ZjxA71-wtQNgXiMVP-ozPJnIoWkdqdlxV-quwKmAej2R4KUjga0SMvhknpfZ5VZe1-3tr28X_RFRuNM4XlJlRrWi0CqU1yH0ueDMiGc2cR6cRhuuFaxzQGrILvkttGCoFrKtf-Pc0gEizslu5O7NxdOuB5iFXje7qM5BgybQIVgl3Tkpew2a2xBpx2mJzkHjjV54GMya4cWs8u44UMa_VLPnwjzIB_U4t2MI/65b3c79b46da8/51d761005eb0ecd67a8f3b4a67d2b2d081114de1deee48adcf18fa320fd54db8/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/9/5/8354592/8a6a0c032ae9ea3a71d2cbc4a7903338.jpeg",Форсаж: Хоббс и Шоу 2019-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/Furious%206%20(2013).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=6&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/6/1/8155166/c93e59ba3b561c40de58260ec2da929b.jpg",Форсаж 7 2015-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18VGg-VY-74aa9XrufdSoNIRouK40j9qqljSetowUaXWvCgozkmPNRhcy6eI2ezn1QEgxR89omYw0j6bTZRKLbkr4RoBTtSAtl6mZcTyFhk9NFr2ni53b4VQGq8ADsraOS84jOK3kJAy7Gy47_La9jFCx_TViAiv6wmTa-5XxBY9rpj-CFMSELhD38E3cfNS_tiOZvbKu4-lwlVjZLrOenBE8BJ0jVdy8Kbg5qCnYO2c7oKAlQIkbs3ZjHwBPvEQ_PnCh5zspSK2sHNwmtwYJwj78Z-fFEZHJS9sF7WtEjlwrH7C3d3lVoT_esAQghoWo_Tzc5xJ_0tiEhS2saXoeTZYS2ggLIJWEY/65b3c79c2d910/abd48c1a0fe1bb0cb41e3fdc3e66dc58ac1b291809189be97612fa66821b3bcc/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/0/8/8326803/46176aa25db5daef650f8002b76e924b.jpg",Форсаж 9 2021-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn-400/ef328063582c7e749604e6e1468e3e5e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2plaRNjWEFVMNRUVxkVbRh3TXVFeOp2Yw0UbFl3TUp0aZpWWzo1VFBzTEtWP:1811234000:95.128.65.333:e8ec6892e6a77e4dd438a84e2eec22a162137b5ddf7c7b14fda1fb4684278d97/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/6/6/1/8155166/c93e59ba3b561c40de58260ec2da929b.jpg",Форсаж 7 2015-FHD (средний битрейт)
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_bgyTLqhrxJSddQG3pyrGx1QfrlO42s_7H0Qi0JxI0btH2h1HVfGHPSbIszSsMvy_BO4WT5X6mOUNcJJDZ9LBx7qqwOr3cs9PO7lw8mA4b5lFVa5pKUKDFQ5UOEInSZq97BblguqOyfwNdmKtRQ4-ijLRc_E0eqU7hC5DWZZrZFh0mbt3wVAmfsOCHTwFSg_K1h5XLqcuCrBUW0zKqS-khHUafQSFS5a8pE4fa1MowHq9v6VvHm59rmz5KhJOCxHmiguyGCy7QgU214sDYKpP8qw6GpYFaaNHY27-5Iq-DKh40mfe9qDRi6aUpIObpuhsc_FITZpz1wXP0izTsgua0lty-sVgF6ME/65b3c79d6bae8/8b25c59c35fb056f1a6ec3e6701aadb05b52435e255e3266f7cd9b6ccc99d8b3/720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/0/8/8326804/420144764624.jpg",Форсаж 10 2023-FHD 16+ (средний битрейт)
 #EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/Furious%207.%20EC%20(2015).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=7&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/9/8175978/13d5fc1bb29352890bec97f293c99a96.jpeg",Форсаж 8 2017-FHD
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn-400/ef328063582c7e749604e6e1468e3e5e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERZJTWXlUePRlUrllajFzTX1kMOdUSz80RWlmTU5UbNRFZs5UbFVTWUlVP:1811234000:95.128.65.333:d47aaf8bbc7da79cc949c68cb14901239c972be95e27f5026609d67886e506fe/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/7/9/8175978/13d5fc1bb29352890bec97f293c99a96.jpeg",Форсаж 8 2017-FHD (средний битрейт)
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/The%20Fate%20of%20the%20Furious%20(2017).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=10&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/9/5/8354592/8a6a0c032ae9ea3a71d2cbc4a7903338.jpeg",Форсаж: Хоббс и Шоу 2019-FHD
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn-400/ef328063582c7e749604e6e1468e3e5e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21ERslWWtVUeZp3a61ERZVjT6lUMNRkStpFVS1WWXVkMOREZr50RRJTWqNWP:1811234000:95.128.65.333:326c4311415df3e524f2c86d3744142ec51a248c186293855b4b54cf3f04b68f/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/0/8/8326803/46176aa25db5daef650f8002b76e924b.jpg",Форсаж 9 2021-FHD (средний битрейт)
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/F9%20The%20Fast%20Saga%20.%20EC%20(2021).mkv?link=5e9fbf9946eef854770fbee4843ea2901cd27baa&index=2&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/0/8/8326803/46176aa25db5daef650f8002b76e924b.jpg",Форсаж 9 2021-FHD №2
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn-400/fb8ab39c053c6ca6bb2e6bee1ded0938/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25UbJFjTEFkeNpnQqp1VZNjTEl1dOR0a04ERZhXW6ZFaZpWW51kenBTWUtWP:1811234000:95.128.65.333:205c7bb3881f3249e4348225c3ae2e007f49fc88dace3961eb9504ba9aad02be/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/0/8/8326804/420144764624.jpg",Форсаж 10 2023-FHD (средний битрейт)
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://185.117.152.190:8090/stream/10%20-%20%D0%A4%D0%BE%D1%80%D1%81%D0%B0%D0%B6%2010%20(2023).mkv?link=645c3cc30b9f05bd24297c816001fb92b3bc1cde&index=1&play
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/0/8/8326804/420144764624.jpg",Форсаж 10 2023-FHD
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4509.karabasstart.com/stream2/b-401/c20392c9d0208204ba51de044d9e3ac4/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RRhnWURWbO1WR0oFRjFTTHVUeaREZo5kaot2TXZFaZp2aw4ERRlnTUFUP:1811234000:95.128.65.333:8714419e80e867d4a085be7fa7bfe392207b4caf13a15e453dee8d2a96a6b3de/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/8/4/8/8360848/9a196c61212c22b3fc18ca102c31b0b8.jpeg",Форсаж. Диабло 2019-FHD
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn-400/ef328063582c7e749604e6e1468e3e5e/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT210RNpnTyUlMadkRpllMSpmWqtGNZp2Z040ROpWTtZEbOpWW6lFVGh2THVVP:1811234000:95.128.65.333:f1327d123d68cd920debc429770e9b1912ce61df7b7e43a6b20f4efde60ff78f/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/5/0/8178055/6913899b631c9b1247e864546ac32651.jpg",Скандинавский Форсаж 2014-FHD
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn0/0a90a76024d2c536cd959749b501bdf9/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZnTXZVaaRUSx0kaVBTWykENOJjWs10VaxWTURGaOJTWw4kMVpXTHVUNZdVUyoFRVRTTHJVbNpmQrl1VGpmWtlEMORUU31kaKpWTqZVba1mUo1kaNhnTR1TP:1811234000:95.128.65.333:2aeb8e81b7d3cde0a713d856866fbf87f0c2e9b9898538cf6ae8d9b97b83e8cf/720/index.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/0/9/8326905/99d39c7fabf24186ea22371472ab6e1f.jpeg",Скандинавский Форсаж: Гонки на льду 2016-FHD
-#EXTGRP:ФОРСАЖ - ВСЕ ЧАСТИ
-http://cdn4531.karabasstart.com/stream2/cdn0/0a90a76024d2c536cd959749b501bdf9/=wkMxwmWHxGaMJDey0ERFZ3YzIVeadlR0x0MkNDZ5lzMkNzY2llM5UHZHZVdkNUO6RGSKxWWXBjda1GbzJGWNZXWtl1MPRkSs10RRFTW65kaa1WU0oFVNVjTqpFaapWR61keOtmTHZFaNp2YwkVbK1WWt1UMap2Z18EVJlnTUlVMO1WU14EVCx2TEpFaNdVT6llajpXWn1TP:1811234000:95.128.65.333:58bc70985e6b8513bcc2f287b5447ae1d8d232c5b116f9d9d5bc645fb2cd7512/720/index.m3u8
+https://streaming.disk.yandex.net/hls/U2FsdGVkX19C5t46I2WHZZgEkkfP0GS7U6TAOmLqLIbZZOvkezgqYSNCOPU4Xo5LB3NLdscw8RAqnp1dk2j4p5F-NOzh31hXKGhMdzB9tMr9FdbSJiUo8eVk6kCkjX1DocT9pWh15fwuUiLhT9mkxBFTuOPX_LQUi6tNINmUYaMqq4w5VfNSoKnRFMIXxgZ5FrDzsuO0JPQFmH83ntFb3VogZRvI9PeROtb99iZxmCbjOYHn5tcGpTemDHZeowi3lIwZ3EH5gjQ9jyuUNBAoMGTOW9wwgW-wjSTJDF3VLSUSJ3tgLJr6AR5XRi2fw7aILUUrf0mDMfnEQ7ZKksENxPAEFI1ODnamcs2JVnzBEOo/65b3c79e62438/dde614ec6a63b3f1a716f98a577e4e0e3db19556aada96ff5722b9ef0318c431/720p/playlist.m3u8

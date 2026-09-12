@@ -22,7 +22,9 @@ http://185.117.152.190:8090/stream/%D0%9F%D0%B8%D0%BD%D0%BE%D0%BA%D0%BA%D0%B8%D0
 
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/0/6/8384609/132075470868.jpg",Материя времени 2025-FHD 16+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18V_kxm6nbTwOfjoBI_EI6mVnH7NBIdZEKuRO66t5wdHCM1-bj4rxdlGVTkhOU-l_FepEJpx7QiTrN7Ecthbeg0RS74ed2Bfz_DEBfM8L52aoVNNWLnt0CqGQ4XNAf1slRrYicnBxERJ2r-nCCiP93pZXUEp1quBnRPoXpHXQ5isH21hLpKCTROTKfiwnOezK_AYR7pwQ5EaZ4_V9BkZIX_1MDIKET6pkYUxCkSiBlGEA769zT2-iq9JH8rkpuTF5Uugv3gg8kl9H1FNA0P1O6htZ9yTq1RknqhGL_nn-m9iNe5PEvCpQ2xDRgbJnVmXAFvdwi2BPB4XCqfK7BeLicNXFEc213cLfpmzjUipHm3S6PF7hLpTGDe/65b658d215788/c88614bc65e747113b1639dc95da87c6b491a5f0d5f52cb77d0630f6fe3f6e14/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/4/3/8385343/269396684127.jpg",Бегущая 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-eU_iej2NNnKXwtP7mzywC4RuiDoQBnXUjaEU4mCXW74sxbnrRfm-FtRs1PllcG1bJOu_GFVsOF1FiDQ95uCKLfZswFvnkXgjh9hDIlHrvdr2K0I6Cd8RDi96D9xUcjIVWcPUAU3aWMJB17mmXwSMQ77xojN78tv-B1qCCAbiyuxW_J3qqVRNqYR-GaI8HsAGLra7kJ6TP9-CKgyz1kUfO_--KiYBQhdPAkBRWIExEhKEni4oUkiL1VNjus4aBs4CTbLtGjkbpEsaGgZLClnM9o2t_Iawiw8vgyT0rr20zypgh0XOYMcgh4pihvsKLEBjYZx0HKpT08ofI3d13_-kPPu5D23QXgx8/65b61191dd9f0/79df1a4a1370e1e1552dd528da571e6435a21d5dcb531911db0fa6a2f1f2c4f8/720p/playlist.m3u8
@@ -327,9 +329,6 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19OvEnO7DOX9mlqY8vMksQC_pQD3SVmnW
 
 
 
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/0/6/8384609/132075470868.jpg",Материя времени 2025-FHD 16+ (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/Materiya.vremeni.2025.WEB-DL.1080p.ELEKTRI4KA.mkv?link=c1c1da07ea6702bd0de670c3591f6773ef16922a&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/5/8/8367851/797078268493.jpg",Пришелец из будущего 2022-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Le.Visiteur.Du.Futur.2022.DUB.BDRip.720p.x264.seleZen.mkv?link=2619dcbdd5637045dee2ce026a3b91ec6c88d392&index=1&play

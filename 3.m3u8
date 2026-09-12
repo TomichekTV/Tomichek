@@ -28,9 +28,6 @@ http://185.117.152.190:8090/stream/%D0%9F%D0%B8%D0%BD%D0%BE%D0%BA%D0%BA%D0%B8%D0
 
 
 
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/4/3/8385343/269396684127.jpg",Бегущая 2026-FHD 18+ (средний битрейт)
-#EXTGRP:ФИЛЬМЫ HD-FHD
-http://185.117.152.190:8090/stream/The.Runner.2026.720p.AMZN.WEB-DLRip.x264_New-Team_il68k.mkv?link=c960e1dbfc6be243cf8841ea3cee2c96f0aeb919&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/1/5/8/8367851/797078268493.jpg",Пришелец из будущего 2022-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Le.Visiteur.Du.Futur.2022.DUB.BDRip.720p.x264.seleZen.mkv?link=2619dcbdd5637045dee2ce026a3b91ec6c88d392&index=1&play
@@ -48,6 +45,9 @@ http://185.117.152.190:8090/stream/%D0%9F%D0%B0%D1%81%D1%82%D1%8C.2026.DUB.BDRip
 http://185.117.152.190:8090/stream/Zagadochnaya.zhenshhina.2026.NF.WEB-DLRip.AVC.mkv?link=eaa8a6cd18919c82fd45bddc305bd0006fe631d4&index=1&play
 
 
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/3/4/3/8385343/269396684127.jpg",Бегущая 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+https://streaming.disk.yandex.net/hls/U2FsdGVkX18Kj7tp6AYHoBKakWD4oEkoB-l4o5iPGjSqr1qJSlyOVykW9Mplwqywt52FPHdGl7xv6F9NgDxnrawKUhYN64YEReM1DZoxokwIyuhWKKfYp2dL0KiNt9ZNdi4FpPULwwp0xQ1wlRSdpmrBlmpeLj90WyJJirQ6dsYuk9nyUX_vnM5xgDWriQ9CNHoeECEkCZlhodrOolSKgbx0wfrr1q_woMqTDst0bNuw4Vf9x-UFMfx3ToC5_NPc98ZW0z9P2DkwQcAy3l_aQeftjN-ebg15l8E2kGmr3YUM8FS4kYKIpXkQiqTWwiiEgjxsif8EMQGLYsmITi2wA2ruyTi4GLVDMsa_h9asRfa_yVHwBuNj5vqsurjrsGdy/65b5e4bbc25b8/6fbf24ae60380983bfd81c355c7101f3e550c7e336df12643f4a295f30545ef4/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/4/3/0/8385034/308320654338.jpg",Оно приходит снизу 2025-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX18cJE6XRTaDzBZzpQ5p7UXBqGLylnESKzgy1bmUEzECL4Q3jYr2zNKsNSaL2Z96o9a3U0-GmYQz6iORVixDAHNbCeGJe0CfIbBKpZ_I9ocLm4D0L8cWGPiru331tPIqbNxyFtESjSEcpVgRGl_SFaakPPwTAoxXX13nkoTn3yDySukv6-d_TMyX50dzGAwOPlNTYtWCeZ1FjEY-QUlHo1VD3FWPC3KhPZ_yegPg8Ut_ddN4kzN28ahxgHfq4sLgCZGg76E5HQUJaeB7dmI6dZeCK6fCO89sfwSsNJIs8rIWGaPeRp8PMbh5YXo7NiweXG-VbZzf1zLNNuMrR4vZDODpgy4TvYmu04QnDwwC2_Gcxl-XpUChQmly/65b5d98fb8ae0/d1fc328b05eea8ddf350033b73bee55296cdc473e8dab5461c0671bd3050be6d/720p/playlist.m3u8

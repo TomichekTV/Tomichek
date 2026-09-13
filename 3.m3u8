@@ -19,7 +19,9 @@ http://185.117.152.190:8090/stream/%D0%92%D1%81%D0%B5%D0%B3%D0%BE%20%D0%BE%D0%B4
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/5/7/0/8385075/751721431969.jpg",Пиноккио: Раскрепощённый 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/%D0%9F%D0%B8%D0%BD%D0%BE%D0%BA%D0%BA%D0%B8%D0%BE.%D0%A0%D0%B0%D1%81%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9.2026.DUB.BDRip.720p.x264.DoMiNo.mkv?link=144297a99dca46ca3785fb653582e38c9b0131e4&index=1&play
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/x86tk6nyv04rxphf2edfd/808214256853432657.jpg?rlkey=b7u8ve8t8x5wr0kfmtl2u7gtc",Опасное место 2026-FHD 18+ (ВЫСОКИЙ битрейт + сабы)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Hot.Spot.2026.1080p.mkv?link=338372f22c0e9a02415bfd6e6245090c90aafcbc&index=1&play
 
 
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/9/0/6/8384609/132075470868.jpg",Материя времени 2025-FHD 16+ (средний битрейт)

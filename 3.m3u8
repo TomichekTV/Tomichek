@@ -10,7 +10,7 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1-BaX7nFWj6G37aSizj5JJLxUbd2xRIN4
 #EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19OKlDjMmXdL_mbebqi_1BXUnG0GndZ3htPMmyu3JdySmsYW6vlE7aUWBLaPXrtspejRs-vJRGd1V9brzO5uEtWJlnNDCAuixuyuD0fnFyj99Hh37oSyYDNBe-xU-JJESkPsoaMZIeuY7qZQkSGUJTvW_kUPt72j5DbJYBxbu4oYNjTX-veQ7p2mvn2sJ98VF8rFujfRgGIP73DuupZNUJMfOoOAvyoQ0UNy3gJTlJTGlc4i1sNiyNJwuhWzUQOVYv92UMhWpHYdIaUH0aUbR2RIOk4c_IB1z0yD0Yx-fQmlcYH5gCPSdYKUz52hnEywLKcRjH37vdxiJXpATtTG_dLBG4LzX9hIEE/65bb46806d8c0/1e59d588d9880ab37ecb9fb059ff6732611aab6789afddc5f629e3f493d6279a/720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/7/7/4/8379477/352052004352.jpg",Одиссея 2026-FHD 18+ (средний битрейт)
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/movie_posters/7/7/4/8379477/352052004352.jpg",Одиссея 2026-FHD 18+
 #EXTGRP:ФИЛЬМЫ HD-FHD
 https://streaming.disk.yandex.net/hls/U2FsdGVkX19gJ4nfkhsjBalDh38IYhr4-0Xk9kMSfR5oNTAFft3b8W6Tmde3sPcaDaDYSAE1aN5Ihgckywpj0dwFzR8eK-MeSuKURQbosIN9sbXSqdReKye5VSOC98REQXzriqnzvNF7myVLj32yfpGmsVWED6EkHlQMKhXWthlMPx8ybroIzn1vkOMeXJHKR3yOwsZq3mQF3PHXJ5YioXj2cEqzL8oFYr79NS72u5UVI5JNfg9_P4FoFBT6qmTlKRQsh_5iszYHLbHRSbWSwBdn62PB_13ROa98MHuu8QjnJpLF1LHwIVsIoycxVewHGhye2-yNOsdHshdQwgC9N8P3jy9uF1o3s1__yIZKqMQ9HubERkNbdLXoIWrcAgag/65bb5ac6c7488/b2e8e6efea6054b99554601df04f524d2517a394d31645c45d053312ec8da46c/720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/bx2jknkuhro3bnrht5m5z/808214256853432658.jpg?rlkey=v11nmutm2cs96qmfq348122ib",На краю Оук-стрит 2026-FHD 13+ (средний битрейт)
@@ -295,7 +295,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX1_fVWbqgAKBrjeDbd73bI0G6U0W0vBH0o
 
 
 
-
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/77bstxkwtpswloy16qfni/808214256853432659.jpg?rlkey=v6rgbwrwz0smqbgxbv0pl9929",Соперники Амзиа Кинга 2025-FHD 18+ (Blu-Ray | ВЫСОКИЙ битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/The.Rivals.of.Amziah.King.2025.1080p.WEB.H.264.mkv?link=20e02478e1bb1b386b970fd9cca7744785a42244&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/0/6/6/8385660/409029261776412588.jpg",Доктор Глас 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Doktor.Glas.2026.1080p.AMZN.WEB-DL.DD5.1.H.264.mkv?link=79cc992d346a0444c7c2168e6ff97e38964a4610&index=1&play

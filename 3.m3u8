@@ -18,7 +18,9 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19gJ4nfkhsjBalDh38IYhr4-0Xk9kMSfR
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1_c02DW7n28cCJXB8yO_y0PP76QAFsQYfmMDWXQHq2DYpqXCFDP5UB_mA0wDO4dDOUxeUQIXUIdKBXdjrAiUuxoDv-HWunHtiA9RmE0n_9oWyDQGJkR7qVc3S7xikFPRgZ7_Sjewj9P1-UMq0jXhcyi4JIg86OUHkejOlVLlIkQpbEH924Iw03oKkjt1GfDBlqT8Y1Gm2LPvfEM7JXyTwnc0Vg9LmdQ9IXFIKuBBX5YYVsTxKfXy6BQztVlmeP4Ytur03kUn_TkIAFqDFrdh0Fdplk7U6oho8LgJIZYQSAXg9H26ri-whBVGsCnbqotxrmZbEB180i4F79W2TtZcbUl0akRmr3laLk/65bb4668e59f0/aa782e349ded3f7951c9900ae067d39286690677ba5bea9cc76df8a6e750a7b8/720p/playlist.m3u8
 
 
-
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/movie_posters/1080x1920/upload/movie_posters/2/7/4/8378472/726290244033.jpg",Тони 2026-FHD 18+ (средний битрейт)
+#EXTGRP:ФИЛЬМЫ HD-FHD
+http://185.117.152.190:8090/stream/Tony.2026.720p.AMZN.WEB-DL.H264_New-Team_il68k.mkv?link=eac5a4fa4541b3bc45f6e8ff31b0f10ce4dc400a&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/ct5x7tya5rkkla0klothd/808214256853432656.jpg?rlkey=juungy29q0a23s8b667b91mmx",Слоновая кость 2026-FHD 18+ (средний битрейт)
 #EXTGRP:ФИЛЬМЫ HD-FHD
 http://185.117.152.190:8090/stream/Drawn.Together.2026.720p.AMZN.WEB-DL.H264_il68k.mkv?link=3a1cecb78d4df3b84862cd1b1dc7f7469ce49dd4&index=1&play

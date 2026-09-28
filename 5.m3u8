@@ -11,9 +11,12 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19Ed25pTY7xb9HCFu_F9AMdQjcBbNtNwn
 
 
 
-#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/988056680464.jpg",Сезон 1 - 1 серия - Братья 2026-FHD 18+
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/8xurxbv1v1kga9eqnlbqd/808214256853432674.jpg?rlkey=0vseez55w69m8hthhc98r0zge",Сезон 1 - 1 серия - Братья 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Little%20Brother.2026.DUB.WEB-DLRip.x264.seleZen.mkv?link=1bd5e4e53a19a4ee6c48ec63f2b0d10a44269a4d&index=1&play
+http://185.117.152.190:8090/stream/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F.S01E01.WEB-DLRip.x264.seleZen.mkv?link=0311dc575ccec40dd0470965a51d1cd857648764&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/8xurxbv1v1kga9eqnlbqd/808214256853432674.jpg?rlkey=0vseez55w69m8hthhc98r0zge",Сезон 1 - 2 серия - Братья 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F.S01E02.WEB-DLRip.x264.seleZen.mkv?link=0311dc575ccec40dd0470965a51d1cd857648764&index=2&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/358kr276qiggvgggod55x/808214256853432671.jpg?rlkey=i6f3osnqgscqb3wuhwxhdk9qg",Сезон 1 - 1 серия - Последнее дело Холмса 2026-FHD 16+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%B4%D0%B5%D0%BB%D0%BE%20%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D0%B0.S01E01.WEB-DLRip.x264.seleZen.mkv?link=276451f1fb829f2c49b3c5425cd59468c7f97f89&index=1&play
@@ -23,39 +26,39 @@ http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/358kr276qiggvgggod55x/808214256853432671.jpg?rlkey=i6f3osnqgscqb3wuhwxhdk9qg",Сезон 1 - 3 серия - Последнее дело Холмса 2026-FHD 16+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%B4%D0%B5%D0%BB%D0%BE%20%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D0%B0.S01E03.WEB-DLRip.x264.seleZen.mkv?link=276451f1fb829f2c49b3c5425cd59468c7f97f89&index=3&play
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/358kr276qiggvgggod55x/808214256853432671.jpg?rlkey=i6f3osnqgscqb3wuhwxhdk9qg",Сезон 1 - 4 серия - Последнее дело Холмса 2026-FHD 16+
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/358kr276qiggvgggod55x/808214256853432671.jpg?rlkey=i6f3osnqgscqb3wuhwxhdk9qg",Сезон 1 - 4 серия - Последнее дело Холмса 2026-FHD 16+ (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B5%D0%B5%20%D0%B4%D0%B5%D0%BB%D0%BE%20%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D0%B0.S01E04.WEB-DLRip.x264.seleZen.mkv?link=276451f1fb829f2c49b3c5425cd59468c7f97f89&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 1 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E01.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=1&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E01.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=1&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 2 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E02.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=2&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E02.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=2&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 3 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E03.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=3&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E03.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 4 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E04.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=4&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E04.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=4&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 5 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E05.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=5&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E05.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=5&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 6 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E06.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=6&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E06.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=6&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 7 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E07.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=7&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E07.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=7&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 8 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E08.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=8&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E08.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=8&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 9 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E09.WEB-DLRip.x264.seleZen.mkv?link=8753a3ad2117e27919866750982c0b17ae3aa5f1&index=9&play
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E09.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=9&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/538073750859.jpg",Сезон 1 - 10 серия - Стюарт Блум не смог спасти вселенную 2026-FHD 18+ (финальная)
 #EXTGRP:СЕРИАЛЫ FHD
-
+http://185.117.152.190:8090/stream/Stuart%20Fails%20to%20Save%20the%20Universe.S01E10.WEB-DLRip.x264.seleZen.mkv?link=69d304814f6ff6f9a2c09d0e1a93df2c6f12bd5e&index=10&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/181335109169.jpg",Сезон 1 - 1 серия - Законник 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Zakonnik.S01E01.AVC.mkv?link=4ed3f9f8f20b6020582a33e9885e8db478bd7b97&index=1&play
@@ -88,22 +91,25 @@ http://185.117.152.190:8090/stream/Zakonnik.S01E09.AVC.mkv?link=4ed3f9f8f20b6020
 http://185.117.152.190:8090/stream/Zakonnik.S01E10.AVC.mkv?link=4ed3f9f8f20b6020582a33e9885e8db478bd7b97&index=10&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 1 серия - Фонари 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=929dadf62b920b9ce925fe87eca55ceca21640f5&index=1&play
+http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=9f8d49f3f74a5873a54d0cfcca14c1bd01531f64&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 2 серия - Фонари 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E02.WEB-DLRip.x264.seleZen.mkv?link=929dadf62b920b9ce925fe87eca55ceca21640f5&index=2&play
+http://185.117.152.190:8090/stream/Lanterns.S01E02.WEB-DLRip.x264.seleZen.mkv?link=9f8d49f3f74a5873a54d0cfcca14c1bd01531f64&index=2&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 3 серия - Фонари 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E03.WEB-DLRip.x264.seleZen.mkv?link=929dadf62b920b9ce925fe87eca55ceca21640f5&index=3&play
+http://185.117.152.190:8090/stream/Lanterns.S01E03.WEB-DLRip.x264.seleZen.mkv?link=9f8d49f3f74a5873a54d0cfcca14c1bd01531f64&index=3&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 4 серия - Фонари 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E04.WEB-DLRip.x264.seleZen.mkv?link=929dadf62b920b9ce925fe87eca55ceca21640f5&index=4&play
+http://185.117.152.190:8090/stream/Lanterns.S01E04.WEB-DLRip.x264.seleZen.mkv?link=9f8d49f3f74a5873a54d0cfcca14c1bd01531f64&index=4&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 5 серия - Фонари 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E05.WEB-DLRip.x264.seleZen.mkv?link=929dadf62b920b9ce925fe87eca55ceca21640f5&index=5&play
+http://185.117.152.190:8090/stream/Lanterns.S01E05.WEB-DLRip.x264.seleZen.mkv?link=9f8d49f3f74a5873a54d0cfcca14c1bd01531f64&index=5&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 6 серия - Фонари 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
-http://185.117.152.190:8090/stream/Lanterns.S01E06.WEB-DLRip.x264.seleZen.mkv?link=929dadf62b920b9ce925fe87eca55ceca21640f5&index=6&play
+http://185.117.152.190:8090/stream/Lanterns.S01E06.WEB-DLRip.x264.seleZen.mkv?link=9f8d49f3f74a5873a54d0cfcca14c1bd01531f64&index=6&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 7 серия - Фонари 2026-FHD 18+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/Lanterns.S01E07.WEB-DLRip.x264.seleZen.mkv?link=9f8d49f3f74a5873a54d0cfcca14c1bd01531f64&index=7&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/7/8/8/11887/967562700427.jpg",Сезон 1 - 1 серия - Холод 2026-FHD 18+ (средний битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Holod.S01.E01.2026.WEB-DL.720p.ExKinoRay.mkv?link=f3203e8eee582794acc1812ffde7713ef0c00f2f&index=1&play

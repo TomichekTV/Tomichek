@@ -9,6 +9,10 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX19uQO7bvumhNmZV2DIwRIxz6lBerm7L14
 
 
 
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/428844167923.jpg",Сезон 1 - 1 серия - Война 2026-FHD 18+ (ВЫСОКИЙ битрейт)
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/War.2026.S01E01.WEB-DL.1080p.RHS.mkv?link=07f1d5e87bb0522c6864a593e8bac858c5cef2ac&index=1&play
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/axwiaufwbi9fhq4v5rha9/808214256853432624.jpg?rlkey=fqao10gcxgbsu79wgwrsgw5lu",Сезон 1 - 1 серия - Фонари 2026-FHD 18+
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/Lanterns.S01E01.WEB-DLRip.x264.seleZen.mkv?link=fb0ddc5c6a55a92d718a869f360b46bd9e5278ce&index=1&play

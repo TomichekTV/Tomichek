@@ -26,6 +26,17 @@ https://streaming.disk.yandex.net/hls/U2FsdGVkX18ydpj69ege2x-v8sysqs1vh0moyvWj8L
 
 
 
+
+
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/6/9/12964/696681117568.jpg",Сезон 1 - 1 серия - Полдень 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.S01E01.WEB-DLRip.x264.seleZen.mkv?link=b7cebad7662c0500514a4d12d19a4355f0e36170&index=1&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/6/9/12964/696681117568.jpg",Сезон 1 - 2 серия - Полдень 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.S01E02.WEB-DLRip.x264.seleZen.mkv?link=b7cebad7662c0500514a4d12d19a4355f0e36170&index=2&play
+#EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/posters/4/6/9/12964/696681117568.jpg",Сезон 1 - 3 серия - Полдень 2026-FHD 16+
+#EXTGRP:СЕРИАЛЫ FHD
+http://185.117.152.190:8090/stream/%D0%9F%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C.S01E03.WEB-DLRip.x264.seleZen.mkv?link=b7cebad7662c0500514a4d12d19a4355f0e36170&index=3&play
 #EXTINF:0 tvg-logo="https://static.kinoafisha.info/k/series_posters/1080x1920/upload/series/seasons/428844167923.jpg",Сезон 1 - 1 серия - Война 2026-FHD 18+ (ВЫСОКИЙ битрейт)
 #EXTGRP:СЕРИАЛЫ FHD
 http://185.117.152.190:8090/stream/War.2026.S01E01.WEB-DL.1080p.RHS.mkv?link=07f1d5e87bb0522c6864a593e8bac858c5cef2ac&index=1&play

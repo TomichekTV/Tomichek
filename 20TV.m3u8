@@ -14,34 +14,34 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_1TV_7.m3u8
 #EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/trasxjc36jui9h2fl1ihe/gubernia-3.png?rlkey=7jxkiwtymxxzj48f59wvm2cu6&dl=0",Губерния (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy-pl7" tvg-logo="https://i127.fastpic.org/big/2026/0608/1b/777d0bc117a0ac69527465a6624ba11b.png" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Первый канал (+7) (резервный)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://i127.fastpic.org/big/2026/0608/1b/777d0bc117a0ac69527465a6624ba11b.png",Первый канал (+7) (резервный)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://185.221.213.254/live/stream113.php?seg=9xlA-fS6Rgaoabk-0t2EwILVRFc235tUNU9DRXJKAXWJpW0p29gVwUEqqnuiCcUs-CbthoHquhCu6Ghy4vH2Cw&token=T2xlZzIxNTI2OldPUkxELVNPQ0hJ&|User-Agent=1/.index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/rmi83n77s3dudb6m04bld/Ru-1.png?rlkey=2pzjqobfyal4wst8elalrhs52&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Россия 1 HD (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/rmi83n77s3dudb6m04bld/Ru-1.png?rlkey=2pzjqobfyal4wst8elalrhs52&dl=0",Россия 1 HD (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://live.smotrim.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/m5mxkctfud86qbvltnp43/ru-24.png?rlkey=xu3c4honwbxe8mro87d2tirpb&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/m5mxkctfud86qbvltnp43/ru-24.png?rlkey=xu3c4honwbxe8mro87d2tirpb&dl=0",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/3ap7w665gspz0xeobf0mi/ru-ku-tura.png?rlkey=bh0y6x02x3mrl1wpi1k7v1occ&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Россия К (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/3ap7w665gspz0xeobf0mi/ru-ku-tura.png?rlkey=bh0y6x02x3mrl1wpi1k7v1occ&dl=0",Россия К (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://dl.dropbox.com/scl/fi/kuyw3otw54m6holvs9idn/NTV.png?rlkey=g58gl1dlrelownuz2scfhxgyb&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-id="ntv-pl7",НТВ (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/kuyw3otw54m6holvs9idn/NTV.png?rlkey=g58gl1dlrelownuz2scfhxgyb&dl=0",НТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/odm3kef6di0mpfgq7mmgl/TNT.png?rlkey=rqqfw0z9w79s34w840cmyxcxb&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",ТНТ (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/odm3kef6di0mpfgq7mmgl/TNT.png?rlkey=rqqfw0z9w79s34w840cmyxcxb&dl=0",ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/zpzs45bmox2wftgk8r4m8/patnica.png?rlkey=qpf3s17uziqiqav35yb0uri88&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Пятница! (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/zpzs45bmox2wftgk8r4m8/patnica.png?rlkey=qpf3s17uziqiqav35yb0uri88&dl=0",Пятница! (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://dl.dropbox.com/scl/fi/mifmhpt3v38enoxhyados/Che_2.png?rlkey=fmbwvqtsduas8bflla3i1wl0y&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-id="che-pl7",Че! (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/mifmhpt3v38enoxhyados/Che_2.png?rlkey=fmbwvqtsduas8bflla3i1wl0y&dl=0",Че! (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/7i2vb87dkhavm8chvi3h1/5_chanels.png?rlkey=dwp947h722cinnkiz0bawm8w3&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",Пятый канал (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/7i2vb87dkhavm8chvi3h1/5_chanels.png?rlkey=dwp947h722cinnkiz0bawm8w3&dl=0",Пятый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/3bqp1rgccyyu8g83170m6/ren-tv.png?rlkey=qfzrjnepo372x5awmxrm1v02g&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",РЕН ТВ (+7)
+#EXTINF:-1 group-title="ТЕЛЕКАНАЛЫ HD-FHD" tvg-logo="https://dl.dropbox.com/scl/fi/3bqp1rgccyyu8g83170m6/ren-tv.png?rlkey=qfzrjnepo372x5awmxrm1v02g&dl=0",РЕН ТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="sts-pl7" tvg-logo="https://dl.dropbox.com/scl/fi/au8vhrlrz8souh9262k0e/CTC.png?rlkey=yvjt2wi6sd8ji6vfex4v4kuni&dl=0" group-title="ТЕЛЕКАНАЛЫ HD-FHD",СТС (+7)

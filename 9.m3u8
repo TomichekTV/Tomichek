@@ -383,3 +383,6 @@ http://185.117.152.190:8090/stream/The.Dog.Stars.2026.2160p.MA.WEB-DL.DV.HDR.TYM
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/v56ihfm2wxaw6clzuy19a/808214256853432683.jpg?rlkey=s15gkv3g5cnd0upiu9ysjzfn3",Человек-паук: Новый день 2026 18+ в 4K, Dolby Vision, 10-bit (Blu-Ray) - НЕ для старых ТВ!
 #EXTGRP:4K
 http://185.117.152.190:8090/stream/Spider-Man.Brand.New.Day.2026.WEB-DL.2160p.HDR.DV.seleZen.mkv?link=96ca925fe6dc3b2c1a96aa0b33aa12c87dba8b0d&index=1&play
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/v56ihfm2wxaw6clzuy19a/808214256853432683.jpg?rlkey=s15gkv3g5cnd0upiu9ysjzfn3",Человек-паук: Новый день 2026 18+ в 4K, Dolby Vision, 10-bit (80 ГБ) - НЕ для старых ТВ!
+#EXTGRP:4K
+http://185.117.152.190:8090/stream/Spider-Man.Brand.New.Day.2026.IMAX.x265.WEB-DL.2160p.HDR.mkv?link=e4773fb0efd3bc89f8ee7af40ee9286863557ac6&index=1&play

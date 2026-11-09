@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/296ao58ew749e6axd3wsz/update_warning.png?rlkey=aa36zt0rr2p4jl2j70y4m0qxu" group-title="ТЕЛЕКАНАЛЫ HD-FHD",НЕОБХОДИМО ОБНОВИТЬ TOMICHEK TV ДО ВЕРСИИ ver.9.9.9
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/296ao58ew749e6axd3wsz/update_warning.png?rlkey=aa36zt0rr2p4jl2j70y4m0qxu" group-title="ТЕЛЕКАНАЛЫ HD-FHD",НЕОБХОДИМО ОБНОВИТЬ TOMICHEK TV ДО ВЕРСИИ ver.9.9.9
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7&.mp4
 #EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0608/4e/2a2761775f5e45787b7841ab0154fd4e.png" group-title="ТЕЛЕКАНАЛЫ HD-FHD",НАПИСАТЬ РАЗРАБОТЧИКУ В What`s App
 https://dl.dropbox.com/scl/fi/kbqr03mvoqdfqxn72pd08/Video_feedback.mp4?rlkey=serss7ckt4ev1vdu4c2guxxz7&.mp4
-#EXTINF:0 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png"group-title="ТЕЛЕКАНАЛЫ HD-FHD",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
+#EXTINF:-1 tvg-logo="https://i127.fastpic.org/big/2026/0608/69/64e8400ade2f3b5fe72aab70e70c6569.png"group-title="ТЕЛЕКАНАЛЫ HD-FHD",НАПИСАТЬ РАЗРАБОТЧИКУ В MAX!
 https://dl.dropbox.com/scl/fi/1apml0zgciljzl6dp59ux/Feedback_2026.mp4?rlkey=pvbl255ntekftakhqxgpaafhn&.mp4
 
 
